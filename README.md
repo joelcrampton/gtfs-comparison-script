@@ -1,0 +1,16 @@
+# GTFS Comparison Script
+This is a Python script that compares two GTFS datasets and produces a report. The following GTFS files are required; `agency.txt`, `stops.txt`, `routes.txt`, `trips.txt`, `stop_times.txt`, `calendar.txt`, `calendar_dates.txt`, `shapes.txt` and `feed_info.txt`. Documentation can be found at https://gtfs.org/documentation/schedule/reference/. Example data for Boston (MBTA) is included in `data/boston/` from https://cdn.mbta.com/archive/archived_feeds.txt. An example report can be found at `output/boston.md`
+
+## :desktop_computer: Requirements
+- Python 3.12.0 or later
+- `pip install email_validator pandas`
+
+## :arrow_forward: Run
+1. Clone the repository `git clone https://github.com/joelcrampton/gtfs-comparison-script.git`
+1. Open a new terminal at `gtfs-comparison-script/`
+2. Copy a directory containing two GTFS datasets into `data/`. Name this directory after the region it is for
+3. `python app.py region --info`
+    - `region` = the name of the directory containing the GTFS data e.g. `boston`
+    - `--info` = include a table of new/removed trips for each route in the report (optional)
+4. The script will take approximately 5 minutes to complete depending on the size of the GTFS data
+5. A report named `region.md` will be created in `output/`. Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs
