@@ -1,5 +1,5 @@
 # GTFS Comparison Script
-This is a Python script that compares two GTFS datasets and produces a report. The following GTFS files are required; `agency.txt`, `stops.txt`, `routes.txt`, `trips.txt`, `stop_times.txt`, `calendar.txt`, `calendar_dates.txt`, `shapes.txt` and `feed_info.txt`. Documentation can be found at https://gtfs.org/documentation/schedule/reference/. Example data for Boston (MBTA) is included in `data/boston/` from https://cdn.mbta.com/archive/archived_feeds.txt. An example report can be found at `output/boston.md`
+This is a Python script that compares two GTFS datasets and produces a report. The following GTFS files are required; `agency.txt`, `stops.txt`, `routes.txt`, `trips.txt`, `stop_times.txt`, `calendar.txt`, `calendar_dates.txt`, `shapes.txt` and `feed_info.txt`. Documentation can be found at https://gtfs.org/documentation/schedule/reference/. Example data for :four_leaf_clover: Boston (MBTA) is included in `data/boston/` from https://cdn.mbta.com/archive/archived_feeds.txt. An example report can be found at `output/boston.md`
 
 ## :desktop_computer: Requirements
 - Python 3.12.0 or later
