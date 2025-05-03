@@ -1,14 +1,15 @@
+import pandas as pd
 import sys
+import warnings
 from collections import Counter
 from datetime import datetime
 from pathlib import Path
-import warnings
 from gtfs import Gtfs, load
 from trip import Trip
 from enums import Day, Emoji
 from utils import find_time_diff, format_timedelta
 
-warnings.simplefilter("ignore", category=UserWarning) # Suppress DtypeWarnings from pandas
+warnings.simplefilter("ignore", category=pd.errors.DtypeWarning) # Suppress DtypeWarnings from pandas
 
 DATA = sys.argv[1]
 INFO = False
@@ -116,7 +117,7 @@ def main():
           for day in sorted(days_count.keys(), key=lambda day: day.value):
             print(f'\t- {days_count[day]} on {day.name.title()}', file=file)
         else:
-          trips_emoji = Emoji.ARROW_UP.value if len(trips_before) > len(trips_after) else Emoji.ARROW_DOWN.value
+          trips_emoji = Emoji.ARROW_UP.value if len(trips_before) < len(trips_after) else Emoji.ARROW_DOWN.value
           trips_value = abs(len(trips_before) - len(trips_after))
           
           x = before.get_average_duration(trips_before.values())
