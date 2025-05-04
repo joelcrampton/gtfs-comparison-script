@@ -1,9 +1,11 @@
+import os
 import pandas as pd
+import shutil
 import sys
 import warnings
+import zipfile
 from collections import Counter
 from datetime import datetime
-from pathlib import Path
 from gtfs import Gtfs, load
 from trip import Trip
 from enums import Day, Emoji
@@ -19,19 +21,26 @@ if len(sys.argv) > 2:
 
 def load_data() -> tuple[Gtfs, Gtfs]:
   datasets = []
-  path = Path(f'data/{DATA}')
-  for dir in path.iterdir():
-    if dir.is_dir():
-      data = load(dir)
-      datasets.append(data)
+  dir = os.path.join('data', DATA)
+  for filename in os.listdir(dir):
+    filepath = os.path.join(dir, filename)
+    if filename.endswith('.zip'):
+        basename = os.path.splitext(filename)[0]
+        extract_dir = os.path.join(dir, basename)
+        os.makedirs(extract_dir, exist_ok=True)
+        with zipfile.ZipFile(filepath, 'r') as zip_ref:
+            zip_ref.extractall(extract_dir)
+        gtfs = load(extract_dir)
+        datasets.append(gtfs)
+        shutil.rmtree(extract_dir)
   
   before = datasets[0]
   after = datasets[0]
-  for data in datasets:
-    if data.feed_info.feed_start_date < before.feed_info.feed_start_date:
-      before = data
-    if data.feed_info.feed_start_date > after.feed_info.feed_start_date:
-      after = data
+  for gtfs in datasets:
+    if gtfs.feed_info.feed_start_date < before.feed_info.feed_start_date:
+      before = gtfs
+    if gtfs.feed_info.feed_start_date > after.feed_info.feed_start_date:
+      after = gtfs
   return before, after
 
 def join_days(days: list[Day]) -> str:
