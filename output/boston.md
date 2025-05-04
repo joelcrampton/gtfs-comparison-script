@@ -1,7 +1,7 @@
 # MBTA 2025-04-17 vs. MBTA 2025-04-22
 ## :bus: 1 | Harvard Square - Nubian Station
-- Trip numbers :arrow_down: 353 from 1290 :arrow_right: 937
-- Average duration :arrow_up: 0:00:04 overall from 0:36:48 :arrow_right: 0:36:53
+- Trip numbers :arrow_down: 353 from 1290 to 937
+- Average duration :arrow_up: 0:00:05 overall from 0:36:48 to 0:36:53
 - :white_check_mark: No new trips
 - :x: 353 trips removed with an average duration of 0:36:36
 ### :x: Removed trips
@@ -361,8 +361,8 @@
 |352|68396518|Nubian|09:26:00|0:32:00|—|
 |353|68396553|Nubian|20:02:00|0:35:00|—|
 ## :bus: 7 | City Point - Otis Street & Summer Street
-- Trip numbers :arrow_down: 85 from 405 :arrow_right: 320
-- Average duration :arrow_up: 0:00:42 overall from 0:17:27 :arrow_right: 0:18:10
+- Trip numbers :arrow_down: 85 from 405 to 320
+- Average duration :arrow_up: 0:00:43 overall from 0:17:27 to 0:18:10
 - :white_check_mark: No new trips
 - :x: 85 trips removed with an average duration of 0:14:47
 ### :x: Removed trips
@@ -454,8 +454,8 @@
 |84|68394890|Otis & Summer|17:10:00|0:17:00|—|
 |85|68394891|Otis & Summer|17:25:00|0:17:00|—|
 ## :bus: 8 | Harbor Point - Kenmore Station
-- Trip numbers :arrow_down: 58 from 356 :arrow_right: 298
-- Average duration :arrow_up: 0:01:28 overall from 0:49:30 :arrow_right: 0:50:59
+- Trip numbers :arrow_down: 58 from 356 to 298
+- Average duration :arrow_up: 0:01:29 overall from 0:49:30 to 0:50:59
 - :white_check_mark: No new trips
 - :x: 58 trips removed with an average duration of 0:41:55
 ### :x: Removed trips
@@ -520,8 +520,8 @@
 |57|68395004|Kenmore via South Bay Center|21:05:00|0:42:00|—|
 |58|68395005|Kenmore via South Bay Center|21:55:00|0:42:00|—|
 ## :bus: 9 | City Point - Copley Square
-- Trip numbers :arrow_down: 102 from 694 :arrow_right: 592
-- Average duration :arrow_up: 0:00:52 overall from 0:28:11 :arrow_right: 0:29:04
+- Trip numbers :arrow_down: 102 from 694 to 592
+- Average duration :arrow_up: 0:00:53 overall from 0:28:11 to 0:29:04
 - :white_check_mark: No new trips
 - :x: 102 trips removed with an average duration of 0:23:05
 ### :x: Removed trips
@@ -630,8 +630,8 @@
 |101|68395242|City Point|21:30:00|0:20:00|—|
 |102|68395243|City Point|21:56:00|0:20:00|—|
 ## :bus: 10 | City Point - Copley Square
-- Trip numbers :arrow_down: 63 from 387 :arrow_right: 324
-- Average duration :arrow_up: 0:00:35 overall from 0:36:06 :arrow_right: 0:36:41
+- Trip numbers :arrow_down: 63 from 387 to 324
+- Average duration :arrow_up: 0:00:35 overall from 0:36:06 to 0:36:41
 - :white_check_mark: No new trips
 - :x: 63 trips removed with an average duration of 0:33:06
 ### :x: Removed trips
@@ -701,8 +701,8 @@
 |62|68395081|City Point via South Bay Center|21:25:00|0:28:00|—|
 |63|68395082|City Point via South Bay Center|22:15:00|0:28:00|—|
 ## :bus: 11 | City Point - Chauncy Street & Summer Street
-- Trip numbers :arrow_down: 66 from 392 :arrow_right: 326
-- Average duration :arrow_up: 0:00:38 overall from 0:26:43 :arrow_right: 0:27:22
+- Trip numbers :arrow_down: 66 from 392 to 326
+- Average duration :arrow_up: 0:00:39 overall from 0:26:43 to 0:27:22
 - :white_check_mark: No new trips
 - :x: 66 trips removed with an average duration of 0:23:30
 ### :x: Removed trips
@@ -775,8 +775,8 @@
 |65|68394201|City Point|08:52:00|0:19:00|—|
 |66|68394202|Chauncy & Summer|08:20:00|0:27:00|—|
 ## :bus: 14 | Roslindale Square - Heath Street
-- Trip numbers :arrow_down: 26 from 122 :arrow_right: 96
-- Average duration :arrow_up: 0:01:05 overall from 0:50:00 :arrow_right: 0:51:05
+- Trip numbers :arrow_down: 26 from 122 to 96
+- Average duration :arrow_up: 0:01:05 overall from 0:50:00 to 0:51:05
 - :white_check_mark: No new trips
 - :x: 26 trips removed with an average duration of 0:45:57
 ### :x: Removed trips
@@ -809,8 +809,8 @@
 |25|68713533|Roslindale Square|10:42:00|0:50:00|—|
 |26|68713535|Heath St|09:46:00|0:46:00|—|
 ## :bus: 15 | Fields Corner Station or St Peter's Square - Ruggles Station
-- Trip numbers :arrow_down: 164 from 986 :arrow_right: 822
-- Average duration :arrow_down: 0:00:12 overall from 0:27:00 :arrow_right: 0:26:47
+- Trip numbers :arrow_down: 164 from 986 to 822
+- Average duration :arrow_down: 0:00:13 overall from 0:27:00 to 0:26:47
 - :white_check_mark: No new trips
 - :x: 164 trips removed with an average duration of 0:28:04
 ### :x: Removed trips
@@ -981,8 +981,8 @@
 |163|68394453|Fields Corner|13:29:00|0:34:00|—|
 |164|68394454|Fields Corner|13:43:00|0:34:00|—|
 ## :bus: 16 | Forest Hills Station - Andrew Station or Harbor Point
-- Trip numbers :arrow_down: 102 from 740 :arrow_right: 638
-- Average duration :arrow_up: 0:00:01 overall from 0:32:31 :arrow_right: 0:32:32
+- Trip numbers :arrow_down: 102 from 740 to 638
+- Average duration :arrow_up: 0:00:01 overall from 0:32:31 to 0:32:32
 - :white_check_mark: No new trips
 - :x: 102 trips removed with an average duration of 0:32:21
 ### :x: Removed trips
@@ -1091,8 +1091,8 @@
 |101|68394221|McCormack via South Bay Center|15:05:00|0:32:00|—|
 |102|68394741|Forest Hills via South Bay Center|07:10:00|0:27:00|—|
 ## :bus: 17 | Fields Corner Station - Andrew Station
-- Trip numbers :arrow_down: 77 from 380 :arrow_right: 303
-- Average duration :arrow_up: 0:00:18 overall from 0:18:41 :arrow_right: 0:19:00
+- Trip numbers :arrow_down: 77 from 380 to 303
+- Average duration :arrow_up: 0:00:19 overall from 0:18:41 to 0:19:00
 - :white_check_mark: No new trips
 - :x: 77 trips removed with an average duration of 0:17:27
 ### :x: Removed trips
@@ -1176,8 +1176,8 @@
 |76|68393609|Andrew|18:45:00|0:19:00|—|
 |77|68393610|Andrew|19:10:00|0:18:00|—|
 ## :bus: 18 | Ashmont Station - Andrew Station
-- Trip numbers :arrow_down: 16 from 68 :arrow_right: 52
-- Average duration :arrow_up: 0:00:13 overall from 0:31:26 :arrow_right: 0:31:40
+- Trip numbers :arrow_down: 16 from 68 to 52
+- Average duration :arrow_up: 0:00:14 overall from 0:31:26 to 0:31:40
 - :white_check_mark: No new trips
 - :x: 16 trips removed with an average duration of 0:30:41
 ### :x: Removed trips
@@ -1200,8 +1200,8 @@
 |15|68394832|Ashmont|18:00:00|0:29:00|—|
 |16|68394833|Andrew|18:31:00|0:31:00|—|
 ## :bus: 21 | Ashmont Station - Forest Hills Station
-- Trip numbers :arrow_down: 67 from 546 :arrow_right: 479
-- Average duration :arrow_up: 0:00:05 overall from 0:17:01 :arrow_right: 0:17:07
+- Trip numbers :arrow_down: 67 from 546 to 479
+- Average duration :arrow_up: 0:00:06 overall from 0:17:01 to 0:17:07
 - :white_check_mark: No new trips
 - :x: 67 trips removed with an average duration of 0:16:20
 ### :x: Removed trips
@@ -1275,8 +1275,8 @@
 |66|68713285|Forest Hills|17:00:00|0:17:00|—|
 |67|68713286|Forest Hills|17:25:00|0:17:00|—|
 ## :bus: 22 | Ashmont Station - Ruggles Station via Talbot Ave
-- Trip numbers :arrow_down: 155 from 946 :arrow_right: 791
-- Average duration :arrow_up: 0:00:34 overall from 0:32:45 :arrow_right: 0:33:20
+- Trip numbers :arrow_down: 155 from 946 to 791
+- Average duration :arrow_up: 0:00:35 overall from 0:32:45 to 0:33:20
 - :white_check_mark: No new trips
 - :x: 155 trips removed with an average duration of 0:29:50
 ### :x: Removed trips
@@ -1438,8 +1438,8 @@
 |154|68394549|Ashmont|16:33:00|0:29:00|—|
 |155|68394550|Ashmont|16:47:00|0:29:00|—|
 ## :bus: 23 | Ashmont Station - Ruggles Station via Washington Street
-- Trip numbers :arrow_down: 186 from 1114 :arrow_right: 928
-- Average duration :arrow_up: 0:00:30 overall from 0:33:46 :arrow_right: 0:34:16
+- Trip numbers :arrow_down: 186 from 1114 to 928
+- Average duration :arrow_up: 0:00:30 overall from 0:33:46 to 0:34:16
 - :white_check_mark: No new trips
 - :x: 186 trips removed with an average duration of 0:31:16
 ### :x: Removed trips
@@ -1632,8 +1632,8 @@
 |185|68394626|Ashmont|14:45:00|0:38:00|—|
 |186|68394628|Ashmont|14:58:00|0:38:00|—|
 ## :bus: 24 | Wakefield Avenue & Truman Parkway - Ashmont Station
-- Trip numbers :arrow_down: 54 from 290 :arrow_right: 236
-- Average duration :arrow_up: 0:00:36 overall from 0:28:10 :arrow_right: 0:28:47
+- Trip numbers :arrow_down: 54 from 290 to 236
+- Average duration :arrow_up: 0:00:37 overall from 0:28:10 to 0:28:47
 - :white_check_mark: No new trips
 - :x: 54 trips removed with an average duration of 0:25:32
 ### :x: Removed trips
@@ -1694,8 +1694,8 @@
 |53|68712728|Ashmont|00:33:00|0:16:00|—|
 |54|68712729|Wakefield Ave|01:04:00|0:25:00|—|
 ## :bus: 26 | Ashmont Station - Norfolk Street Loop
-- Trip numbers :arrow_down: 76 from 346 :arrow_right: 270
-- Average duration :arrow_up: 0:00:00 overall from 0:10:08 :arrow_right: 0:10:09
+- Trip numbers :arrow_down: 76 from 346 to 270
+- Average duration :arrow_up: 0:00:01 overall from 0:10:08 to 0:10:09
 - :white_check_mark: No new trips
 - :x: 76 trips removed with an average duration of 0:10:06
 ### :x: Removed trips
@@ -1778,8 +1778,8 @@
 |75|68713391|Ashmont via Washington St|21:47:00|0:09:00|—|
 |76|68713392|Gallivan Blvd via Norfolk St|22:20:00|0:10:00|—|
 ## :bus: 28 | Mattapan Station - Ruggles Station
-- Trip numbers :arrow_down: 189 from 1090 :arrow_right: 901
-- Average duration :arrow_up: 0:00:14 overall from 0:40:40 :arrow_right: 0:40:54
+- Trip numbers :arrow_down: 189 from 1090 to 901
+- Average duration :arrow_up: 0:00:14 overall from 0:40:40 to 0:40:54
 - :white_check_mark: No new trips
 - :x: 189 trips removed with an average duration of 0:39:33
 ### :x: Removed trips
@@ -1975,8 +1975,8 @@
 |188|68394392|Nubian|03:20:00|0:13:00|—|
 |189|68394394|Nubian|03:59:00|0:13:00|—|
 ## :bus: 29 | Mattapan Station - Jackson Square Station
-- Trip numbers :arrow_down: 11 from 110 :arrow_right: 99
-- Average duration :arrow_up: 0:00:53 overall from 0:29:10 :arrow_right: 0:30:04
+- Trip numbers :arrow_down: 11 from 110 to 99
+- Average duration :arrow_up: 0:00:54 overall from 0:29:10 to 0:30:04
 - :white_check_mark: No new trips
 - :x: 11 trips removed with an average duration of 0:21:05
 ### :x: Removed trips
@@ -1994,8 +1994,8 @@
 |10|68713537|Jackson Square|21:40:00|0:23:00|—|
 |11|68713541|Mattapan|22:07:00|0:21:00|—|
 ## :bus: 30 | Mattapan Station - Forest Hills Station via Cummins Highway and Roslindale Square
-- Trip numbers :arrow_down: 47 from 328 :arrow_right: 281
-- Average duration :arrow_up: 0:00:17 overall from 0:19:22 :arrow_right: 0:19:40
+- Trip numbers :arrow_down: 47 from 328 to 281
+- Average duration :arrow_up: 0:00:18 overall from 0:19:22 to 0:19:40
 - :white_check_mark: No new trips
 - :x: 47 trips removed with an average duration of 0:17:35
 ### :x: Removed trips
@@ -2049,8 +2049,8 @@
 |46|68713100|Forest Hills|18:15:00|0:15:00|—|
 |47|68713102|Mattapan|17:50:00|0:21:00|—|
 ## :bus: 31 | Mattapan Station - Forest Hills Station via Morton Street
-- Trip numbers :arrow_down: 143 from 940 :arrow_right: 797
-- Average duration :arrow_down: 0:00:03 overall from 0:14:42 :arrow_right: 0:14:39
+- Trip numbers :arrow_down: 143 from 940 to 797
+- Average duration :arrow_down: 0:00:03 overall from 0:14:42 to 0:14:39
 - :white_check_mark: No new trips
 - :x: 143 trips removed with an average duration of 0:15:01
 ### :x: Removed trips
@@ -2200,8 +2200,8 @@
 |142|68713369|Mattapan|14:09:00|0:20:00|—|
 |143|68713370|Mattapan|14:25:00|0:20:00|—|
 ## :bus: 32 | Wolcott or Cleary Square - Forest Hills Station
-- Trip numbers :arrow_down: 203 from 1395 :arrow_right: 1192
-- Average duration :arrow_up: 0:00:09 overall from 0:19:17 :arrow_right: 0:19:27
+- Trip numbers :arrow_down: 203 from 1395 to 1192
+- Average duration :arrow_up: 0:00:10 overall from 0:19:17 to 0:19:27
 - :white_check_mark: No new trips
 - :x: 203 trips removed with an average duration of 0:18:20
 ### :x: Removed trips
@@ -2411,8 +2411,8 @@
 |202|68713247|Forest Hills|17:51:00|0:18:00|—|
 |203|68713248|Forest Hills|17:17:00|0:18:00|—|
 ## :bus: 33 | River Street & Milton Street - Mattapan Station
-- Trip numbers :arrow_down: 28 from 148 :arrow_right: 120
-- Average duration :arrow_down: 0:00:17 overall from 0:21:43 :arrow_right: 0:21:26
+- Trip numbers :arrow_down: 28 from 148 to 120
+- Average duration :arrow_down: 0:00:17 overall from 0:21:43 to 0:21:26
 - :white_check_mark: No new trips
 - :x: 28 trips removed with an average duration of 0:23:00
 ### :x: Removed trips
@@ -2447,8 +2447,8 @@
 |27|68713085|River & Milton via Cleary Square|06:20:00|0:17:00|—|
 |28|68713543|Mattapan|06:45:00|0:22:00|—|
 ## :bus: 34 | Dedham Square - Forest Hills Station
-- Trip numbers :arrow_down: 78 from 496 :arrow_right: 418
-- Average duration :arrow_down: 0:00:08 overall from 0:21:16 :arrow_right: 0:21:07
+- Trip numbers :arrow_down: 78 from 496 to 418
+- Average duration :arrow_down: 0:00:09 overall from 0:21:16 to 0:21:07
 - :white_check_mark: No new trips
 - :x: 78 trips removed with an average duration of 0:22:03
 ### :x: Removed trips
@@ -2533,8 +2533,8 @@
 |77|68713469|Dedham Mall|22:25:00|0:21:00|—|
 |78|68713540|Dedham Mall|11:52:00|0:27:00|—|
 ## :bus: 34E | Walpole Center - Forest Hills Station
-- Trip numbers :arrow_down: 64 from 400 :arrow_right: 336
-- Average duration :arrow_down: 0:00:08 overall from 0:46:19 :arrow_right: 0:46:10
+- Trip numbers :arrow_down: 64 from 400 to 336
+- Average duration :arrow_down: 0:00:09 overall from 0:46:19 to 0:46:10
 - :white_check_mark: No new trips
 - :x: 64 trips removed with an average duration of 0:47:05
 ### :x: Removed trips
@@ -2605,8 +2605,8 @@
 |63|68713532|Forest Hills|08:22:00|0:45:00|—|
 |64|68713539|Walpole Center via Washington St|12:05:00|0:56:00|—|
 ## :bus: 35 | Dedham Mall or Stimson Street - Forest Hills Station
-- Trip numbers :arrow_down: 52 from 306 :arrow_right: 254
-- Average duration :arrow_down: 0:00:19 overall from 0:26:39 :arrow_right: 0:26:20
+- Trip numbers :arrow_down: 52 from 306 to 254
+- Average duration :arrow_down: 0:00:19 overall from 0:26:39 to 0:26:20
 - :white_check_mark: No new trips
 - :x: 52 trips removed with an average duration of 0:28:15
 ### :x: Removed trips
@@ -2665,8 +2665,8 @@
 |51|68712958|Forest Hills|10:25:00|0:29:00|—|
 |52|68712963|Forest Hills|09:50:00|0:29:00|—|
 ## :bus: 36 | Millennium Park or VA Hospital - Forest Hills Station
-- Trip numbers :arrow_down: 76 from 501 :arrow_right: 425
-- Average duration :arrow_down: 0:00:09 overall from 0:21:57 :arrow_right: 0:21:48
+- Trip numbers :arrow_down: 76 from 501 to 425
+- Average duration :arrow_down: 0:00:09 overall from 0:21:57 to 0:21:48
 - :white_check_mark: No new trips
 - :x: 76 trips removed with an average duration of 0:22:48
 ### :x: Removed trips
@@ -2749,8 +2749,8 @@
 |75|68713096|VA Hospital|20:55:00|0:21:00|—|
 |76|68713109|Forest Hills|06:30:00|0:19:00|—|
 ## :bus: 37 | Baker Street & Vermont Street - Forest Hills Station
-- Trip numbers :arrow_down: 46 from 214 :arrow_right: 168
-- Average duration :arrow_down: 0:00:21 overall from 0:19:12 :arrow_right: 0:18:51
+- Trip numbers :arrow_down: 46 from 214 to 168
+- Average duration :arrow_down: 0:00:21 overall from 0:19:12 to 0:18:51
 - :white_check_mark: No new trips
 - :x: 46 trips removed with an average duration of 0:20:32
 ### :x: Removed trips
@@ -2803,8 +2803,8 @@
 |45|68712979|Forest Hills|10:20:00|0:23:00|—|
 |46|68712980|Forest Hills|11:00:00|0:23:00|—|
 ## :bus: 38 | Wren Street - Forest Hills Station
-- Trip numbers :arrow_down: 42 from 197 :arrow_right: 155
-- Average duration :arrow_up: 0:00:43 overall from 0:17:25 :arrow_right: 0:18:08
+- Trip numbers :arrow_down: 42 from 197 to 155
+- Average duration :arrow_up: 0:00:43 overall from 0:17:25 to 0:18:08
 - :white_check_mark: No new trips
 - :x: 42 trips removed with an average duration of 0:14:47
 ### :x: Removed trips
@@ -2853,8 +2853,8 @@
 |41|68712437|Wren St|18:40:00|0:13:00|—|
 |42|68712439|Forest Hills|19:00:00|0:16:00|—|
 ## :bus: 39 | Forest Hills Station - Back Bay Station
-- Trip numbers :arrow_down: 144 from 1034 :arrow_right: 890
-- Average duration :arrow_down: 0:00:13 overall from 0:31:08 :arrow_right: 0:30:55
+- Trip numbers :arrow_down: 144 from 1034 to 890
+- Average duration :arrow_down: 0:00:13 overall from 0:31:08 to 0:30:55
 - :white_check_mark: No new trips
 - :x: 144 trips removed with an average duration of 0:32:32
 ### :x: Removed trips
@@ -3005,8 +3005,8 @@
 |143|68712859|Haymarket via Forest Hills|04:20:00|0:35:00|—|
 |144|68712860|Forest Hills|05:10:00|0:26:00|—|
 ## :bus: 40 | Georgetowne - Forest Hills Station
-- Trip numbers :arrow_down: 24 from 140 :arrow_right: 116
-- Average duration :arrow_up: 0:00:09 overall from 0:22:29 :arrow_right: 0:22:38
+- Trip numbers :arrow_down: 24 from 140 to 116
+- Average duration :arrow_up: 0:00:09 overall from 0:22:29 to 0:22:38
 - :white_check_mark: No new trips
 - :x: 24 trips removed with an average duration of 0:21:45
 ### :x: Removed trips
@@ -3037,8 +3037,8 @@
 |23|68712461|Forest Hills|15:30:00|0:23:00|—|
 |24|68712462|Georgetowne|16:00:00|0:26:00|—|
 ## :bus: 41 | Centre Street & Eliot Street - JFK/UMass Station
-- Trip numbers :arrow_down: 32 from 210 :arrow_right: 178
-- Average duration :arrow_up: 0:00:21 overall from 0:36:04 :arrow_right: 0:36:25
+- Trip numbers :arrow_down: 32 from 210 to 178
+- Average duration :arrow_up: 0:00:21 overall from 0:36:04 to 0:36:25
 - :white_check_mark: No new trips
 - :x: 32 trips removed with an average duration of 0:34:05
 ### :x: Removed trips
@@ -3077,8 +3077,8 @@
 |31|68712873|JFK/UMass|13:15:00|0:41:00|—|
 |32|68712874|JFK/UMass|11:35:00|0:41:00|—|
 ## :bus: 42 | Forest Hills Station - Nubian Station
-- Trip numbers :arrow_down: 80 from 476 :arrow_right: 396
-- Average duration :arrow_up: 0:00:05 overall from 0:15:01 :arrow_right: 0:15:06
+- Trip numbers :arrow_down: 80 from 476 to 396
+- Average duration :arrow_up: 0:00:05 overall from 0:15:01 to 0:15:06
 - :white_check_mark: No new trips
 - :x: 80 trips removed with an average duration of 0:14:33
 ### :x: Removed trips
@@ -3165,8 +3165,8 @@
 |79|68713335|Forest Hills|20:45:00|0:13:00|—|
 |80|68713338|Forest Hills|15:47:00|0:16:00|—|
 ## :bus: 43 | Ruggles Station - Park Street Station
-- Trip numbers :arrow_down: 62 from 360 :arrow_right: 298
-- Average duration :arrow_up: 0:00:07 overall from 0:14:57 :arrow_right: 0:15:04
+- Trip numbers :arrow_down: 62 from 360 to 298
+- Average duration :arrow_up: 0:00:07 overall from 0:14:57 to 0:15:04
 - :white_check_mark: No new trips
 - :x: 62 trips removed with an average duration of 0:14:23
 ### :x: Removed trips
@@ -3235,8 +3235,8 @@
 |61|68395144|Park Plaza|09:05:00|0:11:00|—|
 |62|68395145|Park Plaza|09:40:00|0:11:00|—|
 ## :bus: 44 | Jackson Square Station - Ruggles Station
-- Trip numbers :arrow_down: 74 from 435 :arrow_right: 361
-- Average duration :arrow_up: 0:00:14 overall from 0:22:53 :arrow_right: 0:23:07
+- Trip numbers :arrow_down: 74 from 435 to 361
+- Average duration :arrow_up: 0:00:14 overall from 0:22:53 to 0:23:07
 - :white_check_mark: No new trips
 - :x: 74 trips removed with an average duration of 0:21:44
 ### :x: Removed trips
@@ -3317,8 +3317,8 @@
 |73|68394307|Ruggles|20:05:00|0:19:00|—|
 |74|68394308|Ruggles|20:35:00|0:19:00|—|
 ## :bus: 45 | Franklin Park - Ruggles Station
-- Trip numbers :arrow_down: 78 from 437 :arrow_right: 359
-- Average duration :arrow_up: 0:00:26 overall from 0:22:38 :arrow_right: 0:23:05
+- Trip numbers :arrow_down: 78 from 437 to 359
+- Average duration :arrow_up: 0:00:27 overall from 0:22:38 to 0:23:05
 - :white_check_mark: No new trips
 - :x: 78 trips removed with an average duration of 0:20:36
 ### :x: Removed trips
@@ -3403,8 +3403,8 @@
 |77|68394267|Franklin Park|19:05:00|0:25:00|—|
 |78|68394269|Franklin Park|20:05:00|0:25:00|—|
 ## :bus: 47 | Central Square, Cambridge - Broadway Station
-- Trip numbers :arrow_down: 180 from 548 :arrow_right: 368
-- Average duration :arrow_up: 0:08:32 overall from 0:36:08 :arrow_right: 0:44:40
+- Trip numbers :arrow_down: 180 from 548 to 368
+- Average duration :arrow_up: 0:08:32 overall from 0:36:08 to 0:44:40
 - :white_check_mark: No new trips
 - :x: 180 trips removed with an average duration of 0:18:40
 ### :x: Removed trips
@@ -3591,8 +3591,8 @@
 |179|68395543|Brookline Ave|18:12:00|0:27:00|—|
 |180|68395544|Broadway|18:57:00|0:35:00|—|
 ## :bus: 50 | Cleary Square - Forest Hills Station
-- Trip numbers :arrow_down: 22 from 140 :arrow_right: 118
-- Average duration :arrow_up: 0:00:28 overall from 0:18:32 :arrow_right: 0:19:01
+- Trip numbers :arrow_down: 22 from 140 to 118
+- Average duration :arrow_up: 0:00:29 overall from 0:18:32 to 0:19:01
 - :white_check_mark: No new trips
 - :x: 22 trips removed with an average duration of 0:16:00
 ### :x: Removed trips
@@ -3621,8 +3621,8 @@
 |21|68712509|Cleary Square|15:25:00|0:17:00|—|
 |22|68712511|Forest Hills|15:50:00|0:16:00|—|
 ## :bus: 51 | Reservoir Station - Forest Hills Station
-- Trip numbers :arrow_down: 30 from 160 :arrow_right: 130
-- Average duration :arrow_up: 0:00:50 overall from 0:29:46 :arrow_right: 0:30:36
+- Trip numbers :arrow_down: 30 from 160 to 130
+- Average duration :arrow_up: 0:00:50 overall from 0:29:46 to 0:30:36
 - :white_check_mark: No new trips
 - :x: 30 trips removed with an average duration of 0:26:08
 ### :x: Removed trips
@@ -3659,8 +3659,8 @@
 |29|68712512|Reservoir|18:00:00|0:26:00|—|
 |30|68712513|Forest Hills|18:30:00|0:27:00|—|
 ## :bus: 57 | Watertown Yard - Kenmore Station
-- Trip numbers :arrow_down: 179 from 1107 :arrow_right: 928
-- Average duration :arrow_up: 0:00:51 overall from 0:30:08 :arrow_right: 0:31:00
+- Trip numbers :arrow_down: 179 from 1107 to 928
+- Average duration :arrow_up: 0:00:52 overall from 0:30:08 to 0:31:00
 - :white_check_mark: No new trips
 - :x: 179 trips removed with an average duration of 0:25:40
 ### :x: Removed trips
@@ -3846,8 +3846,8 @@
 |178|68394807|Watertown Yard|08:37:00|0:21:00|—|
 |179|68394808|Pleasant St|09:31:00|0:25:00|—|
 ## :bus: 59 | Needham Junction - Watertown Square
-- Trip numbers :arrow_down: 82 from 214 :arrow_right: 132
-- Average duration :arrow_up: 0:09:07 overall from 0:28:10 :arrow_right: 0:37:17
+- Trip numbers :arrow_down: 82 from 214 to 132
+- Average duration :arrow_up: 0:09:07 overall from 0:28:10 to 0:37:17
 - :white_check_mark: No new trips
 - :x: 82 trips removed with an average duration of 0:13:30
 ### :x: Removed trips
@@ -3936,8 +3936,8 @@
 |81|68395630|Needham Junction via Needham St|19:20:00|0:23:00|—|
 |82|68395631|Newton Highlands|19:50:00|0:17:00|—|
 ## :bus: 60 | Chestnut Hill - Kenmore Station
-- Trip numbers :arrow_down: 62 from 312 :arrow_right: 250
-- Average duration :arrow_up: 0:01:19 overall from 0:27:43 :arrow_right: 0:29:02
+- Trip numbers :arrow_down: 62 from 312 to 250
+- Average duration :arrow_up: 0:01:19 overall from 0:27:43 to 0:29:02
 - :white_check_mark: No new trips
 - :x: 62 trips removed with an average duration of 0:22:23
 ### :x: Removed trips
@@ -4006,8 +4006,8 @@
 |61|68394944|Brookline Ave|14:25:00|0:22:00|—|
 |62|68394945|Brookline Ave|15:05:00|0:22:00|—|
 ## :bus: 61 | North Waltham - Waltham Center
-- Trip numbers :arrow_down: 86 from 228 :arrow_right: 142
-- Average duration :arrow_down: 0:00:00 overall from 0:19:48 :arrow_right: 0:19:47
+- Trip numbers :arrow_down: 86 from 228 to 142
+- Average duration :arrow_down: 0:00:01 overall from 0:19:48 to 0:19:47
 - :white_check_mark: No new trips
 - :x: 86 trips removed with an average duration of 0:19:49
 ### :x: Removed trips
@@ -4100,8 +4100,8 @@
 |85|68423133|North Waltham|12:10:00|0:15:00|—|
 |86|68423135|Waltham Center|18:51:00|0:23:00|—|
 ## :bus: 62 | Bedford VA Hospital - Alewife Station
-- Trip numbers :arrow_down: 74 from 118 :arrow_right: 44
-- Average duration :arrow_up: 0:09:15 overall from 0:29:49 :arrow_right: 0:39:05
+- Trip numbers :arrow_down: 74 from 118 to 44
+- Average duration :arrow_up: 0:09:16 overall from 0:29:49 to 0:39:05
 - :white_check_mark: No new trips
 - :x: 74 trips removed with an average duration of 0:24:19
 ### :x: Removed trips
@@ -4182,8 +4182,8 @@
 |73|68420465|Lexington Center|05:31:00|0:19:00|—|
 |74|68420466|Lexington Center|05:10:00|0:19:00|—|
 ## :bus: 64 | Oak Square - University Park or Kendall/MIT Station
-- Trip numbers :arrow_down: 94 from 289 :arrow_right: 195
-- Average duration :arrow_up: 0:01:58 overall from 0:31:15 :arrow_right: 0:33:14
+- Trip numbers :arrow_down: 94 from 289 to 195
+- Average duration :arrow_up: 0:01:59 overall from 0:31:15 to 0:33:14
 - :white_check_mark: No new trips
 - :x: 94 trips removed with an average duration of 0:27:08
 ### :x: Removed trips
@@ -4284,8 +4284,8 @@
 |93|68422758|University Park|18:42:00|0:25:00|—|
 |94|68422759|Oak Square|18:10:00|0:27:00|—|
 ## :bus: 66 | Harvard Square - Nubian Station
-- Trip numbers :arrow_down: 454 from 1353 :arrow_right: 899
-- Average duration :arrow_up: 0:10:25 overall from 0:38:08 :arrow_right: 0:48:34
+- Trip numbers :arrow_down: 454 from 1353 to 899
+- Average duration :arrow_up: 0:10:26 overall from 0:38:08 to 0:48:34
 - :white_check_mark: No new trips
 - :x: 454 trips removed with an average duration of 0:17:30
 ### :x: Removed trips
@@ -4746,8 +4746,8 @@
 |453|68396085|Union Square|12:59:00|0:12:00|—|
 |454|68396086|Harvard via Allston|13:20:00|0:12:00|—|
 ## :bus: 69 | Harvard Square - Lechmere Station
-- Trip numbers :arrow_down: 205 from 590 :arrow_right: 385
-- Average duration :arrow_up: 0:00:20 overall from 0:17:26 :arrow_right: 0:17:46
+- Trip numbers :arrow_down: 205 from 590 to 385
+- Average duration :arrow_up: 0:00:20 overall from 0:17:26 to 0:17:46
 - :white_check_mark: No new trips
 - :x: 205 trips removed with an average duration of 0:16:47
 ### :x: Removed trips
@@ -4959,8 +4959,8 @@
 |204|68423329|Lechmere|07:20:00|0:13:00|—|
 |205|68423331|Lechmere|21:50:00|0:14:00|—|
 ## :bus: 70 | Market Place Drive or Waltham Center - University Park
-- Trip numbers :arrow_down: 339 from 926 :arrow_right: 587
-- Average duration :arrow_up: 0:01:16 overall from 0:46:46 :arrow_right: 0:48:03
+- Trip numbers :arrow_down: 339 from 926 to 587
+- Average duration :arrow_up: 0:01:17 overall from 0:46:46 to 0:48:03
 - :white_check_mark: No new trips
 - :x: 339 trips removed with an average duration of 0:44:33
 ### :x: Removed trips
@@ -5306,8 +5306,8 @@
 |338|68423144|Waltham Center|17:13:00|0:43:00|—|
 |339|68423147|Waltham Center|14:16:00|0:43:00|—|
 ## :bus: 71 | Watertown Square - Harvard Station
-- Trip numbers :arrow_down: 358 from 1051 :arrow_right: 693
-- Average duration :arrow_down: 0:00:05 overall from 0:21:55 :arrow_right: 0:21:49
+- Trip numbers :arrow_down: 358 from 1051 to 693
+- Average duration :arrow_down: 0:00:06 overall from 0:21:55 to 0:21:49
 - :white_check_mark: No new trips
 - :x: 358 trips removed with an average duration of 0:22:05
 ### :x: Removed trips
@@ -5672,8 +5672,8 @@
 |357|68423033|Harvard|22:07:00|0:21:00|—|
 |358|68423034|Watertown Square|08:45:00|0:18:00|—|
 ## :bus: 73 | Waverley Square - Harvard Station
-- Trip numbers :arrow_down: 362 from 1039 :arrow_right: 677
-- Average duration :arrow_up: 0:00:04 overall from 0:21:36 :arrow_right: 0:21:41
+- Trip numbers :arrow_down: 362 from 1039 to 677
+- Average duration :arrow_up: 0:00:05 overall from 0:21:36 to 0:21:41
 - :white_check_mark: No new trips
 - :x: 362 trips removed with an average duration of 0:21:29
 ### :x: Removed trips
@@ -6042,8 +6042,8 @@
 |361|68423017|Waverley|00:15:00|0:15:00|—|
 |362|68423030|Waverley|06:57:00|0:15:00|—|
 ## :bus: 74 | Belmont Center - Harvard via Concord Avenue
-- Trip numbers :arrow_down: 104 from 308 :arrow_right: 204
-- Average duration :arrow_up: 0:00:13 overall from 0:15:18 :arrow_right: 0:15:32
+- Trip numbers :arrow_down: 104 from 308 to 204
+- Average duration :arrow_up: 0:00:14 overall from 0:15:18 to 0:15:32
 - :white_check_mark: No new trips
 - :x: 104 trips removed with an average duration of 0:14:51
 ### :x: Removed trips
@@ -6154,8 +6154,8 @@
 |103|68421058|Harvard|18:27:00|0:15:00|—|
 |104|68421059|Belmont Center|18:40:00|0:14:00|—|
 ## :bus: 75 | Belmont Center - Harvard via Huron Avenue
-- Trip numbers :arrow_down: 194 from 518 :arrow_right: 324
-- Average duration :arrow_up: 0:00:15 overall from 0:15:51 :arrow_right: 0:16:07
+- Trip numbers :arrow_down: 194 from 518 to 324
+- Average duration :arrow_up: 0:00:16 overall from 0:15:51 to 0:16:07
 - :white_check_mark: No new trips
 - :x: 194 trips removed with an average duration of 0:15:25
 ### :x: Removed trips
@@ -6356,8 +6356,8 @@
 |193|68423457|Harvard|06:35:00|0:14:00|—|
 |194|68423459|Belmont Center|06:20:00|0:13:00|—|
 ## :bus: 77 | Arlington Heights - Harvard Station
-- Trip numbers :arrow_down: 443 from 1249 :arrow_right: 806
-- Average duration :arrow_up: 0:00:00 overall from 0:30:05 :arrow_right: 0:30:06
+- Trip numbers :arrow_down: 443 from 1249 to 806
+- Average duration :arrow_up: 0:00:01 overall from 0:30:05 to 0:30:06
 - :white_check_mark: No new trips
 - :x: 443 trips removed with an average duration of 0:30:04
 ### :x: Removed trips
@@ -6807,8 +6807,8 @@
 |442|68423755|Harvard|08:00:00|0:23:00|—|
 |443|68423758|Arlington Heights|16:59:00|0:37:00|—|
 ## :bus: 78 | Arlmont Village - Harvard Station
-- Trip numbers :arrow_down: 112 from 363 :arrow_right: 251
-- Average duration :arrow_up: 0:00:27 overall from 0:26:03 :arrow_right: 0:26:31
+- Trip numbers :arrow_down: 112 from 363 to 251
+- Average duration :arrow_up: 0:00:28 overall from 0:26:03 to 0:26:31
 - :white_check_mark: No new trips
 - :x: 112 trips removed with an average duration of 0:25:01
 ### :x: Removed trips
@@ -6927,8 +6927,8 @@
 |111|68423454|Arlmont Village|07:09:00|0:22:00|—|
 |112|68423458|Arlmont Village|06:10:00|0:22:00|—|
 ## :bus: 80 | Arlington Center - Lechmere Station
-- Trip numbers :arrow_down: 146 from 375 :arrow_right: 229
-- Average duration :arrow_up: 0:00:18 overall from 0:28:43 :arrow_right: 0:29:01
+- Trip numbers :arrow_down: 146 from 375 to 229
+- Average duration :arrow_up: 0:00:18 overall from 0:28:43 to 0:29:01
 - :white_check_mark: No new trips
 - :x: 146 trips removed with an average duration of 0:28:14
 ### :x: Removed trips
@@ -7081,8 +7081,8 @@
 |145|68422810|Arlington Center|13:30:00|0:30:00|—|
 |146|68422811|Arlington Center|14:40:00|0:30:00|—|
 ## :bus: 83 | Rindge Avenue - Central Square, Cambridge
-- Trip numbers :arrow_down: 163 from 429 :arrow_right: 266
-- Average duration :arrow_up: 0:00:16 overall from 0:23:46 :arrow_right: 0:24:02
+- Trip numbers :arrow_down: 163 from 429 to 266
+- Average duration :arrow_up: 0:00:16 overall from 0:23:46 to 0:24:02
 - :white_check_mark: No new trips
 - :x: 163 trips removed with an average duration of 0:23:18
 ### :x: Removed trips
@@ -7252,8 +7252,8 @@
 |162|68423371|Rindge Ave|17:00:00|0:24:00|—|
 |163|68423372|Central Square|07:45:00|0:20:00|—|
 ## :bus: 86 | Harvard Square - Reservoir Station
-- Trip numbers :arrow_down: 264 from 790 :arrow_right: 526
-- Average duration :arrow_up: 0:00:43 overall from 0:24:37 :arrow_right: 0:25:21
+- Trip numbers :arrow_down: 264 from 790 to 526
+- Average duration :arrow_up: 0:00:44 overall from 0:24:37 to 0:25:21
 - :white_check_mark: No new trips
 - :x: 264 trips removed with an average duration of 0:23:10
 ### :x: Removed trips
@@ -7524,8 +7524,8 @@
 |263|68423583|Harvard|06:48:00|0:15:00|—|
 |264|68423584|Harvard|06:23:00|0:15:00|—|
 ## :bus: 87 | Clarendon Hill or Arlington Center - Lechmere Station
-- Trip numbers :arrow_down: 215 from 589 :arrow_right: 374
-- Average duration :arrow_up: 0:00:14 overall from 0:27:41 :arrow_right: 0:27:56
+- Trip numbers :arrow_down: 215 from 589 to 374
+- Average duration :arrow_up: 0:00:15 overall from 0:27:41 to 0:27:56
 - :white_check_mark: No new trips
 - :x: 215 trips removed with an average duration of 0:27:16
 ### :x: Removed trips
@@ -7747,8 +7747,8 @@
 |214|68423301|Lechmere|08:00:00|0:18:00|—|
 |215|68423330|Lechmere|06:00:00|0:18:00|—|
 ## :bus: 88 | Clarendon Hill - Lechmere Station
-- Trip numbers :arrow_down: 212 from 585 :arrow_right: 373
-- Average duration :arrow_up: 0:00:36 overall from 0:22:18 :arrow_right: 0:22:54
+- Trip numbers :arrow_down: 212 from 585 to 373
+- Average duration :arrow_up: 0:00:36 overall from 0:22:18 to 0:22:54
 - :white_check_mark: No new trips
 - :x: 212 trips removed with an average duration of 0:21:14
 ### :x: Removed trips
@@ -7967,8 +7967,8 @@
 |211|68423310|Clarendon Hill|06:20:00|0:18:00|—|
 |212|68423328|Lechmere|06:40:00|0:18:00|—|
 ## :bus: 89 | Clarendon Hill or Davis Station - Sullivan Square Station
-- Trip numbers :arrow_down: 106 from 478 :arrow_right: 372
-- Average duration :arrow_up: 0:00:15 overall from 0:21:03 :arrow_right: 0:21:19
+- Trip numbers :arrow_down: 106 from 478 to 372
+- Average duration :arrow_up: 0:00:16 overall from 0:21:03 to 0:21:19
 - :white_check_mark: No new trips
 - :x: 106 trips removed with an average duration of 0:20:07
 ### :x: Removed trips
@@ -8081,8 +8081,8 @@
 |105|68516254|Davis|08:15:00|0:21:00|—|
 |106|68516255|Sullivan|05:40:00|0:13:00|—|
 ## :bus: 90 | Davis Station - Assembly Row
-- Trip numbers :arrow_down: 41 from 177 :arrow_right: 136
-- Average duration :arrow_up: 0:00:25 overall from 0:30:14 :arrow_right: 0:30:39
+- Trip numbers :arrow_down: 41 from 177 to 136
+- Average duration :arrow_up: 0:00:25 overall from 0:30:14 to 0:30:39
 - :white_check_mark: No new trips
 - :x: 41 trips removed with an average duration of 0:28:51
 ### :x: Removed trips
@@ -8130,8 +8130,8 @@
 |40|68516283|Assembly|10:50:00|0:31:00|—|
 |41|68516284|Assembly|09:35:00|0:26:00|—|
 ## :bus: 91 | Sullivan Square Station - Central Square, Cambridge
-- Trip numbers :arrow_down: 104 from 378 :arrow_right: 274
-- Average duration :arrow_up: 0:00:16 overall from 0:16:34 :arrow_right: 0:16:51
+- Trip numbers :arrow_down: 104 from 378 to 274
+- Average duration :arrow_up: 0:00:17 overall from 0:16:34 to 0:16:51
 - :white_check_mark: No new trips
 - :x: 104 trips removed with an average duration of 0:15:50
 ### :x: Removed trips
@@ -8242,8 +8242,8 @@
 |103|68515247|Central Square|12:00:00|0:20:00|—|
 |104|68515248|Central Square|06:06:00|0:16:00|—|
 ## :bus: 92 | Sullivan Square Station - Downtown via Main Street
-- Trip numbers :arrow_down: 66 from 234 :arrow_right: 168
-- Average duration :arrow_up: 0:00:31 overall from 0:19:40 :arrow_right: 0:20:12
+- Trip numbers :arrow_down: 66 from 234 to 168
+- Average duration :arrow_up: 0:00:32 overall from 0:19:40 to 0:20:12
 - :white_check_mark: No new trips
 - :x: 66 trips removed with an average duration of 0:18:20
 ### :x: Removed trips
@@ -8316,8 +8316,8 @@
 |65|68516436|Haymarket|05:42:00|0:12:00|—|
 |66|68516438|Sullivan|05:37:00|0:13:00|—|
 ## :bus: 93 | Sullivan Square Station - Downtown via Bunker Hill Street
-- Trip numbers :arrow_down: 126 from 455 :arrow_right: 329
-- Average duration :arrow_up: 0:00:47 overall from 0:20:11 :arrow_right: 0:20:58
+- Trip numbers :arrow_down: 126 from 455 to 329
+- Average duration :arrow_up: 0:00:47 overall from 0:20:11 to 0:20:58
 - :white_check_mark: No new trips
 - :x: 126 trips removed with an average duration of 0:18:08
 ### :x: Removed trips
@@ -8450,8 +8450,8 @@
 |125|68516440|Haymarket|05:05:00|0:15:00|—|
 |126|68516441|Sullivan|05:00:00|0:11:00|—|
 ## :bus: 94 | Medford Square - Davis Station
-- Trip numbers :arrow_down: 72 from 295 :arrow_right: 223
-- Average duration :arrow_up: 0:01:02 overall from 0:22:12 :arrow_right: 0:23:15
+- Trip numbers :arrow_down: 72 from 295 to 223
+- Average duration :arrow_up: 0:01:03 overall from 0:22:12 to 0:23:15
 - :white_check_mark: No new trips
 - :x: 72 trips removed with an average duration of 0:18:58
 ### :x: Removed trips
@@ -8530,8 +8530,8 @@
 |71|68515573|Davis|09:00:00|0:21:00|—|
 |72|68515574|Davis|10:00:00|0:21:00|—|
 ## :bus: 95 | West Medford or Arlington Center - Sullivan Square Station
-- Trip numbers :arrow_down: 74 from 327 :arrow_right: 253
-- Average duration :arrow_up: 0:00:28 overall from 0:24:37 :arrow_right: 0:25:06
+- Trip numbers :arrow_down: 74 from 327 to 253
+- Average duration :arrow_up: 0:00:29 overall from 0:24:37 to 0:25:06
 - :white_check_mark: No new trips
 - :x: 74 trips removed with an average duration of 0:23:00
 ### :x: Removed trips
@@ -8612,8 +8612,8 @@
 |73|68516479|Arlington Center|05:45:00|0:22:00|—|
 |74|68516480|Sullivan|06:15:00|0:18:00|—|
 ## :bus: 96 | Medford Square - Harvard Station
-- Trip numbers :arrow_down: 76 from 302 :arrow_right: 226
-- Average duration :arrow_up: 0:00:43 overall from 0:26:45 :arrow_right: 0:27:28
+- Trip numbers :arrow_down: 76 from 302 to 226
+- Average duration :arrow_up: 0:00:43 overall from 0:26:45 to 0:27:28
 - :white_check_mark: No new trips
 - :x: 76 trips removed with an average duration of 0:24:35
 ### :x: Removed trips
@@ -8696,8 +8696,8 @@
 |75|68515571|Harvard|05:33:00|0:19:00|—|
 |76|68515575|Medford Square|13:30:00|0:29:00|—|
 ## :bus: 97 | Malden Center Station - Wellington Station
-- Trip numbers :arrow_down: 35 from 150 :arrow_right: 115
-- Average duration :arrow_down: 0:00:06 overall from 0:29:21 :arrow_right: 0:29:15
+- Trip numbers :arrow_down: 35 from 150 to 115
+- Average duration :arrow_down: 0:00:06 overall from 0:29:21 to 0:29:15
 - :white_check_mark: No new trips
 - :x: 35 trips removed with an average duration of 0:29:42
 ### :x: Removed trips
@@ -8739,8 +8739,8 @@
 |34|68516097|Wellington|10:20:00|0:32:00|—|
 |35|68516098|Malden|13:35:00|0:31:00|—|
 ## :bus: 99 | Woodland Road - Wellington Station
-- Trip numbers :arrow_down: 61 from 237 :arrow_right: 176
-- Average duration :arrow_up: 0:00:17 overall from 0:30:05 :arrow_right: 0:30:23
+- Trip numbers :arrow_down: 61 from 237 to 176
+- Average duration :arrow_up: 0:00:18 overall from 0:30:05 to 0:30:23
 - :white_check_mark: No new trips
 - :x: 61 trips removed with an average duration of 0:29:14
 ### :x: Removed trips
@@ -8808,8 +8808,8 @@
 |60|68515185|Woodland Rd via Gateway Center|11:25:00|0:33:00|—|
 |61|68515186|Wellington via Gateway Center|12:05:00|0:39:00|—|
 ## :bus: 100 | Elm Street - Wellington Station
-- Trip numbers :arrow_down: 104 from 411 :arrow_right: 307
-- Average duration :arrow_up: 0:00:21 overall from 0:11:49 :arrow_right: 0:12:11
+- Trip numbers :arrow_down: 104 from 411 to 307
+- Average duration :arrow_up: 0:00:22 overall from 0:11:49 to 0:12:11
 - :white_check_mark: No new trips
 - :x: 104 trips removed with an average duration of 0:10:45
 ### :x: Removed trips
@@ -8920,8 +8920,8 @@
 |103|68515193|Wellington|23:45:00|0:10:00|—|
 |104|68515194|Elm St|23:30:00|0:11:00|—|
 ## :bus: 101 | Malden Center Station - Sullivan Square Station via Winter Hill
-- Trip numbers :arrow_down: 91 from 409 :arrow_right: 318
-- Average duration :arrow_up: 0:00:17 overall from 0:29:55 :arrow_right: 0:30:13
+- Trip numbers :arrow_down: 91 from 409 to 318
+- Average duration :arrow_up: 0:00:18 overall from 0:29:55 to 0:30:13
 - :white_check_mark: No new trips
 - :x: 91 trips removed with an average duration of 0:28:52
 ### :x: Removed trips
@@ -9019,8 +9019,8 @@
 |90|68516548|Sullivan|06:05:00|0:23:00|—|
 |91|68516549|Malden|05:35:00|0:24:00|—|
 ## :bus: 104 | Malden Center Station - Airport Station
-- Trip numbers :arrow_down: 332 from 1174 :arrow_right: 842
-- Average duration :arrow_up: 0:00:14 overall from 0:43:19 :arrow_right: 0:43:33
+- Trip numbers :arrow_down: 332 from 1174 to 842
+- Average duration :arrow_up: 0:00:14 overall from 0:43:19 to 0:43:33
 - :white_check_mark: No new trips
 - :x: 332 trips removed with an average duration of 0:42:42
 ### :x: Removed trips
@@ -9359,8 +9359,8 @@
 |331|68515740|Airport|23:01:00|0:33:00|—|
 |332|68515741|Airport|23:14:00|0:33:00|—|
 ## :bus: 105 | Malden Center Station - Sullivan Square Station via Newland Street Housing
-- Trip numbers :arrow_down: 38 from 154 :arrow_right: 116
-- Average duration :arrow_up: 0:00:26 overall from 0:34:13 :arrow_right: 0:34:40
+- Trip numbers :arrow_down: 38 from 154 to 116
+- Average duration :arrow_up: 0:00:27 overall from 0:34:13 to 0:34:40
 - :white_check_mark: No new trips
 - :x: 38 trips removed with an average duration of 0:32:52
 ### :x: Removed trips
@@ -9405,8 +9405,8 @@
 |37|68516499|Malden|08:05:00|0:33:00|—|
 |38|68516500|Sullivan|06:15:00|0:26:00|—|
 ## :bus: 106 | Lebanon Loop - Wellington Station
-- Trip numbers :arrow_down: 79 from 319 :arrow_right: 240
-- Average duration :arrow_up: 0:01:02 overall from 0:28:52 :arrow_right: 0:29:55
+- Trip numbers :arrow_down: 79 from 319 to 240
+- Average duration :arrow_up: 0:01:03 overall from 0:28:52 to 0:29:55
 - :white_check_mark: No new trips
 - :x: 79 trips removed with an average duration of 0:25:43
 ### :x: Removed trips
@@ -9492,8 +9492,8 @@
 |78|68515366|Malden|01:00:00|0:10:00|—|
 |79|68515367|Lebanon Loop|21:45:00|0:10:00|—|
 ## :bus: 108 | Linden Square - Wellington Station
-- Trip numbers :arrow_down: 66 from 298 :arrow_right: 232
-- Average duration :arrow_up: 0:00:16 overall from 0:30:57 :arrow_right: 0:31:13
+- Trip numbers :arrow_down: 66 from 298 to 232
+- Average duration :arrow_up: 0:00:16 overall from 0:30:57 to 0:31:13
 - :white_check_mark: No new trips
 - :x: 66 trips removed with an average duration of 0:30:00
 ### :x: Removed trips
@@ -9566,8 +9566,8 @@
 |65|68515358|Wellington|17:50:00|0:30:00|—|
 |66|68515359|Linden Square|17:10:00|0:36:00|—|
 ## :bus: 109 | Linden Square - Harvard Square via Sullivan
-- Trip numbers :arrow_down: 343 from 1245 :arrow_right: 902
-- Average duration :arrow_up: 0:00:37 overall from 0:46:05 :arrow_right: 0:46:43
+- Trip numbers :arrow_down: 343 from 1245 to 902
+- Average duration :arrow_up: 0:00:38 overall from 0:46:05 to 0:46:43
 - :white_check_mark: No new trips
 - :x: 343 trips removed with an average duration of 0:44:27
 ### :x: Removed trips
@@ -9917,8 +9917,8 @@
 |342|68516080|Linden Square via Sullivan|19:09:00|0:46:00|—|
 |343|68516081|Linden Square via Sullivan|00:58:00|0:37:00|—|
 ## :bus: 110 | Wonderland Station - Wellington Station
-- Trip numbers :arrow_down: 326 from 1148 :arrow_right: 822
-- Average duration :arrow_up: 0:00:16 overall from 0:29:21 :arrow_right: 0:29:38
+- Trip numbers :arrow_down: 326 from 1148 to 822
+- Average duration :arrow_up: 0:00:17 overall from 0:29:21 to 0:29:38
 - :white_check_mark: No new trips
 - :x: 326 trips removed with an average duration of 0:28:40
 ### :x: Removed trips
@@ -10251,8 +10251,8 @@
 |325|68516075|Wellington|00:35:00|0:29:00|—|
 |326|68516076|Wellington|00:50:00|0:29:00|—|
 ## :bus: 111 | Woodlawn - Haymarket Station
-- Trip numbers :arrow_down: 407 from 1755 :arrow_right: 1348
-- Average duration :arrow_up: 0:00:21 overall from 0:27:03 :arrow_right: 0:27:24
+- Trip numbers :arrow_down: 407 from 1755 to 1348
+- Average duration :arrow_up: 0:00:21 overall from 0:27:03 to 0:27:24
 - :white_check_mark: No new trips
 - :x: 407 trips removed with an average duration of 0:25:52
 ### :x: Removed trips
@@ -10666,8 +10666,8 @@
 |406|68516658|Woodlawn|10:00:00|0:26:00|—|
 |407|68516659|Woodlawn|08:40:00|0:23:00|—|
 ## :bus: 112 | Wellington Station - Wood Island Station
-- Trip numbers :arrow_down: 57 from 214 :arrow_right: 157
-- Average duration :arrow_up: 0:00:38 overall from 0:51:46 :arrow_right: 0:52:25
+- Trip numbers :arrow_down: 57 from 214 to 157
+- Average duration :arrow_up: 0:00:39 overall from 0:51:46 to 0:52:25
 - :white_check_mark: No new trips
 - :x: 57 trips removed with an average duration of 0:49:58
 ### :x: Removed trips
@@ -10731,8 +10731,8 @@
 |56|68515531|Wellington via Admiral's Hill & Market Basket|15:30:00|0:54:00|—|
 |57|68515533|Wood Island via Market Basket & Admiral's Hill|17:55:00|0:49:00|—|
 ## :bus: 116 | Wonderland Station - Maverick Station
-- Trip numbers :arrow_down: 187 from 1196 :arrow_right: 1009
-- Average duration :arrow_up: 0:00:11 overall from 0:36:45 :arrow_right: 0:36:56
+- Trip numbers :arrow_down: 187 from 1196 to 1009
+- Average duration :arrow_up: 0:00:11 overall from 0:36:45 to 0:36:56
 - :white_check_mark: No new trips
 - :x: 187 trips removed with an average duration of 0:35:43
 ### :x: Removed trips
@@ -10926,8 +10926,8 @@
 |186|68677268|Maverick|00:17:00|0:30:00|—|
 |187|68677269|Maverick|00:29:00|0:30:00|—|
 ## :bus: 119 | Northgate Shopping Center - Beachmont Station
-- Trip numbers :arrow_down: 20 from 156 :arrow_right: 136
-- Average duration :arrow_down: 0:00:03 overall from 0:33:56 :arrow_right: 0:33:52
+- Trip numbers :arrow_down: 20 from 156 to 136
+- Average duration :arrow_down: 0:00:04 overall from 0:33:56 to 0:33:52
 - :white_check_mark: No new trips
 - :x: 20 trips removed with an average duration of 0:34:18
 ### :x: Removed trips
@@ -10954,8 +10954,8 @@
 |19|68676957|Beachmont via Tomasello Way|17:50:00|0:39:00|—|
 |20|68676958|Beachmont via Tomasello Way|19:10:00|0:35:00|—|
 ## :bus: 120 | Orient Heights Station - Jeffries Point
-- Trip numbers :arrow_down: 63 from 346 :arrow_right: 283
-- Average duration :arrow_up: 0:00:10 overall from 0:26:32 :arrow_right: 0:26:43
+- Trip numbers :arrow_down: 63 from 346 to 283
+- Average duration :arrow_up: 0:00:11 overall from 0:26:32 to 0:26:43
 - :white_check_mark: No new trips
 - :x: 63 trips removed with an average duration of 0:25:42
 ### :x: Removed trips
@@ -11025,8 +11025,8 @@
 |62|68676989|Maverick via Jeffries Point|00:00:00|0:20:00|—|
 |63|68676990|Maverick via Jeffries Point|00:50:00|0:20:00|—|
 ## :bus: 132 | Redstone Shopping Center - Malden Center Station
-- Trip numbers :arrow_down: 23 from 142 :arrow_right: 119
-- Average duration :arrow_down: 0:00:13 overall from 0:24:11 :arrow_right: 0:23:57
+- Trip numbers :arrow_down: 23 from 142 to 119
+- Average duration :arrow_down: 0:00:14 overall from 0:24:11 to 0:23:57
 - :white_check_mark: No new trips
 - :x: 23 trips removed with an average duration of 0:25:23
 ### :x: Removed trips
@@ -11056,8 +11056,8 @@
 |22|68515259|Malden|20:00:00|0:19:00|—|
 |23|68515260|Redstone|13:55:00|0:26:00|—|
 ## :bus: 134 | North Woburn - Wellington Station
-- Trip numbers :arrow_down: 80 from 290 :arrow_right: 210
-- Average duration :arrow_up: 0:01:11 overall from 0:33:21 :arrow_right: 0:34:33
+- Trip numbers :arrow_down: 80 from 290 to 210
+- Average duration :arrow_up: 0:01:12 overall from 0:33:21 to 0:34:33
 - :white_check_mark: No new trips
 - :x: 80 trips removed with an average duration of 0:30:13
 ### :x: Removed trips
@@ -11144,8 +11144,8 @@
 |79|68515528|Winthrop St|00:35:00|0:15:00|—|
 |80|68515532|Wellington|21:55:00|0:18:00|—|
 ## :bus: 137 | Reading Depot - Malden Center Station
-- Trip numbers :arrow_down: 49 from 230 :arrow_right: 181
-- Average duration :arrow_down: 0:00:19 overall from 0:42:04 :arrow_right: 0:41:45
+- Trip numbers :arrow_down: 49 from 230 to 181
+- Average duration :arrow_down: 0:00:19 overall from 0:42:04 to 0:41:45
 - :white_check_mark: No new trips
 - :x: 49 trips removed with an average duration of 0:43:18
 ### :x: Removed trips
@@ -11201,8 +11201,8 @@
 |48|68515400|Reading Depot|07:40:00|0:39:00|—|
 |49|68515402|Reading Depot|06:00:00|0:39:00|—|
 ## :bus: 171 | Logan Airport Terminals - Nubian Station
-- Trip numbers :arrow_down: 2 from 12 :arrow_right: 10
-- Average duration :arrow_up: 0:00:40 overall from 0:31:20 :arrow_right: 0:32:00
+- Trip numbers :arrow_down: 2 from 12 to 10
+- Average duration :arrow_up: 0:00:40 overall from 0:31:20 to 0:32:00
 - :white_check_mark: No new trips
 - :x: 2 trips removed with an average duration of 0:28:00
 ### :x: Removed trips
@@ -11211,8 +11211,8 @@
 |1|68393516|Logan Airport via Andrew|03:50:00|0:28:00|—|
 |2|68393518|Logan Airport via Andrew|04:20:00|0:28:00|—|
 ## :bus: 201 | Fields Corner Loop via Neponset Ave
-- Trip numbers :arrow_down: 57 from 332 :arrow_right: 275
-- Average duration :arrow_down: 0:00:02 overall from 0:12:52 :arrow_right: 0:12:49
+- Trip numbers :arrow_down: 57 from 332 to 275
+- Average duration :arrow_down: 0:00:03 overall from 0:12:52 to 0:12:49
 - :white_check_mark: No new trips
 - :x: 57 trips removed with an average duration of 0:13:02
 ### :x: Removed trips
@@ -11276,8 +11276,8 @@
 |56|68717094|Keystone Apts via Neponset Ave & Puritan Mall|15:47:00|0:15:00|—|
 |57|68717095|Keystone Apts via Neponset Ave & Puritan Mall|16:23:00|0:15:00|—|
 ## :bus: 210 | Quincy Center Station - Fields Corner Station
-- Trip numbers :arrow_down: 29 from 134 :arrow_right: 105
-- Average duration :arrow_up: 0:03:03 overall from 0:23:23 :arrow_right: 0:26:26
+- Trip numbers :arrow_down: 29 from 134 to 105
+- Average duration :arrow_up: 0:03:03 overall from 0:23:23 to 0:26:26
 - :white_check_mark: No new trips
 - :x: 29 trips removed with an average duration of 0:12:18
 ### :x: Removed trips
@@ -11313,8 +11313,8 @@
 |28|68717421|North Quincy|08:35:00|0:09:00|—|
 |29|68717422|North Quincy|06:40:00|0:06:00|—|
 ## :bus: 211 | Quincy Center Station - Squantum
-- Trip numbers :arrow_down: 25 from 169 :arrow_right: 144
-- Average duration :arrow_up: 0:00:14 overall from 0:23:11 :arrow_right: 0:23:25
+- Trip numbers :arrow_down: 25 from 169 to 144
+- Average duration :arrow_up: 0:00:14 overall from 0:23:11 to 0:23:25
 - :white_check_mark: No new trips
 - :x: 25 trips removed with an average duration of 0:21:50
 ### :x: Removed trips
@@ -11346,8 +11346,8 @@
 |24|68717119|Quincy Center|17:22:00|0:24:00|—|
 |25|68717120|Quincy Center|18:22:00|0:24:00|—|
 ## :bus: 215 | Quincy Center Station - Ashmont Station via West Quincy
-- Trip numbers :arrow_down: 50 from 320 :arrow_right: 270
-- Average duration :arrow_up: 0:00:12 overall from 0:29:59 :arrow_right: 0:30:12
+- Trip numbers :arrow_down: 50 from 320 to 270
+- Average duration :arrow_up: 0:00:13 overall from 0:29:59 to 0:30:12
 - :white_check_mark: No new trips
 - :x: 50 trips removed with an average duration of 0:28:49
 ### :x: Removed trips
@@ -11404,8 +11404,8 @@
 |49|68717463|North Quincy|05:06:00|0:17:00|—|
 |50|68717472|Quincy Center|15:40:00|0:32:00|—|
 ## :bus: 216 | Houghs Neck - Quincy Center Station via Germantown
-- Trip numbers :arrow_down: 60 from 516 :arrow_right: 456
-- Average duration :arrow_up: 0:00:07 overall from 0:17:48 :arrow_right: 0:17:56
+- Trip numbers :arrow_down: 60 from 516 to 456
+- Average duration :arrow_up: 0:00:08 overall from 0:17:48 to 0:17:56
 - :white_check_mark: No new trips
 - :x: 60 trips removed with an average duration of 0:16:49
 ### :x: Removed trips
@@ -11472,8 +11472,8 @@
 |59|68717532|Quincy Center|05:46:00|0:09:00|—|
 |60|68717533|Quincy Center|05:06:00|0:09:00|—|
 ## :bus: 220 | Hingham Depot - Quincy Center Station
-- Trip numbers :arrow_down: 64 from 316 :arrow_right: 252
-- Average duration :arrow_up: 0:00:05 overall from 0:25:03 :arrow_right: 0:25:08
+- Trip numbers :arrow_down: 64 from 316 to 252
+- Average duration :arrow_up: 0:00:05 overall from 0:25:03 to 0:25:08
 - :white_check_mark: No new trips
 - :x: 64 trips removed with an average duration of 0:24:44
 ### :x: Removed trips
@@ -11544,8 +11544,8 @@
 |63|68717183|Hingham Depot|23:00:00|0:23:00|—|
 |64|68717184|Hingham Depot|00:30:00|0:23:00|—|
 ## :bus: 222 | East Weymouth - Quincy Center Station
-- Trip numbers :arrow_down: 52 from 292 :arrow_right: 240
-- Average duration :arrow_up: 0:00:03 overall from 0:24:13 :arrow_right: 0:24:17
+- Trip numbers :arrow_down: 52 from 292 to 240
+- Average duration :arrow_up: 0:00:04 overall from 0:24:13 to 0:24:17
 - :white_check_mark: No new trips
 - :x: 52 trips removed with an average duration of 0:23:55
 ### :x: Removed trips
@@ -11604,8 +11604,8 @@
 |51|68717236|Washington St & Pleasant St Weymouth|21:30:00|0:25:00|—|
 |52|68717237|Washington St & Pleasant St Weymouth|23:30:00|0:25:00|—|
 ## :bus: 225 | Weymouth Landing - Quincy Center Station
-- Trip numbers :arrow_down: 66 from 440 :arrow_right: 374
-- Average duration :arrow_up: 0:00:05 overall from 0:20:26 :arrow_right: 0:20:31
+- Trip numbers :arrow_down: 66 from 440 to 374
+- Average duration :arrow_up: 0:00:05 overall from 0:20:26 to 0:20:31
 - :white_check_mark: No new trips
 - :x: 66 trips removed with an average duration of 0:19:54
 ### :x: Removed trips
@@ -11678,8 +11678,8 @@
 |65|68717566|Quincy Center|13:00:00|0:20:00|—|
 |66|68717567|Quincy Center via Howard St|14:23:00|0:18:00|—|
 ## :bus: 226 | Columbian Square - Braintree Station
-- Trip numbers :arrow_down: 28 from 148 :arrow_right: 120
-- Average duration :arrow_up: 0:00:13 overall from 0:24:40 :arrow_right: 0:24:54
+- Trip numbers :arrow_down: 28 from 148 to 120
+- Average duration :arrow_up: 0:00:14 overall from 0:24:40 to 0:24:54
 - :white_check_mark: No new trips
 - :x: 28 trips removed with an average duration of 0:23:40
 ### :x: Removed trips
@@ -11714,8 +11714,8 @@
 |27|68717576|Braintree|11:20:00|0:33:00|—|
 |28|68717577|Braintree|12:29:00|0:28:00|—|
 ## :bus: 230 | Montello Station - Quincy Center Station
-- Trip numbers :arrow_down: 36 from 226 :arrow_right: 190
-- Average duration :arrow_up: 0:00:05 overall from 0:41:10 :arrow_right: 0:41:16
+- Trip numbers :arrow_down: 36 from 226 to 190
+- Average duration :arrow_up: 0:00:06 overall from 0:41:10 to 0:41:16
 - :white_check_mark: No new trips
 - :x: 36 trips removed with an average duration of 0:40:40
 ### :x: Removed trips
@@ -11758,8 +11758,8 @@
 |35|68717271|Montello|19:14:00|0:37:00|—|
 |36|68717272|Montello|23:15:00|0:32:00|—|
 ## :bus: 236 | South Shore Plaza - Quincy Center Station
-- Trip numbers :arrow_down: 32 from 160 :arrow_right: 128
-- Average duration :arrow_up: 0:00:20 overall from 0:29:49 :arrow_right: 0:30:09
+- Trip numbers :arrow_down: 32 from 160 to 128
+- Average duration :arrow_up: 0:00:20 overall from 0:29:49 to 0:30:09
 - :white_check_mark: No new trips
 - :x: 32 trips removed with an average duration of 0:28:28
 ### :x: Removed trips
@@ -11798,8 +11798,8 @@
 |31|68717304|Quincy Center|19:28:00|0:27:00|—|
 |32|68717305|Quincy Center|20:26:00|0:27:00|—|
 ## :bus: 238 | Holbrook/Randolph Station - Quincy Center Station
-- Trip numbers :arrow_down: 40 from 232 :arrow_right: 192
-- Average duration :arrow_up: 0:00:15 overall from 0:41:38 :arrow_right: 0:41:54
+- Trip numbers :arrow_down: 40 from 232 to 192
+- Average duration :arrow_up: 0:00:16 overall from 0:41:38 to 0:41:54
 - :white_check_mark: No new trips
 - :x: 40 trips removed with an average duration of 0:40:22
 ### :x: Removed trips
@@ -11846,8 +11846,8 @@
 |39|68717343|Crawford Square|19:42:00|0:40:00|—|
 |40|68717344|Crawford Square|20:37:00|0:40:00|—|
 ## :bus: 240 | Avon Square - Ashmont Station
-- Trip numbers :arrow_down: 69 from 392 :arrow_right: 323
-- Average duration :arrow_up: 0:00:53 overall from 0:37:59 :arrow_right: 0:38:52
+- Trip numbers :arrow_down: 69 from 392 to 323
+- Average duration :arrow_up: 0:00:53 overall from 0:37:59 to 0:38:52
 - :white_check_mark: No new trips
 - :x: 69 trips removed with an average duration of 0:33:49
 ### :x: Removed trips
@@ -11923,8 +11923,8 @@
 |68|68717645|Ashmont|19:10:00|0:30:00|—|
 |69|68717646|Ashmont|20:12:00|0:37:00|—|
 ## :bus: 350 | North Burlington - Alewife Station
-- Trip numbers :arrow_down: 109 from 319 :arrow_right: 210
-- Average duration :arrow_up: 0:01:01 overall from 0:46:50 :arrow_right: 0:47:51
+- Trip numbers :arrow_down: 109 from 319 to 210
+- Average duration :arrow_up: 0:01:01 overall from 0:46:50 to 0:47:51
 - :white_check_mark: No new trips
 - :x: 109 trips removed with an average duration of 0:44:52
 ### :x: Removed trips
@@ -12040,7 +12040,7 @@
 |108|68422777|North Burlington via Mall Rd|09:10:00|0:48:00|—|
 |109|68422778|Alewife|08:35:00|0:29:00|—|
 ## :bus: 354 | North Burlington - State Street, Boston
-- Trip numbers :arrow_down: 33 from 99 :arrow_right: 66
+- Trip numbers :arrow_down: 33 from 99 to 66
 - Average duration did not change
 - :white_check_mark: No new trips
 - :x: 33 trips removed with an average duration of 0:58:52
@@ -12081,8 +12081,8 @@
 |32|68576383|Boston (Express) via Woburn|08:10:00|1:04:00|—|
 |33|68576384|Boston (Express) via Woburn|07:50:00|1:04:00|—|
 ## :bus: 411 | Kennedy Drive or Jack Satter House - Malden Center Station
-- Trip numbers :arrow_down: 17 from 108 :arrow_right: 91
-- Average duration :arrow_down: 0:02:23 overall from 0:42:56 :arrow_right: 0:40:32
+- Trip numbers :arrow_down: 17 from 108 to 91
+- Average duration :arrow_down: 0:02:24 overall from 0:42:56 to 0:40:32
 - :white_check_mark: No new trips
 - :x: 17 trips removed with an average duration of 0:55:45
 ### :x: Removed trips
@@ -12106,8 +12106,8 @@
 |16|68515276|Jack Satter House|10:05:00|0:49:00|—|
 |17|68515277|Malden|10:00:00|0:57:00|—|
 ## :bus: 426 | Central Square, Lynn - Haymarket or Wonderland Station
-- Trip numbers :arrow_down: 34 from 244 :arrow_right: 210
-- Average duration :arrow_up: 0:00:24 overall from 0:40:34 :arrow_right: 0:40:59
+- Trip numbers :arrow_down: 34 from 244 to 210
+- Average duration :arrow_up: 0:00:25 overall from 0:40:34 to 0:40:59
 - :white_check_mark: No new trips
 - :x: 34 trips removed with an average duration of 0:38:01
 ### :x: Removed trips
@@ -12148,8 +12148,8 @@
 |33|68677081|Central Square via Cliftondale|00:15:00|0:30:00|—|
 |34|68677082|Central Square via Cliftondale|01:10:00|0:30:00|—|
 ## :bus: 429 | Northgate Shopping Center - Central Square, Lynn
-- Trip numbers :arrow_down: 28 from 177 :arrow_right: 149
-- Average duration :arrow_down: 0:00:19 overall from 0:48:28 :arrow_right: 0:48:08
+- Trip numbers :arrow_down: 28 from 177 to 149
+- Average duration :arrow_down: 0:00:20 overall from 0:48:28 to 0:48:08
 - :white_check_mark: No new trips
 - :x: 28 trips removed with an average duration of 0:50:15
 ### :x: Removed trips
@@ -12184,8 +12184,8 @@
 |27|68676777|Central Square via Square One Mall|22:00:00|0:50:00|—|
 |28|68676778|Central Square via Square One Mall|23:00:00|0:47:00|—|
 ## :bus: 430 | Saugus Center - Malden Center Station
-- Trip numbers :arrow_down: 20 from 113 :arrow_right: 93
-- Average duration :arrow_up: 0:00:24 overall from 0:37:39 :arrow_right: 0:38:03
+- Trip numbers :arrow_down: 20 from 113 to 93
+- Average duration :arrow_up: 0:00:24 overall from 0:37:39 to 0:38:03
 - :white_check_mark: No new trips
 - :x: 20 trips removed with an average duration of 0:35:45
 ### :x: Removed trips
@@ -12212,8 +12212,8 @@
 |19|68515420|Saugus Center via Square One Mall|18:55:00|0:35:00|—|
 |20|68515421|Malden via Square One Mall|19:35:00|0:33:00|—|
 ## :bus: 435 | Liberty Tree Mall - Central Square, Lynn via Peabody Square
-- Trip numbers :arrow_down: 34 from 164 :arrow_right: 130
-- Average duration :arrow_up: 0:00:28 overall from 1:06:05 :arrow_right: 1:06:34
+- Trip numbers :arrow_down: 34 from 164 to 130
+- Average duration :arrow_up: 0:00:29 overall from 1:06:05 to 1:06:34
 - :white_check_mark: No new trips
 - :x: 34 trips removed with an average duration of 1:04:15
 ### :x: Removed trips
@@ -12254,8 +12254,8 @@
 |33|68676823|Central Square|22:30:00|0:51:00|—|
 |34|68676825|Central Square|23:05:00|0:51:00|—|
 ## :bus: 436 | Liberty Tree Mall - Central Square, Lynn via Goodwin Circle
-- Trip numbers :arrow_down: 20 from 103 :arrow_right: 83
-- Average duration :arrow_up: 0:00:57 overall from 0:44:18 :arrow_right: 0:45:15
+- Trip numbers :arrow_down: 20 from 103 to 83
+- Average duration :arrow_up: 0:00:57 overall from 0:44:18 to 0:45:15
 - :white_check_mark: No new trips
 - :x: 20 trips removed with an average duration of 0:40:18
 ### :x: Removed trips
@@ -12282,8 +12282,8 @@
 |19|68676751|Central Square via Malls & Lynnfield St|17:00:00|0:45:00|—|
 |20|68676752|Central Square via Malls & Lynnfield St|18:00:00|0:45:00|—|
 ## :bus: 441 | Marblehead - Wonderland Station via Paradise Road
-- Trip numbers :arrow_down: 28 from 164 :arrow_right: 136
-- Average duration :arrow_up: 0:00:19 overall from 0:49:05 :arrow_right: 0:49:25
+- Trip numbers :arrow_down: 28 from 164 to 136
+- Average duration :arrow_up: 0:00:20 overall from 0:49:05 to 0:49:25
 - :white_check_mark: No new trips
 - :x: 28 trips removed with an average duration of 0:47:30
 ### :x: Removed trips
@@ -12318,8 +12318,8 @@
 |27|68677056|Marblehead via Central Square & Paradise Rd|17:00:00|0:47:00|—|
 |28|68677060|Marblehead via Central Square & Paradise Rd|18:00:00|0:47:00|—|
 ## :bus: 442 | Marblehead - Wonderland Station via Humphrey Street
-- Trip numbers :arrow_down: 40 from 244 :arrow_right: 204
-- Average duration :arrow_up: 0:00:00 overall from 0:44:12 :arrow_right: 0:44:12
+- Trip numbers :arrow_down: 40 from 244 to 204
+- Average duration did not change
 - :white_check_mark: No new trips
 - :x: 40 trips removed with an average duration of 0:44:12
 ### :x: Removed trips
@@ -12366,8 +12366,8 @@
 |39|68677076|Marblehead via Central Square & Humphrey St|22:55:00|0:39:00|—|
 |40|68677079|Marblehead via Central Square & Humphrey St|23:45:00|0:39:00|—|
 ## :bus: 450 | Salem Depot - Wonderland or Haymarket Station
-- Trip numbers :arrow_down: 40 from 252 :arrow_right: 212
-- Average duration :arrow_up: 0:01:16 overall from 0:52:15 :arrow_right: 0:53:31
+- Trip numbers :arrow_down: 40 from 252 to 212
+- Average duration :arrow_up: 0:01:16 overall from 0:52:15 to 0:53:31
 - :white_check_mark: No new trips
 - :x: 40 trips removed with an average duration of 0:45:28
 ### :x: Removed trips
@@ -12414,8 +12414,8 @@
 |39|68677078|Salem Depot|23:25:00|0:39:00|—|
 |40|68677080|Salem Depot|00:05:00|0:39:00|—|
 ## :bus: 455 | Salem Depot - Wonderland Station
-- Trip numbers :arrow_down: 64 from 367 :arrow_right: 303
-- Average duration :arrow_up: 0:00:26 overall from 0:52:34 :arrow_right: 0:53:00
+- Trip numbers :arrow_down: 64 from 367 to 303
+- Average duration :arrow_up: 0:00:26 overall from 0:52:34 to 0:53:00
 - :white_check_mark: No new trips
 - :x: 64 trips removed with an average duration of 0:50:29
 ### :x: Removed trips
@@ -12486,8 +12486,8 @@
 |63|68676856|Salem Depot via Central Square|22:45:00|0:45:00|—|
 |64|68676857|Salem Depot via Central Square|23:40:00|0:39:00|—|
 ## :bus: 501 | Brighton Center - Federal Street & Franklin Street
-- Trip numbers :arrow_down: 31 from 132 :arrow_right: 101
-- Average duration :arrow_up: 0:01:49 overall from 0:37:01 :arrow_right: 0:38:51
+- Trip numbers :arrow_down: 31 from 132 to 101
+- Average duration :arrow_up: 0:01:50 overall from 0:37:01 to 0:38:51
 - :white_check_mark: No new trips
 - :x: 31 trips removed with an average duration of 0:31:03
 ### :x: Removed trips
@@ -12525,8 +12525,8 @@
 |30|68395116|Downtown via Cambridge St and Copley (Express)|17:42:00|0:25:00|—|
 |31|68395117|Downtown via Cambridge St and Copley (Express)|18:04:00|0:24:00|—|
 ## :bus: 504 | Watertown Yard - Federal Street & Franklin Street
-- Trip numbers :arrow_down: 85 from 253 :arrow_right: 168
-- Average duration :arrow_up: 0:01:18 overall from 0:28:53 :arrow_right: 0:30:12
+- Trip numbers :arrow_down: 85 from 253 to 168
+- Average duration :arrow_up: 0:01:19 overall from 0:28:53 to 0:30:12
 - :white_check_mark: No new trips
 - :x: 85 trips removed with an average duration of 0:26:17
 ### :x: Removed trips
@@ -12618,8 +12618,8 @@
 |84|68395343|Watertown via Copley and Newton Corner (Express)|08:39:00|0:23:00|—|
 |85|68395344|Downtown via Copley (Express)|09:11:00|0:24:00|—|
 ## :bus: 553 | Roberts - Newton Corner
-- Trip numbers :arrow_down: 20 from 120 :arrow_right: 100
-- Average duration :arrow_up: 0:00:37 overall from 0:34:51 :arrow_right: 0:35:28
+- Trip numbers :arrow_down: 20 from 120 to 100
+- Average duration :arrow_up: 0:00:37 overall from 0:34:51 to 0:35:28
 - :white_check_mark: No new trips
 - :x: 20 trips removed with an average duration of 0:31:42
 ### :x: Removed trips
@@ -12646,8 +12646,8 @@
 |19|68393629|Newton Corner|14:15:00|0:34:00|—|
 |20|68393630|Roberts|12:00:00|0:37:00|—|
 ## :bus: 627 | Bedford VA Hospital - Alewife Station via Hanscom Airport
-- Trip numbers :arrow_down: 48 from 112 :arrow_right: 64
-- Average duration :arrow_down: 0:01:41 overall from 0:53:06 :arrow_right: 0:51:25
+- Trip numbers :arrow_down: 48 from 112 to 64
+- Average duration :arrow_down: 0:01:41 overall from 0:53:06 to 0:51:25
 - :white_check_mark: No new trips
 - :x: 48 trips removed with an average duration of 0:55:22
 ### :x: Removed trips
@@ -12702,8 +12702,8 @@
 |47|68422310|Bedford VA via Hanscom Airport|07:00:00|0:51:00|—|
 |48|68422311|Bedford VA via Hanscom Airport|09:10:00|0:57:00|—|
 ## :bus: 712 | Point Shirley - Orient Heights Station via Revere Street
-- Trip numbers :arrow_down: 52 from 346 :arrow_right: 294
-- Average duration :arrow_down: 0:00:25 overall from 0:15:27 :arrow_right: 0:15:01
+- Trip numbers :arrow_down: 52 from 346 to 294
+- Average duration :arrow_down: 0:00:26 overall from 0:15:27 to 0:15:01
 - :white_check_mark: No new trips
 - :x: 52 trips removed with an average duration of 0:17:53
 ### :x: Removed trips
@@ -12762,8 +12762,8 @@
 |51|68759799|Orient Heights|00:50:00|0:18:00|—|
 |52|68759800|Orient Heights|01:25:00|0:12:00|—|
 ## :bus: 713 | Point Shirley - Orient Heights Station via Winthrop Center
-- Trip numbers :arrow_down: 51 from 340 :arrow_right: 289
-- Average duration :arrow_down: 0:00:18 overall from 0:16:05 :arrow_right: 0:15:46
+- Trip numbers :arrow_down: 51 from 340 to 289
+- Average duration :arrow_down: 0:00:19 overall from 0:16:05 to 0:15:46
 - :white_check_mark: No new trips
 - :x: 51 trips removed with an average duration of 0:17:52
 ### :x: Removed trips
@@ -12821,8 +12821,8 @@
 |50|68759796|Winthrop Beach|01:10:00|0:12:00|—|
 |51|68759798|Orient Heights|00:05:00|0:18:00|—|
 ## :bus: 741 | Logan Airport Terminals - South Station
-- Trip numbers :arrow_down: 233 from 1368 :arrow_right: 1135
-- Average duration :arrow_down: 0:00:12 overall from 0:21:16 :arrow_right: 0:21:03
+- Trip numbers :arrow_down: 233 from 1368 to 1135
+- Average duration :arrow_down: 0:00:13 overall from 0:21:16 to 0:21:03
 - :white_check_mark: No new trips
 - :x: 233 trips removed with an average duration of 0:22:19
 ### :x: Removed trips
@@ -13062,8 +13062,8 @@
 |232|68231958|Logan Airport|01:00:00|0:18:00|—|
 |233|68231959|South Station|01:18:00|0:19:00|—|
 ## :bus: 742 | Design Center - South Station
-- Trip numbers :arrow_down: 186 from 993 :arrow_right: 807
-- Average duration :arrow_down: 0:00:20 overall from 0:12:30 :arrow_right: 0:12:10
+- Trip numbers :arrow_down: 186 from 993 to 807
+- Average duration :arrow_down: 0:00:20 overall from 0:12:30 to 0:12:10
 - :white_check_mark: No new trips
 - :x: 186 trips removed with an average duration of 0:13:57
 ### :x: Removed trips
@@ -13256,8 +13256,8 @@
 |185|68231932|Design Center|00:19:00|0:09:00|—|
 |186|68231939|Design Center|00:40:00|0:09:00|—|
 ## :bus: 743 | Chelsea Station - South Station
-- Trip numbers :arrow_down: 229 from 1211 :arrow_right: 982
-- Average duration :arrow_up: 0:00:20 overall from 0:26:03 :arrow_right: 0:26:24
+- Trip numbers :arrow_down: 229 from 1211 to 982
+- Average duration :arrow_up: 0:00:21 overall from 0:26:03 to 0:26:24
 - :white_check_mark: No new trips
 - :x: 229 trips removed with an average duration of 0:24:34
 ### :x: Removed trips
@@ -13493,8 +13493,8 @@
 |228|68232208|Chelsea|19:21:00|0:24:00|—|
 |229|68232209|South Station|18:54:00|0:24:00|—|
 ## :bus: 746 | Silver Line Way - South Station
-- Trip numbers :arrow_down: 99 from 607 :arrow_right: 508
-- Average duration :arrow_down: 0:00:05 overall from 0:05:54 :arrow_right: 0:05:48
+- Trip numbers :arrow_down: 99 from 607 to 508
+- Average duration :arrow_down: 0:00:06 overall from 0:05:54 to 0:05:48
 - :white_check_mark: No new trips
 - :x: 99 trips removed with an average duration of 0:06:24
 ### :x: Removed trips
@@ -13600,8 +13600,8 @@
 |98|68307172|South Station|22:02:00|0:06:00|—|
 |99|68307173|Silver Line Way|22:47:00|0:06:00|—|
 ## :bus: 749 | Nubian Station - Temple Place
-- Trip numbers :arrow_down: 242 from 1400 :arrow_right: 1158
-- Average duration :arrow_down: 0:00:24 overall from 0:17:57 :arrow_right: 0:17:33
+- Trip numbers :arrow_down: 242 from 1400 to 1158
+- Average duration :arrow_down: 0:00:24 overall from 0:17:57 to 0:17:33
 - :white_check_mark: No new trips
 - :x: 242 trips removed with an average duration of 0:19:53
 ### :x: Removed trips
@@ -13850,8 +13850,8 @@
 |241|68232514|Nubian|18:52:00|0:18:00|—|
 |242|68232515|Downtown|19:13:00|0:20:00|—|
 ## :bus: 751 | Nubian Station - South Station
-- Trip numbers :arrow_down: 172 from 915 :arrow_right: 743
-- Average duration :arrow_down: 0:00:15 overall from 0:18:50 :arrow_right: 0:18:34
+- Trip numbers :arrow_down: 172 from 915 to 743
+- Average duration :arrow_down: 0:00:16 overall from 0:18:50 to 0:18:34
 - :white_check_mark: No new trips
 - :x: 172 trips removed with an average duration of 0:19:58
 ### :x: Removed trips
@@ -14030,8 +14030,8 @@
 |171|68232702|South Station|16:39:00|0:21:00|—|
 |172|68232703|South Station|17:36:00|0:21:00|—|
 ## :bus: 4050 | Georgetowne - Forest Hills Station
-- Trip numbers :arrow_down: 8 from 56 :arrow_right: 48
-- Average duration :arrow_down: 0:00:00 overall from 0:18:49 :arrow_right: 0:18:48
+- Trip numbers :arrow_down: 8 from 56 to 48
+- Average duration :arrow_down: 0:00:01 overall from 0:18:49 to 0:18:48
 - :white_check_mark: No new trips
 - :x: 8 trips removed with an average duration of 0:18:52
 ### :x: Removed trips
@@ -14046,8 +14046,8 @@
 |7|68712651|Forest Hills|18:25:00|0:16:00|—|
 |8|68712652|Cleary Square|18:00:00|0:22:00|—|
 ## :bus: 8993 | Clarendon Hill - Haymarket Station
-- Trip numbers :arrow_down: 2 from 7 :arrow_right: 5
-- Average duration :arrow_up: 0:00:34 overall from 0:28:25 :arrow_right: 0:29:00
+- Trip numbers :arrow_down: 2 from 7 to 5
+- Average duration :arrow_up: 0:00:35 overall from 0:28:25 to 0:29:00
 - :white_check_mark: No new trips
 - :x: 2 trips removed with an average duration of 0:27:00
 ### :x: Removed trips
@@ -14056,8 +14056,8 @@
 |1|68362834|Haymarket via Sullivan|05:16:00|0:29:00|—|
 |2|68515086|Haymarket via Sullivan|04:33:00|0:25:00|—|
 ## :metro: Blue | Blue Line
-- Trip numbers :arrow_down: 1410 from 2702 :arrow_right: 1292
-- Average duration :arrow_up: 0:00:32 overall from 0:18:49 :arrow_right: 0:19:21
+- Trip numbers :arrow_down: 1410 from 2702 to 1292
+- Average duration :arrow_up: 0:00:32 overall from 0:18:49 to 0:19:21
 - :calendar: Monday and Friday were impacted the most
 - :white_check_mark: No new trips
 - :x: 1410 trips removed with an average duration of 0:18:19
@@ -15479,8 +15479,8 @@
 |1409|68749836502|Orient Heights|09:45:00|0:12:00|Mon|
 |1410|68749837502|Wonderland|09:40:00|0:19:00|Mon|
 ## :steam_locomotive: CR-Fitchburg | Fitchburg Line
-- Trip numbers :arrow_down: 32 from 88 :arrow_right: 56
-- Average duration :arrow_down: 0:00:00 overall from 1:26:25 :arrow_right: 1:26:24
+- Trip numbers :arrow_down: 32 from 88 to 56
+- Average duration :arrow_down: 0:00:01 overall from 1:26:25 to 1:26:24
 - :white_check_mark: No new trips
 - :x: 32 trips removed with an average duration of 1:26:26
 ### :x: Removed trips
@@ -15519,8 +15519,8 @@
 |31|Concord250-731863-7401|South Acton|04:30:00|0:53:00|—|
 |32|Concord250-731864-5434|North Station|16:27:00|1:56:00|—|
 ## :steam_locomotive: CR-Worcester | Framingham/Worcester Line
-- Trip numbers :arrow_down: 80 from 157 :arrow_right: 77
-- Average duration :arrow_down: 0:02:24 overall from 1:28:19 :arrow_right: 1:25:55
+- Trip numbers :arrow_down: 80 from 157 to 77
+- Average duration :arrow_down: 0:02:24 overall from 1:28:19 to 1:25:55
 - :white_check_mark: No new trips
 - :x: 80 trips removed with an average duration of 1:30:38
 ### :x: Removed trips
@@ -15607,8 +15607,8 @@
 |79|MarathonSunday-722839-5533|Worcester|11:00:00|1:35:00|—|
 |80|MarathonSunday-722840-5515|Worcester|07:00:00|1:35:00|—|
 ## :tram: Green-B | Green Line B
-- Trip numbers :arrow_down: 282 from 1832 :arrow_right: 1550
-- Average duration :arrow_down: 0:00:19 overall from 0:43:59 :arrow_right: 0:43:40
+- Trip numbers :arrow_down: 282 from 1832 to 1550
+- Average duration :arrow_down: 0:00:19 overall from 0:43:59 to 0:43:40
 - :white_check_mark: No new trips
 - :x: 282 trips removed with an average duration of 0:45:44
 ### :x: Removed trips
@@ -15897,8 +15897,8 @@
 |281|68101445-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:22:00|0:45:00|—|
 |282|68101446-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:10:00|0:44:00|—|
 ## :tram: Green-C | Green Line C
-- Trip numbers :arrow_down: 282 from 1832 :arrow_right: 1550
-- Average duration :arrow_down: 0:00:02 overall from 0:34:01 :arrow_right: 0:33:58
+- Trip numbers :arrow_down: 282 from 1832 to 1550
+- Average duration :arrow_down: 0:00:03 overall from 0:34:01 to 0:33:58
 - :white_check_mark: No new trips
 - :x: 282 trips removed with an average duration of 0:34:16
 ### :x: Removed trips
@@ -16187,8 +16187,8 @@
 |281|68101284-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|00:35:00|0:31:00|—|
 |282|68101285-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|23:46:00|0:31:00|—|
 ## :tram: Green-D | Green Line D
-- Trip numbers :arrow_down: 288 from 1835 :arrow_right: 1547
-- Average duration :arrow_down: 0:01:08 overall from 0:56:31 :arrow_right: 0:55:23
+- Trip numbers :arrow_down: 288 from 1835 to 1547
+- Average duration :arrow_down: 0:01:08 overall from 0:56:31 to 0:55:23
 - :white_check_mark: No new trips
 - :x: 288 trips removed with an average duration of 1:02:40
 ### :x: Removed trips
@@ -16483,8 +16483,8 @@
 |287|68101750-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|00:15:00|0:57:00|—|
 |288|68101755-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:55:00|0:59:00|—|
 ## :tram: Green-E | Green Line E
-- Trip numbers :arrow_down: 329 from 1960 :arrow_right: 1631
-- Average duration :arrow_down: 0:01:34 overall from 0:42:13 :arrow_right: 0:40:39
+- Trip numbers :arrow_down: 329 from 1960 to 1631
+- Average duration :arrow_down: 0:01:34 overall from 0:42:13 to 0:40:39
 - :white_check_mark: No new trips
 - :x: 329 trips removed with an average duration of 0:50:03
 ### :x: Removed trips
