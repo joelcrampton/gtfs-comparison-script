@@ -1,27 +1,27 @@
-from enum import Enum
+from enum import Enum, IntEnum
 
 # trips.txt
-class BikesAllowed(Enum):
+class BikesAllowed(IntEnum):
     NO_INFORMATION = 0
     ALLOWED = 1
     NOT_ALLOWED = 2
 
 # stop_times.txt
-class CollectionType(Enum):
+class CollectionType(IntEnum):
     REGULARY_SCHEDULED = 0
     NO_PICKUP = 1
     PHONE_AGENCY = 2
     COORDINATE_WITH_DRIVER = 3
 
 # routes.txt, stop_times.txt
-class Continuous(Enum):
+class Continuous(IntEnum):
     CONTINUOUS = 0
     NO_CONTINUOUS = 1
     PHONE_AGENCY = 2
     COORDINATE_WITH_DRIVER = 3
 
 # calendar.txt
-class Day(Enum):
+class Day(IntEnum):
     MONDAY = 1
     TUESDAY = 2
     WEDNESDAY = 3
@@ -60,7 +60,7 @@ class Day(Enum):
         return self.get_week()[5:]
 
 # trips.txt
-class DirectionId(Enum):
+class DirectionId(IntEnum):
     OUTBOUND = 0
     INBOUND = 1
 
@@ -82,12 +82,12 @@ class Emoji(Enum):
     ARROW_DOWN = chr(0x2B07) + chr(0xFE0F)
 
 # calendar_dates.txt
-class ExceptionType(Enum):
+class ExceptionType(IntEnum):
     ADDED = 1
     REMOVED = 2
 
 # stops.txt
-class LocationType(Enum):
+class LocationType(IntEnum):
     STOP = 0
     STATION = 1
     ENTRANCE_EXIT = 2
@@ -95,7 +95,7 @@ class LocationType(Enum):
     BOARDING_AREA = 4
 
 # routes.txt
-class RouteType(Enum):
+class RouteType(IntEnum):
     TRAM = 0
     METRO = 1
     RAIL = 2
@@ -133,12 +133,12 @@ class RouteType(Enum):
 
 
 # stop_times.txt
-class Timepoint(Enum):
+class Timepoint(IntEnum):
     APPROXIMATE = 0
     EXACT = 1
 
 # stops.txt, trips.txt
-class WheelchairAccess(Enum):
+class WheelchairAccess(IntEnum):
     NO_INFORMATION = 0
     ACCESSIBLE = 1
     NOT_ACCESSIBLE = 2

@@ -7,7 +7,7 @@ from pathlib import Path
 from gtfs import Gtfs, load
 from trip import Trip
 from enums import Day, Emoji
-from utils import find_time_diff, format_timedelta
+from utils import get_time_diff, format_timedelta
 
 warnings.simplefilter("ignore", category=pd.errors.DtypeWarning) # Suppress DtypeWarnings from pandas
 
@@ -45,8 +45,7 @@ def summarise_days(days_count: dict[Day, int], file):
   if not days_count:
     return
   impacted_value = max(days_count.values())
-  impacted_days = [k for k, v in days_count.items() if v == impacted_value]
-  impacted_days = sorted(impacted_days, key=lambda day: day.value)
+  impacted_days = sorted([k for k, v in days_count.items() if v == impacted_value])
   if set(impacted_days) != set(Day.get_week()): # Only report Days if some are impacted more than others
     days = join_days(impacted_days)
     if set(impacted_days) == set(Day.get_weekdays()):
@@ -63,15 +62,14 @@ def summarise_trips(gtfs: Gtfs, trips: list[Trip], new: bool, file):
     average_duration = gtfs.get_average_duration(trips)
     available_days_count = gtfs.get_available_days_count(trips)
     print(f'- {emoji} {len(trips)} {'new trips' if new else 'trips removed'} with an average duration of {format_timedelta(average_duration)}', file=file)
-    for day in sorted(available_days_count.keys(), key=lambda day: day.value):
+    for day in sorted(available_days_count.keys()):
       print(f'\t- {available_days_count[day]} on {day.name.title()}', file=file)
 
 def info(gtfs: Gtfs, trips: list[Trip], file):
   print('||Trip|Headsign|Start time|Duration|Days|', file=file)
   print('|--:|:--|:--|--:|--:|:--|', file=file)
-  trips = sorted(trips, key=lambda trip: trip.trip_id)
   count = 0
-  for trip in trips:
+  for trip in sorted(trips, key=lambda trip: trip.sort_key()):
     count += 1
     service_id = trip.service_id
     trip_id = trip.trip_id
@@ -88,8 +86,7 @@ def main():
     
     routes = [v for k, v in before.routes.items() if k not in after.routes.keys()] # Removed Routes
     routes += after.routes.values() # All Routes
-    routes = sorted(routes, key=lambda route: (route.route_type.value, route.route_id))
-    for route in routes:
+    for route in sorted(routes, key=lambda route: route.sort_key()):
       route_id = route.route_id
       route_long_name = route.route_long_name
       route_type = route.route_type
@@ -108,13 +105,13 @@ def main():
           days_count = after.get_available_days_count(new_trips.values())
           print(f'- {Emoji.WHITE_CHECK_MARK.value} All new trips', file=file)
           summarise_days(days_count, file)
-          for day in sorted(days_count.keys(), key=lambda day: day.value):
+          for day in sorted(days_count.keys()):
             print(f'\t- {days_count[day]} on {day.name.title()}', file=file)
         elif not trips_after:
           days_count = before.get_available_days_count(removed_trips.values())
           print(f'- {Emoji.X.value} All trips removed', file=file)
           summarise_days(days_count, file)
-          for day in sorted(days_count.keys(), key=lambda day: day.value):
+          for day in sorted(days_count.keys()):
             print(f'\t- {days_count[day]} on {day.name.title()}', file=file)
         else:
           trips_emoji = Emoji.ARROW_UP.value if len(trips_before) < len(trips_after) else Emoji.ARROW_DOWN.value
@@ -123,7 +120,7 @@ def main():
           x = before.get_average_duration(trips_before.values())
           y = after.get_average_duration(trips_after.values())
           average_duration_emoji = Emoji.ARROW_UP.value if x < y else Emoji.ARROW_DOWN.value
-          average_duration_value = find_time_diff(x, y)
+          average_duration_value = get_time_diff(x, y)
           days_count = dict(Counter(after.get_available_days_count(new_trips.values())) + Counter(before.get_available_days_count(removed_trips.values())))
           
           if trips_value:

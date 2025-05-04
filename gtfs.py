@@ -11,7 +11,7 @@ from calendar_date import CalendarDate
 from shape import Shape
 from feed_info import FeedInfo
 from enums import Day, RouteType
-from utils import find_average_duration
+from utils import get_average_duration
 
 @dataclass(frozen=True)
 class Gtfs:
@@ -64,7 +64,7 @@ class Gtfs:
     durations = []
     for trip in trips:
       durations.append(self.get_trip_duration(trip.trip_id))
-    return find_average_duration(durations)
+    return get_average_duration(durations)
   
   def get_available_days(self, service_id: str) -> list:
     return self.calendars[service_id].get_available_days()
@@ -104,35 +104,35 @@ def load_dict_list(df: pd.DataFrame, type_: type) -> dict:
 def load(dir) -> Gtfs:
   filepath = f'{dir}/agency.txt'
   print(f'Loading {filepath}')
-  agencies = load_dict_value(pd.read_csv(filepath).sort_values(by='agency_name'), Agency)
+  agencies = load_dict_value(pd.read_csv(filepath), Agency)
   
   filepath = f'{dir}/stops.txt'
   print(f'Loading {filepath}')
-  stops = load_dict_value(pd.read_csv(filepath).sort_values(by='stop_id'), Stop)
+  stops = load_dict_value(pd.read_csv(filepath), Stop)
   
   filepath = f'{dir}/routes.txt'
   print(f'Loading {filepath}')
-  routes = load_dict_value(pd.read_csv(filepath).sort_values(by='route_id'), Route)
+  routes = load_dict_value(pd.read_csv(filepath), Route)
   
   filepath = f'{dir}/trips.txt'
   print(f'Loading {filepath}')
-  trips = load_dict_value(pd.read_csv(filepath).sort_values(by='trip_id'), Trip)
+  trips = load_dict_value(pd.read_csv(filepath), Trip)
   
   filepath = f'{dir}/stop_times.txt'
   print(f'Loading {filepath}')
-  stop_times = load_dict_list(pd.read_csv(filepath).sort_values(by=['trip_id', 'stop_id']), StopTime)
+  stop_times = load_dict_list(pd.read_csv(filepath), StopTime)
   
   filepath = f'{dir}/calendar.txt'
   print(f'Loading {filepath}')
-  calendars = load_dict_value(pd.read_csv(filepath).sort_values(by='service_id'), Calendar)
+  calendars = load_dict_value(pd.read_csv(filepath), Calendar)
   
   filepath = f'{dir}/calendar_dates.txt'
   print(f'Loading {filepath}')
-  calendar_dates = load_dict_value(pd.read_csv(filepath).sort_values(by='service_id'), CalendarDate)
+  calendar_dates = load_dict_value(pd.read_csv(filepath), CalendarDate)
   
   filepath = f'{dir}/shapes.txt'
   print(f'Loading {filepath}')
-  shapes = load_dict_list(pd.read_csv(filepath).sort_values(by='shape_id'), Shape)
+  shapes = load_dict_list(pd.read_csv(filepath), Shape)
   
   filepath = f'{dir}/feed_info.txt'
   print(f'Loading {filepath}')

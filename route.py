@@ -1,7 +1,7 @@
 import pandas as pd
 from dataclasses import dataclass
 from enums import Continuous, RouteType
-from utils import check_color, check_url
+from utils import check_color, check_url, get_int_prefix
 
 # Reference: https://gtfs.org/documentation/schedule/reference/#routestxt
 @dataclass(frozen=True)
@@ -48,3 +48,7 @@ class Route:
     
     def get_id(self) -> str:
         return self.route_id
+
+    def sort_key(self):
+        prefix = get_int_prefix(self.route_id)
+        return (self.route_type, 0, prefix) if prefix is not None else (self.route_type, 1, self.route_id)

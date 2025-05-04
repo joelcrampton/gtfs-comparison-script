@@ -1,6 +1,7 @@
 import pandas as pd
 from dataclasses import dataclass
 from enums import BikesAllowed, DirectionId, WheelchairAccess
+from utils import get_int_prefix
 
 # Reference: https://gtfs.org/documentation/schedule/reference/#tripstxt
 @dataclass(frozen=True)
@@ -40,3 +41,7 @@ class Trip:
     
     def get_id(self) -> str:
         return self.trip_id
+
+    def sort_key(self):
+        prefix = get_int_prefix(self.trip_id)
+        return (0, prefix) if prefix is not None else (1, self.trip_id)

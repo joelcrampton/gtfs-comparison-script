@@ -22,7 +22,7 @@ def check_email(email: str) -> bool:
     except EmailNotValidError:
         return False
 
-def find_average_duration(durations: list) -> timedelta:
+def get_average_duration(durations: list) -> timedelta:
     total_seconds = 0
     for t in durations:
       total_seconds += t.total_seconds()
@@ -32,7 +32,11 @@ def find_average_duration(durations: list) -> timedelta:
     h, m, s = split_total_seconds(average_seconds)
     return timedelta(hours=h, minutes=m, seconds=s)
 
-def find_time_diff(x: timedelta, y: timedelta) -> timedelta:
+def get_int_prefix(x: str):
+    match = re.match(r'^(\d+)', x)
+    return int(match.group(1)) if match else None
+
+def get_time_diff(x: timedelta, y: timedelta) -> timedelta:
   elapsed = abs(x.total_seconds() - y.total_seconds())
   h, m, s = split_total_seconds(elapsed)
   return timedelta(hours=h, minutes=m, seconds=s)
