@@ -133,11 +133,11 @@ def main():
           days_count = dict(Counter(after.get_available_days_count(new_trips.values())) + Counter(before.get_available_days_count(removed_trips.values())))
           
           if trips_value:
-            print(f'- Trip numbers {trips_emoji} {trips_value} from {len(trips_before)} to {len(trips_after)}', file=file)
+            print(f'- Trip numbers {trips_emoji} {trips_value} from {len(trips_before)} {Emoji.ARROW_RIGHT.value} {len(trips_after)}', file=file)
           else:
             print('- Trip numbers did not change', file=file)
           if average_duration_value:
-            print(f'- Average duration {average_duration_emoji} {format_timedelta(average_duration_value)} overall from {format_timedelta(x)} to {format_timedelta(y)}', file=file)
+            print(f'- Average duration {average_duration_emoji} {format_timedelta(average_duration_value)} overall from {format_timedelta(x)} {Emoji.ARROW_RIGHT.value} {format_timedelta(y)}', file=file)
           else:
             print(f'- Average duration did not change', file=file)
           summarise_days(days_count, file)
