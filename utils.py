@@ -1,3 +1,4 @@
+import math
 import re
 from datetime import time, timedelta
 from email_validator import validate_email, EmailNotValidError
@@ -28,7 +29,7 @@ def get_average_duration(durations: list) -> timedelta:
       total_seconds += t.total_seconds()
     if total_seconds == 0:
       return timedelta()
-    average_seconds = total_seconds / len(durations)
+    average_seconds = total_seconds // len(durations)
     h, m, s = split_total_seconds(average_seconds)
     return timedelta(hours=h, minutes=m, seconds=s)
 
@@ -37,15 +38,16 @@ def get_int_prefix(x: str):
     return int(match.group(1)) if match else None
 
 def get_time_diff(x: timedelta, y: timedelta) -> timedelta:
-  elapsed = abs(x.total_seconds() - y.total_seconds())
+  elapsed = math.floor(abs(x.total_seconds() - y.total_seconds()))
   h, m, s = split_total_seconds(elapsed)
   return timedelta(hours=h, minutes=m, seconds=s)
 
 def format_timedelta(t: timedelta) -> str:
-  h, m, s = split_total_seconds(t.total_seconds())
+  total_seconds = math.floor(t.total_seconds())
+  h, m, s = split_total_seconds(total_seconds)
   return f'{int(h)}:{int(m):02}:{int(s):02}'
 
-def split_total_seconds(total_seconds: float) -> tuple[float, float, float]:
+def split_total_seconds(total_seconds: int) -> tuple[int, int, int]:
     h = total_seconds // 3600
     m = (total_seconds % 3600) // 60
     s = total_seconds % 60
