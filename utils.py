@@ -45,7 +45,7 @@ def get_time_diff(x: timedelta, y: timedelta) -> timedelta:
 def format_timedelta(t: timedelta) -> str:
   total_seconds = math.floor(t.total_seconds())
   h, m, s = split_total_seconds(total_seconds)
-  return f'{int(h)}:{int(m):02}:{int(s):02}'
+  return f'{h}:{m:02}:{s:02}'
 
 def split_total_seconds(total_seconds: int) -> tuple[int, int, int]:
     h = total_seconds // 3600
