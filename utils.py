@@ -1,6 +1,4 @@
 import re
-import os
-import zipfile
 from datetime import time, timedelta
 from email_validator import validate_email, EmailNotValidError
 from urllib.parse import urlparse
