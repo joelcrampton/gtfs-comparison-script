@@ -65,21 +65,23 @@ class DirectionId(IntEnum):
     INBOUND = 1
 
 class Emoji(Enum):
-    CALENDAR = chr(0x1F4C5)
-    STEAM_LOCOMOTIVE = chr(0x1F682)
-    METRO = chr(0x1F687)
-    LIGHT_RAIL = chr(0x1F688)
-    TRAM = chr(0x1F68A)
-    BUS = chr(0x1F68C)
-    TROLLEYBUS = chr(0x1F68E)
-    MONORAIL = chr(0x1F69D)
-    MOUNTAIN_CABLEWAY = chr(0x1F6A0)
-    AERIAL_TRAMWAY = chr(0x1F6A1)
-    FERRY = chr(0x26F4)
-    WHITE_CHECK_MARK = chr(0x2705)
-    X = chr(0x274C)
-    ARROW_UP = chr(0x2B06) + chr(0xFE0F)
-    ARROW_DOWN = chr(0x2B07) + chr(0xFE0F)
+    TRAM = ':tram:'
+    METRO = ':metro:'
+    STEAM_LOCOMOTIVE = ':steam_locomotive:'
+    BUS = ':bus:'
+    FERRY = ':ferry:'
+    LIGHT_RAIL = ':light_rail:'
+    AERIAL_TRAMWAY = ':aerial_tramway:'
+    MOUNTAIN_CABLEWAY = ':mountain_cableway:'
+    TROLLEYBUS = ':trolleybus:'
+    MONORAIL = ':monorail:'
+    ARROW_UP = ':arrow_up:'
+    ARROW_DOWN = ':arrow_down:'
+    ARROW_LEFT = ':arrow_left:'
+    ARROW_RIGHT = ':arrow_right:'
+    WHITE_CHECK_MARK = ':white_check_mark:'
+    X = ':x:'
+    CALENDAR = ':calendar:'
 
 # calendar_dates.txt
 class ExceptionType(IntEnum):
