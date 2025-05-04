@@ -51,4 +51,4 @@ class Route:
 
     def sort_key(self):
         prefix = get_int_prefix(self.route_id)
-        return (self.route_type, 0, prefix) if prefix is not None else (self.route_type, 1, self.route_id)
+        return (0, prefix) if prefix is not None else (1, self.route_id)

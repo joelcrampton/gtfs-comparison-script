@@ -1,2768 +1,4 @@
 # MBTA 2025-04-17 vs. MBTA 2025-04-22
-## 🚊 Green-B | Green Line B
-- Trip numbers ⬇️ 282 from 1832 to 1550
-- Average duration ⬇️ 0:00:19 overall from 0:43:59 to 0:43:40
-- ✅ No new trips
-- ❌ 282 trips removed with an average duration of 0:45:44
-### ❌ Removed trips
-||Trip|Headsign|Start time|Duration|Days|
-|--:|:--|:--|--:|--:|:--|
-|1|68100986-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|05:45:00|0:39:00|—|
-|2|68100987-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|05:54:00|0:39:00|—|
-|3|68100992-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:04:00|0:39:00|—|
-|4|68100994-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:13:00|0:39:00|—|
-|5|68100996-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:23:00|0:40:00|—|
-|6|68100998-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:33:00|0:41:00|—|
-|7|68101000-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:43:00|0:42:00|—|
-|8|68101016-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:04:00|0:43:00|—|
-|9|68101017-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:38:00|0:43:00|—|
-|10|68101018-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:54:00|0:43:00|—|
-|11|68101019-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:30:00|0:43:00|—|
-|12|68101020-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:41:00|0:43:00|—|
-|13|68101021-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:14:00|0:43:00|—|
-|14|68101022-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:55:00|0:43:00|—|
-|15|68101023-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:23:00|0:43:00|—|
-|16|68101024-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:32:00|0:43:00|—|
-|17|68101025-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:48:00|0:43:00|—|
-|18|68101026-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:01:00|0:43:00|—|
-|19|68101027-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:08:00|0:43:00|—|
-|20|68101028-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:15:00|0:43:00|—|
-|21|68101029-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:22:00|0:43:00|—|
-|22|68101033-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:52:00|0:43:00|—|
-|23|68101035-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:00:00|0:43:00|—|
-|24|68101037-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:08:00|0:43:00|—|
-|25|68101039-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:15:00|0:43:00|—|
-|26|68101041-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:23:00|0:43:00|—|
-|27|68101043-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:31:00|0:43:00|—|
-|28|68101045-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:39:00|0:43:00|—|
-|29|68101047-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:46:00|0:43:00|—|
-|30|68101049-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:52:00|0:43:00|—|
-|31|68101052-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:59:00|0:44:00|—|
-|32|68101054-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:06:00|0:44:00|—|
-|33|68101056-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:13:00|0:45:00|—|
-|34|68101059-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:20:00|0:45:00|—|
-|35|68101060-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:27:00|0:45:00|—|
-|36|68101063-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:43:00|0:45:00|—|
-|37|68101065-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:51:00|0:45:00|—|
-|38|68101067-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:59:00|0:45:00|—|
-|39|68101069-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:06:00|0:45:00|—|
-|40|68101071-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:14:00|0:45:00|—|
-|41|68101073-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:22:00|0:45:00|—|
-|42|68101074-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:37:00|0:45:00|—|
-|43|68101076-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:30:00|0:45:00|—|
-|44|68101079-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:43:00|0:45:00|—|
-|45|68101081-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:51:00|0:45:00|—|
-|46|68101083-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:59:00|0:45:00|—|
-|47|68101085-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:07:00|0:45:00|—|
-|48|68101088-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:15:00|0:45:00|—|
-|49|68101091-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:31:00|0:45:00|—|
-|50|68101094-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:47:00|0:45:00|—|
-|51|68101095-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:55:00|0:45:00|—|
-|52|68101096-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:03:00|0:45:00|—|
-|53|68101098-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:11:00|0:45:00|—|
-|54|68101100-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:19:00|0:45:00|—|
-|55|68101102-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:27:00|0:45:00|—|
-|56|68101104-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:34:00|0:45:00|—|
-|57|68101106-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:42:00|0:45:00|—|
-|58|68101108-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:59:00|0:45:00|—|
-|59|68101109-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:15:00|0:45:00|—|
-|60|68101111-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:07:00|0:45:00|—|
-|61|68101113-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:44:00|0:43:00|—|
-|62|68101114-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:35:00|0:45:00|—|
-|63|68101115-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:23:00|0:45:00|—|
-|64|68101117-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:23:00|0:45:00|—|
-|65|68101119-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:31:00|0:45:00|—|
-|66|68101122-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:40:00|0:45:00|—|
-|67|68101124-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:48:00|0:45:00|—|
-|68|68101126-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:56:00|0:45:00|—|
-|69|68101129-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:04:00|0:45:00|—|
-|70|68101195-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:20:00|0:41:00|—|
-|71|68101196-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:16:00|1:03:00|—|
-|72|68101197-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:01:00|0:41:00|—|
-|73|68101198-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:10:00|0:41:00|—|
-|74|68101199-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:29:00|0:41:00|—|
-|75|68101200-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:39:00|0:41:00|—|
-|76|68101201-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:49:00|0:41:00|—|
-|77|68101202-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:59:00|0:41:00|—|
-|78|68101203-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:09:00|0:41:00|—|
-|79|68101204-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:19:00|0:41:00|—|
-|80|68101205-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:29:00|0:42:00|—|
-|81|68101206-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:37:00|0:43:00|—|
-|82|68101207-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:45:00|0:44:00|—|
-|83|68101208-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:52:00|0:46:00|—|
-|84|68101209-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:59:00|0:46:00|—|
-|85|68101210-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:06:00|0:46:00|—|
-|86|68101211-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:12:00|0:46:00|—|
-|87|68101212-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:19:00|0:46:00|—|
-|88|68101213-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:26:00|0:46:00|—|
-|89|68101214-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:33:00|0:46:00|—|
-|90|68101215-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:41:00|0:46:00|—|
-|91|68101216-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:49:00|0:46:00|—|
-|92|68101217-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:55:00|0:46:00|—|
-|93|68101218-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:03:00|0:46:00|—|
-|94|68101219-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:11:00|0:46:00|—|
-|95|68101220-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:19:00|0:46:00|—|
-|96|68101221-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:26:00|0:46:00|—|
-|97|68101222-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:34:00|0:46:00|—|
-|98|68101223-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:42:00|0:46:00|—|
-|99|68101224-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:10:00|0:46:00|—|
-|100|68101225-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:50:00|0:46:00|—|
-|101|68101226-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:57:00|0:46:00|—|
-|102|68101227-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:03:00|0:46:00|—|
-|103|68101228-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:17:00|0:46:00|—|
-|104|68101229-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:24:00|0:46:00|—|
-|105|68101230-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:46:00|0:46:00|—|
-|106|68101231-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:54:00|0:46:00|—|
-|107|68101232-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:31:00|0:46:00|—|
-|108|68101233-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:38:00|0:46:00|—|
-|109|68101234-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:02:00|0:46:00|—|
-|110|68101235-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:10:00|0:46:00|—|
-|111|68101236-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:17:00|0:46:00|—|
-|112|68101237-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:25:00|0:46:00|—|
-|113|68101238-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:33:00|0:46:00|—|
-|114|68101239-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:41:00|0:46:00|—|
-|115|68101240-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:48:00|0:46:00|—|
-|116|68101241-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:54:00|0:46:00|—|
-|117|68101242-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:02:00|0:46:00|—|
-|118|68101243-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:10:00|0:46:00|—|
-|119|68101244-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:18:00|0:46:00|—|
-|120|68101245-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:26:00|0:46:00|—|
-|121|68101246-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:34:00|0:46:00|—|
-|122|68101247-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:42:00|0:46:00|—|
-|123|68101248-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:58:00|0:46:00|—|
-|124|68101249-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:06:00|0:46:00|—|
-|125|68101250-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:14:00|0:46:00|—|
-|126|68101251-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:22:00|0:46:00|—|
-|127|68101252-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:30:00|0:46:00|—|
-|128|68101253-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:38:00|0:46:00|—|
-|129|68101254-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:45:00|0:46:00|—|
-|130|68101255-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:53:00|0:46:00|—|
-|131|68101256-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:10:00|0:46:00|—|
-|132|68101257-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:18:00|0:46:00|—|
-|133|68101258-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:26:00|0:46:00|—|
-|134|68101259-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:59:00|0:46:00|—|
-|135|68101260-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:34:00|0:46:00|—|
-|136|68101261-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:42:00|0:46:00|—|
-|137|68101262-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:51:00|0:46:00|—|
-|138|68101263-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:07:00|0:46:00|—|
-|139|68101264-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:15:00|0:46:00|—|
-|140|68101268-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:30:00|1:03:00|—|
-|141|68101305-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:39:00|0:45:00|—|
-|142|68101306-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:59:00|0:49:00|—|
-|143|68101307-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:14:00|0:49:00|—|
-|144|68101308-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:06:00|0:49:00|—|
-|145|68101309-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:06:00|0:49:00|—|
-|146|68101310-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:22:00|0:49:00|—|
-|147|68101311-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:38:00|0:49:00|—|
-|148|68101312-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:14:00|0:49:00|—|
-|149|68101313-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:30:00|0:49:00|—|
-|150|68101314-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:38:00|0:49:00|—|
-|151|68101315-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:54:00|0:49:00|—|
-|152|68101316-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:30:00|0:49:00|—|
-|153|68101317-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:46:00|0:49:00|—|
-|154|68101318-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:38:00|0:43:00|—|
-|155|68101319-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:58:00|0:49:00|—|
-|156|68101320-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:43:00|0:48:00|—|
-|157|68101321-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:46:00|0:49:00|—|
-|158|68101322-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:51:00|0:48:00|—|
-|159|68101323-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:22:00|0:49:00|—|
-|160|68101324-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:22:00|0:46:00|—|
-|161|68101325-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:12:00|0:45:00|—|
-|162|68101326-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:30:00|0:47:00|—|
-|163|68101327-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:20:00|0:45:00|—|
-|164|68101328-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:37:00|0:48:00|—|
-|165|68101329-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:51:00|0:49:00|—|
-|166|68101330-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:37:00|0:50:00|—|
-|167|68101331-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:28:00|0:46:00|—|
-|168|68101332-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:44:00|0:49:00|—|
-|169|68101333-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:36:00|0:47:00|—|
-|170|68101334-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:37:00|0:49:00|—|
-|171|68101335-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:22:00|0:49:00|—|
-|172|68101336-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:24:00|0:50:00|—|
-|173|68101337-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:30:00|0:49:00|—|
-|174|68101338-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:25:00|0:49:00|—|
-|175|68101339-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:34:00|0:49:00|—|
-|176|68101340-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:01:00|0:49:00|—|
-|177|68101341-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:29:00|0:50:00|—|
-|178|68101342-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:53:00|0:49:00|—|
-|179|68101343-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:01:00|0:49:00|—|
-|180|68101344-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:32:00|0:50:00|—|
-|181|68101345-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:14:00|0:49:00|—|
-|182|68101346-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:45:00|0:49:00|—|
-|183|68101347-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:17:00|0:49:00|—|
-|184|68101348-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:49:00|0:50:00|—|
-|185|68101349-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:21:00|0:50:00|—|
-|186|68101350-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:06:00|0:49:00|—|
-|187|68101351-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:13:00|0:50:00|—|
-|188|68101352-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:53:00|0:49:00|—|
-|189|68101353-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:57:00|0:50:00|—|
-|190|68101354-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:45:00|0:49:00|—|
-|191|68101355-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:09:00|0:49:00|—|
-|192|68101356-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:16:00|0:50:00|—|
-|193|68101357-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:42:00|0:49:00|—|
-|194|68101358-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:41:00|0:50:00|—|
-|195|68101359-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:05:00|0:50:00|—|
-|196|68101360-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:09:00|0:49:00|—|
-|197|68101361-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:50:00|0:49:00|—|
-|198|68101362-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:58:00|0:49:00|—|
-|199|68101363-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:49:00|0:45:00|—|
-|200|68101364-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:48:00|0:47:00|—|
-|201|68101365-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:28:00|0:47:00|—|
-|202|68101366-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:28:00|0:46:00|—|
-|203|68101367-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:41:00|0:48:00|—|
-|204|68101368-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:37:00|0:45:00|—|
-|205|68101369-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:36:00|0:47:00|—|
-|206|68101370-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:05:00|0:48:00|—|
-|207|68101371-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:40:00|0:45:00|—|
-|208|68101372-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:58:00|0:45:00|—|
-|209|68101373-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:20:00|0:47:00|—|
-|210|68101374-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:56:00|0:47:00|—|
-|211|68101375-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:19:00|0:47:00|—|
-|212|68101376-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:29:00|0:48:00|—|
-|213|68101377-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:31:00|0:45:00|—|
-|214|68101378-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:13:00|0:48:00|—|
-|215|68101379-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:10:00|0:47:00|—|
-|216|68101380-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:12:00|0:47:00|—|
-|217|68101381-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:02:00|0:47:00|—|
-|218|68101382-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:22:00|0:45:00|—|
-|219|68101383-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:37:00|0:48:00|—|
-|220|68101384-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:49:00|0:48:00|—|
-|221|68101385-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:46:00|0:44:00|—|
-|222|68101386-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:21:00|0:48:00|—|
-|223|68101387-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:44:00|0:47:00|—|
-|224|68101388-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:32:00|0:47:00|—|
-|225|68101389-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:12:00|0:46:00|—|
-|226|68101390-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:23:00|0:48:00|—|
-|227|68101391-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:52:00|0:47:00|—|
-|228|68101392-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:32:00|0:48:00|—|
-|229|68101393-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:01:00|0:47:00|—|
-|230|68101394-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:04:00|0:47:00|—|
-|231|68101395-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:54:00|0:47:00|—|
-|232|68101396-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:57:00|0:48:00|—|
-|233|68101397-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:45:00|0:48:00|—|
-|234|68101398-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:40:00|0:47:00|—|
-|235|68101399-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:00:00|0:49:00|—|
-|236|68101400-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:16:00|0:48:00|—|
-|237|68101401-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:52:00|0:49:00|—|
-|238|68101402-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:08:00|0:48:00|—|
-|239|68101403-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:59:00|0:49:00|—|
-|240|68101404-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:07:00|0:48:00|—|
-|241|68101405-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:24:00|0:48:00|—|
-|242|68101406-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:15:00|0:48:00|—|
-|243|68101407-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:56:00|0:42:00|—|
-|244|68101408-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:13:00|0:45:00|—|
-|245|68101409-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:32:00|0:45:00|—|
-|246|68101410-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:23:00|0:45:00|—|
-|247|68101411-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|00:55:00|0:42:00|—|
-|248|68101412-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:22:00|0:44:00|—|
-|249|68101413-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:32:00|0:44:00|—|
-|250|68101414-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:50:00|0:44:00|—|
-|251|68101415-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:11:00|0:42:00|—|
-|252|68101416-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:55:00|0:44:00|—|
-|253|68101417-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:50:00|0:46:00|—|
-|254|68101418-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:01:00|0:44:00|—|
-|255|68101419-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:11:00|0:44:00|—|
-|256|68101420-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:58:00|0:40:00|—|
-|257|68101421-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:47:00|0:42:00|—|
-|258|68101422-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:53:00|0:45:00|—|
-|259|68101423-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|00:41:00|0:42:00|—|
-|260|68101424-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|00:29:00|0:42:00|—|
-|261|68101425-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|00:06:00|0:42:00|—|
-|262|68101426-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:07:00|0:45:00|—|
-|263|68101427-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:02:00|0:45:00|—|
-|264|68101428-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:52:00|0:43:00|—|
-|265|68101429-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:34:00|0:45:00|—|
-|266|68101430-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:44:00|0:45:00|—|
-|267|68101431-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:41:00|0:44:00|—|
-|268|68101432-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:42:00|0:45:00|—|
-|269|68101433-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:30:00|0:43:00|—|
-|270|68101434-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:34:00|0:40:00|—|
-|271|68101435-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|00:17:00|0:42:00|—|
-|272|68101436-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:46:00|0:40:00|—|
-|273|68101437-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:02:00|0:46:00|—|
-|274|68101438-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:51:00|0:45:00|—|
-|275|68101439-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:20:00|0:44:00|—|
-|276|68101440-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:01:00|0:43:00|—|
-|277|68101441-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|00:12:00|0:40:00|—|
-|278|68101442-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:23:00|0:40:00|—|
-|279|68101443-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:12:00|0:45:00|—|
-|280|68101444-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:00:00|0:44:00|—|
-|281|68101445-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:22:00|0:45:00|—|
-|282|68101446-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:10:00|0:44:00|—|
-## 🚊 Green-C | Green Line C
-- Trip numbers ⬇️ 282 from 1832 to 1550
-- Average duration ⬇️ 0:00:02 overall from 0:34:01 to 0:33:58
-- ✅ No new trips
-- ❌ 282 trips removed with an average duration of 0:34:16
-### ❌ Removed trips
-||Trip|Headsign|Start time|Duration|Days|
-|--:|:--|:--|--:|--:|:--|
-|1|68100848-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:00:00|0:32:00|—|
-|2|68100849-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:10:00|0:54:00|—|
-|3|68100850-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:20:00|0:32:00|—|
-|4|68100851-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:31:00|0:32:00|—|
-|5|68100852-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:42:00|0:32:00|—|
-|6|68100853-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:52:00|0:32:00|—|
-|7|68100854-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:03:00|0:32:00|—|
-|8|68100855-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:13:00|0:32:00|—|
-|9|68100856-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:21:00|0:32:00|—|
-|10|68100857-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:28:00|0:32:00|—|
-|11|68100858-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:55:00|0:36:00|—|
-|12|68100859-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:36:00|0:33:00|—|
-|13|68100860-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:42:00|0:33:00|—|
-|14|68100861-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:48:00|0:34:00|—|
-|15|68100862-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:01:00|0:36:00|—|
-|16|68100863-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:08:00|0:36:00|—|
-|17|68100864-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:15:00|0:36:00|—|
-|18|68100865-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:21:00|0:36:00|—|
-|19|68100866-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:04:00|0:36:00|—|
-|20|68100867-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:28:00|0:36:00|—|
-|21|68100868-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:35:00|0:36:00|—|
-|22|68100869-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:42:00|0:36:00|—|
-|23|68100870-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:49:00|0:36:00|—|
-|24|68100871-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:57:00|0:36:00|—|
-|25|68100872-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:12:00|0:36:00|—|
-|26|68100873-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:19:00|0:36:00|—|
-|27|68100874-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:26:00|0:36:00|—|
-|28|68100875-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:33:00|0:36:00|—|
-|29|68100876-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:40:00|0:36:00|—|
-|30|68100877-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:47:00|0:36:00|—|
-|31|68100878-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:53:00|0:36:00|—|
-|32|68100879-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:59:00|0:36:00|—|
-|33|68100880-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:06:00|0:36:00|—|
-|34|68100881-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:13:00|0:36:00|—|
-|35|68100882-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:21:00|0:36:00|—|
-|36|68100883-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:28:00|0:36:00|—|
-|37|68100884-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:36:00|0:36:00|—|
-|38|68100885-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:43:00|0:36:00|—|
-|39|68100886-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:50:00|0:36:00|—|
-|40|68100887-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:57:00|0:36:00|—|
-|41|68100888-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:04:00|0:36:00|—|
-|42|68100889-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:11:00|0:36:00|—|
-|43|68100890-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:18:00|0:36:00|—|
-|44|68100891-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:25:00|0:36:00|—|
-|45|68100892-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:32:00|0:36:00|—|
-|46|68100893-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:38:00|0:36:00|—|
-|47|68100894-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:46:00|0:35:00|—|
-|48|68100895-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:53:00|0:35:00|—|
-|49|68100896-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:01:00|0:35:00|—|
-|50|68100897-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:09:00|0:35:00|—|
-|51|68100898-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:37:00|0:35:00|—|
-|52|68100899-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:18:00|0:35:00|—|
-|53|68100900-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:27:00|0:35:00|—|
-|54|68100901-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:45:00|0:35:00|—|
-|55|68100902-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:54:00|0:35:00|—|
-|56|68100903-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:04:00|0:35:00|—|
-|57|68100904-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:12:00|0:35:00|—|
-|58|68100905-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:57:00|0:35:00|—|
-|59|68100906-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:30:00|0:35:00|—|
-|60|68100907-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:39:00|0:35:00|—|
-|61|68100908-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:48:00|0:35:00|—|
-|62|68100909-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:06:00|0:35:00|—|
-|63|68100910-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:15:00|0:35:00|—|
-|64|68100911-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:24:00|0:35:00|—|
-|65|68100912-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:20:00|0:35:00|—|
-|66|68100913-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:34:00|0:35:00|—|
-|67|68100914-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:52:00|0:35:00|—|
-|68|68100915-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:59:00|0:35:00|—|
-|69|68100916-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:13:00|0:35:00|—|
-|70|68100917-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:21:00|0:35:00|—|
-|71|68100918-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:43:00|0:35:00|—|
-|72|68100919-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:06:00|0:35:00|—|
-|73|68100920-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:24:00|0:35:00|—|
-|74|68100921-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:31:00|0:36:00|—|
-|75|68100922-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:39:00|0:37:00|—|
-|76|68100923-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:46:00|0:37:00|—|
-|77|68100924-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:02:00|0:37:00|—|
-|78|68100925-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:27:00|0:35:00|—|
-|79|68100926-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:34:00|0:35:00|—|
-|80|68100927-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:42:00|0:35:00|—|
-|81|68100928-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:54:00|0:37:00|—|
-|82|68100929-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:49:00|0:35:00|—|
-|83|68100930-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:56:00|0:35:00|—|
-|84|68100931-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:03:00|0:35:00|—|
-|85|68100932-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:10:00|0:35:00|—|
-|86|68100933-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:17:00|0:35:00|—|
-|87|68100934-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:10:00|0:37:00|—|
-|88|68100935-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:18:00|0:37:00|—|
-|89|68100936-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:25:00|0:37:00|—|
-|90|68100937-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:32:00|0:37:00|—|
-|91|68100938-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:40:00|0:37:00|—|
-|92|68100939-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:48:00|0:37:00|—|
-|93|68100940-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:17:00|0:37:00|—|
-|94|68100941-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:56:00|0:37:00|—|
-|95|68100942-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:03:00|0:37:00|—|
-|96|68100943-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:10:00|0:37:00|—|
-|97|68100944-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:25:00|0:37:00|—|
-|98|68100945-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:33:00|0:37:00|—|
-|99|68100946-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:41:00|0:37:00|—|
-|100|68100947-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:49:00|0:37:00|—|
-|101|68100948-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:56:00|0:37:00|—|
-|102|68100949-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:04:00|0:37:00|—|
-|103|68100950-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:11:00|0:37:00|—|
-|104|68100951-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:41:00|0:35:00|—|
-|105|68100952-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:19:00|0:37:00|—|
-|106|68100953-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:56:00|0:34:00|—|
-|107|68100954-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:27:00|0:36:00|—|
-|108|68100955-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:34:00|0:35:00|—|
-|109|68100956-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:48:00|0:35:00|—|
-|110|68100957-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:04:00|0:34:00|—|
-|111|68100958-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:12:00|0:34:00|—|
-|112|68100959-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:20:00|0:34:00|—|
-|113|68100960-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:27:00|0:34:00|—|
-|114|68100961-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:35:00|0:34:00|—|
-|115|68100962-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:42:00|0:34:00|—|
-|116|68100963-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:50:00|0:34:00|—|
-|117|68100964-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:57:00|0:34:00|—|
-|118|68100965-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:05:00|0:34:00|—|
-|119|68100966-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:14:00|0:34:00|—|
-|120|68100967-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:23:00|0:34:00|—|
-|121|68100968-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:33:00|0:34:00|—|
-|122|68100969-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:43:00|0:34:00|—|
-|123|68100970-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:53:00|0:34:00|—|
-|124|68100971-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:03:00|0:34:00|—|
-|125|68100972-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:13:00|0:34:00|—|
-|126|68100973-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:23:00|0:34:00|—|
-|127|68100974-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:53:00|0:32:00|—|
-|128|68100975-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:33:00|0:33:00|—|
-|129|68100976-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:43:00|0:33:00|—|
-|130|68100977-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:24:00|0:32:00|—|
-|131|68100978-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:03:00|0:32:00|—|
-|132|68100979-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:13:00|0:32:00|—|
-|133|68100980-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:36:00|0:32:00|—|
-|134|68100981-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:23:00|0:32:00|—|
-|135|68100982-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:48:00|0:32:00|—|
-|136|68100983-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:59:00|0:32:00|—|
-|137|68100984-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:11:00|0:32:00|—|
-|138|68100985-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:35:00|0:31:00|—|
-|139|68100988-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:49:00|0:30:00|—|
-|140|68100989-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|00:18:00|0:29:00|—|
-|141|68100990-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|05:35:00|0:29:00|—|
-|142|68100991-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|05:55:00|0:29:00|—|
-|143|68100993-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:06:00|0:29:00|—|
-|144|68100995-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:17:00|0:29:00|—|
-|145|68100997-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:27:00|0:29:00|—|
-|146|68100999-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:38:00|0:29:00|—|
-|147|68101001-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:48:00|0:32:00|—|
-|148|68101002-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:56:00|0:32:00|—|
-|149|68101003-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:03:00|0:32:00|—|
-|150|68101004-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:12:00|0:32:00|—|
-|151|68101005-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:18:00|0:32:00|—|
-|152|68101006-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:25:00|0:32:00|—|
-|153|68101007-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:34:00|0:32:00|—|
-|154|68101008-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:40:00|0:32:00|—|
-|155|68101009-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:47:00|0:32:00|—|
-|156|68101010-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:54:00|0:32:00|—|
-|157|68101011-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:00:00|0:32:00|—|
-|158|68101012-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:07:00|0:32:00|—|
-|159|68101013-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:14:00|0:32:00|—|
-|160|68101014-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:21:00|0:32:00|—|
-|161|68101015-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:28:00|0:32:00|—|
-|162|68101030-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:36:00|0:32:00|—|
-|163|68101031-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:43:00|0:32:00|—|
-|164|68101032-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:51:00|0:32:00|—|
-|165|68101034-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:58:00|0:32:00|—|
-|166|68101036-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:05:00|0:32:00|—|
-|167|68101038-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:12:00|0:32:00|—|
-|168|68101040-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:19:00|0:32:00|—|
-|169|68101042-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:26:00|0:32:00|—|
-|170|68101044-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:32:00|0:32:00|—|
-|171|68101046-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:38:00|0:32:00|—|
-|172|68101048-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:45:00|0:32:00|—|
-|173|68101050-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:52:00|0:32:00|—|
-|174|68101051-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:07:00|0:32:00|—|
-|175|68101053-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:00:00|0:32:00|—|
-|176|68101055-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:22:00|0:32:00|—|
-|177|68101057-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:29:00|0:32:00|—|
-|178|68101058-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:15:00|0:32:00|—|
-|179|68101061-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:36:00|0:34:00|—|
-|180|68101062-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:43:00|0:34:00|—|
-|181|68101064-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:50:00|0:34:00|—|
-|182|68101066-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:57:00|0:34:00|—|
-|183|68101068-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:04:00|0:34:00|—|
-|184|68101070-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:11:00|0:34:00|—|
-|185|68101072-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:17:00|0:34:00|—|
-|186|68101075-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:24:00|0:34:00|—|
-|187|68101077-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:31:00|0:34:00|—|
-|188|68101078-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:39:00|0:34:00|—|
-|189|68101080-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:47:00|0:34:00|—|
-|190|68101082-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:56:00|0:34:00|—|
-|191|68101084-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:05:00|0:34:00|—|
-|192|68101086-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:32:00|0:34:00|—|
-|193|68101087-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:15:00|0:34:00|—|
-|194|68101089-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:23:00|0:34:00|—|
-|195|68101090-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:50:00|0:34:00|—|
-|196|68101092-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:59:00|0:34:00|—|
-|197|68101093-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:42:00|0:34:00|—|
-|198|68101097-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:08:00|0:34:00|—|
-|199|68101099-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:17:00|0:34:00|—|
-|200|68101101-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:26:00|0:34:00|—|
-|201|68101103-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:35:00|0:34:00|—|
-|202|68101105-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:44:00|0:34:00|—|
-|203|68101107-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:53:00|0:34:00|—|
-|204|68101110-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:02:00|0:34:00|—|
-|205|68101112-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:12:00|0:34:00|—|
-|206|68101116-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:21:00|0:34:00|—|
-|207|68101118-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:30:00|0:34:00|—|
-|208|68101120-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:37:00|0:34:00|—|
-|209|68101121-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:51:00|0:34:00|—|
-|210|68101123-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:44:00|0:34:00|—|
-|211|68101125-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:05:00|0:34:00|—|
-|212|68101127-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:20:00|0:34:00|—|
-|213|68101128-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:58:00|0:34:00|—|
-|214|68101130-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:12:00|0:34:00|—|
-|215|68101131-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:27:00|0:34:00|—|
-|216|68101132-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:34:00|0:34:00|—|
-|217|68101133-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:41:00|0:35:00|—|
-|218|68101134-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:48:00|0:35:00|—|
-|219|68101135-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:55:00|0:35:00|—|
-|220|68101136-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:03:00|0:36:00|—|
-|221|68101137-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:11:00|0:36:00|—|
-|222|68101138-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:19:00|0:36:00|—|
-|223|68101139-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:26:00|0:36:00|—|
-|224|68101140-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:34:00|0:36:00|—|
-|225|68101141-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:42:00|0:36:00|—|
-|226|68101142-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:50:00|0:36:00|—|
-|227|68101143-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:58:00|0:36:00|—|
-|228|68101144-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:28:00|0:36:00|—|
-|229|68101145-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:05:00|0:36:00|—|
-|230|68101146-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:20:00|0:36:00|—|
-|231|68101147-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:12:00|0:36:00|—|
-|232|68101148-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:36:00|0:36:00|—|
-|233|68101149-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:43:00|0:36:00|—|
-|234|68101150-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:50:00|0:36:00|—|
-|235|68101151-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:57:00|0:36:00|—|
-|236|68101152-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:05:00|0:36:00|—|
-|237|68101153-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:13:00|0:36:00|—|
-|238|68101154-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:21:00|0:36:00|—|
-|239|68101155-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:51:00|0:36:00|—|
-|240|68101156-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:29:00|0:36:00|—|
-|241|68101157-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:36:00|0:36:00|—|
-|242|68101158-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:44:00|0:36:00|—|
-|243|68101159-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:59:00|0:36:00|—|
-|244|68101160-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:06:00|0:36:00|—|
-|245|68101161-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:26:00|0:35:00|—|
-|246|68101162-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:12:00|0:35:00|—|
-|247|68101163-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:19:00|0:35:00|—|
-|248|68101164-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:33:00|0:34:00|—|
-|249|68101165-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:41:00|0:34:00|—|
-|250|68101166-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:49:00|0:34:00|—|
-|251|68101167-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:57:00|0:34:00|—|
-|252|68101168-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:04:00|0:34:00|—|
-|253|68101169-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:12:00|0:34:00|—|
-|254|68101170-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:19:00|0:34:00|—|
-|255|68101171-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:27:00|0:34:00|—|
-|256|68101172-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:34:00|0:34:00|—|
-|257|68101173-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:42:00|0:34:00|—|
-|258|68101174-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:51:00|0:34:00|—|
-|259|68101175-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:00:00|0:34:00|—|
-|260|68101176-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:10:00|0:34:00|—|
-|261|68101177-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:20:00|0:34:00|—|
-|262|68101178-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:00:00|0:34:00|—|
-|263|68101179-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:30:00|0:34:00|—|
-|264|68101180-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:40:00|0:34:00|—|
-|265|68101181-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:50:00|0:34:00|—|
-|266|68101182-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:09:00|0:34:00|—|
-|267|68101183-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:19:00|0:34:00|—|
-|268|68101184-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:28:00|0:34:00|—|
-|269|68101185-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:38:00|0:32:00|—|
-|270|68101186-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:48:00|0:31:00|—|
-|271|68101187-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:59:00|0:31:00|—|
-|272|68101188-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|23:11:00|0:31:00|—|
-|273|68101189-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|23:58:00|0:31:00|—|
-|274|68101190-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|00:10:00|0:31:00|—|
-|275|68101191-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|23:23:00|0:31:00|—|
-|276|68101192-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|23:34:00|0:31:00|—|
-|277|68101193-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|00:22:00|0:31:00|—|
-|278|68101194-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|00:50:00|0:31:00|—|
-|279|68101266-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:15:00|0:49:00|—|
-|280|68101283-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|00:03:00|0:29:00|—|
-|281|68101284-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|00:35:00|0:31:00|—|
-|282|68101285-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|23:46:00|0:31:00|—|
-## 🚊 Green-D | Green Line D
-- Trip numbers ⬇️ 288 from 1835 to 1547
-- Average duration ⬇️ 0:01:08 overall from 0:56:31 to 0:55:23
-- ✅ No new trips
-- ❌ 288 trips removed with an average duration of 1:02:40
-### ❌ Removed trips
-||Trip|Headsign|Start time|Duration|Days|
-|--:|:--|:--|--:|--:|:--|
-|1|68101265-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|04:45:00|0:44:00|—|
-|2|68101267-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:20:00|1:00:00|—|
-|3|68101269-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|04:45:00|1:00:00|—|
-|4|68101270-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:20:00|1:00:00|—|
-|5|68101271-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:10:00|1:00:00|—|
-|6|68101272-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:30:00|1:00:00|—|
-|7|68101273-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:40:00|1:00:00|—|
-|8|68101274-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:49:00|1:00:00|—|
-|9|68101275-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:29:00|1:01:00|—|
-|10|68101276-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|05:14:00|0:59:00|—|
-|11|68101277-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|05:35:00|0:59:00|—|
-|12|68101278-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|05:55:00|0:59:00|—|
-|13|68101279-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:46:00|1:03:00|—|
-|14|68101280-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:54:00|1:03:00|—|
-|15|68101282-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:38:00|1:02:00|—|
-|16|68101299-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:12:00|0:59:00|—|
-|17|68101300-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:02:00|1:00:00|—|
-|18|68101301-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:03:00|0:59:00|—|
-|19|68101303-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|04:53:00|1:00:00|—|
-|20|68101304-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|05:45:00|0:59:00|—|
-|21|68101484-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:52:00|1:04:00|—|
-|22|68101485-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:51:00|1:03:00|—|
-|23|68101486-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:43:00|1:03:00|—|
-|24|68101487-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:36:00|1:03:00|—|
-|25|68101488-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:27:00|1:03:00|—|
-|26|68101489-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:21:00|1:02:00|—|
-|27|68101490-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:35:00|1:03:00|—|
-|28|68101491-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:08:00|1:03:00|—|
-|29|68101492-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:59:00|1:03:00|—|
-|30|68101493-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:29:00|1:02:00|—|
-|31|68101494-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:14:00|1:01:00|—|
-|32|68101495-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:18:00|1:03:00|—|
-|33|68101496-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:44:00|1:03:00|—|
-|34|68101497-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:02:00|1:03:00|—|
-|35|68101498-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:58:00|1:00:00|—|
-|36|68101499-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:10:00|1:03:00|—|
-|37|68101500-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:06:00|1:00:00|—|
-|38|68101501-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:59:00|1:05:00|—|
-|39|68101502-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:16:00|1:02:00|—|
-|40|68101503-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:07:00|1:05:00|—|
-|41|68101504-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:24:00|1:02:00|—|
-|42|68101505-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:15:00|1:05:00|—|
-|43|68101506-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:32:00|1:02:00|—|
-|44|68101507-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:23:00|1:05:00|—|
-|45|68101508-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:39:00|1:05:00|—|
-|46|68101509-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:40:00|1:02:00|—|
-|47|68101510-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:31:00|1:05:00|—|
-|48|68101511-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:48:00|1:02:00|—|
-|49|68101512-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:56:00|1:02:00|—|
-|50|68101513-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:47:00|1:05:00|—|
-|51|68101514-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:04:00|1:02:00|—|
-|52|68101515-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:55:00|1:05:00|—|
-|53|68101516-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:12:00|1:02:00|—|
-|54|68101517-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:03:00|1:05:00|—|
-|55|68101518-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:20:00|1:02:00|—|
-|56|68101519-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:11:00|1:05:00|—|
-|57|68101520-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:28:00|1:02:00|—|
-|58|68101521-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:19:00|1:05:00|—|
-|59|68101522-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:36:00|1:02:00|—|
-|60|68101523-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:27:00|1:05:00|—|
-|61|68101524-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:43:00|1:05:00|—|
-|62|68101525-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:44:00|1:02:00|—|
-|63|68101526-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:35:00|1:05:00|—|
-|64|68101527-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:52:00|1:02:00|—|
-|65|68101528-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:00:00|1:02:00|—|
-|66|68101529-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:51:00|1:05:00|—|
-|67|68101530-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:08:00|1:02:00|—|
-|68|68101531-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:59:00|1:05:00|—|
-|69|68101532-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:16:00|1:02:00|—|
-|70|68101533-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:06:00|1:05:00|—|
-|71|68101534-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:23:00|1:02:00|—|
-|72|68101535-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:14:00|1:05:00|—|
-|73|68101536-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:31:00|1:02:00|—|
-|74|68101537-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:22:00|1:05:00|—|
-|75|68101538-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:39:00|1:02:00|—|
-|76|68101539-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:30:00|1:05:00|—|
-|77|68101540-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:47:00|1:02:00|—|
-|78|68101541-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:38:00|1:04:00|—|
-|79|68101542-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:54:00|1:02:00|—|
-|80|68101543-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:46:00|1:04:00|—|
-|81|68101544-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:01:00|1:03:00|—|
-|82|68101545-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:02:00|1:02:00|—|
-|83|68101546-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:54:00|1:03:00|—|
-|84|68101547-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:10:00|1:02:00|—|
-|85|68101548-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:18:00|1:02:00|—|
-|86|68101549-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:09:00|1:03:00|—|
-|87|68101550-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:26:00|1:02:00|—|
-|88|68101551-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:17:00|1:03:00|—|
-|89|68101552-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:34:00|1:02:00|—|
-|90|68101553-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:25:00|1:03:00|—|
-|91|68101554-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:42:00|1:02:00|—|
-|92|68101555-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:57:00|1:02:00|—|
-|93|68101556-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:33:00|1:03:00|—|
-|94|68101557-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:50:00|1:02:00|—|
-|95|68101558-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:41:00|1:03:00|—|
-|96|68101559-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:49:00|1:03:00|—|
-|97|68101560-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:05:00|1:03:00|—|
-|98|68101561-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:05:00|1:02:00|—|
-|99|68101562-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:57:00|1:03:00|—|
-|100|68101563-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:13:00|1:02:00|—|
-|101|68101564-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:21:00|1:02:00|—|
-|102|68101565-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:13:00|1:03:00|—|
-|103|68101566-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:29:00|1:02:00|—|
-|104|68101567-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:21:00|1:03:00|—|
-|105|68101568-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:37:00|1:02:00|—|
-|106|68101569-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:29:00|1:03:00|—|
-|107|68101570-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:45:00|1:02:00|—|
-|108|68101571-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:36:00|1:03:00|—|
-|109|68101572-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:53:00|1:02:00|—|
-|110|68101573-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:44:00|1:03:00|—|
-|111|68101574-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:01:00|1:02:00|—|
-|112|68101575-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:52:00|1:03:00|—|
-|113|68101576-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:09:00|1:02:00|—|
-|114|68101577-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:00:00|1:03:00|—|
-|115|68101578-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:16:00|1:02:00|—|
-|116|68101579-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:07:00|1:03:00|—|
-|117|68101580-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:23:00|1:04:00|—|
-|118|68101581-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:24:00|1:02:00|—|
-|119|68101582-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:15:00|1:03:00|—|
-|120|68101583-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:32:00|1:02:00|—|
-|121|68101584-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:40:00|1:02:00|—|
-|122|68101585-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:31:00|1:04:00|—|
-|123|68101586-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:48:00|1:02:00|—|
-|124|68101587-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:39:00|1:05:00|—|
-|125|68101588-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:56:00|1:02:00|—|
-|126|68101589-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:47:00|1:05:00|—|
-|127|68101590-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:04:00|1:02:00|—|
-|128|68101591-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:20:00|1:03:00|—|
-|129|68101592-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:55:00|1:05:00|—|
-|130|68101593-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:12:00|1:03:00|—|
-|131|68101594-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:03:00|1:05:00|—|
-|132|68101595-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:10:00|1:05:00|—|
-|133|68101596-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:26:00|1:05:00|—|
-|134|68101597-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:27:00|1:04:00|—|
-|135|68101598-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:18:00|1:05:00|—|
-|136|68101599-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:35:00|1:04:00|—|
-|137|68101600-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:43:00|1:05:00|—|
-|138|68101601-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:34:00|1:05:00|—|
-|139|68101602-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:51:00|1:05:00|—|
-|140|68101603-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:42:00|1:05:00|—|
-|141|68101604-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:59:00|1:05:00|—|
-|142|68101605-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:50:00|1:05:00|—|
-|143|68101606-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:07:00|1:05:00|—|
-|144|68101607-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:58:00|1:05:00|—|
-|145|68101608-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:15:00|1:05:00|—|
-|146|68101609-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:06:00|1:05:00|—|
-|147|68101610-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:23:00|1:05:00|—|
-|148|68101611-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:14:00|1:05:00|—|
-|149|68101612-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:31:00|1:05:00|—|
-|150|68101613-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:22:00|1:05:00|—|
-|151|68101614-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:39:00|1:05:00|—|
-|152|68101615-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:30:00|1:05:00|—|
-|153|68101616-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:55:00|1:05:00|—|
-|154|68101617-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:47:00|1:05:00|—|
-|155|68101618-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:55:00|0:57:00|—|
-|156|68101619-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:38:00|1:05:00|—|
-|157|68101620-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:46:00|1:05:00|—|
-|158|68101621-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:03:00|1:05:00|—|
-|159|68101622-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:54:00|1:05:00|—|
-|160|68101623-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:11:00|1:05:00|—|
-|161|68101624-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:02:00|1:05:00|—|
-|162|68101625-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:19:00|1:05:00|—|
-|163|68101626-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:10:00|1:05:00|—|
-|164|68101627-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:25:00|1:06:00|—|
-|165|68101628-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:27:00|1:05:00|—|
-|166|68101629-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:18:00|1:06:00|—|
-|167|68101630-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:35:00|1:05:00|—|
-|168|68101631-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:41:00|1:06:00|—|
-|169|68101632-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:43:00|1:05:00|—|
-|170|68101633-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:33:00|1:06:00|—|
-|171|68101634-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:51:00|1:05:00|—|
-|172|68101635-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:59:00|1:05:00|—|
-|173|68101636-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:48:00|1:07:00|—|
-|174|68101637-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:07:00|1:05:00|—|
-|175|68101638-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:56:00|1:07:00|—|
-|176|68101639-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:15:00|1:05:00|—|
-|177|68101640-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:03:00|1:07:00|—|
-|178|68101641-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:22:00|1:05:00|—|
-|179|68101642-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:11:00|1:07:00|—|
-|180|68101643-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:30:00|1:05:00|—|
-|181|68101644-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:19:00|1:07:00|—|
-|182|68101645-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:38:00|1:05:00|—|
-|183|68101646-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:27:00|1:07:00|—|
-|184|68101647-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:46:00|1:05:00|—|
-|185|68101648-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:35:00|1:07:00|—|
-|186|68101649-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:51:00|1:07:00|—|
-|187|68101650-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:54:00|1:05:00|—|
-|188|68101651-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:59:00|1:07:00|—|
-|189|68101652-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:43:00|1:07:00|—|
-|190|68101653-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:02:00|1:05:00|—|
-|191|68101654-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:10:00|1:04:00|—|
-|192|68101655-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:18:00|1:04:00|—|
-|193|68101656-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:06:00|1:07:00|—|
-|194|68101657-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:25:00|1:02:00|—|
-|195|68101658-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:14:00|1:07:00|—|
-|196|68101659-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:33:00|1:02:00|—|
-|197|68101660-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:22:00|1:07:00|—|
-|198|68101661-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:41:00|1:01:00|—|
-|199|68101662-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:30:00|1:07:00|—|
-|200|68101663-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:49:00|1:01:00|—|
-|201|68101664-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:38:00|1:06:00|—|
-|202|68101665-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:56:00|1:01:00|—|
-|203|68101666-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:10:00|1:01:00|—|
-|204|68101667-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:45:00|1:06:00|—|
-|205|68101668-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:03:00|1:01:00|—|
-|206|68101669-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:53:00|1:05:00|—|
-|207|68101670-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:00:00|1:05:00|—|
-|208|68101671-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:17:00|1:01:00|—|
-|209|68101672-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:08:00|1:05:00|—|
-|210|68101673-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:25:00|1:01:00|—|
-|211|68101674-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:16:00|1:05:00|—|
-|212|68101675-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:33:00|1:01:00|—|
-|213|68101676-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:24:00|1:05:00|—|
-|214|68101677-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:41:00|1:01:00|—|
-|215|68101678-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:31:00|1:05:00|—|
-|216|68101679-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:48:00|1:01:00|—|
-|217|68101680-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:39:00|1:05:00|—|
-|218|68101681-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:56:00|1:01:00|—|
-|219|68101682-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:47:00|1:05:00|—|
-|220|68101683-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:04:00|1:01:00|—|
-|221|68101684-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:55:00|1:05:00|—|
-|222|68101685-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:12:00|1:01:00|—|
-|223|68101686-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:28:00|1:01:00|—|
-|224|68101687-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:03:00|1:05:00|—|
-|225|68101688-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:20:00|1:01:00|—|
-|226|68101689-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:11:00|1:05:00|—|
-|227|68101690-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:20:00|1:05:00|—|
-|228|68101691-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:37:00|1:01:00|—|
-|229|68101692-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:28:00|1:05:00|—|
-|230|68101693-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:45:00|1:01:00|—|
-|231|68101694-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:36:00|1:05:00|—|
-|232|68101695-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:53:00|1:01:00|—|
-|233|68101696-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:45:00|1:05:00|—|
-|234|68101697-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Reservoir|21:02:00|0:43:00|—|
-|235|68101698-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:53:00|1:05:00|—|
-|236|68101699-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:10:00|1:01:00|—|
-|237|68101700-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:01:00|1:05:00|—|
-|238|68101701-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:18:00|1:03:00|—|
-|239|68101702-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:17:00|1:01:00|—|
-|240|68101703-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:09:00|1:04:00|—|
-|241|68101704-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:24:00|1:01:00|—|
-|242|68101705-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:32:00|1:01:00|—|
-|243|68101706-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:26:00|1:03:00|—|
-|244|68101707-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:40:00|1:01:00|—|
-|245|68101708-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:34:00|1:03:00|—|
-|246|68101709-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:48:00|1:01:00|—|
-|247|68101710-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:43:00|1:03:00|—|
-|248|68101711-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:57:00|1:01:00|—|
-|249|68101712-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:52:00|1:03:00|—|
-|250|68101713-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:06:00|1:01:00|—|
-|251|68101714-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:01:00|1:02:00|—|
-|252|68101715-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:14:00|1:01:00|—|
-|253|68101716-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:10:00|1:02:00|—|
-|254|68101717-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:23:00|1:01:00|—|
-|255|68101718-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:19:00|1:02:00|—|
-|256|68101719-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:32:00|1:00:00|—|
-|257|68101720-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:29:00|1:02:00|—|
-|258|68101721-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:47:00|1:02:00|—|
-|259|68101722-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:42:00|0:59:00|—|
-|260|68101723-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:38:00|1:02:00|—|
-|261|68101724-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:51:00|0:59:00|—|
-|262|68101725-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:00:00|0:59:00|—|
-|263|68101726-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:56:00|1:02:00|—|
-|264|68101727-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:09:00|0:59:00|—|
-|265|68101728-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:05:00|1:02:00|—|
-|266|68101729-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:18:00|0:59:00|—|
-|267|68101730-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:15:00|1:02:00|—|
-|268|68101731-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:28:00|0:59:00|—|
-|269|68101732-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:25:00|0:59:00|—|
-|270|68101733-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:38:00|0:59:00|—|
-|271|68101734-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:35:00|0:58:00|—|
-|272|68101735-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:48:00|0:59:00|—|
-|273|68101736-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:58:00|0:59:00|—|
-|274|68101737-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:45:00|0:58:00|—|
-|275|68101738-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|00:05:00|0:57:00|—|
-|276|68101739-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:55:00|0:57:00|—|
-|277|68101740-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:05:00|0:57:00|—|
-|278|68101741-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:08:00|0:59:00|—|
-|279|68101742-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:15:00|0:57:00|—|
-|280|68101743-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:18:00|0:59:00|—|
-|281|68101744-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:25:00|0:57:00|—|
-|282|68101745-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:28:00|0:59:00|—|
-|283|68101746-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:37:00|0:59:00|—|
-|284|68101747-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:35:00|0:57:00|—|
-|285|68101748-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:46:00|0:59:00|—|
-|286|68101749-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:45:00|0:57:00|—|
-|287|68101750-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|00:15:00|0:57:00|—|
-|288|68101755-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:55:00|0:59:00|—|
-## 🚊 Green-E | Green Line E
-- Trip numbers ⬇️ 329 from 1960 to 1631
-- Average duration ⬇️ 0:01:34 overall from 0:42:13 to 0:40:39
-- ✅ No new trips
-- ❌ 329 trips removed with an average duration of 0:50:03
-### ❌ Removed trips
-||Trip|Headsign|Start time|Duration|Days|
-|--:|:--|:--|--:|--:|:--|
-|1|68101281-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|04:50:00|0:44:00|—|
-|2|68101302-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:25:00|0:44:00|—|
-|3|68101783-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:10:00|0:48:00|—|
-|4|68101784-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:24:00|0:48:00|—|
-|5|68101785-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:57:00|0:50:00|—|
-|6|68101786-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:47:00|0:50:00|—|
-|7|68101787-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:31:00|0:49:00|—|
-|8|68101788-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:54:00|0:51:00|—|
-|9|68101789-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:02:00|0:53:00|—|
-|10|68101790-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:39:00|0:50:00|—|
-|11|68101791-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:34:00|0:50:00|—|
-|12|68101792-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:25:00|0:50:00|—|
-|13|68101793-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:12:00|0:50:00|—|
-|14|68101794-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:01:00|0:50:00|—|
-|15|68101795-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:13:00|0:50:00|—|
-|16|68101796-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:05:00|0:50:00|—|
-|17|68101797-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:09:00|0:53:00|—|
-|18|68101798-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:20:00|0:50:00|—|
-|19|68101799-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:17:00|0:53:00|—|
-|20|68101800-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:27:00|0:51:00|—|
-|21|68101801-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:25:00|0:53:00|—|
-|22|68101802-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:33:00|0:51:00|—|
-|23|68101803-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:32:00|0:53:00|—|
-|24|68101804-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:40:00|0:52:00|—|
-|25|68101805-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:39:00|0:53:00|—|
-|26|68101806-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:47:00|0:52:00|—|
-|27|68101807-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:46:00|0:53:00|—|
-|28|68101808-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:36:00|0:53:00|—|
-|29|68101809-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:55:00|0:52:00|—|
-|30|68101810-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:54:00|0:53:00|—|
-|31|68101811-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:43:00|0:53:00|—|
-|32|68101812-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:29:00|0:53:00|—|
-|33|68101813-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:22:00|0:53:00|—|
-|34|68101814-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:50:00|0:53:00|—|
-|35|68101815-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:50:00|0:53:00|—|
-|36|68101816-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:29:00|0:53:00|—|
-|37|68101817-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:22:00|0:53:00|—|
-|38|68101818-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:15:00|0:53:00|—|
-|39|68101819-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:15:00|0:53:00|—|
-|40|68101820-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:08:00|0:53:00|—|
-|41|68101821-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:08:00|0:53:00|—|
-|42|68101822-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:57:00|0:53:00|—|
-|43|68101823-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:01:00|0:53:00|—|
-|44|68101824-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:01:00|0:53:00|—|
-|45|68101825-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:57:00|0:53:00|—|
-|46|68101826-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:43:00|0:53:00|—|
-|47|68101827-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:36:00|0:53:00|—|
-|48|68101828-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:03:00|0:53:00|—|
-|49|68101829-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:38:00|0:54:00|—|
-|50|68101830-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:45:00|0:54:00|—|
-|51|68101831-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:30:00|0:54:00|—|
-|52|68101832-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:46:00|0:53:00|—|
-|53|68101833-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:09:00|0:53:00|—|
-|54|68101834-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:25:00|0:53:00|—|
-|55|68101835-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:03:00|0:53:00|—|
-|56|68101836-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:23:00|0:54:00|—|
-|57|68101837-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:32:00|0:53:00|—|
-|58|68101838-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:17:00|0:53:00|—|
-|59|68101839-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:53:00|0:53:00|—|
-|60|68101840-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:16:00|0:54:00|—|
-|61|68101841-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:39:00|0:53:00|—|
-|62|68101842-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:52:00|0:54:00|—|
-|63|68101843-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:38:00|0:53:00|—|
-|64|68101844-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:10:00|0:53:00|—|
-|65|68101845-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:16:00|0:53:00|—|
-|66|68101846-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:00:00|0:53:00|—|
-|67|68101847-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:35:00|0:53:00|—|
-|68|68101848-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:52:00|0:53:00|—|
-|69|68101849-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:02:00|0:53:00|—|
-|70|68101850-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:38:00|0:53:00|—|
-|71|68101851-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:02:00|0:53:00|—|
-|72|68101852-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:31:00|0:53:00|—|
-|73|68101853-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:49:00|0:53:00|—|
-|74|68101854-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:31:00|0:53:00|—|
-|75|68101855-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:42:00|0:53:00|—|
-|76|68101856-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:23:00|0:53:00|—|
-|77|68101857-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:45:00|0:53:00|—|
-|78|68101858-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:28:00|0:53:00|—|
-|79|68101859-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:59:00|0:53:00|—|
-|80|68101860-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:21:00|0:53:00|—|
-|81|68101861-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:07:00|0:53:00|—|
-|82|68101862-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:23:00|0:53:00|—|
-|83|68101863-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:45:00|0:53:00|—|
-|84|68101864-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:21:00|0:53:00|—|
-|85|68101865-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:59:00|0:53:00|—|
-|86|68101866-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:14:00|0:53:00|—|
-|87|68101867-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:07:00|0:53:00|—|
-|88|68101868-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:52:00|0:53:00|—|
-|89|68101869-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:14:00|0:53:00|—|
-|90|68101870-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:09:00|0:53:00|—|
-|91|68101871-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:00:00|0:53:00|—|
-|92|68101872-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:16:00|0:53:00|—|
-|93|68101873-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:09:00|0:53:00|—|
-|94|68101874-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:56:00|0:53:00|—|
-|95|68101875-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:49:00|0:53:00|—|
-|96|68101876-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:56:00|0:53:00|—|
-|97|68101877-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:28:00|0:53:00|—|
-|98|68101878-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:29:00|0:53:00|—|
-|99|68101879-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:35:00|0:53:00|—|
-|100|68101880-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:42:00|0:53:00|—|
-|101|68101881-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:29:00|0:53:00|—|
-|102|68101882-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:12:00|0:53:00|—|
-|103|68101883-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:12:00|0:53:00|—|
-|104|68101884-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:40:00|0:53:00|—|
-|105|68101885-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:40:00|0:53:00|—|
-|106|68101886-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:05:00|0:53:00|—|
-|107|68101887-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:05:00|0:53:00|—|
-|108|68101888-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:58:00|0:53:00|—|
-|109|68101889-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:58:00|0:53:00|—|
-|110|68101890-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:51:00|0:53:00|—|
-|111|68101891-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:51:00|0:53:00|—|
-|112|68101892-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:47:00|0:53:00|—|
-|113|68101893-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:44:00|0:53:00|—|
-|114|68101894-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:44:00|0:53:00|—|
-|115|68101895-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:47:00|0:53:00|—|
-|116|68101896-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:26:00|0:53:00|—|
-|117|68101897-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:26:00|0:53:00|—|
-|118|68101898-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:54:00|0:53:00|—|
-|119|68101899-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:37:00|0:53:00|—|
-|120|68101900-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:37:00|0:53:00|—|
-|121|68101901-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:54:00|0:53:00|—|
-|122|68101902-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:19:00|0:53:00|—|
-|123|68101903-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:19:00|0:53:00|—|
-|124|68101904-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:33:00|0:53:00|—|
-|125|68101905-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:33:00|0:53:00|—|
-|126|68101906-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:15:00|0:53:00|—|
-|127|68101907-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:15:00|0:53:00|—|
-|128|68101908-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:22:00|0:53:00|—|
-|129|68101909-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:22:00|0:53:00|—|
-|130|68101910-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:08:00|0:53:00|—|
-|131|68101911-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:08:00|0:53:00|—|
-|132|68101912-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:02:00|0:53:00|—|
-|133|68101913-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:06:00|0:53:00|—|
-|134|68101914-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:02:00|0:53:00|—|
-|135|68101915-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:55:00|0:53:00|—|
-|136|68101916-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:55:00|0:53:00|—|
-|137|68101917-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:06:00|0:53:00|—|
-|138|68101918-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:13:00|0:53:00|—|
-|139|68101919-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:13:00|0:53:00|—|
-|140|68101920-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:20:00|0:53:00|—|
-|141|68101921-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:20:00|0:53:00|—|
-|142|68101922-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:27:00|0:53:00|—|
-|143|68101923-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:27:00|0:53:00|—|
-|144|68101924-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:34:00|0:53:00|—|
-|145|68101925-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:34:00|0:53:00|—|
-|146|68101926-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:41:00|0:53:00|—|
-|147|68101927-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:41:00|0:53:00|—|
-|148|68101928-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:48:00|0:53:00|—|
-|149|68101929-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:48:00|0:53:00|—|
-|150|68101930-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:12:00|0:55:00|—|
-|151|68101931-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:14:00|0:53:00|—|
-|152|68101932-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:34:00|0:55:00|—|
-|153|68101933-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:35:00|0:53:00|—|
-|154|68101934-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:50:00|0:55:00|—|
-|155|68101935-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:49:00|0:55:00|—|
-|156|68101936-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:26:00|0:55:00|—|
-|157|68101937-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:32:00|0:54:00|—|
-|158|68101938-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:43:00|0:55:00|—|
-|159|68101939-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:43:00|0:53:00|—|
-|160|68101940-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:25:00|0:54:00|—|
-|161|68101941-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:01:00|0:53:00|—|
-|162|68101942-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:19:00|0:55:00|—|
-|163|68101943-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:28:00|0:55:00|—|
-|164|68101944-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:54:00|0:55:00|—|
-|165|68101945-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:08:00|0:53:00|—|
-|166|68101946-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:42:00|0:55:00|—|
-|167|68101947-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:28:00|0:53:00|—|
-|168|68101948-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:01:00|0:54:00|—|
-|169|68101949-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:18:00|0:54:00|—|
-|170|68101950-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:57:00|0:53:00|—|
-|171|68101951-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:56:00|0:55:00|—|
-|172|68101952-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:40:00|0:55:00|—|
-|173|68101953-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:21:00|0:55:00|—|
-|174|68101954-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:47:00|0:55:00|—|
-|175|68101955-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:21:00|0:53:00|—|
-|176|68101956-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:04:00|0:55:00|—|
-|177|68101957-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:14:00|0:55:00|—|
-|178|68101958-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:11:00|0:54:00|—|
-|179|68101959-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:08:00|0:54:00|—|
-|180|68101960-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:04:00|0:53:00|—|
-|181|68101961-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:35:00|0:55:00|—|
-|182|68101962-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:57:00|0:55:00|—|
-|183|68101963-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:50:00|0:53:00|—|
-|184|68101964-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:51:00|0:52:00|—|
-|185|68101965-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:51:00|0:53:00|—|
-|186|68101966-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:28:00|0:54:00|—|
-|187|68101967-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:34:00|0:53:00|—|
-|188|68101968-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:27:00|0:53:00|—|
-|189|68101969-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:36:00|0:52:00|—|
-|190|68101970-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:42:00|0:50:00|—|
-|191|68101971-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:52:00|0:55:00|—|
-|192|68101972-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:01:00|0:54:00|—|
-|193|68101973-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:58:00|0:48:00|—|
-|194|68101974-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:21:00|0:54:00|—|
-|195|68101975-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:55:00|0:53:00|—|
-|196|68101976-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:59:00|0:55:00|—|
-|197|68101977-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:54:00|0:55:00|—|
-|198|68101978-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:19:00|0:53:00|—|
-|199|68101979-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:08:00|0:54:00|—|
-|200|68101980-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:06:00|0:55:00|—|
-|201|68101981-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:41:00|0:53:00|—|
-|202|68101982-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:14:00|0:54:00|—|
-|203|68101983-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:58:00|0:53:00|—|
-|204|68101984-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:48:00|0:53:00|—|
-|205|68101985-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:05:00|0:53:00|—|
-|206|68101986-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:12:00|0:53:00|—|
-|207|68101987-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:43:00|0:52:00|—|
-|208|68101988-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:29:00|0:52:00|—|
-|209|68101989-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:43:00|0:53:00|—|
-|210|68101990-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:22:00|0:53:00|—|
-|211|68101991-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:35:00|0:53:00|—|
-|212|68101992-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:15:00|0:53:00|—|
-|213|68101993-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:01:00|0:55:00|—|
-|214|68101994-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:03:00|0:55:00|—|
-|215|68101995-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:08:00|0:55:00|—|
-|216|68101996-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:10:00|0:55:00|—|
-|217|68101997-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:16:00|0:55:00|—|
-|218|68101998-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:18:00|0:55:00|—|
-|219|68101999-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:23:00|0:55:00|—|
-|220|68102000-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:25:00|0:55:00|—|
-|221|68102001-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:30:00|0:55:00|—|
-|222|68102002-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:32:00|0:55:00|—|
-|223|68102003-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:46:00|0:55:00|—|
-|224|68102004-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:37:00|0:55:00|—|
-|225|68102005-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:39:00|0:55:00|—|
-|226|68102006-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:44:00|0:55:00|—|
-|227|68102007-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:50:00|0:50:00|—|
-|228|68102008-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:09:00|0:53:00|—|
-|229|68102009-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:36:00|0:53:00|—|
-|230|68102010-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:16:00|0:53:00|—|
-|231|68102011-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:03:00|0:53:00|—|
-|232|68102012-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:29:00|0:53:00|—|
-|233|68102013-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:50:00|0:52:00|—|
-|234|68102014-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:43:00|0:52:00|—|
-|235|68102015-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:57:00|0:52:00|—|
-|236|68102016-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:22:00|0:53:00|—|
-|237|68102017-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:55:00|0:52:00|—|
-|238|68102018-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:27:00|0:52:00|—|
-|239|68102019-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:48:00|0:52:00|—|
-|240|68102020-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:41:00|0:52:00|—|
-|241|68102021-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:34:00|0:52:00|—|
-|242|68102022-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:19:00|0:52:00|—|
-|243|68102023-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:12:00|0:52:00|—|
-|244|68102024-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:05:00|0:52:00|—|
-|245|68102025-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:58:00|0:52:00|—|
-|246|68102026-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:57:00|0:49:00|—|
-|247|68102027-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:49:00|0:50:00|—|
-|248|68102028-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:36:00|0:51:00|—|
-|249|68102029-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:42:00|0:51:00|—|
-|250|68102030-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:29:00|0:51:00|—|
-|251|68102031-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:09:00|0:52:00|—|
-|252|68102032-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:22:00|0:52:00|—|
-|253|68102033-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:02:00|0:52:00|—|
-|254|68102034-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:16:00|0:52:00|—|
-|255|68102035-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:13:00|0:09:00|—|
-|256|68102036-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:22:00|0:09:00|—|
-|257|68102037-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:00:00|0:09:00|—|
-|258|68102038-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:28:00|0:09:00|—|
-|259|68102039-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:08:00|0:09:00|—|
-|260|68102040-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:45:00|0:09:00|—|
-|261|68102041-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:53:00|0:09:00|—|
-|262|68102042-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:51:00|0:09:00|—|
-|263|68102043-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:15:00|0:09:00|—|
-|264|68102044-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:21:00|0:09:00|—|
-|265|68102045-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:49:00|0:09:00|—|
-|266|68102046-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:43:00|0:09:00|—|
-|267|68102047-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:38:00|0:09:00|—|
-|268|68102048-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:30:00|0:09:00|—|
-|269|68102049-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:54:00|0:47:00|—|
-|270|68102050-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:00:00|0:47:00|—|
-|271|68102051-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:13:00|0:52:00|—|
-|272|68102052-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:12:00|0:49:00|—|
-|273|68102053-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:46:00|0:47:00|—|
-|274|68102054-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:05:00|0:52:00|—|
-|275|68102055-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:04:00|0:49:00|—|
-|276|68102056-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:21:00|0:52:00|—|
-|277|68102057-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:20:00|0:49:00|—|
-|278|68102058-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:29:00|0:52:00|—|
-|279|68102059-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:28:00|0:49:00|—|
-|280|68102060-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:36:00|0:52:00|—|
-|281|68102061-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:35:00|0:49:00|—|
-|282|68102062-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:44:00|0:52:00|—|
-|283|68102063-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:43:00|0:49:00|—|
-|284|68102064-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:52:00|0:52:00|—|
-|285|68102065-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:51:00|0:49:00|—|
-|286|68102066-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:00:00|0:52:00|—|
-|287|68102067-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:59:00|0:49:00|—|
-|288|68102068-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:09:00|0:52:00|—|
-|289|68102069-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:08:00|0:49:00|—|
-|290|68102070-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:17:00|0:52:00|—|
-|291|68102071-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:16:00|0:49:00|—|
-|292|68102072-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:26:00|0:52:00|—|
-|293|68102073-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:25:00|0:49:00|—|
-|294|68102074-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:34:00|0:52:00|—|
-|295|68102075-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:33:00|0:49:00|—|
-|296|68102076-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:42:00|0:52:00|—|
-|297|68102077-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:41:00|0:47:00|—|
-|298|68102078-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:51:00|0:52:00|—|
-|299|68102079-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:50:00|0:47:00|—|
-|300|68102080-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:59:00|0:52:00|—|
-|301|68102081-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:58:00|0:47:00|—|
-|302|68102082-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:08:00|0:52:00|—|
-|303|68102083-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:07:00|0:47:00|—|
-|304|68102084-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:17:00|0:51:00|—|
-|305|68102085-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:15:00|0:47:00|—|
-|306|68102086-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:30:00|0:47:00|—|
-|307|68102087-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:42:00|0:49:00|—|
-|308|68102088-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:26:00|0:50:00|—|
-|309|68102089-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:23:00|0:47:00|—|
-|310|68102090-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:34:00|0:49:00|—|
-|311|68102091-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:38:00|0:47:00|—|
-|312|68102092-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:51:00|0:48:00|—|
-|313|68102094-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:57:00|0:47:00|—|
-|314|68102095-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:25:00|0:47:00|—|
-|315|68102096-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:31:00|0:47:00|—|
-|316|68102097-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:41:00|0:47:00|—|
-|317|68102098-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:52:00|0:47:00|—|
-|318|68102099-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:20:00|0:47:00|—|
-|319|68102100-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:42:00|0:48:00|—|
-|320|68102101-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|00:04:00|0:47:00|—|
-|321|68102102-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:14:00|0:47:00|—|
-|322|68102103-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:17:00|0:48:00|—|
-|323|68102104-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:46:00|0:47:00|—|
-|324|68102105-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:10:00|0:47:00|—|
-|325|68102107-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:35:00|0:47:00|—|
-|326|68102108-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:04:00|0:47:00|—|
-|327|68102109-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|00:19:00|0:47:00|—|
-|328|68102123-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|04:49:00|0:09:00|—|
-|329|68102124-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:01:00|0:09:00|—|
-## 🚇 Blue | Blue Line
-- Trip numbers ⬇️ 1410 from 2702 to 1292
-- Average duration ⬆️ 0:00:32 overall from 0:18:49 to 0:19:21
-- 📅 Monday and Friday were impacted the most
-- ✅ No new trips
-- ❌ 1410 trips removed with an average duration of 0:18:19
-	- 410 on Monday
-	- 410 on Friday
-	- 300 on Saturday
-	- 290 on Sunday
-### ❌ Removed trips
-||Trip|Headsign|Start time|Duration|Days|
-|--:|:--|:--|--:|--:|:--|
-|1|687494285-4|Bowdoin|05:12:00|0:20:00|Fri|
-|2|687494295-4|Wonderland|05:37:00|0:20:00|Fri|
-|3|687494305-4|Bowdoin|05:18:00|0:20:00|Fri|
-|4|687494315-4|Wonderland|05:43:00|0:20:00|Fri|
-|5|687494325-4|Bowdoin|05:24:00|0:20:00|Fri|
-|6|687494335-4|Wonderland|05:49:00|0:20:00|Fri|
-|7|687494345-4|Bowdoin|06:18:00|0:20:00|Fri|
-|8|687494355-4|Wonderland|06:43:00|0:20:00|Fri|
-|9|687494365-4|Bowdoin|07:12:00|0:20:00|Fri|
-|10|687494375-4|Wonderland|07:37:00|0:20:00|Fri|
-|11|687494385-4|Bowdoin|08:06:00|0:20:00|Fri|
-|12|687494395-4|Wonderland|08:31:00|0:20:00|Fri|
-|13|687494405-4|Bowdoin|05:28:00|0:20:00|Fri|
-|14|687494415-4|Wonderland|05:53:00|0:20:00|Fri|
-|15|687494425-4|Bowdoin|06:22:00|0:20:00|Fri|
-|16|687494435-4|Wonderland|06:47:00|0:20:00|Fri|
-|17|687494445-4|Bowdoin|07:16:00|0:20:00|Fri|
-|18|687494455-4|Wonderland|07:41:00|0:20:00|Fri|
-|19|687494465-4|Bowdoin|08:10:00|0:20:00|Fri|
-|20|687494475-4|Wonderland|08:35:00|0:20:00|Fri|
-|21|687494485-4|Bowdoin|05:33:00|0:20:00|Fri|
-|22|687494495-4|Wonderland|05:58:00|0:20:00|Fri|
-|23|687494505-4|Bowdoin|06:27:00|0:20:00|Fri|
-|24|687494515-4|Wonderland|06:52:00|0:20:00|Fri|
-|25|687494525-4|Bowdoin|07:21:00|0:20:00|Fri|
-|26|687494535-4|Wonderland|07:46:00|0:20:00|Fri|
-|27|687494545-4|Bowdoin|08:15:00|0:20:00|Fri|
-|28|687494555-4|Wonderland|08:40:00|0:20:00|Fri|
-|29|687494565-4|Bowdoin|05:37:00|0:20:00|Fri|
-|30|687494575-4|Wonderland|06:02:00|0:20:00|Fri|
-|31|687494585-4|Bowdoin|06:31:00|0:20:00|Fri|
-|32|687494595-4|Wonderland|06:56:00|0:20:00|Fri|
-|33|687494605-4|Bowdoin|07:25:00|0:20:00|Fri|
-|34|687494615-4|Wonderland|07:50:00|0:20:00|Fri|
-|35|687494625-4|Bowdoin|08:19:00|0:20:00|Fri|
-|36|687494635-4|Wonderland|08:44:00|0:20:00|Fri|
-|37|687494645-4|Bowdoin|05:42:00|0:20:00|Fri|
-|38|687494655-4|Wonderland|06:07:00|0:20:00|Fri|
-|39|687494665-4|Bowdoin|06:36:00|0:20:00|Fri|
-|40|687494675-4|Wonderland|07:01:00|0:20:00|Fri|
-|41|687494685-4|Bowdoin|07:30:00|0:20:00|Fri|
-|42|687494695-4|Wonderland|07:55:00|0:20:00|Fri|
-|43|687494705-4|Bowdoin|08:24:00|0:20:00|Fri|
-|44|687494715-4|Wonderland|08:49:00|0:20:00|Fri|
-|45|687494725-4|Bowdoin|05:46:00|0:20:00|Fri|
-|46|687494735-4|Wonderland|06:11:00|0:20:00|Fri|
-|47|687494745-4|Bowdoin|06:40:00|0:20:00|Fri|
-|48|687494755-4|Wonderland|07:05:00|0:20:00|Fri|
-|49|687494765-4|Bowdoin|07:34:00|0:20:00|Fri|
-|50|687494775-4|Wonderland|07:59:00|0:20:00|Fri|
-|51|687494785-4|Bowdoin|08:28:00|0:20:00|Fri|
-|52|687494795-4|Wonderland|08:53:00|0:20:00|Fri|
-|53|687494805-4|Bowdoin|05:51:00|0:20:00|Fri|
-|54|687494815-4|Wonderland|06:16:00|0:20:00|Fri|
-|55|687494825-4|Bowdoin|06:45:00|0:20:00|Fri|
-|56|687494835-4|Wonderland|07:10:00|0:20:00|Fri|
-|57|687494845-4|Bowdoin|07:39:00|0:20:00|Fri|
-|58|687494855-4|Wonderland|08:04:00|0:20:00|Fri|
-|59|687494865-4|Bowdoin|08:33:00|0:20:00|Fri|
-|60|687494875-4|Wonderland|08:58:00|0:20:00|Fri|
-|61|687494885-4|Bowdoin|05:55:00|0:20:00|Fri|
-|62|687494895-4|Wonderland|06:20:00|0:20:00|Fri|
-|63|687494905-4|Bowdoin|06:49:00|0:20:00|Fri|
-|64|687494915-4|Wonderland|07:14:00|0:20:00|Fri|
-|65|687494925-4|Bowdoin|07:43:00|0:20:00|Fri|
-|66|687494935-4|Wonderland|08:08:00|0:20:00|Fri|
-|67|687494945-4|Bowdoin|08:37:00|0:20:00|Fri|
-|68|687494955-4|Wonderland|09:02:00|0:20:00|Fri|
-|69|687494965-4|Bowdoin|06:00:00|0:20:00|Fri|
-|70|687494975-4|Wonderland|06:25:00|0:20:00|Fri|
-|71|687494985-4|Bowdoin|06:54:00|0:20:00|Fri|
-|72|687494995-4|Wonderland|07:19:00|0:20:00|Fri|
-|73|687495005-4|Bowdoin|07:48:00|0:20:00|Fri|
-|74|687495015-4|Wonderland|08:13:00|0:20:00|Fri|
-|75|687495025-4|Bowdoin|08:42:00|0:20:00|Fri|
-|76|687495035-4|Wonderland|09:07:00|0:20:00|Fri|
-|77|687495045-4|Bowdoin|06:04:00|0:20:00|Fri|
-|78|687495055-4|Wonderland|06:29:00|0:20:00|Fri|
-|79|687495065-4|Bowdoin|06:58:00|0:20:00|Fri|
-|80|687495075-4|Wonderland|07:23:00|0:20:00|Fri|
-|81|687495085-4|Bowdoin|07:52:00|0:20:00|Fri|
-|82|687495095-4|Wonderland|08:17:00|0:20:00|Fri|
-|83|687495105-4|Bowdoin|08:46:00|0:20:00|Fri|
-|84|687495115-4|Orient Heights|09:11:00|0:13:00|Fri|
-|85|687495125-4|Bowdoin|06:09:00|0:20:00|Fri|
-|86|687495135-4|Wonderland|06:34:00|0:20:00|Fri|
-|87|687495145-4|Bowdoin|07:03:00|0:20:00|Fri|
-|88|687495155-4|Wonderland|07:28:00|0:20:00|Fri|
-|89|687495165-4|Bowdoin|07:57:00|0:20:00|Fri|
-|90|687495175-4|Wonderland|08:22:00|0:20:00|Fri|
-|91|687495185-4|Bowdoin|08:51:00|0:20:00|Fri|
-|92|687495195-4|Wonderland|09:16:00|0:20:00|Fri|
-|93|687495205-4|Bowdoin|06:13:00|0:20:00|Fri|
-|94|687495215-4|Wonderland|06:38:00|0:20:00|Fri|
-|95|687495225-4|Bowdoin|07:07:00|0:20:00|Fri|
-|96|687495235-4|Wonderland|07:32:00|0:20:00|Fri|
-|97|687495245-4|Bowdoin|08:01:00|0:20:00|Fri|
-|98|687495255-4|Wonderland|08:26:00|0:20:00|Fri|
-|99|687495265-4|Bowdoin|08:55:00|0:20:00|Fri|
-|100|687495275-4|Wonderland|09:20:00|0:20:00|Fri|
-|101|687495285-4|Bowdoin|09:00:00|0:20:00|Fri|
-|102|687495295-4|Wonderland|09:25:00|0:20:00|Fri|
-|103|687495305-4|Bowdoin|13:52:00|0:19:00|Fri|
-|104|687495315-4|Wonderland|14:16:00|0:20:00|Fri|
-|105|687495325-4|Bowdoin|13:59:00|0:19:00|Fri|
-|106|687495335-4|Wonderland|14:23:00|0:20:00|Fri|
-|107|687495345-4|Bowdoin|13:11:00|0:19:00|Fri|
-|108|687495355-4|Wonderland|13:35:00|0:20:00|Fri|
-|109|687495365-4|Bowdoin|13:17:00|0:19:00|Fri|
-|110|687495375-4|Wonderland|13:41:00|0:20:00|Fri|
-|111|687495385-4|Bowdoin|13:24:00|0:19:00|Fri|
-|112|687495395-4|Wonderland|13:48:00|0:20:00|Fri|
-|113|687495405-4|Bowdoin|13:31:00|0:19:00|Fri|
-|114|687495415-4|Wonderland|13:55:00|0:20:00|Fri|
-|115|687495425-4|Bowdoin|13:38:00|0:19:00|Fri|
-|116|687495435-4|Wonderland|14:02:00|0:20:00|Fri|
-|117|687495445-4|Bowdoin|13:45:00|0:19:00|Fri|
-|118|687495455-4|Wonderland|14:09:00|0:20:00|Fri|
-|119|687495465-4|Bowdoin|14:09:00|0:13:00|Fri|
-|120|687495475-4|Wonderland|14:29:00|0:20:00|Fri|
-|121|687495485-4|Bowdoin|14:07:00|0:19:00|Fri|
-|122|687495495-4|Wonderland|14:34:00|0:20:00|Fri|
-|123|687495505-4|Bowdoin|14:14:00|0:19:00|Fri|
-|124|687495515-4|Wonderland|14:39:00|0:20:00|Fri|
-|125|687495525-4|Bowdoin|14:21:00|0:19:00|Fri|
-|126|687495535-4|Wonderland|14:45:00|0:20:00|Fri|
-|127|687495545-4|Bowdoin|14:27:00|0:19:00|Fri|
-|128|687495555-4|Wonderland|14:51:00|0:20:00|Fri|
-|129|687495565-4|Bowdoin|15:20:00|0:19:00|Fri|
-|130|687495575-4|Wonderland|15:44:00|0:21:00|Fri|
-|131|687495585-4|Bowdoin|14:33:00|0:19:00|Fri|
-|132|687495595-4|Wonderland|14:56:00|0:20:00|Fri|
-|133|687495605-4|Bowdoin|15:25:00|0:19:00|Fri|
-|134|687495615-4|Wonderland|15:49:00|0:21:00|Fri|
-|135|687495625-4|Bowdoin|14:42:00|0:13:00|Fri|
-|136|687495635-4|Wonderland|15:01:00|0:21:00|Fri|
-|137|687495645-4|Bowdoin|14:39:00|0:19:00|Fri|
-|138|687495655-4|Wonderland|15:06:00|0:21:00|Fri|
-|139|687495665-4|Bowdoin|14:46:00|0:19:00|Fri|
-|140|687495675-4|Wonderland|15:11:00|0:21:00|Fri|
-|141|687495685-4|Bowdoin|14:53:00|0:19:00|Fri|
-|142|687495695-4|Wonderland|15:17:00|0:21:00|Fri|
-|143|687495705-4|Bowdoin|14:58:00|0:19:00|Fri|
-|144|687495715-4|Wonderland|15:22:00|0:21:00|Fri|
-|145|687495725-4|Bowdoin|15:04:00|0:19:00|Fri|
-|146|687495735-4|Wonderland|15:28:00|0:21:00|Fri|
-|147|687495745-4|Bowdoin|15:09:00|0:19:00|Fri|
-|148|687495755-4|Wonderland|15:33:00|0:21:00|Fri|
-|149|687495765-4|Bowdoin|15:14:00|0:19:00|Fri|
-|150|687495775-4|Wonderland|15:38:00|0:21:00|Fri|
-|151|687495785-4|Bowdoin|16:19:00|0:19:00|Fri|
-|152|687495795-4|Wonderland|16:43:00|0:21:00|Fri|
-|153|687495805-4|Bowdoin|17:13:00|0:19:00|Fri|
-|154|687495815-4|Wonderland|17:37:00|0:21:00|Fri|
-|155|687495825-4|Bowdoin|18:07:00|0:19:00|Fri|
-|156|687495835-4|Wonderland|18:31:00|0:20:00|Fri|
-|157|687495865-4|Bowdoin|15:34:00|0:13:00|Fri|
-|158|687495875-4|Wonderland|15:53:00|0:21:00|Fri|
-|159|687495885-4|Bowdoin|16:23:00|0:19:00|Fri|
-|160|687495895-4|Wonderland|16:47:00|0:21:00|Fri|
-|161|687495905-4|Bowdoin|17:17:00|0:19:00|Fri|
-|162|687495915-4|Wonderland|17:41:00|0:21:00|Fri|
-|163|687495925-4|Bowdoin|18:11:00|0:19:00|Fri|
-|164|687495935-4|Wonderland|18:35:00|0:20:00|Fri|
-|165|687495965-4|Bowdoin|15:32:00|0:19:00|Fri|
-|166|687495975-4|Wonderland|15:58:00|0:21:00|Fri|
-|167|687495985-4|Bowdoin|16:28:00|0:19:00|Fri|
-|168|687495995-4|Wonderland|16:52:00|0:21:00|Fri|
-|169|687496005-4|Bowdoin|17:22:00|0:19:00|Fri|
-|170|687496015-4|Wonderland|17:46:00|0:21:00|Fri|
-|171|687496025-4|Bowdoin|18:16:00|0:19:00|Fri|
-|172|687496035-4|Wonderland|18:40:00|0:20:00|Fri|
-|173|687496065-4|Bowdoin|15:38:00|0:19:00|Fri|
-|174|687496075-4|Wonderland|16:02:00|0:21:00|Fri|
-|175|687496085-4|Bowdoin|16:32:00|0:19:00|Fri|
-|176|687496095-4|Wonderland|16:56:00|0:21:00|Fri|
-|177|687496105-4|Bowdoin|17:26:00|0:19:00|Fri|
-|178|687496115-4|Wonderland|17:50:00|0:21:00|Fri|
-|179|687496125-4|Bowdoin|18:20:00|0:19:00|Fri|
-|180|687496135-4|Wonderland|18:44:00|0:20:00|Fri|
-|181|687496165-4|Bowdoin|15:43:00|0:19:00|Fri|
-|182|687496175-4|Wonderland|16:07:00|0:21:00|Fri|
-|183|687496185-4|Bowdoin|16:37:00|0:19:00|Fri|
-|184|687496195-4|Wonderland|17:01:00|0:21:00|Fri|
-|185|687496205-4|Bowdoin|17:31:00|0:19:00|Fri|
-|186|687496215-4|Wonderland|17:55:00|0:21:00|Fri|
-|187|687496225-4|Bowdoin|18:25:00|0:19:00|Fri|
-|188|687496235-4|Wonderland|18:49:00|0:20:00|Fri|
-|189|687496265-4|Bowdoin|15:47:00|0:19:00|Fri|
-|190|687496275-4|Wonderland|16:11:00|0:21:00|Fri|
-|191|687496285-4|Bowdoin|16:41:00|0:19:00|Fri|
-|192|687496295-4|Wonderland|17:05:00|0:21:00|Fri|
-|193|687496305-4|Bowdoin|17:35:00|0:19:00|Fri|
-|194|687496315-4|Wonderland|17:59:00|0:20:00|Fri|
-|195|687496325-4|Bowdoin|18:29:00|0:19:00|Fri|
-|196|687496335-4|Wonderland|18:53:00|0:20:00|Fri|
-|197|687496365-4|Bowdoin|15:52:00|0:19:00|Fri|
-|198|687496375-4|Wonderland|16:16:00|0:21:00|Fri|
-|199|687496385-4|Bowdoin|16:46:00|0:19:00|Fri|
-|200|687496395-4|Wonderland|17:10:00|0:21:00|Fri|
-|201|687496405-4|Bowdoin|17:40:00|0:19:00|Fri|
-|202|687496415-4|Wonderland|18:04:00|0:20:00|Fri|
-|203|687496425-4|Bowdoin|18:33:00|0:19:00|Fri|
-|204|687496435-4|Wonderland|18:57:00|0:20:00|Fri|
-|205|687496465-4|Bowdoin|16:01:00|0:13:00|Fri|
-|206|687496475-4|Wonderland|16:20:00|0:21:00|Fri|
-|207|687496485-4|Bowdoin|16:50:00|0:19:00|Fri|
-|208|687496495-4|Wonderland|17:14:00|0:21:00|Fri|
-|209|687496505-4|Bowdoin|17:44:00|0:19:00|Fri|
-|210|687496515-4|Wonderland|18:08:00|0:20:00|Fri|
-|211|687496525-4|Bowdoin|18:37:00|0:19:00|Fri|
-|212|687496545-4|Bowdoin|15:59:00|0:19:00|Fri|
-|213|687496555-4|Wonderland|16:25:00|0:21:00|Fri|
-|214|687496565-4|Bowdoin|16:55:00|0:19:00|Fri|
-|215|687496575-4|Wonderland|17:19:00|0:21:00|Fri|
-|216|687496585-4|Bowdoin|17:49:00|0:19:00|Fri|
-|217|687496595-4|Wonderland|18:13:00|0:20:00|Fri|
-|218|687496605-4|Bowdoin|18:42:00|0:19:00|Fri|
-|219|687496625-4|Bowdoin|16:05:00|0:19:00|Fri|
-|220|687496635-4|Wonderland|16:29:00|0:21:00|Fri|
-|221|687496645-4|Bowdoin|16:59:00|0:19:00|Fri|
-|222|687496655-4|Wonderland|17:23:00|0:21:00|Fri|
-|223|687496665-4|Bowdoin|17:53:00|0:19:00|Fri|
-|224|687496675-4|Wonderland|18:17:00|0:20:00|Fri|
-|225|687496685-4|Bowdoin|18:46:00|0:19:00|Fri|
-|226|687496705-4|Bowdoin|16:10:00|0:19:00|Fri|
-|227|687496715-4|Wonderland|16:34:00|0:21:00|Fri|
-|228|687496725-4|Bowdoin|17:04:00|0:19:00|Fri|
-|229|687496735-4|Wonderland|17:28:00|0:21:00|Fri|
-|230|687496745-4|Bowdoin|17:58:00|0:19:00|Fri|
-|231|687496755-4|Wonderland|18:22:00|0:20:00|Fri|
-|232|687496765-4|Bowdoin|18:51:00|0:19:00|Fri|
-|233|687496785-4|Bowdoin|16:14:00|0:19:00|Fri|
-|234|687496795-4|Wonderland|16:38:00|0:21:00|Fri|
-|235|687496805-4|Bowdoin|17:08:00|0:19:00|Fri|
-|236|687496815-4|Wonderland|17:32:00|0:21:00|Fri|
-|237|687496825-4|Bowdoin|18:02:00|0:19:00|Fri|
-|238|687496835-4|Wonderland|18:26:00|0:20:00|Fri|
-|239|687496845-4|Bowdoin|18:55:00|0:19:00|Fri|
-|240|687497645-4|Bowdoin|05:08:00|0:14:00|Fri|
-|241|687497655-4|Wonderland|05:32:00|0:20:00|Fri|
-|242|687497665-4|Bowdoin|12:43:00|0:20:00|Fri|
-|243|687497675-4|Wonderland|13:00:00|0:20:00|Fri|
-|244|687497685-4|Wonderland|13:15:00|0:20:00|Fri|
-|245|687497695-4|Wonderland|13:22:00|0:20:00|Fri|
-|246|687497705-4|Wonderland|12:45:00|0:20:00|Fri|
-|247|687497715-4|Bowdoin|12:35:00|0:20:00|Fri|
-|248|687497725-4|Wonderland|13:08:00|0:20:00|Fri|
-|249|687497735-4|Bowdoin|13:05:00|0:19:00|Fri|
-|250|687497745-4|Bowdoin|12:58:00|0:19:00|Fri|
-|251|687497755-4|Wonderland|13:29:00|0:20:00|Fri|
-|252|687497765-4|Bowdoin|12:20:00|0:20:00|Fri|
-|253|687497775-4|Bowdoin|12:28:00|0:20:00|Fri|
-|254|687497785-4|Wonderland|12:53:00|0:20:00|Fri|
-|255|687497795-4|Bowdoin|12:50:00|0:20:00|Fri|
-|256|687497805-4|Bowdoin|09:34:00|0:20:00|Fri|
-|257|687497815-4|Bowdoin|10:48:00|0:20:00|Fri|
-|258|687497825-4|Bowdoin|09:14:00|0:20:00|Fri|
-|259|687497835-4|Bowdoin|11:26:00|0:20:00|Fri|
-|260|687497845-4|Wonderland|09:34:00|0:20:00|Fri|
-|261|687497855-4|Bowdoin|10:03:00|0:20:00|Fri|
-|262|687497865-4|Bowdoin|11:18:00|0:20:00|Fri|
-|263|687497875-4|Bowdoin|10:41:00|0:20:00|Fri|
-|264|687497885-4|Bowdoin|09:45:00|0:20:00|Fri|
-|265|687497895-4|Bowdoin|12:11:00|0:20:00|Fri|
-|266|687497905-4|Bowdoin|09:19:00|0:20:00|Fri|
-|267|687497915-4|Bowdoin|09:50:00|0:20:00|Fri|
-|268|687497925-4|Bowdoin|10:11:00|0:20:00|Fri|
-|269|687497935-4|Bowdoin|10:18:00|0:20:00|Fri|
-|270|687497945-4|Bowdoin|11:03:00|0:20:00|Fri|
-|271|687497955-4|Bowdoin|10:33:00|0:20:00|Fri|
-|272|687497965-4|Bowdoin|11:11:00|0:20:00|Fri|
-|273|687497975-4|Bowdoin|11:33:00|0:20:00|Fri|
-|274|687497985-4|Bowdoin|10:26:00|0:20:00|Fri|
-|275|687497995-4|Bowdoin|11:56:00|0:20:00|Fri|
-|276|687498005-4|Bowdoin|11:41:00|0:20:00|Fri|
-|277|687498015-4|Bowdoin|09:24:00|0:20:00|Fri|
-|278|687498025-4|Bowdoin|09:29:00|0:20:00|Fri|
-|279|687498035-4|Bowdoin|12:03:00|0:20:00|Fri|
-|280|687498045-4|Bowdoin|11:48:00|0:20:00|Fri|
-|281|687498055-4|Bowdoin|09:04:00|0:20:00|Fri|
-|282|687498065-4|Bowdoin|09:09:00|0:20:00|Fri|
-|283|687498075-4|Bowdoin|09:56:00|0:20:00|Fri|
-|284|687498085-4|Bowdoin|10:56:00|0:20:00|Fri|
-|285|687498095-4|Wonderland|12:36:00|0:20:00|Fri|
-|286|687498105-4|Wonderland|12:28:00|0:20:00|Fri|
-|287|687498115-4|Wonderland|12:21:00|0:20:00|Fri|
-|288|687498125-4|Wonderland|12:13:00|0:20:00|Fri|
-|289|687498135-4|Wonderland|12:06:00|0:20:00|Fri|
-|290|687498145-4|Wonderland|11:58:00|0:20:00|Fri|
-|291|687498155-4|Wonderland|11:51:00|0:20:00|Fri|
-|292|687498165-4|Wonderland|11:43:00|0:20:00|Fri|
-|293|687498175-4|Wonderland|11:36:00|0:20:00|Fri|
-|294|687498185-4|Wonderland|11:28:00|0:20:00|Fri|
-|295|687498195-4|Wonderland|11:21:00|0:20:00|Fri|
-|296|687498205-4|Wonderland|11:13:00|0:20:00|Fri|
-|297|687498215-4|Wonderland|11:06:00|0:20:00|Fri|
-|298|687498225-4|Wonderland|10:58:00|0:20:00|Fri|
-|299|687498235-4|Wonderland|10:51:00|0:20:00|Fri|
-|300|687498245-4|Wonderland|10:43:00|0:20:00|Fri|
-|301|687498255-4|Wonderland|10:36:00|0:20:00|Fri|
-|302|687498265-4|Wonderland|10:28:00|0:20:00|Fri|
-|303|687498275-4|Wonderland|10:21:00|0:20:00|Fri|
-|304|687498285-4|Orient Heights|09:29:00|0:13:00|Fri|
-|305|687498295-4|Orient Heights|10:15:00|0:13:00|Fri|
-|306|687498305-4|Wonderland|10:10:00|0:20:00|Fri|
-|307|687498315-4|Wonderland|10:04:00|0:20:00|Fri|
-|308|687498325-4|Wonderland|09:59:00|0:20:00|Fri|
-|309|687498335-4|Wonderland|09:54:00|0:20:00|Fri|
-|310|687498345-4|Wonderland|09:49:00|0:20:00|Fri|
-|311|687498355-4|Bowdoin|09:39:00|0:20:00|Fri|
-|312|687498365-4|Orient Heights|09:44:00|0:13:00|Fri|
-|313|687498375-4|Wonderland|09:39:00|0:20:00|Fri|
-|314|68748506560|Bowdoin|23:52:00|0:17:00|Sun|
-|315|68748507562|Wonderland|00:18:00|0:19:00|Sun|
-|316|68748508562|Wonderland|22:30:00|0:19:00|Sun|
-|317|68748509562|Wonderland|23:22:00|0:19:00|Sun|
-|318|68748510560|Bowdoin|22:57:00|0:17:00|Sun|
-|319|68748511562|Wonderland|23:51:00|0:19:00|Sun|
-|320|68748512560|Bowdoin|23:27:00|0:17:00|Sun|
-|321|68748513560|Bowdoin|00:24:00|0:17:00|Sun|
-|322|68748514562|Wonderland|00:53:00|0:19:00|Sun|
-|323|68748515562|Wonderland|20:25:00|0:19:00|Sun|
-|324|68748516562|Wonderland|21:17:00|0:19:00|Sun|
-|325|68748517560|Bowdoin|20:52:00|0:17:00|Sun|
-|326|68748518560|Bowdoin|20:22:00|0:17:00|Sun|
-|327|68748519562|Wonderland|19:33:00|0:19:00|Sun|
-|328|68748520562|Wonderland|21:38:00|0:19:00|Sun|
-|329|68748521560|Bowdoin|20:00:00|0:17:00|Sun|
-|330|68748522562|Wonderland|19:55:00|0:19:00|Sun|
-|331|68748523560|Bowdoin|19:30:00|0:17:00|Sun|
-|332|68748524562|Wonderland|20:47:00|0:19:00|Sun|
-|333|68748525560|Bowdoin|21:14:00|0:17:00|Sun|
-|334|68748526560|Bowdoin|22:05:00|0:17:00|Sun|
-|335|68748527560|Bowdoin|21:44:00|0:17:00|Sun|
-|336|68748528562|Wonderland|22:08:00|0:19:00|Sun|
-|337|68748529560|Bowdoin|22:35:00|0:17:00|Sun|
-|338|68748530562|Wonderland|23:00:00|0:19:00|Sun|
-|339|68748531562|Wonderland|17:20:00|0:19:00|Sun|
-|340|68748532562|Wonderland|18:12:00|0:19:00|Sun|
-|341|68748533560|Bowdoin|17:47:00|0:17:00|Sun|
-|342|68748534560|Bowdoin|16:55:00|0:17:00|Sun|
-|343|68748535562|Wonderland|16:50:00|0:19:00|Sun|
-|344|68748536562|Wonderland|16:58:00|0:19:00|Sun|
-|345|68748537562|Wonderland|17:42:00|0:19:00|Sun|
-|346|68748538562|Wonderland|17:50:00|0:19:00|Sun|
-|347|68748539560|Bowdoin|17:17:00|0:17:00|Sun|
-|348|68748540560|Bowdoin|17:25:00|0:17:00|Sun|
-|349|68748541560|Bowdoin|19:00:00|0:17:00|Sun|
-|350|68748542560|Bowdoin|18:09:00|0:17:00|Sun|
-|351|68748543562|Wonderland|18:33:00|0:19:00|Sun|
-|352|68748544562|Wonderland|00:41:00|0:19:00|Sun|
-|353|68748545560|Bowdoin|00:12:00|0:17:00|Sun|
-|354|68748546562|Wonderland|19:25:00|0:19:00|Sun|
-|355|68748547560|Bowdoin|19:08:00|0:17:00|Sun|
-|356|68748548560|Bowdoin|20:44:00|0:17:00|Sun|
-|357|68748549560|Bowdoin|19:52:00|0:17:00|Sun|
-|358|68748550562|Wonderland|21:09:00|0:19:00|Sun|
-|359|68748551560|Bowdoin|18:17:00|0:17:00|Sun|
-|360|68748552562|Wonderland|18:41:00|0:19:00|Sun|
-|361|68748553562|Wonderland|20:17:00|0:19:00|Sun|
-|362|68748554562|Wonderland|19:03:00|0:19:00|Sun|
-|363|68748555560|Bowdoin|18:39:00|0:17:00|Sun|
-|364|68748556560|Bowdoin|21:36:00|0:17:00|Sun|
-|365|68748557560|Bowdoin|22:28:00|0:17:00|Sun|
-|366|68748558562|Wonderland|22:53:00|0:19:00|Sun|
-|367|68748559562|Wonderland|22:01:00|0:19:00|Sun|
-|368|68748560562|Wonderland|23:44:00|0:19:00|Sun|
-|369|68748561560|Bowdoin|23:20:00|0:17:00|Sun|
-|370|68748562562|Wonderland|14:58:00|0:19:00|Sun|
-|371|68748563562|Wonderland|15:36:00|0:19:00|Sun|
-|372|68748564560|Bowdoin|16:03:00|0:17:00|Sun|
-|373|68748565560|Bowdoin|14:32:00|0:17:00|Sun|
-|374|68748566560|Bowdoin|15:10:00|0:17:00|Sun|
-|375|68748567562|Wonderland|16:28:00|0:19:00|Sun|
-|376|68748568562|Wonderland|15:51:00|0:19:00|Sun|
-|377|68748569560|Bowdoin|17:10:00|0:17:00|Sun|
-|378|68748570560|Bowdoin|16:25:00|0:17:00|Sun|
-|379|68748571560|Bowdoin|15:40:00|0:17:00|Sun|
-|380|68748572562|Wonderland|16:06:00|0:19:00|Sun|
-|381|68748573562|Wonderland|17:35:00|0:19:00|Sun|
-|382|68748574562|Wonderland|18:26:00|0:19:00|Sun|
-|383|68748575560|Bowdoin|15:25:00|0:17:00|Sun|
-|384|68748576562|Wonderland|15:58:00|0:19:00|Sun|
-|385|68748577560|Bowdoin|15:33:00|0:17:00|Sun|
-|386|68748578560|Bowdoin|16:33:00|0:17:00|Sun|
-|387|68748579562|Wonderland|16:43:00|0:19:00|Sun|
-|388|68748580560|Bowdoin|18:02:00|0:17:00|Sun|
-|389|68748581560|Bowdoin|16:18:00|0:17:00|Sun|
-|390|68748582560|Bowdoin|20:37:00|0:17:00|Sun|
-|391|68748583560|Bowdoin|18:53:00|0:17:00|Sun|
-|392|68748584562|Wonderland|21:02:00|0:19:00|Sun|
-|393|68748585560|Bowdoin|19:45:00|0:17:00|Sun|
-|394|68748586562|Wonderland|19:18:00|0:19:00|Sun|
-|395|68748587562|Wonderland|20:10:00|0:19:00|Sun|
-|396|68748588560|Bowdoin|14:40:00|0:17:00|Sun|
-|397|68748589562|Wonderland|15:06:00|0:19:00|Sun|
-|398|68748590562|Wonderland|14:20:00|0:18:00|Sun|
-|399|68748591562|Wonderland|15:13:00|0:19:00|Sun|
-|400|68748592562|Wonderland|14:13:00|0:18:00|Sun|
-|401|68748593560|Bowdoin|14:47:00|0:17:00|Sun|
-|402|68748594560|Bowdoin|14:17:00|0:17:00|Sun|
-|403|68748595562|Wonderland|14:43:00|0:18:00|Sun|
-|404|68748596560|Bowdoin|21:29:00|0:17:00|Sun|
-|405|68748597562|Wonderland|21:53:00|0:19:00|Sun|
-|406|68748598560|Bowdoin|22:20:00|0:17:00|Sun|
-|407|68748599562|Wonderland|22:45:00|0:19:00|Sun|
-|408|68748600560|Bowdoin|23:12:00|0:17:00|Sun|
-|409|68748601562|Wonderland|23:36:00|0:19:00|Sun|
-|410|68748602562|Wonderland|14:05:00|0:18:00|Sun|
-|411|68748603560|Bowdoin|13:40:00|0:17:00|Sun|
-|412|68748604562|Wonderland|12:27:00|0:18:00|Sun|
-|413|68748605562|Wonderland|12:20:00|0:18:00|Sun|
-|414|68748606560|Bowdoin|12:47:00|0:17:00|Sun|
-|415|68748607562|Wonderland|13:13:00|0:18:00|Sun|
-|416|68748608560|Bowdoin|12:54:00|0:17:00|Sun|
-|417|68748609562|Wonderland|13:20:00|0:18:00|Sun|
-|418|68748610560|Bowdoin|12:32:00|0:17:00|Sun|
-|419|68748611560|Bowdoin|13:47:00|0:17:00|Sun|
-|420|68748612562|Wonderland|13:27:00|0:18:00|Sun|
-|421|68748613560|Bowdoin|13:02:00|0:17:00|Sun|
-|422|68748614562|Wonderland|12:57:00|0:18:00|Sun|
-|423|68748615562|Wonderland|12:35:00|0:18:00|Sun|
-|424|68748616560|Bowdoin|13:54:00|0:17:00|Sun|
-|425|68748617562|Wonderland|13:50:00|0:18:00|Sun|
-|426|68748618560|Bowdoin|13:24:00|0:17:00|Sun|
-|427|68748619562|Wonderland|11:20:00|0:18:00|Sun|
-|428|68748620562|Wonderland|17:27:00|0:19:00|Sun|
-|429|68748621560|Bowdoin|13:32:00|0:17:00|Sun|
-|430|68748622562|Wonderland|14:50:00|0:19:00|Sun|
-|431|68748623560|Bowdoin|15:17:00|0:17:00|Sun|
-|432|68748624562|Wonderland|16:35:00|0:19:00|Sun|
-|433|68748625560|Bowdoin|14:24:00|0:17:00|Sun|
-|434|68748626560|Bowdoin|17:02:00|0:17:00|Sun|
-|435|68748627562|Wonderland|15:43:00|0:19:00|Sun|
-|436|68748628562|Wonderland|13:57:00|0:18:00|Sun|
-|437|68748629560|Bowdoin|16:10:00|0:17:00|Sun|
-|438|68748630562|Wonderland|18:19:00|0:19:00|Sun|
-|439|68748631560|Bowdoin|19:38:00|0:17:00|Sun|
-|440|68748632562|Wonderland|20:55:00|0:19:00|Sun|
-|441|68748633562|Wonderland|19:11:00|0:19:00|Sun|
-|442|68748634560|Bowdoin|17:54:00|0:17:00|Sun|
-|443|68748635560|Bowdoin|20:30:00|0:17:00|Sun|
-|444|68748636560|Bowdoin|18:46:00|0:17:00|Sun|
-|445|68748637562|Wonderland|20:03:00|0:19:00|Sun|
-|446|68748638562|Wonderland|12:13:00|0:18:00|Sun|
-|447|68748639562|Wonderland|11:42:00|0:18:00|Sun|
-|448|68748640560|Bowdoin|11:17:00|0:17:00|Sun|
-|449|68748641562|Wonderland|11:35:00|0:18:00|Sun|
-|450|68748642560|Bowdoin|00:02:00|0:17:00|Sun|
-|451|68748643562|Wonderland|12:05:00|0:18:00|Sun|
-|452|68748644560|Bowdoin|11:09:00|0:17:00|Sun|
-|453|68748645560|Bowdoin|11:54:00|0:17:00|Sun|
-|454|68748646562|Wonderland|11:27:00|0:18:00|Sun|
-|455|68748647560|Bowdoin|11:02:00|0:17:00|Sun|
-|456|68748648560|Bowdoin|11:47:00|0:17:00|Sun|
-|457|68748649562|Wonderland|00:29:00|0:19:00|Sun|
-|458|68748650560|Bowdoin|12:02:00|0:17:00|Sun|
-|459|68748651560|Bowdoin|11:40:00|0:17:00|Sun|
-|460|68748652560|Bowdoin|12:09:00|0:17:00|Sun|
-|461|68748653560|Bowdoin|12:40:00|0:17:00|Sun|
-|462|68748654562|Wonderland|13:05:00|0:18:00|Sun|
-|463|68748655562|Wonderland|11:13:00|0:18:00|Sun|
-|464|68748656562|Wonderland|21:46:00|0:19:00|Sun|
-|465|68748657560|Bowdoin|21:22:00|0:17:00|Sun|
-|466|68748658560|Bowdoin|22:13:00|0:17:00|Sun|
-|467|68748659562|Wonderland|22:38:00|0:19:00|Sun|
-|468|68748660560|Bowdoin|23:05:00|0:17:00|Sun|
-|469|68748661562|Wonderland|23:29:00|0:19:00|Sun|
-|470|68748662562|Wonderland|10:27:00|0:18:00|Sun|
-|471|68748663560|Bowdoin|10:54:00|0:17:00|Sun|
-|472|68748664562|Wonderland|10:42:00|0:18:00|Sun|
-|473|68748665560|Bowdoin|10:16:00|0:17:00|Sun|
-|474|68748666560|Bowdoin|10:09:00|0:17:00|Sun|
-|475|68748667562|Wonderland|10:35:00|0:18:00|Sun|
-|476|68748668560|Bowdoin|10:47:00|0:17:00|Sun|
-|477|68748669562|Wonderland|10:50:00|0:18:00|Sun|
-|478|68748670560|Bowdoin|10:24:00|0:17:00|Sun|
-|479|68748671562|Wonderland|10:20:00|0:18:00|Sun|
-|480|68748672560|Bowdoin|10:01:00|0:17:00|Sun|
-|481|68748673562|Wonderland|09:58:00|0:18:00|Sun|
-|482|68748674562|Wonderland|09:35:00|0:18:00|Sun|
-|483|68748675562|Wonderland|09:50:00|0:18:00|Sun|
-|484|68748676560|Bowdoin|09:32:00|0:17:00|Sun|
-|485|68748677562|Wonderland|09:43:00|0:18:00|Sun|
-|486|68748678562|Wonderland|09:28:00|0:18:00|Sun|
-|487|68748679560|Bowdoin|09:54:00|0:17:00|Sun|
-|488|68748680560|Bowdoin|09:24:00|0:17:00|Sun|
-|489|68748681560|Bowdoin|09:02:00|0:17:00|Sun|
-|490|68748682562|Wonderland|08:58:00|0:18:00|Sun|
-|491|68748683560|Bowdoin|09:17:00|0:17:00|Sun|
-|492|68748684562|Wonderland|08:51:00|0:18:00|Sun|
-|493|68748685560|Bowdoin|09:09:00|0:17:00|Sun|
-|494|68748686562|Wonderland|09:05:00|0:18:00|Sun|
-|495|68748687562|Wonderland|17:12:00|0:19:00|Sun|
-|496|68748688562|Wonderland|15:28:00|0:19:00|Sun|
-|497|68748689562|Wonderland|16:20:00|0:19:00|Sun|
-|498|68748690560|Bowdoin|17:39:00|0:17:00|Sun|
-|499|68748691560|Bowdoin|15:55:00|0:17:00|Sun|
-|500|68748692560|Bowdoin|16:47:00|0:17:00|Sun|
-|501|68748693562|Wonderland|18:04:00|0:19:00|Sun|
-|502|68748694560|Bowdoin|15:02:00|0:17:00|Sun|
-|503|68748695562|Wonderland|11:57:00|0:18:00|Sun|
-|504|68748696560|Bowdoin|11:32:00|0:17:00|Sun|
-|505|68748697562|Wonderland|00:08:00|0:19:00|Sun|
-|506|68748698560|Bowdoin|23:43:00|0:17:00|Sun|
-|507|68748699560|Bowdoin|12:24:00|0:17:00|Sun|
-|508|68748700562|Wonderland|12:50:00|0:18:00|Sun|
-|509|68748701560|Bowdoin|14:09:00|0:17:00|Sun|
-|510|68748702560|Bowdoin|13:16:00|0:17:00|Sun|
-|511|68748703562|Wonderland|14:35:00|0:18:00|Sun|
-|512|68748704562|Wonderland|13:42:00|0:18:00|Sun|
-|513|68748705562|Wonderland|08:13:00|0:18:00|Sun|
-|514|68748706560|Bowdoin|10:40:00|0:17:00|Sun|
-|515|68748707562|Wonderland|19:48:00|0:19:00|Sun|
-|516|68748708560|Bowdoin|20:15:00|0:17:00|Sun|
-|517|68748709560|Bowdoin|21:07:00|0:17:00|Sun|
-|518|68748710560|Bowdoin|22:50:00|0:17:00|Sun|
-|519|68748711562|Wonderland|22:23:00|0:19:00|Sun|
-|520|68748712562|Wonderland|23:15:00|0:19:00|Sun|
-|521|68748713560|Bowdoin|18:31:00|0:17:00|Sun|
-|522|68748714562|Wonderland|20:40:00|0:19:00|Sun|
-|523|68748715562|Wonderland|21:31:00|0:19:00|Sun|
-|524|68748716560|Bowdoin|21:58:00|0:17:00|Sun|
-|525|68748717560|Bowdoin|19:23:00|0:17:00|Sun|
-|526|68748718562|Wonderland|18:56:00|0:19:00|Sun|
-|527|68748719560|Bowdoin|08:55:00|0:17:00|Sun|
-|528|68748720562|Wonderland|09:21:00|0:18:00|Sun|
-|529|68748721560|Bowdoin|08:33:00|0:17:00|Sun|
-|530|68748722560|Bowdoin|08:18:00|0:17:00|Sun|
-|531|68748723560|Bowdoin|09:47:00|0:17:00|Sun|
-|532|68748724562|Wonderland|11:05:00|0:18:00|Sun|
-|533|68748725560|Bowdoin|08:26:00|0:17:00|Sun|
-|534|68748726562|Wonderland|08:29:00|0:18:00|Sun|
-|535|68748727562|Wonderland|08:36:00|0:18:00|Sun|
-|536|68748728562|Wonderland|08:43:00|0:18:00|Sun|
-|537|68748729560|Bowdoin|08:11:00|0:17:00|Sun|
-|538|68748730560|Bowdoin|08:40:00|0:17:00|Sun|
-|539|68748731562|Wonderland|10:13:00|0:18:00|Sun|
-|540|68748732562|Wonderland|07:46:00|0:18:00|Sun|
-|541|68748733562|Wonderland|07:37:00|0:18:00|Sun|
-|542|68748734562|Wonderland|07:55:00|0:18:00|Sun|
-|543|68748735560|Bowdoin|07:39:00|0:17:00|Sun|
-|544|68748736562|Wonderland|08:04:00|0:18:00|Sun|
-|545|68748737560|Bowdoin|07:48:00|0:17:00|Sun|
-|546|68748738560|Bowdoin|08:04:00|0:17:00|Sun|
-|547|68748739560|Bowdoin|07:21:00|0:17:00|Sun|
-|548|68748740560|Bowdoin|07:30:00|0:17:00|Sun|
-|549|68748741560|Bowdoin|07:12:00|0:17:00|Sun|
-|550|68748742562|Wonderland|07:19:00|0:18:00|Sun|
-|551|68748743562|Wonderland|07:10:00|0:18:00|Sun|
-|552|68748744560|Bowdoin|06:27:00|0:17:00|Sun|
-|553|68748745562|Wonderland|06:52:00|0:18:00|Sun|
-|554|68748746562|Wonderland|08:21:00|0:18:00|Sun|
-|555|68748747562|Wonderland|06:43:00|0:18:00|Sun|
-|556|68748748560|Bowdoin|06:18:00|0:17:00|Sun|
-|557|68748749562|Wonderland|07:01:00|0:18:00|Sun|
-|558|68748750560|Bowdoin|06:36:00|0:17:00|Sun|
-|559|68748751560|Bowdoin|23:35:00|0:17:00|Sun|
-|560|68748752560|Bowdoin|06:45:00|0:17:00|Sun|
-|561|68748753562|Wonderland|06:26:00|0:18:00|Sun|
-|562|68748754560|Bowdoin|06:54:00|0:17:00|Sun|
-|563|68748755560|Bowdoin|06:00:00|0:17:00|Sun|
-|564|68748756560|Bowdoin|17:32:00|0:17:00|Sun|
-|565|68748757562|Wonderland|17:05:00|0:19:00|Sun|
-|566|68748758560|Bowdoin|15:48:00|0:17:00|Sun|
-|567|68748759562|Wonderland|16:13:00|0:19:00|Sun|
-|568|68748760562|Wonderland|17:57:00|0:19:00|Sun|
-|569|68748761560|Bowdoin|16:40:00|0:17:00|Sun|
-|570|68748762562|Wonderland|11:50:00|0:18:00|Sun|
-|571|68748763560|Bowdoin|11:24:00|0:17:00|Sun|
-|572|68748764562|Wonderland|23:59:00|0:19:00|Sun|
-|573|68748765560|Bowdoin|12:17:00|0:17:00|Sun|
-|574|68748766562|Wonderland|12:42:00|0:18:00|Sun|
-|575|68748767562|Wonderland|13:35:00|0:18:00|Sun|
-|576|68748768560|Bowdoin|14:02:00|0:17:00|Sun|
-|577|68748769562|Wonderland|14:28:00|0:18:00|Sun|
-|578|68748770560|Bowdoin|13:09:00|0:17:00|Sun|
-|579|68748771560|Bowdoin|14:55:00|0:17:00|Sun|
-|580|68748772562|Wonderland|15:21:00|0:19:00|Sun|
-|581|68748773560|Bowdoin|09:40:00|0:17:00|Sun|
-|582|68748774562|Wonderland|10:05:00|0:18:00|Sun|
-|583|68748775562|Wonderland|09:14:00|0:18:00|Sun|
-|584|68748776560|Bowdoin|08:48:00|0:17:00|Sun|
-|585|68748777560|Bowdoin|07:56:00|0:17:00|Sun|
-|586|68748778562|Wonderland|07:28:00|0:18:00|Sun|
-|587|68748779560|Bowdoin|07:03:00|0:17:00|Sun|
-|588|68748780560|Bowdoin|06:09:00|0:17:00|Sun|
-|589|68748781562|Wonderland|06:34:00|0:18:00|Sun|
-|590|68748782560|Bowdoin|10:31:00|0:17:00|Sun|
-|591|68748783562|Wonderland|10:57:00|0:18:00|Sun|
-|592|68748784562|Wonderland|19:40:00|0:19:00|Sun|
-|593|68748785562|Wonderland|18:48:00|0:19:00|Sun|
-|594|68748786560|Bowdoin|20:07:00|0:17:00|Sun|
-|595|68748787562|Wonderland|21:24:00|0:19:00|Sun|
-|596|68748788560|Bowdoin|19:15:00|0:17:00|Sun|
-|597|68748789562|Wonderland|23:08:00|0:19:00|Sun|
-|598|68748790560|Bowdoin|21:51:00|0:17:00|Sun|
-|599|68748791560|Bowdoin|18:24:00|0:17:00|Sun|
-|600|68748792562|Wonderland|22:16:00|0:19:00|Sun|
-|601|68748793560|Bowdoin|20:59:00|0:17:00|Sun|
-|602|68748794562|Wonderland|20:32:00|0:19:00|Sun|
-|603|68748795560|Bowdoin|22:43:00|0:17:00|Sun|
-|604|68749114552|Wonderland|07:46:00|0:18:00|Sat|
-|605|68749115550|Bowdoin|07:21:00|0:17:00|Sat|
-|606|68749116552|Wonderland|06:52:00|0:18:00|Sat|
-|607|68749117550|Bowdoin|06:27:00|0:17:00|Sat|
-|608|68749118552|Wonderland|05:58:00|0:18:00|Sat|
-|609|68749119550|Bowdoin|05:33:00|0:17:00|Sat|
-|610|68749120552|Wonderland|07:37:00|0:18:00|Sat|
-|611|68749121552|Wonderland|05:48:00|0:18:00|Sat|
-|612|68749122550|Bowdoin|07:12:00|0:17:00|Sat|
-|613|68749123552|Wonderland|06:43:00|0:18:00|Sat|
-|614|68749124550|Bowdoin|06:18:00|0:17:00|Sat|
-|615|68749125550|Bowdoin|05:24:00|0:17:00|Sat|
-|616|68749126552|Wonderland|08:04:00|0:18:00|Sat|
-|617|68749127550|Bowdoin|07:39:00|0:17:00|Sat|
-|618|68749128552|Wonderland|07:10:00|0:18:00|Sat|
-|619|68749129550|Bowdoin|06:45:00|0:17:00|Sat|
-|620|68749130552|Wonderland|06:16:00|0:18:00|Sat|
-|621|68749131550|Bowdoin|05:51:00|0:17:00|Sat|
-|622|68749132552|Wonderland|07:01:00|0:18:00|Sat|
-|623|68749133552|Wonderland|07:55:00|0:18:00|Sat|
-|624|68749134550|Bowdoin|07:30:00|0:17:00|Sat|
-|625|68749135550|Bowdoin|06:36:00|0:17:00|Sat|
-|626|68749136552|Wonderland|06:07:00|0:18:00|Sat|
-|627|68749137550|Bowdoin|05:42:00|0:17:00|Sat|
-|628|68749138550|Bowdoin|07:56:00|0:17:00|Sat|
-|629|68749139552|Wonderland|07:28:00|0:18:00|Sat|
-|630|68749140550|Bowdoin|07:03:00|0:17:00|Sat|
-|631|68749141552|Wonderland|06:34:00|0:18:00|Sat|
-|632|68749142550|Bowdoin|06:09:00|0:17:00|Sat|
-|633|68749143550|Bowdoin|07:48:00|0:17:00|Sat|
-|634|68749144552|Wonderland|08:13:00|0:18:00|Sat|
-|635|68749145552|Wonderland|07:19:00|0:18:00|Sat|
-|636|68749146550|Bowdoin|06:54:00|0:17:00|Sat|
-|637|68749147552|Wonderland|06:25:00|0:18:00|Sat|
-|638|68749148550|Bowdoin|06:00:00|0:17:00|Sat|
-|639|68749149552|Wonderland|05:38:00|0:18:00|Sat|
-|640|68749150550|Bowdoin|05:10:00|0:11:00|Sat|
-|641|68749151552|Wonderland|10:50:00|0:18:00|Sat|
-|642|68749152550|Bowdoin|10:40:00|0:17:00|Sat|
-|643|68749153550|Bowdoin|10:31:00|0:17:00|Sat|
-|644|68749154552|Wonderland|10:57:00|0:18:00|Sat|
-|645|68749155550|Bowdoin|10:24:00|0:17:00|Sat|
-|646|68749156552|Wonderland|11:05:00|0:18:00|Sat|
-|647|68749157550|Bowdoin|23:35:00|0:17:00|Sat|
-|648|68749158552|Wonderland|08:21:00|0:18:00|Sat|
-|649|68749159550|Bowdoin|08:48:00|0:17:00|Sat|
-|650|68749160552|Wonderland|09:14:00|0:18:00|Sat|
-|651|68749161550|Bowdoin|08:04:00|0:17:00|Sat|
-|652|68749162552|Wonderland|08:29:00|0:18:00|Sat|
-|653|68749163550|Bowdoin|08:55:00|0:17:00|Sat|
-|654|68749164552|Wonderland|09:21:00|0:18:00|Sat|
-|655|68749165550|Bowdoin|08:11:00|0:17:00|Sat|
-|656|68749166552|Wonderland|08:36:00|0:18:00|Sat|
-|657|68749167550|Bowdoin|08:18:00|0:17:00|Sat|
-|658|68749168552|Wonderland|08:43:00|0:18:00|Sat|
-|659|68749169550|Bowdoin|08:26:00|0:17:00|Sat|
-|660|68749170552|Wonderland|08:51:00|0:18:00|Sat|
-|661|68749171550|Bowdoin|08:33:00|0:17:00|Sat|
-|662|68749172552|Wonderland|08:58:00|0:18:00|Sat|
-|663|68749173550|Bowdoin|08:40:00|0:17:00|Sat|
-|664|68749174552|Wonderland|09:05:00|0:18:00|Sat|
-|665|68749175550|Bowdoin|09:47:00|0:17:00|Sat|
-|666|68749176552|Wonderland|10:13:00|0:18:00|Sat|
-|667|68749177550|Bowdoin|09:02:00|0:17:00|Sat|
-|668|68749178552|Wonderland|09:28:00|0:18:00|Sat|
-|669|68749179550|Bowdoin|09:54:00|0:17:00|Sat|
-|670|68749180552|Wonderland|10:20:00|0:18:00|Sat|
-|671|68749181550|Bowdoin|09:09:00|0:17:00|Sat|
-|672|68749182552|Wonderland|09:35:00|0:18:00|Sat|
-|673|68749183550|Bowdoin|09:17:00|0:17:00|Sat|
-|674|68749184552|Wonderland|09:43:00|0:18:00|Sat|
-|675|68749185550|Bowdoin|09:24:00|0:17:00|Sat|
-|676|68749186552|Wonderland|09:50:00|0:18:00|Sat|
-|677|68749187550|Bowdoin|09:32:00|0:17:00|Sat|
-|678|68749188552|Wonderland|09:58:00|0:18:00|Sat|
-|679|68749189550|Bowdoin|09:40:00|0:17:00|Sat|
-|680|68749190552|Wonderland|10:05:00|0:18:00|Sat|
-|681|68749191550|Bowdoin|10:47:00|0:17:00|Sat|
-|682|68749192552|Wonderland|11:13:00|0:18:00|Sat|
-|683|68749193550|Bowdoin|10:01:00|0:17:00|Sat|
-|684|68749194552|Wonderland|10:27:00|0:18:00|Sat|
-|685|68749195550|Bowdoin|10:54:00|0:17:00|Sat|
-|686|68749196552|Wonderland|11:20:00|0:18:00|Sat|
-|687|68749197550|Bowdoin|10:09:00|0:17:00|Sat|
-|688|68749198552|Wonderland|10:35:00|0:18:00|Sat|
-|689|68749199550|Bowdoin|10:16:00|0:17:00|Sat|
-|690|68749200552|Wonderland|10:42:00|0:18:00|Sat|
-|691|68749201552|Wonderland|12:05:00|0:18:00|Sat|
-|692|68749202552|Wonderland|12:13:00|0:18:00|Sat|
-|693|68749203552|Wonderland|11:50:00|0:18:00|Sat|
-|694|68749204550|Bowdoin|11:09:00|0:17:00|Sat|
-|695|68749205550|Bowdoin|11:47:00|0:17:00|Sat|
-|696|68749206550|Bowdoin|11:02:00|0:17:00|Sat|
-|697|68749207550|Bowdoin|11:24:00|0:17:00|Sat|
-|698|68749208552|Wonderland|11:35:00|0:18:00|Sat|
-|699|68749209552|Wonderland|11:42:00|0:18:00|Sat|
-|700|68749210552|Wonderland|11:27:00|0:18:00|Sat|
-|701|68749211550|Bowdoin|11:40:00|0:17:00|Sat|
-|702|68749212552|Wonderland|12:20:00|0:18:00|Sat|
-|703|68749213550|Bowdoin|11:54:00|0:17:00|Sat|
-|704|68749214550|Bowdoin|11:17:00|0:17:00|Sat|
-|705|68749215550|Bowdoin|11:32:00|0:17:00|Sat|
-|706|68749216552|Wonderland|11:57:00|0:18:00|Sat|
-|707|68749217552|Wonderland|00:41:00|0:19:00|Sat|
-|708|68749218550|Bowdoin|00:12:00|0:17:00|Sat|
-|709|68749219552|Wonderland|00:29:00|0:19:00|Sat|
-|710|68749220550|Bowdoin|00:02:00|0:17:00|Sat|
-|711|68749221552|Wonderland|23:51:00|0:19:00|Sat|
-|712|68749222550|Bowdoin|23:27:00|0:17:00|Sat|
-|713|68749223552|Wonderland|00:18:00|0:19:00|Sat|
-|714|68749224550|Bowdoin|23:52:00|0:17:00|Sat|
-|715|68749225552|Wonderland|00:08:00|0:19:00|Sat|
-|716|68749226550|Bowdoin|23:43:00|0:17:00|Sat|
-|717|68749227552|Wonderland|00:53:00|0:19:00|Sat|
-|718|68749228550|Bowdoin|00:24:00|0:17:00|Sat|
-|719|68749229552|Wonderland|23:59:00|0:19:00|Sat|
-|720|68749230550|Bowdoin|12:47:00|0:17:00|Sat|
-|721|68749231552|Wonderland|13:13:00|0:18:00|Sat|
-|722|68749232550|Bowdoin|12:02:00|0:17:00|Sat|
-|723|68749233552|Wonderland|12:27:00|0:18:00|Sat|
-|724|68749234550|Bowdoin|12:54:00|0:17:00|Sat|
-|725|68749235552|Wonderland|13:20:00|0:18:00|Sat|
-|726|68749236550|Bowdoin|12:09:00|0:17:00|Sat|
-|727|68749237552|Wonderland|12:35:00|0:18:00|Sat|
-|728|68749238550|Bowdoin|12:17:00|0:17:00|Sat|
-|729|68749239552|Wonderland|12:42:00|0:18:00|Sat|
-|730|68749240550|Bowdoin|12:24:00|0:17:00|Sat|
-|731|68749241552|Wonderland|12:50:00|0:18:00|Sat|
-|732|68749242550|Bowdoin|12:32:00|0:17:00|Sat|
-|733|68749243552|Wonderland|12:57:00|0:18:00|Sat|
-|734|68749244550|Bowdoin|12:40:00|0:17:00|Sat|
-|735|68749245552|Wonderland|13:05:00|0:18:00|Sat|
-|736|68749246550|Bowdoin|13:47:00|0:17:00|Sat|
-|737|68749247552|Wonderland|14:13:00|0:18:00|Sat|
-|738|68749248550|Bowdoin|14:40:00|0:17:00|Sat|
-|739|68749249552|Wonderland|15:06:00|0:19:00|Sat|
-|740|68749250550|Bowdoin|13:02:00|0:17:00|Sat|
-|741|68749251552|Wonderland|13:27:00|0:18:00|Sat|
-|742|68749252550|Bowdoin|13:54:00|0:17:00|Sat|
-|743|68749253552|Wonderland|14:20:00|0:18:00|Sat|
-|744|68749254550|Bowdoin|14:47:00|0:17:00|Sat|
-|745|68749255552|Wonderland|15:13:00|0:19:00|Sat|
-|746|68749256550|Bowdoin|13:09:00|0:17:00|Sat|
-|747|68749257552|Wonderland|13:35:00|0:18:00|Sat|
-|748|68749258550|Bowdoin|14:02:00|0:17:00|Sat|
-|749|68749259552|Wonderland|14:28:00|0:18:00|Sat|
-|750|68749260550|Bowdoin|14:55:00|0:17:00|Sat|
-|751|68749261552|Wonderland|15:21:00|0:19:00|Sat|
-|752|68749262550|Bowdoin|13:16:00|0:17:00|Sat|
-|753|68749263552|Wonderland|13:42:00|0:18:00|Sat|
-|754|68749264550|Bowdoin|14:09:00|0:17:00|Sat|
-|755|68749265552|Wonderland|14:35:00|0:18:00|Sat|
-|756|68749266550|Bowdoin|13:24:00|0:17:00|Sat|
-|757|68749267552|Wonderland|13:50:00|0:18:00|Sat|
-|758|68749268550|Bowdoin|14:17:00|0:17:00|Sat|
-|759|68749269552|Wonderland|14:43:00|0:18:00|Sat|
-|760|68749270550|Bowdoin|13:32:00|0:17:00|Sat|
-|761|68749271552|Wonderland|13:57:00|0:18:00|Sat|
-|762|68749272550|Bowdoin|14:24:00|0:17:00|Sat|
-|763|68749273552|Wonderland|14:50:00|0:19:00|Sat|
-|764|68749274550|Bowdoin|13:40:00|0:17:00|Sat|
-|765|68749275552|Wonderland|14:05:00|0:18:00|Sat|
-|766|68749276550|Bowdoin|14:32:00|0:17:00|Sat|
-|767|68749277552|Wonderland|14:58:00|0:19:00|Sat|
-|768|68749278550|Bowdoin|15:48:00|0:17:00|Sat|
-|769|68749279552|Wonderland|16:13:00|0:19:00|Sat|
-|770|68749280550|Bowdoin|16:40:00|0:17:00|Sat|
-|771|68749281552|Wonderland|17:05:00|0:19:00|Sat|
-|772|68749282550|Bowdoin|17:32:00|0:17:00|Sat|
-|773|68749283552|Wonderland|17:57:00|0:19:00|Sat|
-|774|68749284550|Bowdoin|15:02:00|0:17:00|Sat|
-|775|68749285552|Wonderland|15:28:00|0:19:00|Sat|
-|776|68749286550|Bowdoin|15:55:00|0:17:00|Sat|
-|777|68749287552|Wonderland|16:20:00|0:19:00|Sat|
-|778|68749288550|Bowdoin|16:47:00|0:17:00|Sat|
-|779|68749289552|Wonderland|17:12:00|0:19:00|Sat|
-|780|68749290550|Bowdoin|17:39:00|0:17:00|Sat|
-|781|68749291552|Wonderland|18:04:00|0:19:00|Sat|
-|782|68749292550|Bowdoin|15:10:00|0:17:00|Sat|
-|783|68749293552|Wonderland|15:36:00|0:19:00|Sat|
-|784|68749294550|Bowdoin|16:03:00|0:17:00|Sat|
-|785|68749295552|Wonderland|16:28:00|0:19:00|Sat|
-|786|68749296550|Bowdoin|16:55:00|0:17:00|Sat|
-|787|68749297552|Wonderland|17:20:00|0:19:00|Sat|
-|788|68749298550|Bowdoin|17:47:00|0:17:00|Sat|
-|789|68749299552|Wonderland|18:12:00|0:19:00|Sat|
-|790|68749300550|Bowdoin|15:17:00|0:17:00|Sat|
-|791|68749301552|Wonderland|15:43:00|0:19:00|Sat|
-|792|68749302550|Bowdoin|16:10:00|0:17:00|Sat|
-|793|68749303552|Wonderland|16:35:00|0:19:00|Sat|
-|794|68749304550|Bowdoin|17:02:00|0:17:00|Sat|
-|795|68749305552|Wonderland|17:27:00|0:19:00|Sat|
-|796|68749306550|Bowdoin|17:54:00|0:17:00|Sat|
-|797|68749307552|Wonderland|18:19:00|0:19:00|Sat|
-|798|68749308550|Bowdoin|15:25:00|0:17:00|Sat|
-|799|68749309552|Wonderland|15:51:00|0:19:00|Sat|
-|800|68749310550|Bowdoin|16:18:00|0:17:00|Sat|
-|801|68749311552|Wonderland|16:43:00|0:19:00|Sat|
-|802|68749312550|Bowdoin|17:10:00|0:17:00|Sat|
-|803|68749313552|Wonderland|17:35:00|0:19:00|Sat|
-|804|68749314550|Bowdoin|15:33:00|0:17:00|Sat|
-|805|68749315552|Wonderland|15:58:00|0:19:00|Sat|
-|806|68749316550|Bowdoin|16:25:00|0:17:00|Sat|
-|807|68749317552|Wonderland|16:50:00|0:19:00|Sat|
-|808|68749318550|Bowdoin|17:17:00|0:17:00|Sat|
-|809|68749319552|Wonderland|17:42:00|0:19:00|Sat|
-|810|68749320550|Bowdoin|15:40:00|0:17:00|Sat|
-|811|68749321552|Wonderland|16:06:00|0:19:00|Sat|
-|812|68749322550|Bowdoin|16:33:00|0:17:00|Sat|
-|813|68749323552|Wonderland|16:58:00|0:19:00|Sat|
-|814|68749324550|Bowdoin|17:25:00|0:17:00|Sat|
-|815|68749325552|Wonderland|17:50:00|0:19:00|Sat|
-|816|68749326550|Bowdoin|18:46:00|0:17:00|Sat|
-|817|68749327552|Wonderland|19:11:00|0:19:00|Sat|
-|818|68749328550|Bowdoin|19:38:00|0:17:00|Sat|
-|819|68749329552|Wonderland|20:03:00|0:19:00|Sat|
-|820|68749330550|Bowdoin|20:30:00|0:17:00|Sat|
-|821|68749331552|Wonderland|20:55:00|0:19:00|Sat|
-|822|68749332550|Bowdoin|18:02:00|0:17:00|Sat|
-|823|68749333552|Wonderland|18:26:00|0:19:00|Sat|
-|824|68749334550|Bowdoin|18:53:00|0:17:00|Sat|
-|825|68749335552|Wonderland|19:18:00|0:19:00|Sat|
-|826|68749336550|Bowdoin|19:45:00|0:17:00|Sat|
-|827|68749337552|Wonderland|20:10:00|0:19:00|Sat|
-|828|68749338550|Bowdoin|20:37:00|0:17:00|Sat|
-|829|68749339552|Wonderland|21:02:00|0:19:00|Sat|
-|830|68749340550|Bowdoin|18:09:00|0:17:00|Sat|
-|831|68749341552|Wonderland|18:33:00|0:19:00|Sat|
-|832|68749342550|Bowdoin|19:00:00|0:17:00|Sat|
-|833|68749343552|Wonderland|19:25:00|0:19:00|Sat|
-|834|68749344550|Bowdoin|19:52:00|0:17:00|Sat|
-|835|68749345552|Wonderland|20:17:00|0:19:00|Sat|
-|836|68749346550|Bowdoin|20:44:00|0:17:00|Sat|
-|837|68749347552|Wonderland|21:09:00|0:19:00|Sat|
-|838|68749348550|Bowdoin|18:17:00|0:17:00|Sat|
-|839|68749349552|Wonderland|18:41:00|0:19:00|Sat|
-|840|68749350550|Bowdoin|19:08:00|0:17:00|Sat|
-|841|68749351552|Wonderland|19:33:00|0:19:00|Sat|
-|842|68749352550|Bowdoin|20:00:00|0:17:00|Sat|
-|843|68749353552|Wonderland|20:25:00|0:19:00|Sat|
-|844|68749354550|Bowdoin|20:52:00|0:17:00|Sat|
-|845|68749355552|Wonderland|21:17:00|0:19:00|Sat|
-|846|68749356550|Bowdoin|18:24:00|0:17:00|Sat|
-|847|68749357552|Wonderland|18:48:00|0:19:00|Sat|
-|848|68749358550|Bowdoin|19:15:00|0:17:00|Sat|
-|849|68749359552|Wonderland|19:40:00|0:19:00|Sat|
-|850|68749360550|Bowdoin|20:07:00|0:17:00|Sat|
-|851|68749361552|Wonderland|20:32:00|0:19:00|Sat|
-|852|68749362550|Bowdoin|20:59:00|0:17:00|Sat|
-|853|68749363552|Wonderland|21:24:00|0:19:00|Sat|
-|854|68749364550|Bowdoin|18:31:00|0:17:00|Sat|
-|855|68749365552|Wonderland|18:56:00|0:19:00|Sat|
-|856|68749366550|Bowdoin|19:23:00|0:17:00|Sat|
-|857|68749367552|Wonderland|19:48:00|0:19:00|Sat|
-|858|68749368550|Bowdoin|20:15:00|0:17:00|Sat|
-|859|68749369552|Wonderland|20:40:00|0:19:00|Sat|
-|860|68749370550|Bowdoin|18:39:00|0:17:00|Sat|
-|861|68749371552|Wonderland|19:03:00|0:19:00|Sat|
-|862|68749372550|Bowdoin|19:30:00|0:17:00|Sat|
-|863|68749373552|Wonderland|19:55:00|0:19:00|Sat|
-|864|68749374550|Bowdoin|20:22:00|0:17:00|Sat|
-|865|68749375552|Wonderland|20:47:00|0:19:00|Sat|
-|866|68749376550|Bowdoin|21:51:00|0:17:00|Sat|
-|867|68749377552|Wonderland|22:16:00|0:19:00|Sat|
-|868|68749378550|Bowdoin|22:43:00|0:17:00|Sat|
-|869|68749379552|Wonderland|23:08:00|0:19:00|Sat|
-|870|68749380550|Bowdoin|21:07:00|0:17:00|Sat|
-|871|68749381552|Wonderland|21:31:00|0:19:00|Sat|
-|872|68749382550|Bowdoin|21:58:00|0:17:00|Sat|
-|873|68749383552|Wonderland|22:23:00|0:19:00|Sat|
-|874|68749384550|Bowdoin|22:50:00|0:17:00|Sat|
-|875|68749385552|Wonderland|23:15:00|0:19:00|Sat|
-|876|68749386550|Bowdoin|21:14:00|0:17:00|Sat|
-|877|68749387552|Wonderland|21:38:00|0:19:00|Sat|
-|878|68749388550|Bowdoin|22:05:00|0:17:00|Sat|
-|879|68749389552|Wonderland|22:30:00|0:19:00|Sat|
-|880|68749390550|Bowdoin|22:57:00|0:17:00|Sat|
-|881|68749391552|Wonderland|23:22:00|0:19:00|Sat|
-|882|68749392550|Bowdoin|21:22:00|0:17:00|Sat|
-|883|68749393552|Wonderland|21:46:00|0:19:00|Sat|
-|884|68749394550|Bowdoin|22:13:00|0:17:00|Sat|
-|885|68749395552|Wonderland|22:38:00|0:19:00|Sat|
-|886|68749396550|Bowdoin|21:29:00|0:17:00|Sat|
-|887|68749397552|Wonderland|21:53:00|0:19:00|Sat|
-|888|68749398550|Bowdoin|22:20:00|0:17:00|Sat|
-|889|68749399552|Wonderland|22:45:00|0:19:00|Sat|
-|890|68749400550|Bowdoin|21:36:00|0:17:00|Sat|
-|891|68749401552|Wonderland|22:01:00|0:19:00|Sat|
-|892|68749402550|Bowdoin|22:28:00|0:17:00|Sat|
-|893|68749403552|Wonderland|22:53:00|0:19:00|Sat|
-|894|68749404550|Bowdoin|21:44:00|0:17:00|Sat|
-|895|68749405552|Wonderland|22:08:00|0:19:00|Sat|
-|896|68749406550|Bowdoin|22:35:00|0:17:00|Sat|
-|897|68749407552|Wonderland|23:00:00|0:19:00|Sat|
-|898|68749408550|Bowdoin|23:05:00|0:17:00|Sat|
-|899|68749409552|Wonderland|23:29:00|0:19:00|Sat|
-|900|68749410550|Bowdoin|23:12:00|0:17:00|Sat|
-|901|68749411552|Wonderland|23:36:00|0:19:00|Sat|
-|902|68749412550|Bowdoin|23:20:00|0:17:00|Sat|
-|903|68749413552|Wonderland|23:44:00|0:19:00|Sat|
-|904|68749428500|Bowdoin|05:12:00|0:18:00|Mon|
-|905|68749429502|Wonderland|05:38:00|0:19:00|Mon|
-|906|68749430500|Bowdoin|05:18:00|0:18:00|Mon|
-|907|68749431502|Wonderland|05:44:00|0:19:00|Mon|
-|908|68749432500|Bowdoin|05:24:00|0:18:00|Mon|
-|909|68749433502|Wonderland|05:50:00|0:19:00|Mon|
-|910|68749434500|Bowdoin|06:18:00|0:18:00|Mon|
-|911|68749435502|Wonderland|06:44:00|0:19:00|Mon|
-|912|68749436500|Bowdoin|07:12:00|0:18:00|Mon|
-|913|68749437502|Wonderland|07:38:00|0:19:00|Mon|
-|914|68749438500|Bowdoin|08:06:00|0:18:00|Mon|
-|915|68749439502|Wonderland|08:32:00|0:19:00|Mon|
-|916|68749440500|Bowdoin|05:28:00|0:18:00|Mon|
-|917|68749441502|Wonderland|05:54:00|0:19:00|Mon|
-|918|68749442500|Bowdoin|06:22:00|0:18:00|Mon|
-|919|68749443502|Wonderland|06:48:00|0:19:00|Mon|
-|920|68749444500|Bowdoin|07:16:00|0:18:00|Mon|
-|921|68749445502|Wonderland|07:42:00|0:19:00|Mon|
-|922|68749446500|Bowdoin|08:10:00|0:18:00|Mon|
-|923|68749447502|Wonderland|08:36:00|0:19:00|Mon|
-|924|68749448500|Bowdoin|05:33:00|0:18:00|Mon|
-|925|68749449502|Wonderland|05:59:00|0:19:00|Mon|
-|926|68749450500|Bowdoin|06:27:00|0:18:00|Mon|
-|927|68749451502|Wonderland|06:53:00|0:19:00|Mon|
-|928|68749452500|Bowdoin|07:21:00|0:18:00|Mon|
-|929|68749453502|Wonderland|07:47:00|0:19:00|Mon|
-|930|68749454500|Bowdoin|08:15:00|0:18:00|Mon|
-|931|68749455502|Wonderland|08:41:00|0:19:00|Mon|
-|932|68749456500|Bowdoin|05:37:00|0:18:00|Mon|
-|933|68749457502|Wonderland|06:03:00|0:19:00|Mon|
-|934|68749458500|Bowdoin|06:31:00|0:18:00|Mon|
-|935|68749459502|Wonderland|06:57:00|0:19:00|Mon|
-|936|68749460500|Bowdoin|07:25:00|0:18:00|Mon|
-|937|68749461502|Wonderland|07:51:00|0:19:00|Mon|
-|938|68749462500|Bowdoin|08:19:00|0:18:00|Mon|
-|939|68749463502|Wonderland|08:45:00|0:19:00|Mon|
-|940|68749464500|Bowdoin|05:42:00|0:18:00|Mon|
-|941|68749465502|Wonderland|06:08:00|0:19:00|Mon|
-|942|68749466500|Bowdoin|06:36:00|0:18:00|Mon|
-|943|68749467502|Wonderland|07:02:00|0:19:00|Mon|
-|944|68749468500|Bowdoin|07:30:00|0:18:00|Mon|
-|945|68749469502|Wonderland|07:56:00|0:19:00|Mon|
-|946|68749470500|Bowdoin|08:24:00|0:18:00|Mon|
-|947|68749471502|Wonderland|08:50:00|0:19:00|Mon|
-|948|68749472500|Bowdoin|05:46:00|0:18:00|Mon|
-|949|68749473502|Wonderland|06:12:00|0:19:00|Mon|
-|950|68749474500|Bowdoin|06:40:00|0:18:00|Mon|
-|951|68749475502|Wonderland|07:06:00|0:19:00|Mon|
-|952|68749476500|Bowdoin|07:34:00|0:18:00|Mon|
-|953|68749477502|Wonderland|08:00:00|0:19:00|Mon|
-|954|68749478500|Bowdoin|08:28:00|0:18:00|Mon|
-|955|68749479502|Wonderland|08:54:00|0:19:00|Mon|
-|956|68749480500|Bowdoin|05:51:00|0:18:00|Mon|
-|957|68749481502|Wonderland|06:17:00|0:19:00|Mon|
-|958|68749482500|Bowdoin|06:45:00|0:18:00|Mon|
-|959|68749483502|Wonderland|07:11:00|0:19:00|Mon|
-|960|68749484500|Bowdoin|07:39:00|0:18:00|Mon|
-|961|68749485502|Wonderland|08:05:00|0:19:00|Mon|
-|962|68749486500|Bowdoin|08:33:00|0:18:00|Mon|
-|963|68749487502|Wonderland|08:59:00|0:19:00|Mon|
-|964|68749488500|Bowdoin|05:55:00|0:18:00|Mon|
-|965|68749489502|Wonderland|06:21:00|0:19:00|Mon|
-|966|68749490500|Bowdoin|06:49:00|0:18:00|Mon|
-|967|68749491502|Wonderland|07:15:00|0:19:00|Mon|
-|968|68749492500|Bowdoin|07:43:00|0:18:00|Mon|
-|969|68749493502|Wonderland|08:09:00|0:19:00|Mon|
-|970|68749494500|Bowdoin|08:37:00|0:18:00|Mon|
-|971|68749495502|Wonderland|09:03:00|0:19:00|Mon|
-|972|68749496500|Bowdoin|06:00:00|0:18:00|Mon|
-|973|68749497502|Wonderland|06:26:00|0:19:00|Mon|
-|974|68749498500|Bowdoin|06:54:00|0:18:00|Mon|
-|975|68749499502|Wonderland|07:20:00|0:19:00|Mon|
-|976|68749500500|Bowdoin|07:48:00|0:18:00|Mon|
-|977|68749501502|Wonderland|08:14:00|0:19:00|Mon|
-|978|68749502500|Bowdoin|08:42:00|0:18:00|Mon|
-|979|68749503502|Wonderland|09:08:00|0:19:00|Mon|
-|980|68749504500|Bowdoin|06:04:00|0:18:00|Mon|
-|981|68749505502|Wonderland|06:30:00|0:19:00|Mon|
-|982|68749506500|Bowdoin|06:58:00|0:18:00|Mon|
-|983|68749507502|Wonderland|07:24:00|0:19:00|Mon|
-|984|68749508500|Bowdoin|07:52:00|0:18:00|Mon|
-|985|68749509502|Wonderland|08:18:00|0:19:00|Mon|
-|986|68749510500|Bowdoin|08:46:00|0:18:00|Mon|
-|987|68749511502|Orient Heights|09:12:00|0:12:00|Mon|
-|988|68749512500|Bowdoin|06:09:00|0:18:00|Mon|
-|989|68749513502|Wonderland|06:35:00|0:19:00|Mon|
-|990|68749514500|Bowdoin|07:03:00|0:18:00|Mon|
-|991|68749515502|Wonderland|07:29:00|0:19:00|Mon|
-|992|68749516500|Bowdoin|07:57:00|0:18:00|Mon|
-|993|68749517502|Wonderland|08:23:00|0:19:00|Mon|
-|994|68749518500|Bowdoin|08:51:00|0:18:00|Mon|
-|995|68749519502|Wonderland|09:17:00|0:19:00|Mon|
-|996|68749520500|Bowdoin|06:13:00|0:18:00|Mon|
-|997|68749521502|Wonderland|06:39:00|0:19:00|Mon|
-|998|68749522500|Bowdoin|07:07:00|0:18:00|Mon|
-|999|68749523502|Wonderland|07:33:00|0:19:00|Mon|
-|1000|68749524500|Bowdoin|08:01:00|0:18:00|Mon|
-|1001|68749525502|Wonderland|08:27:00|0:19:00|Mon|
-|1002|68749526500|Bowdoin|08:55:00|0:18:00|Mon|
-|1003|68749527502|Wonderland|09:21:00|0:19:00|Mon|
-|1004|68749528500|Bowdoin|09:00:00|0:18:00|Mon|
-|1005|68749529502|Wonderland|09:26:00|0:19:00|Mon|
-|1006|68749530500|Bowdoin|13:52:00|0:17:00|Mon|
-|1007|68749531502|Wonderland|14:17:00|0:19:00|Mon|
-|1008|68749532500|Bowdoin|13:59:00|0:17:00|Mon|
-|1009|68749533502|Wonderland|14:24:00|0:19:00|Mon|
-|1010|68749534500|Bowdoin|13:11:00|0:17:00|Mon|
-|1011|68749535502|Wonderland|13:36:00|0:19:00|Mon|
-|1012|68749536500|Bowdoin|13:17:00|0:17:00|Mon|
-|1013|68749537502|Wonderland|13:42:00|0:19:00|Mon|
-|1014|68749538500|Bowdoin|13:24:00|0:17:00|Mon|
-|1015|68749539502|Wonderland|13:49:00|0:19:00|Mon|
-|1016|68749540500|Bowdoin|13:31:00|0:17:00|Mon|
-|1017|68749541502|Wonderland|13:56:00|0:19:00|Mon|
-|1018|68749542500|Bowdoin|13:38:00|0:17:00|Mon|
-|1019|68749543502|Wonderland|14:03:00|0:19:00|Mon|
-|1020|68749544500|Bowdoin|13:45:00|0:17:00|Mon|
-|1021|68749545502|Wonderland|14:10:00|0:19:00|Mon|
-|1022|68749546500|Bowdoin|14:09:00|0:11:00|Mon|
-|1023|68749547502|Wonderland|14:30:00|0:19:00|Mon|
-|1024|68749548500|Bowdoin|14:07:00|0:17:00|Mon|
-|1025|68749549502|Wonderland|14:35:00|0:19:00|Mon|
-|1026|68749550500|Bowdoin|14:14:00|0:17:00|Mon|
-|1027|68749551502|Wonderland|14:40:00|0:19:00|Mon|
-|1028|68749552500|Bowdoin|14:21:00|0:17:00|Mon|
-|1029|68749553502|Wonderland|14:46:00|0:19:00|Mon|
-|1030|68749554500|Bowdoin|14:27:00|0:17:00|Mon|
-|1031|68749555502|Wonderland|14:52:00|0:19:00|Mon|
-|1032|68749556500|Bowdoin|15:20:00|0:17:00|Mon|
-|1033|68749557502|Wonderland|15:45:00|0:20:00|Mon|
-|1034|68749558500|Bowdoin|14:33:00|0:17:00|Mon|
-|1035|68749559502|Wonderland|14:57:00|0:19:00|Mon|
-|1036|68749560500|Bowdoin|15:25:00|0:17:00|Mon|
-|1037|68749561502|Wonderland|15:50:00|0:20:00|Mon|
-|1038|68749562500|Bowdoin|14:42:00|0:11:00|Mon|
-|1039|68749563502|Wonderland|15:02:00|0:20:00|Mon|
-|1040|68749564500|Bowdoin|14:39:00|0:17:00|Mon|
-|1041|68749565502|Wonderland|15:07:00|0:20:00|Mon|
-|1042|68749566500|Bowdoin|14:46:00|0:17:00|Mon|
-|1043|68749567502|Wonderland|15:12:00|0:20:00|Mon|
-|1044|68749568500|Bowdoin|14:53:00|0:17:00|Mon|
-|1045|68749569502|Wonderland|15:18:00|0:20:00|Mon|
-|1046|68749570500|Bowdoin|14:58:00|0:17:00|Mon|
-|1047|68749571502|Wonderland|15:23:00|0:20:00|Mon|
-|1048|68749572500|Bowdoin|15:04:00|0:17:00|Mon|
-|1049|68749573502|Wonderland|15:29:00|0:20:00|Mon|
-|1050|68749574500|Bowdoin|15:09:00|0:17:00|Mon|
-|1051|68749575502|Wonderland|15:34:00|0:20:00|Mon|
-|1052|68749576500|Bowdoin|15:14:00|0:17:00|Mon|
-|1053|68749577502|Wonderland|15:39:00|0:20:00|Mon|
-|1054|68749578500|Bowdoin|16:19:00|0:17:00|Mon|
-|1055|68749579502|Wonderland|16:44:00|0:20:00|Mon|
-|1056|68749580500|Bowdoin|17:13:00|0:17:00|Mon|
-|1057|68749581502|Wonderland|17:38:00|0:20:00|Mon|
-|1058|68749582500|Bowdoin|18:07:00|0:17:00|Mon|
-|1059|68749583502|Wonderland|18:32:00|0:19:00|Mon|
-|1060|68749584500|Bowdoin|19:00:00|0:17:00|Mon|
-|1061|68749584540|Bowdoin|19:00:00|0:17:00|Fri|
-|1062|68749585502|Wonderland|19:25:00|0:19:00|Mon|
-|1063|68749585542|Wonderland|19:25:00|0:19:00|Fri|
-|1064|68749586500|Bowdoin|15:34:00|0:11:00|Mon|
-|1065|68749587502|Wonderland|15:54:00|0:20:00|Mon|
-|1066|68749588500|Bowdoin|16:23:00|0:17:00|Mon|
-|1067|68749589502|Wonderland|16:48:00|0:20:00|Mon|
-|1068|68749590500|Bowdoin|17:17:00|0:17:00|Mon|
-|1069|68749591502|Wonderland|17:42:00|0:20:00|Mon|
-|1070|68749592500|Bowdoin|18:11:00|0:17:00|Mon|
-|1071|68749593502|Wonderland|18:36:00|0:19:00|Mon|
-|1072|68749594500|Bowdoin|19:04:00|0:17:00|Mon|
-|1073|68749594540|Bowdoin|19:04:00|0:17:00|Fri|
-|1074|68749595502|Wonderland|19:29:00|0:19:00|Mon|
-|1075|68749595542|Wonderland|19:29:00|0:19:00|Fri|
-|1076|68749596500|Bowdoin|15:32:00|0:17:00|Mon|
-|1077|68749597502|Wonderland|15:59:00|0:20:00|Mon|
-|1078|68749598500|Bowdoin|16:28:00|0:17:00|Mon|
-|1079|68749599502|Wonderland|16:53:00|0:20:00|Mon|
-|1080|68749600500|Bowdoin|17:22:00|0:17:00|Mon|
-|1081|68749601502|Wonderland|17:47:00|0:20:00|Mon|
-|1082|68749602500|Bowdoin|18:16:00|0:17:00|Mon|
-|1083|68749603502|Wonderland|18:41:00|0:19:00|Mon|
-|1084|68749604500|Bowdoin|19:09:00|0:17:00|Mon|
-|1085|68749604540|Bowdoin|19:09:00|0:17:00|Fri|
-|1086|68749605502|Wonderland|19:34:00|0:19:00|Mon|
-|1087|68749605542|Wonderland|19:34:00|0:19:00|Fri|
-|1088|68749606500|Bowdoin|15:38:00|0:17:00|Mon|
-|1089|68749607502|Wonderland|16:03:00|0:20:00|Mon|
-|1090|68749608500|Bowdoin|16:32:00|0:17:00|Mon|
-|1091|68749609502|Wonderland|16:57:00|0:20:00|Mon|
-|1092|68749610500|Bowdoin|17:26:00|0:17:00|Mon|
-|1093|68749611502|Wonderland|17:51:00|0:20:00|Mon|
-|1094|68749612500|Bowdoin|18:20:00|0:17:00|Mon|
-|1095|68749613502|Wonderland|18:45:00|0:19:00|Mon|
-|1096|68749614500|Bowdoin|19:13:00|0:17:00|Mon|
-|1097|68749614540|Bowdoin|19:13:00|0:17:00|Fri|
-|1098|68749615502|Wonderland|19:38:00|0:19:00|Mon|
-|1099|68749615542|Wonderland|19:38:00|0:19:00|Fri|
-|1100|68749616500|Bowdoin|15:43:00|0:17:00|Mon|
-|1101|68749617502|Wonderland|16:08:00|0:20:00|Mon|
-|1102|68749618500|Bowdoin|16:37:00|0:17:00|Mon|
-|1103|68749619502|Wonderland|17:02:00|0:20:00|Mon|
-|1104|68749620500|Bowdoin|17:31:00|0:17:00|Mon|
-|1105|68749621502|Wonderland|17:56:00|0:20:00|Mon|
-|1106|68749622500|Bowdoin|18:25:00|0:17:00|Mon|
-|1107|68749623502|Wonderland|18:50:00|0:19:00|Mon|
-|1108|68749624500|Bowdoin|19:18:00|0:17:00|Mon|
-|1109|68749624540|Bowdoin|19:18:00|0:17:00|Fri|
-|1110|68749625502|Wonderland|19:43:00|0:19:00|Mon|
-|1111|68749625542|Wonderland|19:43:00|0:19:00|Fri|
-|1112|68749626500|Bowdoin|15:47:00|0:17:00|Mon|
-|1113|68749627502|Wonderland|16:12:00|0:20:00|Mon|
-|1114|68749628500|Bowdoin|16:41:00|0:17:00|Mon|
-|1115|68749629502|Wonderland|17:06:00|0:20:00|Mon|
-|1116|68749630500|Bowdoin|17:35:00|0:17:00|Mon|
-|1117|68749631502|Wonderland|18:00:00|0:19:00|Mon|
-|1118|68749632500|Bowdoin|18:29:00|0:17:00|Mon|
-|1119|68749633502|Wonderland|18:54:00|0:19:00|Mon|
-|1120|68749634500|Bowdoin|19:22:00|0:17:00|Mon|
-|1121|68749634540|Bowdoin|19:22:00|0:17:00|Fri|
-|1122|68749635502|Wonderland|19:47:00|0:19:00|Mon|
-|1123|68749635542|Wonderland|19:47:00|0:19:00|Fri|
-|1124|68749636500|Bowdoin|15:52:00|0:17:00|Mon|
-|1125|68749637502|Wonderland|16:17:00|0:20:00|Mon|
-|1126|68749638500|Bowdoin|16:46:00|0:17:00|Mon|
-|1127|68749639502|Wonderland|17:11:00|0:20:00|Mon|
-|1128|68749640500|Bowdoin|17:40:00|0:17:00|Mon|
-|1129|68749641502|Wonderland|18:05:00|0:19:00|Mon|
-|1130|68749642500|Bowdoin|18:33:00|0:17:00|Mon|
-|1131|68749643502|Wonderland|18:58:00|0:19:00|Mon|
-|1132|68749644500|Bowdoin|19:26:00|0:17:00|Mon|
-|1133|68749644540|Bowdoin|19:26:00|0:17:00|Fri|
-|1134|68749645502|Wonderland|19:52:00|0:19:00|Mon|
-|1135|68749645542|Wonderland|19:52:00|0:19:00|Fri|
-|1136|68749646500|Bowdoin|16:01:00|0:11:00|Mon|
-|1137|68749647502|Wonderland|16:21:00|0:20:00|Mon|
-|1138|68749648500|Bowdoin|16:50:00|0:17:00|Mon|
-|1139|68749649502|Wonderland|17:15:00|0:20:00|Mon|
-|1140|68749650500|Bowdoin|17:44:00|0:17:00|Mon|
-|1141|68749651502|Wonderland|18:09:00|0:19:00|Mon|
-|1142|68749652500|Bowdoin|18:37:00|0:17:00|Mon|
-|1143|68749653502|Wonderland|19:02:00|0:19:00|Mon|
-|1144|68749653542|Wonderland|19:02:00|0:19:00|Fri|
-|1145|68749654500|Bowdoin|15:59:00|0:17:00|Mon|
-|1146|68749655502|Wonderland|16:26:00|0:20:00|Mon|
-|1147|68749656500|Bowdoin|16:55:00|0:17:00|Mon|
-|1148|68749657502|Wonderland|17:20:00|0:20:00|Mon|
-|1149|68749658500|Bowdoin|17:49:00|0:17:00|Mon|
-|1150|68749659502|Wonderland|18:14:00|0:19:00|Mon|
-|1151|68749660500|Bowdoin|18:42:00|0:17:00|Mon|
-|1152|68749661502|Wonderland|19:07:00|0:19:00|Mon|
-|1153|68749661542|Wonderland|19:07:00|0:19:00|Fri|
-|1154|68749662500|Bowdoin|16:05:00|0:17:00|Mon|
-|1155|68749663502|Wonderland|16:30:00|0:20:00|Mon|
-|1156|68749664500|Bowdoin|16:59:00|0:17:00|Mon|
-|1157|68749665502|Wonderland|17:24:00|0:20:00|Mon|
-|1158|68749666500|Bowdoin|17:53:00|0:17:00|Mon|
-|1159|68749667502|Wonderland|18:18:00|0:19:00|Mon|
-|1160|68749668500|Bowdoin|18:46:00|0:17:00|Mon|
-|1161|68749669502|Wonderland|19:11:00|0:19:00|Mon|
-|1162|68749669542|Wonderland|19:11:00|0:19:00|Fri|
-|1163|68749670500|Bowdoin|16:10:00|0:17:00|Mon|
-|1164|68749671502|Wonderland|16:35:00|0:20:00|Mon|
-|1165|68749672500|Bowdoin|17:04:00|0:17:00|Mon|
-|1166|68749673502|Wonderland|17:29:00|0:20:00|Mon|
-|1167|68749674500|Bowdoin|17:58:00|0:17:00|Mon|
-|1168|68749675502|Wonderland|18:23:00|0:19:00|Mon|
-|1169|68749676500|Bowdoin|18:51:00|0:17:00|Mon|
-|1170|68749677502|Wonderland|19:16:00|0:19:00|Mon|
-|1171|68749677542|Wonderland|19:16:00|0:19:00|Fri|
-|1172|68749678500|Bowdoin|16:14:00|0:17:00|Mon|
-|1173|68749679502|Wonderland|16:39:00|0:20:00|Mon|
-|1174|68749680500|Bowdoin|17:08:00|0:17:00|Mon|
-|1175|68749681502|Wonderland|17:33:00|0:20:00|Mon|
-|1176|68749682500|Bowdoin|18:02:00|0:17:00|Mon|
-|1177|68749683502|Wonderland|18:27:00|0:19:00|Mon|
-|1178|68749684500|Bowdoin|18:55:00|0:17:00|Mon|
-|1179|68749685502|Wonderland|19:20:00|0:19:00|Mon|
-|1180|68749685542|Wonderland|19:20:00|0:19:00|Fri|
-|1181|68749686500|Bowdoin|19:30:00|0:17:00|Mon|
-|1182|68749686540|Bowdoin|19:30:00|0:17:00|Fri|
-|1183|68749687502|Wonderland|19:56:00|0:19:00|Mon|
-|1184|68749687542|Wonderland|19:56:00|0:19:00|Fri|
-|1185|68749688500|Bowdoin|19:35:00|0:17:00|Mon|
-|1186|68749688540|Bowdoin|19:35:00|0:17:00|Fri|
-|1187|68749689502|Wonderland|20:01:00|0:19:00|Mon|
-|1188|68749689542|Wonderland|20:01:00|0:19:00|Fri|
-|1189|68749690500|Bowdoin|19:40:00|0:17:00|Mon|
-|1190|68749690540|Bowdoin|19:40:00|0:17:00|Fri|
-|1191|68749691502|Wonderland|20:06:00|0:19:00|Mon|
-|1192|68749691542|Wonderland|20:06:00|0:19:00|Fri|
-|1193|68749692500|Bowdoin|19:45:00|0:17:00|Mon|
-|1194|68749692540|Bowdoin|19:45:00|0:17:00|Fri|
-|1195|68749693502|Wonderland|20:11:00|0:19:00|Mon|
-|1196|68749693542|Wonderland|20:11:00|0:19:00|Fri|
-|1197|68749694500|Bowdoin|19:51:00|0:17:00|Mon|
-|1198|68749694540|Bowdoin|19:51:00|0:17:00|Fri|
-|1199|68749695502|Wonderland|20:17:00|0:19:00|Mon|
-|1200|68749695542|Wonderland|20:17:00|0:19:00|Fri|
-|1201|68749696500|Bowdoin|19:57:00|0:17:00|Mon|
-|1202|68749696540|Bowdoin|19:57:00|0:17:00|Fri|
-|1203|68749697502|Wonderland|20:22:00|0:19:00|Mon|
-|1204|68749697542|Wonderland|20:22:00|0:19:00|Fri|
-|1205|68749698500|Bowdoin|20:02:00|0:17:00|Mon|
-|1206|68749698540|Bowdoin|20:02:00|0:17:00|Fri|
-|1207|68749699502|Wonderland|20:27:00|0:19:00|Mon|
-|1208|68749699542|Wonderland|20:27:00|0:19:00|Fri|
-|1209|68749700500|Bowdoin|20:08:00|0:17:00|Mon|
-|1210|68749700540|Bowdoin|20:08:00|0:17:00|Fri|
-|1211|68749701502|Wonderland|20:33:00|0:19:00|Mon|
-|1212|68749701542|Wonderland|20:33:00|0:19:00|Fri|
-|1213|68749702500|Bowdoin|20:14:00|0:17:00|Mon|
-|1214|68749702540|Bowdoin|20:14:00|0:17:00|Fri|
-|1215|68749703502|Wonderland|20:38:00|0:19:00|Mon|
-|1216|68749703542|Wonderland|20:38:00|0:19:00|Fri|
-|1217|68749704500|Bowdoin|20:20:00|0:17:00|Mon|
-|1218|68749704540|Bowdoin|20:20:00|0:17:00|Fri|
-|1219|68749705502|Wonderland|20:44:00|0:19:00|Mon|
-|1220|68749705542|Wonderland|20:44:00|0:19:00|Fri|
-|1221|68749706500|Bowdoin|20:26:00|0:17:00|Mon|
-|1222|68749706540|Bowdoin|20:26:00|0:17:00|Fri|
-|1223|68749707502|Wonderland|20:51:00|0:19:00|Mon|
-|1224|68749707542|Wonderland|20:51:00|0:19:00|Fri|
-|1225|68749708500|Bowdoin|21:19:00|0:17:00|Mon|
-|1226|68749708540|Bowdoin|21:19:00|0:17:00|Fri|
-|1227|68749709502|Wonderland|21:44:00|0:19:00|Mon|
-|1228|68749709542|Wonderland|21:44:00|0:19:00|Fri|
-|1229|68749710500|Bowdoin|20:32:00|0:17:00|Mon|
-|1230|68749710540|Bowdoin|20:32:00|0:17:00|Fri|
-|1231|68749711502|Wonderland|20:57:00|0:19:00|Mon|
-|1232|68749711542|Wonderland|20:57:00|0:19:00|Fri|
-|1233|68749712500|Bowdoin|21:25:00|0:17:00|Mon|
-|1234|68749712540|Bowdoin|21:25:00|0:17:00|Fri|
-|1235|68749713502|Wonderland|21:50:00|0:19:00|Mon|
-|1236|68749713542|Wonderland|21:50:00|0:19:00|Fri|
-|1237|68749714500|Bowdoin|20:39:00|0:17:00|Mon|
-|1238|68749714540|Bowdoin|20:39:00|0:17:00|Fri|
-|1239|68749715502|Wonderland|21:04:00|0:19:00|Mon|
-|1240|68749715542|Wonderland|21:04:00|0:19:00|Fri|
-|1241|68749716500|Bowdoin|20:45:00|0:17:00|Mon|
-|1242|68749716540|Bowdoin|20:45:00|0:17:00|Fri|
-|1243|68749717502|Wonderland|21:10:00|0:19:00|Mon|
-|1244|68749717542|Wonderland|21:10:00|0:19:00|Fri|
-|1245|68749718500|Bowdoin|20:52:00|0:17:00|Mon|
-|1246|68749718540|Bowdoin|20:52:00|0:17:00|Fri|
-|1247|68749719502|Wonderland|21:17:00|0:19:00|Mon|
-|1248|68749719542|Wonderland|21:17:00|0:19:00|Fri|
-|1249|68749720500|Bowdoin|20:58:00|0:17:00|Mon|
-|1250|68749720540|Bowdoin|20:58:00|0:17:00|Fri|
-|1251|68749721502|Wonderland|21:24:00|0:19:00|Mon|
-|1252|68749721542|Wonderland|21:24:00|0:19:00|Fri|
-|1253|68749722500|Bowdoin|21:05:00|0:17:00|Mon|
-|1254|68749722540|Bowdoin|21:05:00|0:17:00|Fri|
-|1255|68749723502|Wonderland|21:30:00|0:19:00|Mon|
-|1256|68749723542|Wonderland|21:30:00|0:19:00|Fri|
-|1257|68749724500|Bowdoin|21:12:00|0:17:00|Mon|
-|1258|68749724540|Bowdoin|21:12:00|0:17:00|Fri|
-|1259|68749725502|Wonderland|21:37:00|0:19:00|Mon|
-|1260|68749725542|Wonderland|21:37:00|0:19:00|Fri|
-|1261|68749726500|Bowdoin|22:59:00|0:17:00|Mon|
-|1262|68749726540|Bowdoin|22:59:00|0:17:00|Fri|
-|1263|68749727500|Bowdoin|23:09:00|0:17:00|Mon|
-|1264|68749727540|Bowdoin|23:09:00|0:17:00|Fri|
-|1265|68749728500|Bowdoin|21:32:00|0:17:00|Mon|
-|1266|68749728540|Bowdoin|21:32:00|0:17:00|Fri|
-|1267|68749729502|Wonderland|21:56:00|0:19:00|Mon|
-|1268|68749729542|Wonderland|21:56:00|0:19:00|Fri|
-|1269|68749730500|Bowdoin|22:24:00|0:17:00|Mon|
-|1270|68749730540|Bowdoin|22:24:00|0:17:00|Fri|
-|1271|68749731500|Bowdoin|22:16:00|0:17:00|Mon|
-|1272|68749731540|Bowdoin|22:16:00|0:17:00|Fri|
-|1273|68749732500|Bowdoin|21:40:00|0:17:00|Mon|
-|1274|68749732540|Bowdoin|21:40:00|0:17:00|Fri|
-|1275|68749733502|Wonderland|22:04:00|0:19:00|Mon|
-|1276|68749733542|Wonderland|22:04:00|0:19:00|Fri|
-|1277|68749734500|Bowdoin|22:32:00|0:17:00|Mon|
-|1278|68749734540|Bowdoin|22:32:00|0:17:00|Fri|
-|1279|68749735502|Wonderland|22:26:00|0:19:00|Mon|
-|1280|68749735542|Wonderland|22:26:00|0:19:00|Fri|
-|1281|68749736500|Bowdoin|21:47:00|0:17:00|Mon|
-|1282|68749736540|Bowdoin|21:47:00|0:17:00|Fri|
-|1283|68749737502|Wonderland|22:11:00|0:19:00|Mon|
-|1284|68749737542|Wonderland|22:11:00|0:19:00|Fri|
-|1285|68749738502|Wonderland|23:03:00|0:19:00|Mon|
-|1286|68749738542|Wonderland|23:03:00|0:19:00|Fri|
-|1287|68749739502|Wonderland|22:41:00|0:19:00|Mon|
-|1288|68749739542|Wonderland|22:41:00|0:19:00|Fri|
-|1289|68749740500|Bowdoin|21:55:00|0:17:00|Mon|
-|1290|68749740540|Bowdoin|21:55:00|0:17:00|Fri|
-|1291|68749741502|Wonderland|22:19:00|0:19:00|Mon|
-|1292|68749741542|Wonderland|22:19:00|0:19:00|Fri|
-|1293|68749742500|Bowdoin|22:02:00|0:17:00|Mon|
-|1294|68749742540|Bowdoin|22:02:00|0:17:00|Fri|
-|1295|68749743500|Bowdoin|22:49:00|0:17:00|Mon|
-|1296|68749743540|Bowdoin|22:49:00|0:17:00|Fri|
-|1297|68749744502|Wonderland|23:23:00|0:19:00|Mon|
-|1298|68749744542|Wonderland|23:23:00|0:19:00|Fri|
-|1299|68749745500|Bowdoin|22:09:00|0:17:00|Mon|
-|1300|68749745540|Bowdoin|22:09:00|0:17:00|Fri|
-|1301|68749746502|Wonderland|23:33:00|0:19:00|Mon|
-|1302|68749746542|Wonderland|23:33:00|0:19:00|Fri|
-|1303|68749747502|Wonderland|22:56:00|0:19:00|Mon|
-|1304|68749747542|Wonderland|22:56:00|0:19:00|Fri|
-|1305|68749748502|Wonderland|23:13:00|0:19:00|Mon|
-|1306|68749748542|Wonderland|23:13:00|0:19:00|Fri|
-|1307|68749749502|Wonderland|22:33:00|0:19:00|Mon|
-|1308|68749749542|Wonderland|22:33:00|0:19:00|Fri|
-|1309|68749750500|Bowdoin|22:39:00|0:17:00|Mon|
-|1310|68749750540|Bowdoin|22:39:00|0:17:00|Fri|
-|1311|68749751502|Wonderland|22:48:00|0:19:00|Mon|
-|1312|68749751542|Wonderland|22:48:00|0:19:00|Fri|
-|1313|68749752500|Bowdoin|00:10:00|0:17:00|Mon|
-|1314|68749752540|Bowdoin|00:10:00|0:17:00|Fri|
-|1315|68749753502|Wonderland|00:38:00|0:19:00|Mon|
-|1316|68749753542|Wonderland|00:38:00|0:19:00|Fri|
-|1317|68749754500|Bowdoin|23:19:00|0:17:00|Mon|
-|1318|68749754540|Bowdoin|23:19:00|0:17:00|Fri|
-|1319|68749755502|Wonderland|23:43:00|0:19:00|Mon|
-|1320|68749755542|Wonderland|23:43:00|0:19:00|Fri|
-|1321|68749756500|Bowdoin|00:24:00|0:17:00|Mon|
-|1322|68749756540|Bowdoin|00:24:00|0:17:00|Fri|
-|1323|68749757502|Wonderland|00:53:00|0:19:00|Mon|
-|1324|68749757542|Wonderland|00:53:00|0:19:00|Fri|
-|1325|68749758500|Bowdoin|23:31:00|0:17:00|Mon|
-|1326|68749758540|Bowdoin|23:31:00|0:17:00|Fri|
-|1327|68749759502|Wonderland|23:55:00|0:19:00|Mon|
-|1328|68749759542|Wonderland|23:55:00|0:19:00|Fri|
-|1329|68749760500|Bowdoin|23:43:00|0:17:00|Mon|
-|1330|68749760540|Bowdoin|23:43:00|0:17:00|Fri|
-|1331|68749761502|Wonderland|00:09:00|0:19:00|Mon|
-|1332|68749761542|Wonderland|00:09:00|0:19:00|Fri|
-|1333|68749762500|Bowdoin|23:56:00|0:17:00|Mon|
-|1334|68749762540|Bowdoin|23:56:00|0:17:00|Fri|
-|1335|68749763502|Wonderland|00:23:00|0:19:00|Mon|
-|1336|68749763542|Wonderland|00:23:00|0:19:00|Fri|
-|1337|68749764500|Bowdoin|05:08:00|0:12:00|Mon|
-|1338|68749765502|Wonderland|05:33:00|0:19:00|Mon|
-|1339|68749766500|Bowdoin|12:43:00|0:18:00|Mon|
-|1340|68749767502|Wonderland|13:01:00|0:19:00|Mon|
-|1341|68749768502|Wonderland|13:16:00|0:19:00|Mon|
-|1342|68749769502|Wonderland|13:23:00|0:19:00|Mon|
-|1343|68749770502|Wonderland|12:46:00|0:19:00|Mon|
-|1344|68749771500|Bowdoin|12:35:00|0:18:00|Mon|
-|1345|68749772502|Wonderland|13:09:00|0:19:00|Mon|
-|1346|68749773500|Bowdoin|13:05:00|0:17:00|Mon|
-|1347|68749774500|Bowdoin|12:58:00|0:17:00|Mon|
-|1348|68749775502|Wonderland|13:30:00|0:19:00|Mon|
-|1349|68749776500|Bowdoin|12:20:00|0:18:00|Mon|
-|1350|68749777500|Bowdoin|12:28:00|0:18:00|Mon|
-|1351|68749778502|Wonderland|12:54:00|0:19:00|Mon|
-|1352|68749779500|Bowdoin|12:50:00|0:18:00|Mon|
-|1353|68749780500|Bowdoin|09:34:00|0:18:00|Mon|
-|1354|68749781500|Bowdoin|10:48:00|0:18:00|Mon|
-|1355|68749782500|Bowdoin|09:14:00|0:18:00|Mon|
-|1356|68749783500|Bowdoin|11:26:00|0:18:00|Mon|
-|1357|68749784502|Wonderland|09:35:00|0:19:00|Mon|
-|1358|68749785500|Bowdoin|10:03:00|0:18:00|Mon|
-|1359|68749786500|Bowdoin|11:18:00|0:18:00|Mon|
-|1360|68749787500|Bowdoin|10:41:00|0:18:00|Mon|
-|1361|68749788500|Bowdoin|09:45:00|0:18:00|Mon|
-|1362|68749789500|Bowdoin|12:11:00|0:18:00|Mon|
-|1363|68749790500|Bowdoin|09:19:00|0:18:00|Mon|
-|1364|68749791500|Bowdoin|09:50:00|0:18:00|Mon|
-|1365|68749792500|Bowdoin|10:11:00|0:18:00|Mon|
-|1366|68749793500|Bowdoin|10:18:00|0:18:00|Mon|
-|1367|68749794500|Bowdoin|11:03:00|0:18:00|Mon|
-|1368|68749795500|Bowdoin|10:33:00|0:18:00|Mon|
-|1369|68749796500|Bowdoin|11:11:00|0:18:00|Mon|
-|1370|68749797500|Bowdoin|11:33:00|0:18:00|Mon|
-|1371|68749798500|Bowdoin|10:26:00|0:18:00|Mon|
-|1372|68749799500|Bowdoin|11:56:00|0:18:00|Mon|
-|1373|68749800500|Bowdoin|11:41:00|0:18:00|Mon|
-|1374|68749801500|Bowdoin|09:24:00|0:18:00|Mon|
-|1375|68749802500|Bowdoin|09:29:00|0:18:00|Mon|
-|1376|68749803500|Bowdoin|12:03:00|0:18:00|Mon|
-|1377|68749804500|Bowdoin|11:48:00|0:18:00|Mon|
-|1378|68749805500|Bowdoin|09:04:00|0:18:00|Mon|
-|1379|68749806500|Bowdoin|09:09:00|0:18:00|Mon|
-|1380|68749807500|Bowdoin|09:56:00|0:18:00|Mon|
-|1381|68749808500|Bowdoin|10:56:00|0:18:00|Mon|
-|1382|68749809502|Wonderland|12:37:00|0:19:00|Mon|
-|1383|68749810502|Wonderland|12:29:00|0:19:00|Mon|
-|1384|68749811502|Wonderland|12:22:00|0:19:00|Mon|
-|1385|68749812502|Wonderland|12:14:00|0:19:00|Mon|
-|1386|68749813502|Wonderland|12:07:00|0:19:00|Mon|
-|1387|68749814502|Wonderland|11:59:00|0:19:00|Mon|
-|1388|68749815502|Wonderland|11:52:00|0:19:00|Mon|
-|1389|68749816502|Wonderland|11:44:00|0:19:00|Mon|
-|1390|68749817502|Wonderland|11:37:00|0:19:00|Mon|
-|1391|68749818502|Wonderland|11:29:00|0:19:00|Mon|
-|1392|68749819502|Wonderland|11:22:00|0:19:00|Mon|
-|1393|68749820502|Wonderland|11:14:00|0:19:00|Mon|
-|1394|68749821502|Wonderland|11:07:00|0:19:00|Mon|
-|1395|68749822502|Wonderland|10:59:00|0:19:00|Mon|
-|1396|68749823502|Wonderland|10:52:00|0:19:00|Mon|
-|1397|68749824502|Wonderland|10:44:00|0:19:00|Mon|
-|1398|68749825502|Wonderland|10:37:00|0:19:00|Mon|
-|1399|68749826502|Wonderland|10:29:00|0:19:00|Mon|
-|1400|68749827502|Wonderland|10:22:00|0:19:00|Mon|
-|1401|68749828502|Orient Heights|09:30:00|0:12:00|Mon|
-|1402|68749829502|Orient Heights|10:16:00|0:12:00|Mon|
-|1403|68749830502|Wonderland|10:11:00|0:19:00|Mon|
-|1404|68749831502|Wonderland|10:05:00|0:19:00|Mon|
-|1405|68749832502|Wonderland|10:00:00|0:19:00|Mon|
-|1406|68749833502|Wonderland|09:55:00|0:19:00|Mon|
-|1407|68749834502|Wonderland|09:50:00|0:19:00|Mon|
-|1408|68749835500|Bowdoin|09:39:00|0:18:00|Mon|
-|1409|68749836502|Orient Heights|09:45:00|0:12:00|Mon|
-|1410|68749837502|Wonderland|09:40:00|0:19:00|Mon|
-## 🚂 CR-Fitchburg | Fitchburg Line
-- Trip numbers ⬇️ 32 from 88 to 56
-- Average duration ⬇️ 0:00:00 overall from 1:26:25 to 1:26:24
-- ✅ No new trips
-- ❌ 32 trips removed with an average duration of 1:26:26
-### ❌ Removed trips
-||Trip|Headsign|Start time|Duration|Days|
-|--:|:--|:--|--:|--:|:--|
-|1|Concord250-731831-7411|Littleton/Route 495|09:30:00|1:10:00|—|
-|2|Concord250-731833-7430|North Station|16:13:00|1:10:00|—|
-|3|Concord250-731834-7408|North Station|07:48:00|0:59:00|—|
-|4|Concord250-731836-5435|Wachusett|18:15:00|1:39:00|—|
-|5|Concord250-731837-7405|South Acton|06:30:00|1:03:00|—|
-|6|Concord250-731838-7424|North Station|14:13:00|1:10:00|—|
-|7|Concord250-731839-7423|South Acton|15:00:00|1:03:00|—|
-|8|Concord250-731840-7416|North Station|11:06:00|1:17:00|—|
-|9|Concord250-731841-7420|North Station|12:13:00|1:10:00|—|
-|10|Concord250-731842-5427|Wachusett|16:00:00|1:54:00|—|
-|11|Concord250-731843-5426|North Station|14:27:00|1:56:00|—|
-|12|Concord250-731844-5447|Wachusett|23:40:00|1:36:00|—|
-|13|Concord250-731845-5444|North Station|20:55:00|1:38:00|—|
-|14|Concord250-731846-5421|Wachusett|14:00:00|1:54:00|—|
-|15|Concord250-731847-7414|North Station|09:48:00|1:02:00|—|
-|16|Concord250-731848-5418|North Station|09:47:00|1:50:00|—|
-|17|Concord250-731849-7436|North Station|18:28:00|1:10:00|—|
-|18|Concord250-731850-5402|North Station|05:05:00|1:42:00|—|
-|19|Concord250-731851-7409|South Acton|08:30:00|1:03:00|—|
-|20|Concord250-731852-5413|Wachusett|10:15:00|1:54:00|—|
-|21|Concord250-731853-5422|North Station|12:27:00|1:56:00|—|
-|22|Concord250-731854-7415|South Acton|11:00:00|1:03:00|—|
-|23|Concord250-731855-5407|Wachusett|07:30:00|1:52:00|—|
-|24|Concord250-731856-5417|Wachusett|12:00:00|1:54:00|—|
-|25|Concord250-731857-7419|South Acton|13:00:00|1:03:00|—|
-|26|Concord250-731858-7403|South Acton|05:30:00|1:03:00|—|
-|27|Concord250-731859-5412|North Station|08:05:00|1:45:00|—|
-|28|Concord250-731860-7404|North Station|06:48:00|0:59:00|—|
-|29|Concord250-731861-5441|Wachusett|20:40:00|1:36:00|—|
-|30|Concord250-731862-5438|North Station|18:17:00|1:46:00|—|
-|31|Concord250-731863-7401|South Acton|04:30:00|0:53:00|—|
-|32|Concord250-731864-5434|North Station|16:27:00|1:56:00|—|
-## 🚂 CR-Worcester | Framingham/Worcester Line
-- Trip numbers ⬇️ 80 from 157 to 77
-- Average duration ⬇️ 0:02:24 overall from 1:28:19 to 1:25:55
-- ✅ No new trips
-- ❌ 80 trips removed with an average duration of 1:30:38
-### ❌ Removed trips
-||Trip|Headsign|Start time|Duration|Days|
-|--:|:--|:--|--:|--:|:--|
-|1|MarathonMonday-720669-1558|South Station|16:40:00|0:49:00|—|
-|2|MarathonMonday-721007-503|Worcester|04:45:00|1:28:00|—|
-|3|MarathonMonday-721011-502|South Station|04:15:00|1:35:00|—|
-|4|MarathonMonday-721013-2565|Worcester|17:10:00|1:39:00|—|
-|5|MarathonMonday-721014-2571|Worcester|18:10:00|1:36:00|—|
-|6|MarathonMonday-721015-2559|Worcester|16:35:00|1:46:00|—|
-|7|MarathonMonday-721016-2556|South Station|15:36:00|1:36:00|—|
-|8|MarathonMonday-721017-2553|Worcester|15:40:00|1:40:00|—|
-|9|MarathonMonday-721018-2552|South Station|15:02:00|1:01:00|—|
-|10|MarathonMonday-721019-2551|Framingham|15:05:00|1:04:00|—|
-|11|MarathonMonday-721020-2550|South Station|13:50:00|1:48:00|—|
-|12|MarathonMonday-721021-2549|Worcester|14:30:00|1:46:00|—|
-|13|MarathonMonday-721022-2548|South Station|14:02:00|1:11:00|—|
-|14|MarathonMonday-721023-2546|South Station|12:50:00|2:09:00|—|
-|15|MarathonMonday-721024-2545|Worcester|13:45:00|1:36:00|—|
-|16|MarathonMonday-721025-2544|South Station|13:02:00|1:22:00|—|
-|17|MarathonMonday-721026-2543|Framingham|13:20:00|0:55:00|—|
-|18|MarathonMonday-721027-2542|South Station|11:50:00|2:07:00|—|
-|19|MarathonMonday-721028-2540|South Station|12:02:00|1:22:00|—|
-|20|MarathonMonday-721029-2539|Framingham|12:20:00|0:59:00|—|
-|21|MarathonMonday-721030-2538|South Station|10:50:00|1:59:00|—|
-|22|MarathonMonday-721031-2537|Worcester|11:50:00|1:44:00|—|
-|23|MarathonMonday-721032-2535|Framingham|11:20:00|0:59:00|—|
-|24|MarathonMonday-721033-2534|South Station|10:15:00|1:59:00|—|
-|25|MarathonMonday-721034-2533|Worcester|10:50:00|1:44:00|—|
-|26|MarathonMonday-721035-2532|South Station|10:32:00|1:11:00|—|
-|27|MarathonMonday-721036-2531|Framingham|10:20:00|1:03:00|—|
-|28|MarathonMonday-721037-2530|South Station|09:20:00|1:53:00|—|
-|29|MarathonMonday-721038-2529|Worcester|09:45:00|1:49:00|—|
-|30|MarathonMonday-721039-2528|South Station|09:37:00|1:11:00|—|
-|31|MarathonMonday-721040-2527|Framingham|09:10:00|1:03:00|—|
-|32|MarathonMonday-721041-2526|South Station|08:30:00|1:53:00|—|
-|33|MarathonMonday-721042-2525|Worcester|08:45:00|1:49:00|—|
-|34|MarathonMonday-721043-2523|Framingham|08:15:00|1:05:00|—|
-|35|MarathonMonday-721044-2522|South Station|07:55:00|1:45:00|—|
-|36|MarathonMonday-721045-2521|Worcester|07:45:00|1:44:00|—|
-|37|MarathonMonday-721046-2518|South Station|07:10:00|1:37:00|—|
-|38|MarathonMonday-721047-2515|Worcester|06:55:00|1:22:00|—|
-|39|MarathonMonday-721048-2514|South Station|06:30:00|1:42:00|—|
-|40|MarathonMonday-721049-2510|South Station|05:50:00|1:41:00|—|
-|41|MarathonMonday-721050-2509|Worcester|06:05:00|1:35:00|—|
-|42|MarathonMonday-721051-1574|South Station|19:00:00|0:53:00|—|
-|43|MarathonMonday-721052-1567|Framingham|17:45:00|0:56:00|—|
-|44|MarathonMonday-721053-1562|South Station|17:20:00|0:53:00|—|
-|45|MarathonMonday-721055-1555|Framingham|16:10:00|0:55:00|—|
-|46|MarathonMonday-721056-593|Worcester|23:45:00|1:36:00|—|
-|47|MarathonMonday-721057-592|South Station|22:50:00|1:28:00|—|
-|48|MarathonMonday-721058-585|Worcester|22:00:00|1:36:00|—|
-|49|MarathonMonday-721059-584|South Station|20:55:00|1:35:00|—|
-|50|MarathonMonday-721060-581|Worcester|21:00:00|1:36:00|—|
-|51|MarathonMonday-721061-580|South Station|19:55:00|1:35:00|—|
-|52|MarathonMonday-721062-577|Worcester|19:40:00|1:36:00|—|
-|53|MarathonMonday-721063-576|South Station|18:35:00|1:28:00|—|
-|54|MarathonMonday-721064-573|Worcester|18:40:00|1:37:00|—|
-|55|MarathonMonday-721065-568|South Station|17:45:00|1:28:00|—|
-|56|MarathonMonday-721066-560|South Station|16:30:00|1:20:00|—|
-|57|MarathonMonday-721067-554|South Station|15:00:00|1:40:00|—|
-|58|MarathonMonday-721068-541|Worcester|12:55:00|1:38:00|—|
-|59|MarathonMonday-721069-506|South Station|05:00:00|1:36:00|—|
-|60|MarathonMonday-721070-505|Worcester|05:25:00|1:29:00|—|
-|61|MarathonSunday-716338-5530|South Station|09:10:00|1:35:00|—|
-|62|MarathonSunday-716339-5508|South Station|05:10:00|1:35:00|—|
-|63|MarathonSunday-716340-5520|South Station|07:10:00|1:35:00|—|
-|64|MarathonSunday-716343-5554|South Station|15:10:00|1:35:00|—|
-|65|MarathonSunday-716345-5546|South Station|13:10:00|1:35:00|—|
-|66|MarathonSunday-716346-5538|South Station|11:10:00|1:35:00|—|
-|67|MarathonSunday-716349-5566|South Station|17:10:00|1:35:00|—|
-|68|MarathonSunday-716352-5576|South Station|18:55:00|1:35:00|—|
-|69|MarathonSunday-716354-5584|South Station|21:10:00|1:35:00|—|
-|70|MarathonSunday-716355-5591|Worcester|23:15:00|1:34:00|—|
-|71|MarathonSunday-716356-5594|South Station|23:25:00|1:35:00|—|
-|72|MarathonSunday-722832-5581|Worcester|21:00:00|1:35:00|—|
-|73|MarathonSunday-722833-5561|Worcester|17:00:00|1:35:00|—|
-|74|MarathonSunday-722834-5573|Worcester|18:45:00|1:35:00|—|
-|75|MarathonSunday-722835-5541|Worcester|13:00:00|1:35:00|—|
-|76|MarathonSunday-722836-5549|Worcester|15:00:00|1:35:00|—|
-|77|MarathonSunday-722837-5525|Worcester|09:00:00|1:35:00|—|
-|78|MarathonSunday-722838-5503|Worcester|05:00:00|1:35:00|—|
-|79|MarathonSunday-722839-5533|Worcester|11:00:00|1:35:00|—|
-|80|MarathonSunday-722840-5515|Worcester|07:00:00|1:35:00|—|
 ## 🚌 1 | Harvard Square - Nubian Station
 - Trip numbers ⬇️ 353 from 1290 to 937
 - Average duration ⬆️ 0:00:04 overall from 0:36:48 to 0:36:53
@@ -16819,6 +14055,2770 @@
 |--:|:--|:--|--:|--:|:--|
 |1|68362834|Haymarket via Sullivan|05:16:00|0:29:00|—|
 |2|68515086|Haymarket via Sullivan|04:33:00|0:25:00|—|
+## 🚇 Blue | Blue Line
+- Trip numbers ⬇️ 1410 from 2702 to 1292
+- Average duration ⬆️ 0:00:32 overall from 0:18:49 to 0:19:21
+- 📅 Monday and Friday were impacted the most
+- ✅ No new trips
+- ❌ 1410 trips removed with an average duration of 0:18:19
+	- 410 on Monday
+	- 410 on Friday
+	- 300 on Saturday
+	- 290 on Sunday
+### ❌ Removed trips
+||Trip|Headsign|Start time|Duration|Days|
+|--:|:--|:--|--:|--:|:--|
+|1|687494285-4|Bowdoin|05:12:00|0:20:00|Fri|
+|2|687494295-4|Wonderland|05:37:00|0:20:00|Fri|
+|3|687494305-4|Bowdoin|05:18:00|0:20:00|Fri|
+|4|687494315-4|Wonderland|05:43:00|0:20:00|Fri|
+|5|687494325-4|Bowdoin|05:24:00|0:20:00|Fri|
+|6|687494335-4|Wonderland|05:49:00|0:20:00|Fri|
+|7|687494345-4|Bowdoin|06:18:00|0:20:00|Fri|
+|8|687494355-4|Wonderland|06:43:00|0:20:00|Fri|
+|9|687494365-4|Bowdoin|07:12:00|0:20:00|Fri|
+|10|687494375-4|Wonderland|07:37:00|0:20:00|Fri|
+|11|687494385-4|Bowdoin|08:06:00|0:20:00|Fri|
+|12|687494395-4|Wonderland|08:31:00|0:20:00|Fri|
+|13|687494405-4|Bowdoin|05:28:00|0:20:00|Fri|
+|14|687494415-4|Wonderland|05:53:00|0:20:00|Fri|
+|15|687494425-4|Bowdoin|06:22:00|0:20:00|Fri|
+|16|687494435-4|Wonderland|06:47:00|0:20:00|Fri|
+|17|687494445-4|Bowdoin|07:16:00|0:20:00|Fri|
+|18|687494455-4|Wonderland|07:41:00|0:20:00|Fri|
+|19|687494465-4|Bowdoin|08:10:00|0:20:00|Fri|
+|20|687494475-4|Wonderland|08:35:00|0:20:00|Fri|
+|21|687494485-4|Bowdoin|05:33:00|0:20:00|Fri|
+|22|687494495-4|Wonderland|05:58:00|0:20:00|Fri|
+|23|687494505-4|Bowdoin|06:27:00|0:20:00|Fri|
+|24|687494515-4|Wonderland|06:52:00|0:20:00|Fri|
+|25|687494525-4|Bowdoin|07:21:00|0:20:00|Fri|
+|26|687494535-4|Wonderland|07:46:00|0:20:00|Fri|
+|27|687494545-4|Bowdoin|08:15:00|0:20:00|Fri|
+|28|687494555-4|Wonderland|08:40:00|0:20:00|Fri|
+|29|687494565-4|Bowdoin|05:37:00|0:20:00|Fri|
+|30|687494575-4|Wonderland|06:02:00|0:20:00|Fri|
+|31|687494585-4|Bowdoin|06:31:00|0:20:00|Fri|
+|32|687494595-4|Wonderland|06:56:00|0:20:00|Fri|
+|33|687494605-4|Bowdoin|07:25:00|0:20:00|Fri|
+|34|687494615-4|Wonderland|07:50:00|0:20:00|Fri|
+|35|687494625-4|Bowdoin|08:19:00|0:20:00|Fri|
+|36|687494635-4|Wonderland|08:44:00|0:20:00|Fri|
+|37|687494645-4|Bowdoin|05:42:00|0:20:00|Fri|
+|38|687494655-4|Wonderland|06:07:00|0:20:00|Fri|
+|39|687494665-4|Bowdoin|06:36:00|0:20:00|Fri|
+|40|687494675-4|Wonderland|07:01:00|0:20:00|Fri|
+|41|687494685-4|Bowdoin|07:30:00|0:20:00|Fri|
+|42|687494695-4|Wonderland|07:55:00|0:20:00|Fri|
+|43|687494705-4|Bowdoin|08:24:00|0:20:00|Fri|
+|44|687494715-4|Wonderland|08:49:00|0:20:00|Fri|
+|45|687494725-4|Bowdoin|05:46:00|0:20:00|Fri|
+|46|687494735-4|Wonderland|06:11:00|0:20:00|Fri|
+|47|687494745-4|Bowdoin|06:40:00|0:20:00|Fri|
+|48|687494755-4|Wonderland|07:05:00|0:20:00|Fri|
+|49|687494765-4|Bowdoin|07:34:00|0:20:00|Fri|
+|50|687494775-4|Wonderland|07:59:00|0:20:00|Fri|
+|51|687494785-4|Bowdoin|08:28:00|0:20:00|Fri|
+|52|687494795-4|Wonderland|08:53:00|0:20:00|Fri|
+|53|687494805-4|Bowdoin|05:51:00|0:20:00|Fri|
+|54|687494815-4|Wonderland|06:16:00|0:20:00|Fri|
+|55|687494825-4|Bowdoin|06:45:00|0:20:00|Fri|
+|56|687494835-4|Wonderland|07:10:00|0:20:00|Fri|
+|57|687494845-4|Bowdoin|07:39:00|0:20:00|Fri|
+|58|687494855-4|Wonderland|08:04:00|0:20:00|Fri|
+|59|687494865-4|Bowdoin|08:33:00|0:20:00|Fri|
+|60|687494875-4|Wonderland|08:58:00|0:20:00|Fri|
+|61|687494885-4|Bowdoin|05:55:00|0:20:00|Fri|
+|62|687494895-4|Wonderland|06:20:00|0:20:00|Fri|
+|63|687494905-4|Bowdoin|06:49:00|0:20:00|Fri|
+|64|687494915-4|Wonderland|07:14:00|0:20:00|Fri|
+|65|687494925-4|Bowdoin|07:43:00|0:20:00|Fri|
+|66|687494935-4|Wonderland|08:08:00|0:20:00|Fri|
+|67|687494945-4|Bowdoin|08:37:00|0:20:00|Fri|
+|68|687494955-4|Wonderland|09:02:00|0:20:00|Fri|
+|69|687494965-4|Bowdoin|06:00:00|0:20:00|Fri|
+|70|687494975-4|Wonderland|06:25:00|0:20:00|Fri|
+|71|687494985-4|Bowdoin|06:54:00|0:20:00|Fri|
+|72|687494995-4|Wonderland|07:19:00|0:20:00|Fri|
+|73|687495005-4|Bowdoin|07:48:00|0:20:00|Fri|
+|74|687495015-4|Wonderland|08:13:00|0:20:00|Fri|
+|75|687495025-4|Bowdoin|08:42:00|0:20:00|Fri|
+|76|687495035-4|Wonderland|09:07:00|0:20:00|Fri|
+|77|687495045-4|Bowdoin|06:04:00|0:20:00|Fri|
+|78|687495055-4|Wonderland|06:29:00|0:20:00|Fri|
+|79|687495065-4|Bowdoin|06:58:00|0:20:00|Fri|
+|80|687495075-4|Wonderland|07:23:00|0:20:00|Fri|
+|81|687495085-4|Bowdoin|07:52:00|0:20:00|Fri|
+|82|687495095-4|Wonderland|08:17:00|0:20:00|Fri|
+|83|687495105-4|Bowdoin|08:46:00|0:20:00|Fri|
+|84|687495115-4|Orient Heights|09:11:00|0:13:00|Fri|
+|85|687495125-4|Bowdoin|06:09:00|0:20:00|Fri|
+|86|687495135-4|Wonderland|06:34:00|0:20:00|Fri|
+|87|687495145-4|Bowdoin|07:03:00|0:20:00|Fri|
+|88|687495155-4|Wonderland|07:28:00|0:20:00|Fri|
+|89|687495165-4|Bowdoin|07:57:00|0:20:00|Fri|
+|90|687495175-4|Wonderland|08:22:00|0:20:00|Fri|
+|91|687495185-4|Bowdoin|08:51:00|0:20:00|Fri|
+|92|687495195-4|Wonderland|09:16:00|0:20:00|Fri|
+|93|687495205-4|Bowdoin|06:13:00|0:20:00|Fri|
+|94|687495215-4|Wonderland|06:38:00|0:20:00|Fri|
+|95|687495225-4|Bowdoin|07:07:00|0:20:00|Fri|
+|96|687495235-4|Wonderland|07:32:00|0:20:00|Fri|
+|97|687495245-4|Bowdoin|08:01:00|0:20:00|Fri|
+|98|687495255-4|Wonderland|08:26:00|0:20:00|Fri|
+|99|687495265-4|Bowdoin|08:55:00|0:20:00|Fri|
+|100|687495275-4|Wonderland|09:20:00|0:20:00|Fri|
+|101|687495285-4|Bowdoin|09:00:00|0:20:00|Fri|
+|102|687495295-4|Wonderland|09:25:00|0:20:00|Fri|
+|103|687495305-4|Bowdoin|13:52:00|0:19:00|Fri|
+|104|687495315-4|Wonderland|14:16:00|0:20:00|Fri|
+|105|687495325-4|Bowdoin|13:59:00|0:19:00|Fri|
+|106|687495335-4|Wonderland|14:23:00|0:20:00|Fri|
+|107|687495345-4|Bowdoin|13:11:00|0:19:00|Fri|
+|108|687495355-4|Wonderland|13:35:00|0:20:00|Fri|
+|109|687495365-4|Bowdoin|13:17:00|0:19:00|Fri|
+|110|687495375-4|Wonderland|13:41:00|0:20:00|Fri|
+|111|687495385-4|Bowdoin|13:24:00|0:19:00|Fri|
+|112|687495395-4|Wonderland|13:48:00|0:20:00|Fri|
+|113|687495405-4|Bowdoin|13:31:00|0:19:00|Fri|
+|114|687495415-4|Wonderland|13:55:00|0:20:00|Fri|
+|115|687495425-4|Bowdoin|13:38:00|0:19:00|Fri|
+|116|687495435-4|Wonderland|14:02:00|0:20:00|Fri|
+|117|687495445-4|Bowdoin|13:45:00|0:19:00|Fri|
+|118|687495455-4|Wonderland|14:09:00|0:20:00|Fri|
+|119|687495465-4|Bowdoin|14:09:00|0:13:00|Fri|
+|120|687495475-4|Wonderland|14:29:00|0:20:00|Fri|
+|121|687495485-4|Bowdoin|14:07:00|0:19:00|Fri|
+|122|687495495-4|Wonderland|14:34:00|0:20:00|Fri|
+|123|687495505-4|Bowdoin|14:14:00|0:19:00|Fri|
+|124|687495515-4|Wonderland|14:39:00|0:20:00|Fri|
+|125|687495525-4|Bowdoin|14:21:00|0:19:00|Fri|
+|126|687495535-4|Wonderland|14:45:00|0:20:00|Fri|
+|127|687495545-4|Bowdoin|14:27:00|0:19:00|Fri|
+|128|687495555-4|Wonderland|14:51:00|0:20:00|Fri|
+|129|687495565-4|Bowdoin|15:20:00|0:19:00|Fri|
+|130|687495575-4|Wonderland|15:44:00|0:21:00|Fri|
+|131|687495585-4|Bowdoin|14:33:00|0:19:00|Fri|
+|132|687495595-4|Wonderland|14:56:00|0:20:00|Fri|
+|133|687495605-4|Bowdoin|15:25:00|0:19:00|Fri|
+|134|687495615-4|Wonderland|15:49:00|0:21:00|Fri|
+|135|687495625-4|Bowdoin|14:42:00|0:13:00|Fri|
+|136|687495635-4|Wonderland|15:01:00|0:21:00|Fri|
+|137|687495645-4|Bowdoin|14:39:00|0:19:00|Fri|
+|138|687495655-4|Wonderland|15:06:00|0:21:00|Fri|
+|139|687495665-4|Bowdoin|14:46:00|0:19:00|Fri|
+|140|687495675-4|Wonderland|15:11:00|0:21:00|Fri|
+|141|687495685-4|Bowdoin|14:53:00|0:19:00|Fri|
+|142|687495695-4|Wonderland|15:17:00|0:21:00|Fri|
+|143|687495705-4|Bowdoin|14:58:00|0:19:00|Fri|
+|144|687495715-4|Wonderland|15:22:00|0:21:00|Fri|
+|145|687495725-4|Bowdoin|15:04:00|0:19:00|Fri|
+|146|687495735-4|Wonderland|15:28:00|0:21:00|Fri|
+|147|687495745-4|Bowdoin|15:09:00|0:19:00|Fri|
+|148|687495755-4|Wonderland|15:33:00|0:21:00|Fri|
+|149|687495765-4|Bowdoin|15:14:00|0:19:00|Fri|
+|150|687495775-4|Wonderland|15:38:00|0:21:00|Fri|
+|151|687495785-4|Bowdoin|16:19:00|0:19:00|Fri|
+|152|687495795-4|Wonderland|16:43:00|0:21:00|Fri|
+|153|687495805-4|Bowdoin|17:13:00|0:19:00|Fri|
+|154|687495815-4|Wonderland|17:37:00|0:21:00|Fri|
+|155|687495825-4|Bowdoin|18:07:00|0:19:00|Fri|
+|156|687495835-4|Wonderland|18:31:00|0:20:00|Fri|
+|157|687495865-4|Bowdoin|15:34:00|0:13:00|Fri|
+|158|687495875-4|Wonderland|15:53:00|0:21:00|Fri|
+|159|687495885-4|Bowdoin|16:23:00|0:19:00|Fri|
+|160|687495895-4|Wonderland|16:47:00|0:21:00|Fri|
+|161|687495905-4|Bowdoin|17:17:00|0:19:00|Fri|
+|162|687495915-4|Wonderland|17:41:00|0:21:00|Fri|
+|163|687495925-4|Bowdoin|18:11:00|0:19:00|Fri|
+|164|687495935-4|Wonderland|18:35:00|0:20:00|Fri|
+|165|687495965-4|Bowdoin|15:32:00|0:19:00|Fri|
+|166|687495975-4|Wonderland|15:58:00|0:21:00|Fri|
+|167|687495985-4|Bowdoin|16:28:00|0:19:00|Fri|
+|168|687495995-4|Wonderland|16:52:00|0:21:00|Fri|
+|169|687496005-4|Bowdoin|17:22:00|0:19:00|Fri|
+|170|687496015-4|Wonderland|17:46:00|0:21:00|Fri|
+|171|687496025-4|Bowdoin|18:16:00|0:19:00|Fri|
+|172|687496035-4|Wonderland|18:40:00|0:20:00|Fri|
+|173|687496065-4|Bowdoin|15:38:00|0:19:00|Fri|
+|174|687496075-4|Wonderland|16:02:00|0:21:00|Fri|
+|175|687496085-4|Bowdoin|16:32:00|0:19:00|Fri|
+|176|687496095-4|Wonderland|16:56:00|0:21:00|Fri|
+|177|687496105-4|Bowdoin|17:26:00|0:19:00|Fri|
+|178|687496115-4|Wonderland|17:50:00|0:21:00|Fri|
+|179|687496125-4|Bowdoin|18:20:00|0:19:00|Fri|
+|180|687496135-4|Wonderland|18:44:00|0:20:00|Fri|
+|181|687496165-4|Bowdoin|15:43:00|0:19:00|Fri|
+|182|687496175-4|Wonderland|16:07:00|0:21:00|Fri|
+|183|687496185-4|Bowdoin|16:37:00|0:19:00|Fri|
+|184|687496195-4|Wonderland|17:01:00|0:21:00|Fri|
+|185|687496205-4|Bowdoin|17:31:00|0:19:00|Fri|
+|186|687496215-4|Wonderland|17:55:00|0:21:00|Fri|
+|187|687496225-4|Bowdoin|18:25:00|0:19:00|Fri|
+|188|687496235-4|Wonderland|18:49:00|0:20:00|Fri|
+|189|687496265-4|Bowdoin|15:47:00|0:19:00|Fri|
+|190|687496275-4|Wonderland|16:11:00|0:21:00|Fri|
+|191|687496285-4|Bowdoin|16:41:00|0:19:00|Fri|
+|192|687496295-4|Wonderland|17:05:00|0:21:00|Fri|
+|193|687496305-4|Bowdoin|17:35:00|0:19:00|Fri|
+|194|687496315-4|Wonderland|17:59:00|0:20:00|Fri|
+|195|687496325-4|Bowdoin|18:29:00|0:19:00|Fri|
+|196|687496335-4|Wonderland|18:53:00|0:20:00|Fri|
+|197|687496365-4|Bowdoin|15:52:00|0:19:00|Fri|
+|198|687496375-4|Wonderland|16:16:00|0:21:00|Fri|
+|199|687496385-4|Bowdoin|16:46:00|0:19:00|Fri|
+|200|687496395-4|Wonderland|17:10:00|0:21:00|Fri|
+|201|687496405-4|Bowdoin|17:40:00|0:19:00|Fri|
+|202|687496415-4|Wonderland|18:04:00|0:20:00|Fri|
+|203|687496425-4|Bowdoin|18:33:00|0:19:00|Fri|
+|204|687496435-4|Wonderland|18:57:00|0:20:00|Fri|
+|205|687496465-4|Bowdoin|16:01:00|0:13:00|Fri|
+|206|687496475-4|Wonderland|16:20:00|0:21:00|Fri|
+|207|687496485-4|Bowdoin|16:50:00|0:19:00|Fri|
+|208|687496495-4|Wonderland|17:14:00|0:21:00|Fri|
+|209|687496505-4|Bowdoin|17:44:00|0:19:00|Fri|
+|210|687496515-4|Wonderland|18:08:00|0:20:00|Fri|
+|211|687496525-4|Bowdoin|18:37:00|0:19:00|Fri|
+|212|687496545-4|Bowdoin|15:59:00|0:19:00|Fri|
+|213|687496555-4|Wonderland|16:25:00|0:21:00|Fri|
+|214|687496565-4|Bowdoin|16:55:00|0:19:00|Fri|
+|215|687496575-4|Wonderland|17:19:00|0:21:00|Fri|
+|216|687496585-4|Bowdoin|17:49:00|0:19:00|Fri|
+|217|687496595-4|Wonderland|18:13:00|0:20:00|Fri|
+|218|687496605-4|Bowdoin|18:42:00|0:19:00|Fri|
+|219|687496625-4|Bowdoin|16:05:00|0:19:00|Fri|
+|220|687496635-4|Wonderland|16:29:00|0:21:00|Fri|
+|221|687496645-4|Bowdoin|16:59:00|0:19:00|Fri|
+|222|687496655-4|Wonderland|17:23:00|0:21:00|Fri|
+|223|687496665-4|Bowdoin|17:53:00|0:19:00|Fri|
+|224|687496675-4|Wonderland|18:17:00|0:20:00|Fri|
+|225|687496685-4|Bowdoin|18:46:00|0:19:00|Fri|
+|226|687496705-4|Bowdoin|16:10:00|0:19:00|Fri|
+|227|687496715-4|Wonderland|16:34:00|0:21:00|Fri|
+|228|687496725-4|Bowdoin|17:04:00|0:19:00|Fri|
+|229|687496735-4|Wonderland|17:28:00|0:21:00|Fri|
+|230|687496745-4|Bowdoin|17:58:00|0:19:00|Fri|
+|231|687496755-4|Wonderland|18:22:00|0:20:00|Fri|
+|232|687496765-4|Bowdoin|18:51:00|0:19:00|Fri|
+|233|687496785-4|Bowdoin|16:14:00|0:19:00|Fri|
+|234|687496795-4|Wonderland|16:38:00|0:21:00|Fri|
+|235|687496805-4|Bowdoin|17:08:00|0:19:00|Fri|
+|236|687496815-4|Wonderland|17:32:00|0:21:00|Fri|
+|237|687496825-4|Bowdoin|18:02:00|0:19:00|Fri|
+|238|687496835-4|Wonderland|18:26:00|0:20:00|Fri|
+|239|687496845-4|Bowdoin|18:55:00|0:19:00|Fri|
+|240|687497645-4|Bowdoin|05:08:00|0:14:00|Fri|
+|241|687497655-4|Wonderland|05:32:00|0:20:00|Fri|
+|242|687497665-4|Bowdoin|12:43:00|0:20:00|Fri|
+|243|687497675-4|Wonderland|13:00:00|0:20:00|Fri|
+|244|687497685-4|Wonderland|13:15:00|0:20:00|Fri|
+|245|687497695-4|Wonderland|13:22:00|0:20:00|Fri|
+|246|687497705-4|Wonderland|12:45:00|0:20:00|Fri|
+|247|687497715-4|Bowdoin|12:35:00|0:20:00|Fri|
+|248|687497725-4|Wonderland|13:08:00|0:20:00|Fri|
+|249|687497735-4|Bowdoin|13:05:00|0:19:00|Fri|
+|250|687497745-4|Bowdoin|12:58:00|0:19:00|Fri|
+|251|687497755-4|Wonderland|13:29:00|0:20:00|Fri|
+|252|687497765-4|Bowdoin|12:20:00|0:20:00|Fri|
+|253|687497775-4|Bowdoin|12:28:00|0:20:00|Fri|
+|254|687497785-4|Wonderland|12:53:00|0:20:00|Fri|
+|255|687497795-4|Bowdoin|12:50:00|0:20:00|Fri|
+|256|687497805-4|Bowdoin|09:34:00|0:20:00|Fri|
+|257|687497815-4|Bowdoin|10:48:00|0:20:00|Fri|
+|258|687497825-4|Bowdoin|09:14:00|0:20:00|Fri|
+|259|687497835-4|Bowdoin|11:26:00|0:20:00|Fri|
+|260|687497845-4|Wonderland|09:34:00|0:20:00|Fri|
+|261|687497855-4|Bowdoin|10:03:00|0:20:00|Fri|
+|262|687497865-4|Bowdoin|11:18:00|0:20:00|Fri|
+|263|687497875-4|Bowdoin|10:41:00|0:20:00|Fri|
+|264|687497885-4|Bowdoin|09:45:00|0:20:00|Fri|
+|265|687497895-4|Bowdoin|12:11:00|0:20:00|Fri|
+|266|687497905-4|Bowdoin|09:19:00|0:20:00|Fri|
+|267|687497915-4|Bowdoin|09:50:00|0:20:00|Fri|
+|268|687497925-4|Bowdoin|10:11:00|0:20:00|Fri|
+|269|687497935-4|Bowdoin|10:18:00|0:20:00|Fri|
+|270|687497945-4|Bowdoin|11:03:00|0:20:00|Fri|
+|271|687497955-4|Bowdoin|10:33:00|0:20:00|Fri|
+|272|687497965-4|Bowdoin|11:11:00|0:20:00|Fri|
+|273|687497975-4|Bowdoin|11:33:00|0:20:00|Fri|
+|274|687497985-4|Bowdoin|10:26:00|0:20:00|Fri|
+|275|687497995-4|Bowdoin|11:56:00|0:20:00|Fri|
+|276|687498005-4|Bowdoin|11:41:00|0:20:00|Fri|
+|277|687498015-4|Bowdoin|09:24:00|0:20:00|Fri|
+|278|687498025-4|Bowdoin|09:29:00|0:20:00|Fri|
+|279|687498035-4|Bowdoin|12:03:00|0:20:00|Fri|
+|280|687498045-4|Bowdoin|11:48:00|0:20:00|Fri|
+|281|687498055-4|Bowdoin|09:04:00|0:20:00|Fri|
+|282|687498065-4|Bowdoin|09:09:00|0:20:00|Fri|
+|283|687498075-4|Bowdoin|09:56:00|0:20:00|Fri|
+|284|687498085-4|Bowdoin|10:56:00|0:20:00|Fri|
+|285|687498095-4|Wonderland|12:36:00|0:20:00|Fri|
+|286|687498105-4|Wonderland|12:28:00|0:20:00|Fri|
+|287|687498115-4|Wonderland|12:21:00|0:20:00|Fri|
+|288|687498125-4|Wonderland|12:13:00|0:20:00|Fri|
+|289|687498135-4|Wonderland|12:06:00|0:20:00|Fri|
+|290|687498145-4|Wonderland|11:58:00|0:20:00|Fri|
+|291|687498155-4|Wonderland|11:51:00|0:20:00|Fri|
+|292|687498165-4|Wonderland|11:43:00|0:20:00|Fri|
+|293|687498175-4|Wonderland|11:36:00|0:20:00|Fri|
+|294|687498185-4|Wonderland|11:28:00|0:20:00|Fri|
+|295|687498195-4|Wonderland|11:21:00|0:20:00|Fri|
+|296|687498205-4|Wonderland|11:13:00|0:20:00|Fri|
+|297|687498215-4|Wonderland|11:06:00|0:20:00|Fri|
+|298|687498225-4|Wonderland|10:58:00|0:20:00|Fri|
+|299|687498235-4|Wonderland|10:51:00|0:20:00|Fri|
+|300|687498245-4|Wonderland|10:43:00|0:20:00|Fri|
+|301|687498255-4|Wonderland|10:36:00|0:20:00|Fri|
+|302|687498265-4|Wonderland|10:28:00|0:20:00|Fri|
+|303|687498275-4|Wonderland|10:21:00|0:20:00|Fri|
+|304|687498285-4|Orient Heights|09:29:00|0:13:00|Fri|
+|305|687498295-4|Orient Heights|10:15:00|0:13:00|Fri|
+|306|687498305-4|Wonderland|10:10:00|0:20:00|Fri|
+|307|687498315-4|Wonderland|10:04:00|0:20:00|Fri|
+|308|687498325-4|Wonderland|09:59:00|0:20:00|Fri|
+|309|687498335-4|Wonderland|09:54:00|0:20:00|Fri|
+|310|687498345-4|Wonderland|09:49:00|0:20:00|Fri|
+|311|687498355-4|Bowdoin|09:39:00|0:20:00|Fri|
+|312|687498365-4|Orient Heights|09:44:00|0:13:00|Fri|
+|313|687498375-4|Wonderland|09:39:00|0:20:00|Fri|
+|314|68748506560|Bowdoin|23:52:00|0:17:00|Sun|
+|315|68748507562|Wonderland|00:18:00|0:19:00|Sun|
+|316|68748508562|Wonderland|22:30:00|0:19:00|Sun|
+|317|68748509562|Wonderland|23:22:00|0:19:00|Sun|
+|318|68748510560|Bowdoin|22:57:00|0:17:00|Sun|
+|319|68748511562|Wonderland|23:51:00|0:19:00|Sun|
+|320|68748512560|Bowdoin|23:27:00|0:17:00|Sun|
+|321|68748513560|Bowdoin|00:24:00|0:17:00|Sun|
+|322|68748514562|Wonderland|00:53:00|0:19:00|Sun|
+|323|68748515562|Wonderland|20:25:00|0:19:00|Sun|
+|324|68748516562|Wonderland|21:17:00|0:19:00|Sun|
+|325|68748517560|Bowdoin|20:52:00|0:17:00|Sun|
+|326|68748518560|Bowdoin|20:22:00|0:17:00|Sun|
+|327|68748519562|Wonderland|19:33:00|0:19:00|Sun|
+|328|68748520562|Wonderland|21:38:00|0:19:00|Sun|
+|329|68748521560|Bowdoin|20:00:00|0:17:00|Sun|
+|330|68748522562|Wonderland|19:55:00|0:19:00|Sun|
+|331|68748523560|Bowdoin|19:30:00|0:17:00|Sun|
+|332|68748524562|Wonderland|20:47:00|0:19:00|Sun|
+|333|68748525560|Bowdoin|21:14:00|0:17:00|Sun|
+|334|68748526560|Bowdoin|22:05:00|0:17:00|Sun|
+|335|68748527560|Bowdoin|21:44:00|0:17:00|Sun|
+|336|68748528562|Wonderland|22:08:00|0:19:00|Sun|
+|337|68748529560|Bowdoin|22:35:00|0:17:00|Sun|
+|338|68748530562|Wonderland|23:00:00|0:19:00|Sun|
+|339|68748531562|Wonderland|17:20:00|0:19:00|Sun|
+|340|68748532562|Wonderland|18:12:00|0:19:00|Sun|
+|341|68748533560|Bowdoin|17:47:00|0:17:00|Sun|
+|342|68748534560|Bowdoin|16:55:00|0:17:00|Sun|
+|343|68748535562|Wonderland|16:50:00|0:19:00|Sun|
+|344|68748536562|Wonderland|16:58:00|0:19:00|Sun|
+|345|68748537562|Wonderland|17:42:00|0:19:00|Sun|
+|346|68748538562|Wonderland|17:50:00|0:19:00|Sun|
+|347|68748539560|Bowdoin|17:17:00|0:17:00|Sun|
+|348|68748540560|Bowdoin|17:25:00|0:17:00|Sun|
+|349|68748541560|Bowdoin|19:00:00|0:17:00|Sun|
+|350|68748542560|Bowdoin|18:09:00|0:17:00|Sun|
+|351|68748543562|Wonderland|18:33:00|0:19:00|Sun|
+|352|68748544562|Wonderland|00:41:00|0:19:00|Sun|
+|353|68748545560|Bowdoin|00:12:00|0:17:00|Sun|
+|354|68748546562|Wonderland|19:25:00|0:19:00|Sun|
+|355|68748547560|Bowdoin|19:08:00|0:17:00|Sun|
+|356|68748548560|Bowdoin|20:44:00|0:17:00|Sun|
+|357|68748549560|Bowdoin|19:52:00|0:17:00|Sun|
+|358|68748550562|Wonderland|21:09:00|0:19:00|Sun|
+|359|68748551560|Bowdoin|18:17:00|0:17:00|Sun|
+|360|68748552562|Wonderland|18:41:00|0:19:00|Sun|
+|361|68748553562|Wonderland|20:17:00|0:19:00|Sun|
+|362|68748554562|Wonderland|19:03:00|0:19:00|Sun|
+|363|68748555560|Bowdoin|18:39:00|0:17:00|Sun|
+|364|68748556560|Bowdoin|21:36:00|0:17:00|Sun|
+|365|68748557560|Bowdoin|22:28:00|0:17:00|Sun|
+|366|68748558562|Wonderland|22:53:00|0:19:00|Sun|
+|367|68748559562|Wonderland|22:01:00|0:19:00|Sun|
+|368|68748560562|Wonderland|23:44:00|0:19:00|Sun|
+|369|68748561560|Bowdoin|23:20:00|0:17:00|Sun|
+|370|68748562562|Wonderland|14:58:00|0:19:00|Sun|
+|371|68748563562|Wonderland|15:36:00|0:19:00|Sun|
+|372|68748564560|Bowdoin|16:03:00|0:17:00|Sun|
+|373|68748565560|Bowdoin|14:32:00|0:17:00|Sun|
+|374|68748566560|Bowdoin|15:10:00|0:17:00|Sun|
+|375|68748567562|Wonderland|16:28:00|0:19:00|Sun|
+|376|68748568562|Wonderland|15:51:00|0:19:00|Sun|
+|377|68748569560|Bowdoin|17:10:00|0:17:00|Sun|
+|378|68748570560|Bowdoin|16:25:00|0:17:00|Sun|
+|379|68748571560|Bowdoin|15:40:00|0:17:00|Sun|
+|380|68748572562|Wonderland|16:06:00|0:19:00|Sun|
+|381|68748573562|Wonderland|17:35:00|0:19:00|Sun|
+|382|68748574562|Wonderland|18:26:00|0:19:00|Sun|
+|383|68748575560|Bowdoin|15:25:00|0:17:00|Sun|
+|384|68748576562|Wonderland|15:58:00|0:19:00|Sun|
+|385|68748577560|Bowdoin|15:33:00|0:17:00|Sun|
+|386|68748578560|Bowdoin|16:33:00|0:17:00|Sun|
+|387|68748579562|Wonderland|16:43:00|0:19:00|Sun|
+|388|68748580560|Bowdoin|18:02:00|0:17:00|Sun|
+|389|68748581560|Bowdoin|16:18:00|0:17:00|Sun|
+|390|68748582560|Bowdoin|20:37:00|0:17:00|Sun|
+|391|68748583560|Bowdoin|18:53:00|0:17:00|Sun|
+|392|68748584562|Wonderland|21:02:00|0:19:00|Sun|
+|393|68748585560|Bowdoin|19:45:00|0:17:00|Sun|
+|394|68748586562|Wonderland|19:18:00|0:19:00|Sun|
+|395|68748587562|Wonderland|20:10:00|0:19:00|Sun|
+|396|68748588560|Bowdoin|14:40:00|0:17:00|Sun|
+|397|68748589562|Wonderland|15:06:00|0:19:00|Sun|
+|398|68748590562|Wonderland|14:20:00|0:18:00|Sun|
+|399|68748591562|Wonderland|15:13:00|0:19:00|Sun|
+|400|68748592562|Wonderland|14:13:00|0:18:00|Sun|
+|401|68748593560|Bowdoin|14:47:00|0:17:00|Sun|
+|402|68748594560|Bowdoin|14:17:00|0:17:00|Sun|
+|403|68748595562|Wonderland|14:43:00|0:18:00|Sun|
+|404|68748596560|Bowdoin|21:29:00|0:17:00|Sun|
+|405|68748597562|Wonderland|21:53:00|0:19:00|Sun|
+|406|68748598560|Bowdoin|22:20:00|0:17:00|Sun|
+|407|68748599562|Wonderland|22:45:00|0:19:00|Sun|
+|408|68748600560|Bowdoin|23:12:00|0:17:00|Sun|
+|409|68748601562|Wonderland|23:36:00|0:19:00|Sun|
+|410|68748602562|Wonderland|14:05:00|0:18:00|Sun|
+|411|68748603560|Bowdoin|13:40:00|0:17:00|Sun|
+|412|68748604562|Wonderland|12:27:00|0:18:00|Sun|
+|413|68748605562|Wonderland|12:20:00|0:18:00|Sun|
+|414|68748606560|Bowdoin|12:47:00|0:17:00|Sun|
+|415|68748607562|Wonderland|13:13:00|0:18:00|Sun|
+|416|68748608560|Bowdoin|12:54:00|0:17:00|Sun|
+|417|68748609562|Wonderland|13:20:00|0:18:00|Sun|
+|418|68748610560|Bowdoin|12:32:00|0:17:00|Sun|
+|419|68748611560|Bowdoin|13:47:00|0:17:00|Sun|
+|420|68748612562|Wonderland|13:27:00|0:18:00|Sun|
+|421|68748613560|Bowdoin|13:02:00|0:17:00|Sun|
+|422|68748614562|Wonderland|12:57:00|0:18:00|Sun|
+|423|68748615562|Wonderland|12:35:00|0:18:00|Sun|
+|424|68748616560|Bowdoin|13:54:00|0:17:00|Sun|
+|425|68748617562|Wonderland|13:50:00|0:18:00|Sun|
+|426|68748618560|Bowdoin|13:24:00|0:17:00|Sun|
+|427|68748619562|Wonderland|11:20:00|0:18:00|Sun|
+|428|68748620562|Wonderland|17:27:00|0:19:00|Sun|
+|429|68748621560|Bowdoin|13:32:00|0:17:00|Sun|
+|430|68748622562|Wonderland|14:50:00|0:19:00|Sun|
+|431|68748623560|Bowdoin|15:17:00|0:17:00|Sun|
+|432|68748624562|Wonderland|16:35:00|0:19:00|Sun|
+|433|68748625560|Bowdoin|14:24:00|0:17:00|Sun|
+|434|68748626560|Bowdoin|17:02:00|0:17:00|Sun|
+|435|68748627562|Wonderland|15:43:00|0:19:00|Sun|
+|436|68748628562|Wonderland|13:57:00|0:18:00|Sun|
+|437|68748629560|Bowdoin|16:10:00|0:17:00|Sun|
+|438|68748630562|Wonderland|18:19:00|0:19:00|Sun|
+|439|68748631560|Bowdoin|19:38:00|0:17:00|Sun|
+|440|68748632562|Wonderland|20:55:00|0:19:00|Sun|
+|441|68748633562|Wonderland|19:11:00|0:19:00|Sun|
+|442|68748634560|Bowdoin|17:54:00|0:17:00|Sun|
+|443|68748635560|Bowdoin|20:30:00|0:17:00|Sun|
+|444|68748636560|Bowdoin|18:46:00|0:17:00|Sun|
+|445|68748637562|Wonderland|20:03:00|0:19:00|Sun|
+|446|68748638562|Wonderland|12:13:00|0:18:00|Sun|
+|447|68748639562|Wonderland|11:42:00|0:18:00|Sun|
+|448|68748640560|Bowdoin|11:17:00|0:17:00|Sun|
+|449|68748641562|Wonderland|11:35:00|0:18:00|Sun|
+|450|68748642560|Bowdoin|00:02:00|0:17:00|Sun|
+|451|68748643562|Wonderland|12:05:00|0:18:00|Sun|
+|452|68748644560|Bowdoin|11:09:00|0:17:00|Sun|
+|453|68748645560|Bowdoin|11:54:00|0:17:00|Sun|
+|454|68748646562|Wonderland|11:27:00|0:18:00|Sun|
+|455|68748647560|Bowdoin|11:02:00|0:17:00|Sun|
+|456|68748648560|Bowdoin|11:47:00|0:17:00|Sun|
+|457|68748649562|Wonderland|00:29:00|0:19:00|Sun|
+|458|68748650560|Bowdoin|12:02:00|0:17:00|Sun|
+|459|68748651560|Bowdoin|11:40:00|0:17:00|Sun|
+|460|68748652560|Bowdoin|12:09:00|0:17:00|Sun|
+|461|68748653560|Bowdoin|12:40:00|0:17:00|Sun|
+|462|68748654562|Wonderland|13:05:00|0:18:00|Sun|
+|463|68748655562|Wonderland|11:13:00|0:18:00|Sun|
+|464|68748656562|Wonderland|21:46:00|0:19:00|Sun|
+|465|68748657560|Bowdoin|21:22:00|0:17:00|Sun|
+|466|68748658560|Bowdoin|22:13:00|0:17:00|Sun|
+|467|68748659562|Wonderland|22:38:00|0:19:00|Sun|
+|468|68748660560|Bowdoin|23:05:00|0:17:00|Sun|
+|469|68748661562|Wonderland|23:29:00|0:19:00|Sun|
+|470|68748662562|Wonderland|10:27:00|0:18:00|Sun|
+|471|68748663560|Bowdoin|10:54:00|0:17:00|Sun|
+|472|68748664562|Wonderland|10:42:00|0:18:00|Sun|
+|473|68748665560|Bowdoin|10:16:00|0:17:00|Sun|
+|474|68748666560|Bowdoin|10:09:00|0:17:00|Sun|
+|475|68748667562|Wonderland|10:35:00|0:18:00|Sun|
+|476|68748668560|Bowdoin|10:47:00|0:17:00|Sun|
+|477|68748669562|Wonderland|10:50:00|0:18:00|Sun|
+|478|68748670560|Bowdoin|10:24:00|0:17:00|Sun|
+|479|68748671562|Wonderland|10:20:00|0:18:00|Sun|
+|480|68748672560|Bowdoin|10:01:00|0:17:00|Sun|
+|481|68748673562|Wonderland|09:58:00|0:18:00|Sun|
+|482|68748674562|Wonderland|09:35:00|0:18:00|Sun|
+|483|68748675562|Wonderland|09:50:00|0:18:00|Sun|
+|484|68748676560|Bowdoin|09:32:00|0:17:00|Sun|
+|485|68748677562|Wonderland|09:43:00|0:18:00|Sun|
+|486|68748678562|Wonderland|09:28:00|0:18:00|Sun|
+|487|68748679560|Bowdoin|09:54:00|0:17:00|Sun|
+|488|68748680560|Bowdoin|09:24:00|0:17:00|Sun|
+|489|68748681560|Bowdoin|09:02:00|0:17:00|Sun|
+|490|68748682562|Wonderland|08:58:00|0:18:00|Sun|
+|491|68748683560|Bowdoin|09:17:00|0:17:00|Sun|
+|492|68748684562|Wonderland|08:51:00|0:18:00|Sun|
+|493|68748685560|Bowdoin|09:09:00|0:17:00|Sun|
+|494|68748686562|Wonderland|09:05:00|0:18:00|Sun|
+|495|68748687562|Wonderland|17:12:00|0:19:00|Sun|
+|496|68748688562|Wonderland|15:28:00|0:19:00|Sun|
+|497|68748689562|Wonderland|16:20:00|0:19:00|Sun|
+|498|68748690560|Bowdoin|17:39:00|0:17:00|Sun|
+|499|68748691560|Bowdoin|15:55:00|0:17:00|Sun|
+|500|68748692560|Bowdoin|16:47:00|0:17:00|Sun|
+|501|68748693562|Wonderland|18:04:00|0:19:00|Sun|
+|502|68748694560|Bowdoin|15:02:00|0:17:00|Sun|
+|503|68748695562|Wonderland|11:57:00|0:18:00|Sun|
+|504|68748696560|Bowdoin|11:32:00|0:17:00|Sun|
+|505|68748697562|Wonderland|00:08:00|0:19:00|Sun|
+|506|68748698560|Bowdoin|23:43:00|0:17:00|Sun|
+|507|68748699560|Bowdoin|12:24:00|0:17:00|Sun|
+|508|68748700562|Wonderland|12:50:00|0:18:00|Sun|
+|509|68748701560|Bowdoin|14:09:00|0:17:00|Sun|
+|510|68748702560|Bowdoin|13:16:00|0:17:00|Sun|
+|511|68748703562|Wonderland|14:35:00|0:18:00|Sun|
+|512|68748704562|Wonderland|13:42:00|0:18:00|Sun|
+|513|68748705562|Wonderland|08:13:00|0:18:00|Sun|
+|514|68748706560|Bowdoin|10:40:00|0:17:00|Sun|
+|515|68748707562|Wonderland|19:48:00|0:19:00|Sun|
+|516|68748708560|Bowdoin|20:15:00|0:17:00|Sun|
+|517|68748709560|Bowdoin|21:07:00|0:17:00|Sun|
+|518|68748710560|Bowdoin|22:50:00|0:17:00|Sun|
+|519|68748711562|Wonderland|22:23:00|0:19:00|Sun|
+|520|68748712562|Wonderland|23:15:00|0:19:00|Sun|
+|521|68748713560|Bowdoin|18:31:00|0:17:00|Sun|
+|522|68748714562|Wonderland|20:40:00|0:19:00|Sun|
+|523|68748715562|Wonderland|21:31:00|0:19:00|Sun|
+|524|68748716560|Bowdoin|21:58:00|0:17:00|Sun|
+|525|68748717560|Bowdoin|19:23:00|0:17:00|Sun|
+|526|68748718562|Wonderland|18:56:00|0:19:00|Sun|
+|527|68748719560|Bowdoin|08:55:00|0:17:00|Sun|
+|528|68748720562|Wonderland|09:21:00|0:18:00|Sun|
+|529|68748721560|Bowdoin|08:33:00|0:17:00|Sun|
+|530|68748722560|Bowdoin|08:18:00|0:17:00|Sun|
+|531|68748723560|Bowdoin|09:47:00|0:17:00|Sun|
+|532|68748724562|Wonderland|11:05:00|0:18:00|Sun|
+|533|68748725560|Bowdoin|08:26:00|0:17:00|Sun|
+|534|68748726562|Wonderland|08:29:00|0:18:00|Sun|
+|535|68748727562|Wonderland|08:36:00|0:18:00|Sun|
+|536|68748728562|Wonderland|08:43:00|0:18:00|Sun|
+|537|68748729560|Bowdoin|08:11:00|0:17:00|Sun|
+|538|68748730560|Bowdoin|08:40:00|0:17:00|Sun|
+|539|68748731562|Wonderland|10:13:00|0:18:00|Sun|
+|540|68748732562|Wonderland|07:46:00|0:18:00|Sun|
+|541|68748733562|Wonderland|07:37:00|0:18:00|Sun|
+|542|68748734562|Wonderland|07:55:00|0:18:00|Sun|
+|543|68748735560|Bowdoin|07:39:00|0:17:00|Sun|
+|544|68748736562|Wonderland|08:04:00|0:18:00|Sun|
+|545|68748737560|Bowdoin|07:48:00|0:17:00|Sun|
+|546|68748738560|Bowdoin|08:04:00|0:17:00|Sun|
+|547|68748739560|Bowdoin|07:21:00|0:17:00|Sun|
+|548|68748740560|Bowdoin|07:30:00|0:17:00|Sun|
+|549|68748741560|Bowdoin|07:12:00|0:17:00|Sun|
+|550|68748742562|Wonderland|07:19:00|0:18:00|Sun|
+|551|68748743562|Wonderland|07:10:00|0:18:00|Sun|
+|552|68748744560|Bowdoin|06:27:00|0:17:00|Sun|
+|553|68748745562|Wonderland|06:52:00|0:18:00|Sun|
+|554|68748746562|Wonderland|08:21:00|0:18:00|Sun|
+|555|68748747562|Wonderland|06:43:00|0:18:00|Sun|
+|556|68748748560|Bowdoin|06:18:00|0:17:00|Sun|
+|557|68748749562|Wonderland|07:01:00|0:18:00|Sun|
+|558|68748750560|Bowdoin|06:36:00|0:17:00|Sun|
+|559|68748751560|Bowdoin|23:35:00|0:17:00|Sun|
+|560|68748752560|Bowdoin|06:45:00|0:17:00|Sun|
+|561|68748753562|Wonderland|06:26:00|0:18:00|Sun|
+|562|68748754560|Bowdoin|06:54:00|0:17:00|Sun|
+|563|68748755560|Bowdoin|06:00:00|0:17:00|Sun|
+|564|68748756560|Bowdoin|17:32:00|0:17:00|Sun|
+|565|68748757562|Wonderland|17:05:00|0:19:00|Sun|
+|566|68748758560|Bowdoin|15:48:00|0:17:00|Sun|
+|567|68748759562|Wonderland|16:13:00|0:19:00|Sun|
+|568|68748760562|Wonderland|17:57:00|0:19:00|Sun|
+|569|68748761560|Bowdoin|16:40:00|0:17:00|Sun|
+|570|68748762562|Wonderland|11:50:00|0:18:00|Sun|
+|571|68748763560|Bowdoin|11:24:00|0:17:00|Sun|
+|572|68748764562|Wonderland|23:59:00|0:19:00|Sun|
+|573|68748765560|Bowdoin|12:17:00|0:17:00|Sun|
+|574|68748766562|Wonderland|12:42:00|0:18:00|Sun|
+|575|68748767562|Wonderland|13:35:00|0:18:00|Sun|
+|576|68748768560|Bowdoin|14:02:00|0:17:00|Sun|
+|577|68748769562|Wonderland|14:28:00|0:18:00|Sun|
+|578|68748770560|Bowdoin|13:09:00|0:17:00|Sun|
+|579|68748771560|Bowdoin|14:55:00|0:17:00|Sun|
+|580|68748772562|Wonderland|15:21:00|0:19:00|Sun|
+|581|68748773560|Bowdoin|09:40:00|0:17:00|Sun|
+|582|68748774562|Wonderland|10:05:00|0:18:00|Sun|
+|583|68748775562|Wonderland|09:14:00|0:18:00|Sun|
+|584|68748776560|Bowdoin|08:48:00|0:17:00|Sun|
+|585|68748777560|Bowdoin|07:56:00|0:17:00|Sun|
+|586|68748778562|Wonderland|07:28:00|0:18:00|Sun|
+|587|68748779560|Bowdoin|07:03:00|0:17:00|Sun|
+|588|68748780560|Bowdoin|06:09:00|0:17:00|Sun|
+|589|68748781562|Wonderland|06:34:00|0:18:00|Sun|
+|590|68748782560|Bowdoin|10:31:00|0:17:00|Sun|
+|591|68748783562|Wonderland|10:57:00|0:18:00|Sun|
+|592|68748784562|Wonderland|19:40:00|0:19:00|Sun|
+|593|68748785562|Wonderland|18:48:00|0:19:00|Sun|
+|594|68748786560|Bowdoin|20:07:00|0:17:00|Sun|
+|595|68748787562|Wonderland|21:24:00|0:19:00|Sun|
+|596|68748788560|Bowdoin|19:15:00|0:17:00|Sun|
+|597|68748789562|Wonderland|23:08:00|0:19:00|Sun|
+|598|68748790560|Bowdoin|21:51:00|0:17:00|Sun|
+|599|68748791560|Bowdoin|18:24:00|0:17:00|Sun|
+|600|68748792562|Wonderland|22:16:00|0:19:00|Sun|
+|601|68748793560|Bowdoin|20:59:00|0:17:00|Sun|
+|602|68748794562|Wonderland|20:32:00|0:19:00|Sun|
+|603|68748795560|Bowdoin|22:43:00|0:17:00|Sun|
+|604|68749114552|Wonderland|07:46:00|0:18:00|Sat|
+|605|68749115550|Bowdoin|07:21:00|0:17:00|Sat|
+|606|68749116552|Wonderland|06:52:00|0:18:00|Sat|
+|607|68749117550|Bowdoin|06:27:00|0:17:00|Sat|
+|608|68749118552|Wonderland|05:58:00|0:18:00|Sat|
+|609|68749119550|Bowdoin|05:33:00|0:17:00|Sat|
+|610|68749120552|Wonderland|07:37:00|0:18:00|Sat|
+|611|68749121552|Wonderland|05:48:00|0:18:00|Sat|
+|612|68749122550|Bowdoin|07:12:00|0:17:00|Sat|
+|613|68749123552|Wonderland|06:43:00|0:18:00|Sat|
+|614|68749124550|Bowdoin|06:18:00|0:17:00|Sat|
+|615|68749125550|Bowdoin|05:24:00|0:17:00|Sat|
+|616|68749126552|Wonderland|08:04:00|0:18:00|Sat|
+|617|68749127550|Bowdoin|07:39:00|0:17:00|Sat|
+|618|68749128552|Wonderland|07:10:00|0:18:00|Sat|
+|619|68749129550|Bowdoin|06:45:00|0:17:00|Sat|
+|620|68749130552|Wonderland|06:16:00|0:18:00|Sat|
+|621|68749131550|Bowdoin|05:51:00|0:17:00|Sat|
+|622|68749132552|Wonderland|07:01:00|0:18:00|Sat|
+|623|68749133552|Wonderland|07:55:00|0:18:00|Sat|
+|624|68749134550|Bowdoin|07:30:00|0:17:00|Sat|
+|625|68749135550|Bowdoin|06:36:00|0:17:00|Sat|
+|626|68749136552|Wonderland|06:07:00|0:18:00|Sat|
+|627|68749137550|Bowdoin|05:42:00|0:17:00|Sat|
+|628|68749138550|Bowdoin|07:56:00|0:17:00|Sat|
+|629|68749139552|Wonderland|07:28:00|0:18:00|Sat|
+|630|68749140550|Bowdoin|07:03:00|0:17:00|Sat|
+|631|68749141552|Wonderland|06:34:00|0:18:00|Sat|
+|632|68749142550|Bowdoin|06:09:00|0:17:00|Sat|
+|633|68749143550|Bowdoin|07:48:00|0:17:00|Sat|
+|634|68749144552|Wonderland|08:13:00|0:18:00|Sat|
+|635|68749145552|Wonderland|07:19:00|0:18:00|Sat|
+|636|68749146550|Bowdoin|06:54:00|0:17:00|Sat|
+|637|68749147552|Wonderland|06:25:00|0:18:00|Sat|
+|638|68749148550|Bowdoin|06:00:00|0:17:00|Sat|
+|639|68749149552|Wonderland|05:38:00|0:18:00|Sat|
+|640|68749150550|Bowdoin|05:10:00|0:11:00|Sat|
+|641|68749151552|Wonderland|10:50:00|0:18:00|Sat|
+|642|68749152550|Bowdoin|10:40:00|0:17:00|Sat|
+|643|68749153550|Bowdoin|10:31:00|0:17:00|Sat|
+|644|68749154552|Wonderland|10:57:00|0:18:00|Sat|
+|645|68749155550|Bowdoin|10:24:00|0:17:00|Sat|
+|646|68749156552|Wonderland|11:05:00|0:18:00|Sat|
+|647|68749157550|Bowdoin|23:35:00|0:17:00|Sat|
+|648|68749158552|Wonderland|08:21:00|0:18:00|Sat|
+|649|68749159550|Bowdoin|08:48:00|0:17:00|Sat|
+|650|68749160552|Wonderland|09:14:00|0:18:00|Sat|
+|651|68749161550|Bowdoin|08:04:00|0:17:00|Sat|
+|652|68749162552|Wonderland|08:29:00|0:18:00|Sat|
+|653|68749163550|Bowdoin|08:55:00|0:17:00|Sat|
+|654|68749164552|Wonderland|09:21:00|0:18:00|Sat|
+|655|68749165550|Bowdoin|08:11:00|0:17:00|Sat|
+|656|68749166552|Wonderland|08:36:00|0:18:00|Sat|
+|657|68749167550|Bowdoin|08:18:00|0:17:00|Sat|
+|658|68749168552|Wonderland|08:43:00|0:18:00|Sat|
+|659|68749169550|Bowdoin|08:26:00|0:17:00|Sat|
+|660|68749170552|Wonderland|08:51:00|0:18:00|Sat|
+|661|68749171550|Bowdoin|08:33:00|0:17:00|Sat|
+|662|68749172552|Wonderland|08:58:00|0:18:00|Sat|
+|663|68749173550|Bowdoin|08:40:00|0:17:00|Sat|
+|664|68749174552|Wonderland|09:05:00|0:18:00|Sat|
+|665|68749175550|Bowdoin|09:47:00|0:17:00|Sat|
+|666|68749176552|Wonderland|10:13:00|0:18:00|Sat|
+|667|68749177550|Bowdoin|09:02:00|0:17:00|Sat|
+|668|68749178552|Wonderland|09:28:00|0:18:00|Sat|
+|669|68749179550|Bowdoin|09:54:00|0:17:00|Sat|
+|670|68749180552|Wonderland|10:20:00|0:18:00|Sat|
+|671|68749181550|Bowdoin|09:09:00|0:17:00|Sat|
+|672|68749182552|Wonderland|09:35:00|0:18:00|Sat|
+|673|68749183550|Bowdoin|09:17:00|0:17:00|Sat|
+|674|68749184552|Wonderland|09:43:00|0:18:00|Sat|
+|675|68749185550|Bowdoin|09:24:00|0:17:00|Sat|
+|676|68749186552|Wonderland|09:50:00|0:18:00|Sat|
+|677|68749187550|Bowdoin|09:32:00|0:17:00|Sat|
+|678|68749188552|Wonderland|09:58:00|0:18:00|Sat|
+|679|68749189550|Bowdoin|09:40:00|0:17:00|Sat|
+|680|68749190552|Wonderland|10:05:00|0:18:00|Sat|
+|681|68749191550|Bowdoin|10:47:00|0:17:00|Sat|
+|682|68749192552|Wonderland|11:13:00|0:18:00|Sat|
+|683|68749193550|Bowdoin|10:01:00|0:17:00|Sat|
+|684|68749194552|Wonderland|10:27:00|0:18:00|Sat|
+|685|68749195550|Bowdoin|10:54:00|0:17:00|Sat|
+|686|68749196552|Wonderland|11:20:00|0:18:00|Sat|
+|687|68749197550|Bowdoin|10:09:00|0:17:00|Sat|
+|688|68749198552|Wonderland|10:35:00|0:18:00|Sat|
+|689|68749199550|Bowdoin|10:16:00|0:17:00|Sat|
+|690|68749200552|Wonderland|10:42:00|0:18:00|Sat|
+|691|68749201552|Wonderland|12:05:00|0:18:00|Sat|
+|692|68749202552|Wonderland|12:13:00|0:18:00|Sat|
+|693|68749203552|Wonderland|11:50:00|0:18:00|Sat|
+|694|68749204550|Bowdoin|11:09:00|0:17:00|Sat|
+|695|68749205550|Bowdoin|11:47:00|0:17:00|Sat|
+|696|68749206550|Bowdoin|11:02:00|0:17:00|Sat|
+|697|68749207550|Bowdoin|11:24:00|0:17:00|Sat|
+|698|68749208552|Wonderland|11:35:00|0:18:00|Sat|
+|699|68749209552|Wonderland|11:42:00|0:18:00|Sat|
+|700|68749210552|Wonderland|11:27:00|0:18:00|Sat|
+|701|68749211550|Bowdoin|11:40:00|0:17:00|Sat|
+|702|68749212552|Wonderland|12:20:00|0:18:00|Sat|
+|703|68749213550|Bowdoin|11:54:00|0:17:00|Sat|
+|704|68749214550|Bowdoin|11:17:00|0:17:00|Sat|
+|705|68749215550|Bowdoin|11:32:00|0:17:00|Sat|
+|706|68749216552|Wonderland|11:57:00|0:18:00|Sat|
+|707|68749217552|Wonderland|00:41:00|0:19:00|Sat|
+|708|68749218550|Bowdoin|00:12:00|0:17:00|Sat|
+|709|68749219552|Wonderland|00:29:00|0:19:00|Sat|
+|710|68749220550|Bowdoin|00:02:00|0:17:00|Sat|
+|711|68749221552|Wonderland|23:51:00|0:19:00|Sat|
+|712|68749222550|Bowdoin|23:27:00|0:17:00|Sat|
+|713|68749223552|Wonderland|00:18:00|0:19:00|Sat|
+|714|68749224550|Bowdoin|23:52:00|0:17:00|Sat|
+|715|68749225552|Wonderland|00:08:00|0:19:00|Sat|
+|716|68749226550|Bowdoin|23:43:00|0:17:00|Sat|
+|717|68749227552|Wonderland|00:53:00|0:19:00|Sat|
+|718|68749228550|Bowdoin|00:24:00|0:17:00|Sat|
+|719|68749229552|Wonderland|23:59:00|0:19:00|Sat|
+|720|68749230550|Bowdoin|12:47:00|0:17:00|Sat|
+|721|68749231552|Wonderland|13:13:00|0:18:00|Sat|
+|722|68749232550|Bowdoin|12:02:00|0:17:00|Sat|
+|723|68749233552|Wonderland|12:27:00|0:18:00|Sat|
+|724|68749234550|Bowdoin|12:54:00|0:17:00|Sat|
+|725|68749235552|Wonderland|13:20:00|0:18:00|Sat|
+|726|68749236550|Bowdoin|12:09:00|0:17:00|Sat|
+|727|68749237552|Wonderland|12:35:00|0:18:00|Sat|
+|728|68749238550|Bowdoin|12:17:00|0:17:00|Sat|
+|729|68749239552|Wonderland|12:42:00|0:18:00|Sat|
+|730|68749240550|Bowdoin|12:24:00|0:17:00|Sat|
+|731|68749241552|Wonderland|12:50:00|0:18:00|Sat|
+|732|68749242550|Bowdoin|12:32:00|0:17:00|Sat|
+|733|68749243552|Wonderland|12:57:00|0:18:00|Sat|
+|734|68749244550|Bowdoin|12:40:00|0:17:00|Sat|
+|735|68749245552|Wonderland|13:05:00|0:18:00|Sat|
+|736|68749246550|Bowdoin|13:47:00|0:17:00|Sat|
+|737|68749247552|Wonderland|14:13:00|0:18:00|Sat|
+|738|68749248550|Bowdoin|14:40:00|0:17:00|Sat|
+|739|68749249552|Wonderland|15:06:00|0:19:00|Sat|
+|740|68749250550|Bowdoin|13:02:00|0:17:00|Sat|
+|741|68749251552|Wonderland|13:27:00|0:18:00|Sat|
+|742|68749252550|Bowdoin|13:54:00|0:17:00|Sat|
+|743|68749253552|Wonderland|14:20:00|0:18:00|Sat|
+|744|68749254550|Bowdoin|14:47:00|0:17:00|Sat|
+|745|68749255552|Wonderland|15:13:00|0:19:00|Sat|
+|746|68749256550|Bowdoin|13:09:00|0:17:00|Sat|
+|747|68749257552|Wonderland|13:35:00|0:18:00|Sat|
+|748|68749258550|Bowdoin|14:02:00|0:17:00|Sat|
+|749|68749259552|Wonderland|14:28:00|0:18:00|Sat|
+|750|68749260550|Bowdoin|14:55:00|0:17:00|Sat|
+|751|68749261552|Wonderland|15:21:00|0:19:00|Sat|
+|752|68749262550|Bowdoin|13:16:00|0:17:00|Sat|
+|753|68749263552|Wonderland|13:42:00|0:18:00|Sat|
+|754|68749264550|Bowdoin|14:09:00|0:17:00|Sat|
+|755|68749265552|Wonderland|14:35:00|0:18:00|Sat|
+|756|68749266550|Bowdoin|13:24:00|0:17:00|Sat|
+|757|68749267552|Wonderland|13:50:00|0:18:00|Sat|
+|758|68749268550|Bowdoin|14:17:00|0:17:00|Sat|
+|759|68749269552|Wonderland|14:43:00|0:18:00|Sat|
+|760|68749270550|Bowdoin|13:32:00|0:17:00|Sat|
+|761|68749271552|Wonderland|13:57:00|0:18:00|Sat|
+|762|68749272550|Bowdoin|14:24:00|0:17:00|Sat|
+|763|68749273552|Wonderland|14:50:00|0:19:00|Sat|
+|764|68749274550|Bowdoin|13:40:00|0:17:00|Sat|
+|765|68749275552|Wonderland|14:05:00|0:18:00|Sat|
+|766|68749276550|Bowdoin|14:32:00|0:17:00|Sat|
+|767|68749277552|Wonderland|14:58:00|0:19:00|Sat|
+|768|68749278550|Bowdoin|15:48:00|0:17:00|Sat|
+|769|68749279552|Wonderland|16:13:00|0:19:00|Sat|
+|770|68749280550|Bowdoin|16:40:00|0:17:00|Sat|
+|771|68749281552|Wonderland|17:05:00|0:19:00|Sat|
+|772|68749282550|Bowdoin|17:32:00|0:17:00|Sat|
+|773|68749283552|Wonderland|17:57:00|0:19:00|Sat|
+|774|68749284550|Bowdoin|15:02:00|0:17:00|Sat|
+|775|68749285552|Wonderland|15:28:00|0:19:00|Sat|
+|776|68749286550|Bowdoin|15:55:00|0:17:00|Sat|
+|777|68749287552|Wonderland|16:20:00|0:19:00|Sat|
+|778|68749288550|Bowdoin|16:47:00|0:17:00|Sat|
+|779|68749289552|Wonderland|17:12:00|0:19:00|Sat|
+|780|68749290550|Bowdoin|17:39:00|0:17:00|Sat|
+|781|68749291552|Wonderland|18:04:00|0:19:00|Sat|
+|782|68749292550|Bowdoin|15:10:00|0:17:00|Sat|
+|783|68749293552|Wonderland|15:36:00|0:19:00|Sat|
+|784|68749294550|Bowdoin|16:03:00|0:17:00|Sat|
+|785|68749295552|Wonderland|16:28:00|0:19:00|Sat|
+|786|68749296550|Bowdoin|16:55:00|0:17:00|Sat|
+|787|68749297552|Wonderland|17:20:00|0:19:00|Sat|
+|788|68749298550|Bowdoin|17:47:00|0:17:00|Sat|
+|789|68749299552|Wonderland|18:12:00|0:19:00|Sat|
+|790|68749300550|Bowdoin|15:17:00|0:17:00|Sat|
+|791|68749301552|Wonderland|15:43:00|0:19:00|Sat|
+|792|68749302550|Bowdoin|16:10:00|0:17:00|Sat|
+|793|68749303552|Wonderland|16:35:00|0:19:00|Sat|
+|794|68749304550|Bowdoin|17:02:00|0:17:00|Sat|
+|795|68749305552|Wonderland|17:27:00|0:19:00|Sat|
+|796|68749306550|Bowdoin|17:54:00|0:17:00|Sat|
+|797|68749307552|Wonderland|18:19:00|0:19:00|Sat|
+|798|68749308550|Bowdoin|15:25:00|0:17:00|Sat|
+|799|68749309552|Wonderland|15:51:00|0:19:00|Sat|
+|800|68749310550|Bowdoin|16:18:00|0:17:00|Sat|
+|801|68749311552|Wonderland|16:43:00|0:19:00|Sat|
+|802|68749312550|Bowdoin|17:10:00|0:17:00|Sat|
+|803|68749313552|Wonderland|17:35:00|0:19:00|Sat|
+|804|68749314550|Bowdoin|15:33:00|0:17:00|Sat|
+|805|68749315552|Wonderland|15:58:00|0:19:00|Sat|
+|806|68749316550|Bowdoin|16:25:00|0:17:00|Sat|
+|807|68749317552|Wonderland|16:50:00|0:19:00|Sat|
+|808|68749318550|Bowdoin|17:17:00|0:17:00|Sat|
+|809|68749319552|Wonderland|17:42:00|0:19:00|Sat|
+|810|68749320550|Bowdoin|15:40:00|0:17:00|Sat|
+|811|68749321552|Wonderland|16:06:00|0:19:00|Sat|
+|812|68749322550|Bowdoin|16:33:00|0:17:00|Sat|
+|813|68749323552|Wonderland|16:58:00|0:19:00|Sat|
+|814|68749324550|Bowdoin|17:25:00|0:17:00|Sat|
+|815|68749325552|Wonderland|17:50:00|0:19:00|Sat|
+|816|68749326550|Bowdoin|18:46:00|0:17:00|Sat|
+|817|68749327552|Wonderland|19:11:00|0:19:00|Sat|
+|818|68749328550|Bowdoin|19:38:00|0:17:00|Sat|
+|819|68749329552|Wonderland|20:03:00|0:19:00|Sat|
+|820|68749330550|Bowdoin|20:30:00|0:17:00|Sat|
+|821|68749331552|Wonderland|20:55:00|0:19:00|Sat|
+|822|68749332550|Bowdoin|18:02:00|0:17:00|Sat|
+|823|68749333552|Wonderland|18:26:00|0:19:00|Sat|
+|824|68749334550|Bowdoin|18:53:00|0:17:00|Sat|
+|825|68749335552|Wonderland|19:18:00|0:19:00|Sat|
+|826|68749336550|Bowdoin|19:45:00|0:17:00|Sat|
+|827|68749337552|Wonderland|20:10:00|0:19:00|Sat|
+|828|68749338550|Bowdoin|20:37:00|0:17:00|Sat|
+|829|68749339552|Wonderland|21:02:00|0:19:00|Sat|
+|830|68749340550|Bowdoin|18:09:00|0:17:00|Sat|
+|831|68749341552|Wonderland|18:33:00|0:19:00|Sat|
+|832|68749342550|Bowdoin|19:00:00|0:17:00|Sat|
+|833|68749343552|Wonderland|19:25:00|0:19:00|Sat|
+|834|68749344550|Bowdoin|19:52:00|0:17:00|Sat|
+|835|68749345552|Wonderland|20:17:00|0:19:00|Sat|
+|836|68749346550|Bowdoin|20:44:00|0:17:00|Sat|
+|837|68749347552|Wonderland|21:09:00|0:19:00|Sat|
+|838|68749348550|Bowdoin|18:17:00|0:17:00|Sat|
+|839|68749349552|Wonderland|18:41:00|0:19:00|Sat|
+|840|68749350550|Bowdoin|19:08:00|0:17:00|Sat|
+|841|68749351552|Wonderland|19:33:00|0:19:00|Sat|
+|842|68749352550|Bowdoin|20:00:00|0:17:00|Sat|
+|843|68749353552|Wonderland|20:25:00|0:19:00|Sat|
+|844|68749354550|Bowdoin|20:52:00|0:17:00|Sat|
+|845|68749355552|Wonderland|21:17:00|0:19:00|Sat|
+|846|68749356550|Bowdoin|18:24:00|0:17:00|Sat|
+|847|68749357552|Wonderland|18:48:00|0:19:00|Sat|
+|848|68749358550|Bowdoin|19:15:00|0:17:00|Sat|
+|849|68749359552|Wonderland|19:40:00|0:19:00|Sat|
+|850|68749360550|Bowdoin|20:07:00|0:17:00|Sat|
+|851|68749361552|Wonderland|20:32:00|0:19:00|Sat|
+|852|68749362550|Bowdoin|20:59:00|0:17:00|Sat|
+|853|68749363552|Wonderland|21:24:00|0:19:00|Sat|
+|854|68749364550|Bowdoin|18:31:00|0:17:00|Sat|
+|855|68749365552|Wonderland|18:56:00|0:19:00|Sat|
+|856|68749366550|Bowdoin|19:23:00|0:17:00|Sat|
+|857|68749367552|Wonderland|19:48:00|0:19:00|Sat|
+|858|68749368550|Bowdoin|20:15:00|0:17:00|Sat|
+|859|68749369552|Wonderland|20:40:00|0:19:00|Sat|
+|860|68749370550|Bowdoin|18:39:00|0:17:00|Sat|
+|861|68749371552|Wonderland|19:03:00|0:19:00|Sat|
+|862|68749372550|Bowdoin|19:30:00|0:17:00|Sat|
+|863|68749373552|Wonderland|19:55:00|0:19:00|Sat|
+|864|68749374550|Bowdoin|20:22:00|0:17:00|Sat|
+|865|68749375552|Wonderland|20:47:00|0:19:00|Sat|
+|866|68749376550|Bowdoin|21:51:00|0:17:00|Sat|
+|867|68749377552|Wonderland|22:16:00|0:19:00|Sat|
+|868|68749378550|Bowdoin|22:43:00|0:17:00|Sat|
+|869|68749379552|Wonderland|23:08:00|0:19:00|Sat|
+|870|68749380550|Bowdoin|21:07:00|0:17:00|Sat|
+|871|68749381552|Wonderland|21:31:00|0:19:00|Sat|
+|872|68749382550|Bowdoin|21:58:00|0:17:00|Sat|
+|873|68749383552|Wonderland|22:23:00|0:19:00|Sat|
+|874|68749384550|Bowdoin|22:50:00|0:17:00|Sat|
+|875|68749385552|Wonderland|23:15:00|0:19:00|Sat|
+|876|68749386550|Bowdoin|21:14:00|0:17:00|Sat|
+|877|68749387552|Wonderland|21:38:00|0:19:00|Sat|
+|878|68749388550|Bowdoin|22:05:00|0:17:00|Sat|
+|879|68749389552|Wonderland|22:30:00|0:19:00|Sat|
+|880|68749390550|Bowdoin|22:57:00|0:17:00|Sat|
+|881|68749391552|Wonderland|23:22:00|0:19:00|Sat|
+|882|68749392550|Bowdoin|21:22:00|0:17:00|Sat|
+|883|68749393552|Wonderland|21:46:00|0:19:00|Sat|
+|884|68749394550|Bowdoin|22:13:00|0:17:00|Sat|
+|885|68749395552|Wonderland|22:38:00|0:19:00|Sat|
+|886|68749396550|Bowdoin|21:29:00|0:17:00|Sat|
+|887|68749397552|Wonderland|21:53:00|0:19:00|Sat|
+|888|68749398550|Bowdoin|22:20:00|0:17:00|Sat|
+|889|68749399552|Wonderland|22:45:00|0:19:00|Sat|
+|890|68749400550|Bowdoin|21:36:00|0:17:00|Sat|
+|891|68749401552|Wonderland|22:01:00|0:19:00|Sat|
+|892|68749402550|Bowdoin|22:28:00|0:17:00|Sat|
+|893|68749403552|Wonderland|22:53:00|0:19:00|Sat|
+|894|68749404550|Bowdoin|21:44:00|0:17:00|Sat|
+|895|68749405552|Wonderland|22:08:00|0:19:00|Sat|
+|896|68749406550|Bowdoin|22:35:00|0:17:00|Sat|
+|897|68749407552|Wonderland|23:00:00|0:19:00|Sat|
+|898|68749408550|Bowdoin|23:05:00|0:17:00|Sat|
+|899|68749409552|Wonderland|23:29:00|0:19:00|Sat|
+|900|68749410550|Bowdoin|23:12:00|0:17:00|Sat|
+|901|68749411552|Wonderland|23:36:00|0:19:00|Sat|
+|902|68749412550|Bowdoin|23:20:00|0:17:00|Sat|
+|903|68749413552|Wonderland|23:44:00|0:19:00|Sat|
+|904|68749428500|Bowdoin|05:12:00|0:18:00|Mon|
+|905|68749429502|Wonderland|05:38:00|0:19:00|Mon|
+|906|68749430500|Bowdoin|05:18:00|0:18:00|Mon|
+|907|68749431502|Wonderland|05:44:00|0:19:00|Mon|
+|908|68749432500|Bowdoin|05:24:00|0:18:00|Mon|
+|909|68749433502|Wonderland|05:50:00|0:19:00|Mon|
+|910|68749434500|Bowdoin|06:18:00|0:18:00|Mon|
+|911|68749435502|Wonderland|06:44:00|0:19:00|Mon|
+|912|68749436500|Bowdoin|07:12:00|0:18:00|Mon|
+|913|68749437502|Wonderland|07:38:00|0:19:00|Mon|
+|914|68749438500|Bowdoin|08:06:00|0:18:00|Mon|
+|915|68749439502|Wonderland|08:32:00|0:19:00|Mon|
+|916|68749440500|Bowdoin|05:28:00|0:18:00|Mon|
+|917|68749441502|Wonderland|05:54:00|0:19:00|Mon|
+|918|68749442500|Bowdoin|06:22:00|0:18:00|Mon|
+|919|68749443502|Wonderland|06:48:00|0:19:00|Mon|
+|920|68749444500|Bowdoin|07:16:00|0:18:00|Mon|
+|921|68749445502|Wonderland|07:42:00|0:19:00|Mon|
+|922|68749446500|Bowdoin|08:10:00|0:18:00|Mon|
+|923|68749447502|Wonderland|08:36:00|0:19:00|Mon|
+|924|68749448500|Bowdoin|05:33:00|0:18:00|Mon|
+|925|68749449502|Wonderland|05:59:00|0:19:00|Mon|
+|926|68749450500|Bowdoin|06:27:00|0:18:00|Mon|
+|927|68749451502|Wonderland|06:53:00|0:19:00|Mon|
+|928|68749452500|Bowdoin|07:21:00|0:18:00|Mon|
+|929|68749453502|Wonderland|07:47:00|0:19:00|Mon|
+|930|68749454500|Bowdoin|08:15:00|0:18:00|Mon|
+|931|68749455502|Wonderland|08:41:00|0:19:00|Mon|
+|932|68749456500|Bowdoin|05:37:00|0:18:00|Mon|
+|933|68749457502|Wonderland|06:03:00|0:19:00|Mon|
+|934|68749458500|Bowdoin|06:31:00|0:18:00|Mon|
+|935|68749459502|Wonderland|06:57:00|0:19:00|Mon|
+|936|68749460500|Bowdoin|07:25:00|0:18:00|Mon|
+|937|68749461502|Wonderland|07:51:00|0:19:00|Mon|
+|938|68749462500|Bowdoin|08:19:00|0:18:00|Mon|
+|939|68749463502|Wonderland|08:45:00|0:19:00|Mon|
+|940|68749464500|Bowdoin|05:42:00|0:18:00|Mon|
+|941|68749465502|Wonderland|06:08:00|0:19:00|Mon|
+|942|68749466500|Bowdoin|06:36:00|0:18:00|Mon|
+|943|68749467502|Wonderland|07:02:00|0:19:00|Mon|
+|944|68749468500|Bowdoin|07:30:00|0:18:00|Mon|
+|945|68749469502|Wonderland|07:56:00|0:19:00|Mon|
+|946|68749470500|Bowdoin|08:24:00|0:18:00|Mon|
+|947|68749471502|Wonderland|08:50:00|0:19:00|Mon|
+|948|68749472500|Bowdoin|05:46:00|0:18:00|Mon|
+|949|68749473502|Wonderland|06:12:00|0:19:00|Mon|
+|950|68749474500|Bowdoin|06:40:00|0:18:00|Mon|
+|951|68749475502|Wonderland|07:06:00|0:19:00|Mon|
+|952|68749476500|Bowdoin|07:34:00|0:18:00|Mon|
+|953|68749477502|Wonderland|08:00:00|0:19:00|Mon|
+|954|68749478500|Bowdoin|08:28:00|0:18:00|Mon|
+|955|68749479502|Wonderland|08:54:00|0:19:00|Mon|
+|956|68749480500|Bowdoin|05:51:00|0:18:00|Mon|
+|957|68749481502|Wonderland|06:17:00|0:19:00|Mon|
+|958|68749482500|Bowdoin|06:45:00|0:18:00|Mon|
+|959|68749483502|Wonderland|07:11:00|0:19:00|Mon|
+|960|68749484500|Bowdoin|07:39:00|0:18:00|Mon|
+|961|68749485502|Wonderland|08:05:00|0:19:00|Mon|
+|962|68749486500|Bowdoin|08:33:00|0:18:00|Mon|
+|963|68749487502|Wonderland|08:59:00|0:19:00|Mon|
+|964|68749488500|Bowdoin|05:55:00|0:18:00|Mon|
+|965|68749489502|Wonderland|06:21:00|0:19:00|Mon|
+|966|68749490500|Bowdoin|06:49:00|0:18:00|Mon|
+|967|68749491502|Wonderland|07:15:00|0:19:00|Mon|
+|968|68749492500|Bowdoin|07:43:00|0:18:00|Mon|
+|969|68749493502|Wonderland|08:09:00|0:19:00|Mon|
+|970|68749494500|Bowdoin|08:37:00|0:18:00|Mon|
+|971|68749495502|Wonderland|09:03:00|0:19:00|Mon|
+|972|68749496500|Bowdoin|06:00:00|0:18:00|Mon|
+|973|68749497502|Wonderland|06:26:00|0:19:00|Mon|
+|974|68749498500|Bowdoin|06:54:00|0:18:00|Mon|
+|975|68749499502|Wonderland|07:20:00|0:19:00|Mon|
+|976|68749500500|Bowdoin|07:48:00|0:18:00|Mon|
+|977|68749501502|Wonderland|08:14:00|0:19:00|Mon|
+|978|68749502500|Bowdoin|08:42:00|0:18:00|Mon|
+|979|68749503502|Wonderland|09:08:00|0:19:00|Mon|
+|980|68749504500|Bowdoin|06:04:00|0:18:00|Mon|
+|981|68749505502|Wonderland|06:30:00|0:19:00|Mon|
+|982|68749506500|Bowdoin|06:58:00|0:18:00|Mon|
+|983|68749507502|Wonderland|07:24:00|0:19:00|Mon|
+|984|68749508500|Bowdoin|07:52:00|0:18:00|Mon|
+|985|68749509502|Wonderland|08:18:00|0:19:00|Mon|
+|986|68749510500|Bowdoin|08:46:00|0:18:00|Mon|
+|987|68749511502|Orient Heights|09:12:00|0:12:00|Mon|
+|988|68749512500|Bowdoin|06:09:00|0:18:00|Mon|
+|989|68749513502|Wonderland|06:35:00|0:19:00|Mon|
+|990|68749514500|Bowdoin|07:03:00|0:18:00|Mon|
+|991|68749515502|Wonderland|07:29:00|0:19:00|Mon|
+|992|68749516500|Bowdoin|07:57:00|0:18:00|Mon|
+|993|68749517502|Wonderland|08:23:00|0:19:00|Mon|
+|994|68749518500|Bowdoin|08:51:00|0:18:00|Mon|
+|995|68749519502|Wonderland|09:17:00|0:19:00|Mon|
+|996|68749520500|Bowdoin|06:13:00|0:18:00|Mon|
+|997|68749521502|Wonderland|06:39:00|0:19:00|Mon|
+|998|68749522500|Bowdoin|07:07:00|0:18:00|Mon|
+|999|68749523502|Wonderland|07:33:00|0:19:00|Mon|
+|1000|68749524500|Bowdoin|08:01:00|0:18:00|Mon|
+|1001|68749525502|Wonderland|08:27:00|0:19:00|Mon|
+|1002|68749526500|Bowdoin|08:55:00|0:18:00|Mon|
+|1003|68749527502|Wonderland|09:21:00|0:19:00|Mon|
+|1004|68749528500|Bowdoin|09:00:00|0:18:00|Mon|
+|1005|68749529502|Wonderland|09:26:00|0:19:00|Mon|
+|1006|68749530500|Bowdoin|13:52:00|0:17:00|Mon|
+|1007|68749531502|Wonderland|14:17:00|0:19:00|Mon|
+|1008|68749532500|Bowdoin|13:59:00|0:17:00|Mon|
+|1009|68749533502|Wonderland|14:24:00|0:19:00|Mon|
+|1010|68749534500|Bowdoin|13:11:00|0:17:00|Mon|
+|1011|68749535502|Wonderland|13:36:00|0:19:00|Mon|
+|1012|68749536500|Bowdoin|13:17:00|0:17:00|Mon|
+|1013|68749537502|Wonderland|13:42:00|0:19:00|Mon|
+|1014|68749538500|Bowdoin|13:24:00|0:17:00|Mon|
+|1015|68749539502|Wonderland|13:49:00|0:19:00|Mon|
+|1016|68749540500|Bowdoin|13:31:00|0:17:00|Mon|
+|1017|68749541502|Wonderland|13:56:00|0:19:00|Mon|
+|1018|68749542500|Bowdoin|13:38:00|0:17:00|Mon|
+|1019|68749543502|Wonderland|14:03:00|0:19:00|Mon|
+|1020|68749544500|Bowdoin|13:45:00|0:17:00|Mon|
+|1021|68749545502|Wonderland|14:10:00|0:19:00|Mon|
+|1022|68749546500|Bowdoin|14:09:00|0:11:00|Mon|
+|1023|68749547502|Wonderland|14:30:00|0:19:00|Mon|
+|1024|68749548500|Bowdoin|14:07:00|0:17:00|Mon|
+|1025|68749549502|Wonderland|14:35:00|0:19:00|Mon|
+|1026|68749550500|Bowdoin|14:14:00|0:17:00|Mon|
+|1027|68749551502|Wonderland|14:40:00|0:19:00|Mon|
+|1028|68749552500|Bowdoin|14:21:00|0:17:00|Mon|
+|1029|68749553502|Wonderland|14:46:00|0:19:00|Mon|
+|1030|68749554500|Bowdoin|14:27:00|0:17:00|Mon|
+|1031|68749555502|Wonderland|14:52:00|0:19:00|Mon|
+|1032|68749556500|Bowdoin|15:20:00|0:17:00|Mon|
+|1033|68749557502|Wonderland|15:45:00|0:20:00|Mon|
+|1034|68749558500|Bowdoin|14:33:00|0:17:00|Mon|
+|1035|68749559502|Wonderland|14:57:00|0:19:00|Mon|
+|1036|68749560500|Bowdoin|15:25:00|0:17:00|Mon|
+|1037|68749561502|Wonderland|15:50:00|0:20:00|Mon|
+|1038|68749562500|Bowdoin|14:42:00|0:11:00|Mon|
+|1039|68749563502|Wonderland|15:02:00|0:20:00|Mon|
+|1040|68749564500|Bowdoin|14:39:00|0:17:00|Mon|
+|1041|68749565502|Wonderland|15:07:00|0:20:00|Mon|
+|1042|68749566500|Bowdoin|14:46:00|0:17:00|Mon|
+|1043|68749567502|Wonderland|15:12:00|0:20:00|Mon|
+|1044|68749568500|Bowdoin|14:53:00|0:17:00|Mon|
+|1045|68749569502|Wonderland|15:18:00|0:20:00|Mon|
+|1046|68749570500|Bowdoin|14:58:00|0:17:00|Mon|
+|1047|68749571502|Wonderland|15:23:00|0:20:00|Mon|
+|1048|68749572500|Bowdoin|15:04:00|0:17:00|Mon|
+|1049|68749573502|Wonderland|15:29:00|0:20:00|Mon|
+|1050|68749574500|Bowdoin|15:09:00|0:17:00|Mon|
+|1051|68749575502|Wonderland|15:34:00|0:20:00|Mon|
+|1052|68749576500|Bowdoin|15:14:00|0:17:00|Mon|
+|1053|68749577502|Wonderland|15:39:00|0:20:00|Mon|
+|1054|68749578500|Bowdoin|16:19:00|0:17:00|Mon|
+|1055|68749579502|Wonderland|16:44:00|0:20:00|Mon|
+|1056|68749580500|Bowdoin|17:13:00|0:17:00|Mon|
+|1057|68749581502|Wonderland|17:38:00|0:20:00|Mon|
+|1058|68749582500|Bowdoin|18:07:00|0:17:00|Mon|
+|1059|68749583502|Wonderland|18:32:00|0:19:00|Mon|
+|1060|68749584500|Bowdoin|19:00:00|0:17:00|Mon|
+|1061|68749584540|Bowdoin|19:00:00|0:17:00|Fri|
+|1062|68749585502|Wonderland|19:25:00|0:19:00|Mon|
+|1063|68749585542|Wonderland|19:25:00|0:19:00|Fri|
+|1064|68749586500|Bowdoin|15:34:00|0:11:00|Mon|
+|1065|68749587502|Wonderland|15:54:00|0:20:00|Mon|
+|1066|68749588500|Bowdoin|16:23:00|0:17:00|Mon|
+|1067|68749589502|Wonderland|16:48:00|0:20:00|Mon|
+|1068|68749590500|Bowdoin|17:17:00|0:17:00|Mon|
+|1069|68749591502|Wonderland|17:42:00|0:20:00|Mon|
+|1070|68749592500|Bowdoin|18:11:00|0:17:00|Mon|
+|1071|68749593502|Wonderland|18:36:00|0:19:00|Mon|
+|1072|68749594500|Bowdoin|19:04:00|0:17:00|Mon|
+|1073|68749594540|Bowdoin|19:04:00|0:17:00|Fri|
+|1074|68749595502|Wonderland|19:29:00|0:19:00|Mon|
+|1075|68749595542|Wonderland|19:29:00|0:19:00|Fri|
+|1076|68749596500|Bowdoin|15:32:00|0:17:00|Mon|
+|1077|68749597502|Wonderland|15:59:00|0:20:00|Mon|
+|1078|68749598500|Bowdoin|16:28:00|0:17:00|Mon|
+|1079|68749599502|Wonderland|16:53:00|0:20:00|Mon|
+|1080|68749600500|Bowdoin|17:22:00|0:17:00|Mon|
+|1081|68749601502|Wonderland|17:47:00|0:20:00|Mon|
+|1082|68749602500|Bowdoin|18:16:00|0:17:00|Mon|
+|1083|68749603502|Wonderland|18:41:00|0:19:00|Mon|
+|1084|68749604500|Bowdoin|19:09:00|0:17:00|Mon|
+|1085|68749604540|Bowdoin|19:09:00|0:17:00|Fri|
+|1086|68749605502|Wonderland|19:34:00|0:19:00|Mon|
+|1087|68749605542|Wonderland|19:34:00|0:19:00|Fri|
+|1088|68749606500|Bowdoin|15:38:00|0:17:00|Mon|
+|1089|68749607502|Wonderland|16:03:00|0:20:00|Mon|
+|1090|68749608500|Bowdoin|16:32:00|0:17:00|Mon|
+|1091|68749609502|Wonderland|16:57:00|0:20:00|Mon|
+|1092|68749610500|Bowdoin|17:26:00|0:17:00|Mon|
+|1093|68749611502|Wonderland|17:51:00|0:20:00|Mon|
+|1094|68749612500|Bowdoin|18:20:00|0:17:00|Mon|
+|1095|68749613502|Wonderland|18:45:00|0:19:00|Mon|
+|1096|68749614500|Bowdoin|19:13:00|0:17:00|Mon|
+|1097|68749614540|Bowdoin|19:13:00|0:17:00|Fri|
+|1098|68749615502|Wonderland|19:38:00|0:19:00|Mon|
+|1099|68749615542|Wonderland|19:38:00|0:19:00|Fri|
+|1100|68749616500|Bowdoin|15:43:00|0:17:00|Mon|
+|1101|68749617502|Wonderland|16:08:00|0:20:00|Mon|
+|1102|68749618500|Bowdoin|16:37:00|0:17:00|Mon|
+|1103|68749619502|Wonderland|17:02:00|0:20:00|Mon|
+|1104|68749620500|Bowdoin|17:31:00|0:17:00|Mon|
+|1105|68749621502|Wonderland|17:56:00|0:20:00|Mon|
+|1106|68749622500|Bowdoin|18:25:00|0:17:00|Mon|
+|1107|68749623502|Wonderland|18:50:00|0:19:00|Mon|
+|1108|68749624500|Bowdoin|19:18:00|0:17:00|Mon|
+|1109|68749624540|Bowdoin|19:18:00|0:17:00|Fri|
+|1110|68749625502|Wonderland|19:43:00|0:19:00|Mon|
+|1111|68749625542|Wonderland|19:43:00|0:19:00|Fri|
+|1112|68749626500|Bowdoin|15:47:00|0:17:00|Mon|
+|1113|68749627502|Wonderland|16:12:00|0:20:00|Mon|
+|1114|68749628500|Bowdoin|16:41:00|0:17:00|Mon|
+|1115|68749629502|Wonderland|17:06:00|0:20:00|Mon|
+|1116|68749630500|Bowdoin|17:35:00|0:17:00|Mon|
+|1117|68749631502|Wonderland|18:00:00|0:19:00|Mon|
+|1118|68749632500|Bowdoin|18:29:00|0:17:00|Mon|
+|1119|68749633502|Wonderland|18:54:00|0:19:00|Mon|
+|1120|68749634500|Bowdoin|19:22:00|0:17:00|Mon|
+|1121|68749634540|Bowdoin|19:22:00|0:17:00|Fri|
+|1122|68749635502|Wonderland|19:47:00|0:19:00|Mon|
+|1123|68749635542|Wonderland|19:47:00|0:19:00|Fri|
+|1124|68749636500|Bowdoin|15:52:00|0:17:00|Mon|
+|1125|68749637502|Wonderland|16:17:00|0:20:00|Mon|
+|1126|68749638500|Bowdoin|16:46:00|0:17:00|Mon|
+|1127|68749639502|Wonderland|17:11:00|0:20:00|Mon|
+|1128|68749640500|Bowdoin|17:40:00|0:17:00|Mon|
+|1129|68749641502|Wonderland|18:05:00|0:19:00|Mon|
+|1130|68749642500|Bowdoin|18:33:00|0:17:00|Mon|
+|1131|68749643502|Wonderland|18:58:00|0:19:00|Mon|
+|1132|68749644500|Bowdoin|19:26:00|0:17:00|Mon|
+|1133|68749644540|Bowdoin|19:26:00|0:17:00|Fri|
+|1134|68749645502|Wonderland|19:52:00|0:19:00|Mon|
+|1135|68749645542|Wonderland|19:52:00|0:19:00|Fri|
+|1136|68749646500|Bowdoin|16:01:00|0:11:00|Mon|
+|1137|68749647502|Wonderland|16:21:00|0:20:00|Mon|
+|1138|68749648500|Bowdoin|16:50:00|0:17:00|Mon|
+|1139|68749649502|Wonderland|17:15:00|0:20:00|Mon|
+|1140|68749650500|Bowdoin|17:44:00|0:17:00|Mon|
+|1141|68749651502|Wonderland|18:09:00|0:19:00|Mon|
+|1142|68749652500|Bowdoin|18:37:00|0:17:00|Mon|
+|1143|68749653502|Wonderland|19:02:00|0:19:00|Mon|
+|1144|68749653542|Wonderland|19:02:00|0:19:00|Fri|
+|1145|68749654500|Bowdoin|15:59:00|0:17:00|Mon|
+|1146|68749655502|Wonderland|16:26:00|0:20:00|Mon|
+|1147|68749656500|Bowdoin|16:55:00|0:17:00|Mon|
+|1148|68749657502|Wonderland|17:20:00|0:20:00|Mon|
+|1149|68749658500|Bowdoin|17:49:00|0:17:00|Mon|
+|1150|68749659502|Wonderland|18:14:00|0:19:00|Mon|
+|1151|68749660500|Bowdoin|18:42:00|0:17:00|Mon|
+|1152|68749661502|Wonderland|19:07:00|0:19:00|Mon|
+|1153|68749661542|Wonderland|19:07:00|0:19:00|Fri|
+|1154|68749662500|Bowdoin|16:05:00|0:17:00|Mon|
+|1155|68749663502|Wonderland|16:30:00|0:20:00|Mon|
+|1156|68749664500|Bowdoin|16:59:00|0:17:00|Mon|
+|1157|68749665502|Wonderland|17:24:00|0:20:00|Mon|
+|1158|68749666500|Bowdoin|17:53:00|0:17:00|Mon|
+|1159|68749667502|Wonderland|18:18:00|0:19:00|Mon|
+|1160|68749668500|Bowdoin|18:46:00|0:17:00|Mon|
+|1161|68749669502|Wonderland|19:11:00|0:19:00|Mon|
+|1162|68749669542|Wonderland|19:11:00|0:19:00|Fri|
+|1163|68749670500|Bowdoin|16:10:00|0:17:00|Mon|
+|1164|68749671502|Wonderland|16:35:00|0:20:00|Mon|
+|1165|68749672500|Bowdoin|17:04:00|0:17:00|Mon|
+|1166|68749673502|Wonderland|17:29:00|0:20:00|Mon|
+|1167|68749674500|Bowdoin|17:58:00|0:17:00|Mon|
+|1168|68749675502|Wonderland|18:23:00|0:19:00|Mon|
+|1169|68749676500|Bowdoin|18:51:00|0:17:00|Mon|
+|1170|68749677502|Wonderland|19:16:00|0:19:00|Mon|
+|1171|68749677542|Wonderland|19:16:00|0:19:00|Fri|
+|1172|68749678500|Bowdoin|16:14:00|0:17:00|Mon|
+|1173|68749679502|Wonderland|16:39:00|0:20:00|Mon|
+|1174|68749680500|Bowdoin|17:08:00|0:17:00|Mon|
+|1175|68749681502|Wonderland|17:33:00|0:20:00|Mon|
+|1176|68749682500|Bowdoin|18:02:00|0:17:00|Mon|
+|1177|68749683502|Wonderland|18:27:00|0:19:00|Mon|
+|1178|68749684500|Bowdoin|18:55:00|0:17:00|Mon|
+|1179|68749685502|Wonderland|19:20:00|0:19:00|Mon|
+|1180|68749685542|Wonderland|19:20:00|0:19:00|Fri|
+|1181|68749686500|Bowdoin|19:30:00|0:17:00|Mon|
+|1182|68749686540|Bowdoin|19:30:00|0:17:00|Fri|
+|1183|68749687502|Wonderland|19:56:00|0:19:00|Mon|
+|1184|68749687542|Wonderland|19:56:00|0:19:00|Fri|
+|1185|68749688500|Bowdoin|19:35:00|0:17:00|Mon|
+|1186|68749688540|Bowdoin|19:35:00|0:17:00|Fri|
+|1187|68749689502|Wonderland|20:01:00|0:19:00|Mon|
+|1188|68749689542|Wonderland|20:01:00|0:19:00|Fri|
+|1189|68749690500|Bowdoin|19:40:00|0:17:00|Mon|
+|1190|68749690540|Bowdoin|19:40:00|0:17:00|Fri|
+|1191|68749691502|Wonderland|20:06:00|0:19:00|Mon|
+|1192|68749691542|Wonderland|20:06:00|0:19:00|Fri|
+|1193|68749692500|Bowdoin|19:45:00|0:17:00|Mon|
+|1194|68749692540|Bowdoin|19:45:00|0:17:00|Fri|
+|1195|68749693502|Wonderland|20:11:00|0:19:00|Mon|
+|1196|68749693542|Wonderland|20:11:00|0:19:00|Fri|
+|1197|68749694500|Bowdoin|19:51:00|0:17:00|Mon|
+|1198|68749694540|Bowdoin|19:51:00|0:17:00|Fri|
+|1199|68749695502|Wonderland|20:17:00|0:19:00|Mon|
+|1200|68749695542|Wonderland|20:17:00|0:19:00|Fri|
+|1201|68749696500|Bowdoin|19:57:00|0:17:00|Mon|
+|1202|68749696540|Bowdoin|19:57:00|0:17:00|Fri|
+|1203|68749697502|Wonderland|20:22:00|0:19:00|Mon|
+|1204|68749697542|Wonderland|20:22:00|0:19:00|Fri|
+|1205|68749698500|Bowdoin|20:02:00|0:17:00|Mon|
+|1206|68749698540|Bowdoin|20:02:00|0:17:00|Fri|
+|1207|68749699502|Wonderland|20:27:00|0:19:00|Mon|
+|1208|68749699542|Wonderland|20:27:00|0:19:00|Fri|
+|1209|68749700500|Bowdoin|20:08:00|0:17:00|Mon|
+|1210|68749700540|Bowdoin|20:08:00|0:17:00|Fri|
+|1211|68749701502|Wonderland|20:33:00|0:19:00|Mon|
+|1212|68749701542|Wonderland|20:33:00|0:19:00|Fri|
+|1213|68749702500|Bowdoin|20:14:00|0:17:00|Mon|
+|1214|68749702540|Bowdoin|20:14:00|0:17:00|Fri|
+|1215|68749703502|Wonderland|20:38:00|0:19:00|Mon|
+|1216|68749703542|Wonderland|20:38:00|0:19:00|Fri|
+|1217|68749704500|Bowdoin|20:20:00|0:17:00|Mon|
+|1218|68749704540|Bowdoin|20:20:00|0:17:00|Fri|
+|1219|68749705502|Wonderland|20:44:00|0:19:00|Mon|
+|1220|68749705542|Wonderland|20:44:00|0:19:00|Fri|
+|1221|68749706500|Bowdoin|20:26:00|0:17:00|Mon|
+|1222|68749706540|Bowdoin|20:26:00|0:17:00|Fri|
+|1223|68749707502|Wonderland|20:51:00|0:19:00|Mon|
+|1224|68749707542|Wonderland|20:51:00|0:19:00|Fri|
+|1225|68749708500|Bowdoin|21:19:00|0:17:00|Mon|
+|1226|68749708540|Bowdoin|21:19:00|0:17:00|Fri|
+|1227|68749709502|Wonderland|21:44:00|0:19:00|Mon|
+|1228|68749709542|Wonderland|21:44:00|0:19:00|Fri|
+|1229|68749710500|Bowdoin|20:32:00|0:17:00|Mon|
+|1230|68749710540|Bowdoin|20:32:00|0:17:00|Fri|
+|1231|68749711502|Wonderland|20:57:00|0:19:00|Mon|
+|1232|68749711542|Wonderland|20:57:00|0:19:00|Fri|
+|1233|68749712500|Bowdoin|21:25:00|0:17:00|Mon|
+|1234|68749712540|Bowdoin|21:25:00|0:17:00|Fri|
+|1235|68749713502|Wonderland|21:50:00|0:19:00|Mon|
+|1236|68749713542|Wonderland|21:50:00|0:19:00|Fri|
+|1237|68749714500|Bowdoin|20:39:00|0:17:00|Mon|
+|1238|68749714540|Bowdoin|20:39:00|0:17:00|Fri|
+|1239|68749715502|Wonderland|21:04:00|0:19:00|Mon|
+|1240|68749715542|Wonderland|21:04:00|0:19:00|Fri|
+|1241|68749716500|Bowdoin|20:45:00|0:17:00|Mon|
+|1242|68749716540|Bowdoin|20:45:00|0:17:00|Fri|
+|1243|68749717502|Wonderland|21:10:00|0:19:00|Mon|
+|1244|68749717542|Wonderland|21:10:00|0:19:00|Fri|
+|1245|68749718500|Bowdoin|20:52:00|0:17:00|Mon|
+|1246|68749718540|Bowdoin|20:52:00|0:17:00|Fri|
+|1247|68749719502|Wonderland|21:17:00|0:19:00|Mon|
+|1248|68749719542|Wonderland|21:17:00|0:19:00|Fri|
+|1249|68749720500|Bowdoin|20:58:00|0:17:00|Mon|
+|1250|68749720540|Bowdoin|20:58:00|0:17:00|Fri|
+|1251|68749721502|Wonderland|21:24:00|0:19:00|Mon|
+|1252|68749721542|Wonderland|21:24:00|0:19:00|Fri|
+|1253|68749722500|Bowdoin|21:05:00|0:17:00|Mon|
+|1254|68749722540|Bowdoin|21:05:00|0:17:00|Fri|
+|1255|68749723502|Wonderland|21:30:00|0:19:00|Mon|
+|1256|68749723542|Wonderland|21:30:00|0:19:00|Fri|
+|1257|68749724500|Bowdoin|21:12:00|0:17:00|Mon|
+|1258|68749724540|Bowdoin|21:12:00|0:17:00|Fri|
+|1259|68749725502|Wonderland|21:37:00|0:19:00|Mon|
+|1260|68749725542|Wonderland|21:37:00|0:19:00|Fri|
+|1261|68749726500|Bowdoin|22:59:00|0:17:00|Mon|
+|1262|68749726540|Bowdoin|22:59:00|0:17:00|Fri|
+|1263|68749727500|Bowdoin|23:09:00|0:17:00|Mon|
+|1264|68749727540|Bowdoin|23:09:00|0:17:00|Fri|
+|1265|68749728500|Bowdoin|21:32:00|0:17:00|Mon|
+|1266|68749728540|Bowdoin|21:32:00|0:17:00|Fri|
+|1267|68749729502|Wonderland|21:56:00|0:19:00|Mon|
+|1268|68749729542|Wonderland|21:56:00|0:19:00|Fri|
+|1269|68749730500|Bowdoin|22:24:00|0:17:00|Mon|
+|1270|68749730540|Bowdoin|22:24:00|0:17:00|Fri|
+|1271|68749731500|Bowdoin|22:16:00|0:17:00|Mon|
+|1272|68749731540|Bowdoin|22:16:00|0:17:00|Fri|
+|1273|68749732500|Bowdoin|21:40:00|0:17:00|Mon|
+|1274|68749732540|Bowdoin|21:40:00|0:17:00|Fri|
+|1275|68749733502|Wonderland|22:04:00|0:19:00|Mon|
+|1276|68749733542|Wonderland|22:04:00|0:19:00|Fri|
+|1277|68749734500|Bowdoin|22:32:00|0:17:00|Mon|
+|1278|68749734540|Bowdoin|22:32:00|0:17:00|Fri|
+|1279|68749735502|Wonderland|22:26:00|0:19:00|Mon|
+|1280|68749735542|Wonderland|22:26:00|0:19:00|Fri|
+|1281|68749736500|Bowdoin|21:47:00|0:17:00|Mon|
+|1282|68749736540|Bowdoin|21:47:00|0:17:00|Fri|
+|1283|68749737502|Wonderland|22:11:00|0:19:00|Mon|
+|1284|68749737542|Wonderland|22:11:00|0:19:00|Fri|
+|1285|68749738502|Wonderland|23:03:00|0:19:00|Mon|
+|1286|68749738542|Wonderland|23:03:00|0:19:00|Fri|
+|1287|68749739502|Wonderland|22:41:00|0:19:00|Mon|
+|1288|68749739542|Wonderland|22:41:00|0:19:00|Fri|
+|1289|68749740500|Bowdoin|21:55:00|0:17:00|Mon|
+|1290|68749740540|Bowdoin|21:55:00|0:17:00|Fri|
+|1291|68749741502|Wonderland|22:19:00|0:19:00|Mon|
+|1292|68749741542|Wonderland|22:19:00|0:19:00|Fri|
+|1293|68749742500|Bowdoin|22:02:00|0:17:00|Mon|
+|1294|68749742540|Bowdoin|22:02:00|0:17:00|Fri|
+|1295|68749743500|Bowdoin|22:49:00|0:17:00|Mon|
+|1296|68749743540|Bowdoin|22:49:00|0:17:00|Fri|
+|1297|68749744502|Wonderland|23:23:00|0:19:00|Mon|
+|1298|68749744542|Wonderland|23:23:00|0:19:00|Fri|
+|1299|68749745500|Bowdoin|22:09:00|0:17:00|Mon|
+|1300|68749745540|Bowdoin|22:09:00|0:17:00|Fri|
+|1301|68749746502|Wonderland|23:33:00|0:19:00|Mon|
+|1302|68749746542|Wonderland|23:33:00|0:19:00|Fri|
+|1303|68749747502|Wonderland|22:56:00|0:19:00|Mon|
+|1304|68749747542|Wonderland|22:56:00|0:19:00|Fri|
+|1305|68749748502|Wonderland|23:13:00|0:19:00|Mon|
+|1306|68749748542|Wonderland|23:13:00|0:19:00|Fri|
+|1307|68749749502|Wonderland|22:33:00|0:19:00|Mon|
+|1308|68749749542|Wonderland|22:33:00|0:19:00|Fri|
+|1309|68749750500|Bowdoin|22:39:00|0:17:00|Mon|
+|1310|68749750540|Bowdoin|22:39:00|0:17:00|Fri|
+|1311|68749751502|Wonderland|22:48:00|0:19:00|Mon|
+|1312|68749751542|Wonderland|22:48:00|0:19:00|Fri|
+|1313|68749752500|Bowdoin|00:10:00|0:17:00|Mon|
+|1314|68749752540|Bowdoin|00:10:00|0:17:00|Fri|
+|1315|68749753502|Wonderland|00:38:00|0:19:00|Mon|
+|1316|68749753542|Wonderland|00:38:00|0:19:00|Fri|
+|1317|68749754500|Bowdoin|23:19:00|0:17:00|Mon|
+|1318|68749754540|Bowdoin|23:19:00|0:17:00|Fri|
+|1319|68749755502|Wonderland|23:43:00|0:19:00|Mon|
+|1320|68749755542|Wonderland|23:43:00|0:19:00|Fri|
+|1321|68749756500|Bowdoin|00:24:00|0:17:00|Mon|
+|1322|68749756540|Bowdoin|00:24:00|0:17:00|Fri|
+|1323|68749757502|Wonderland|00:53:00|0:19:00|Mon|
+|1324|68749757542|Wonderland|00:53:00|0:19:00|Fri|
+|1325|68749758500|Bowdoin|23:31:00|0:17:00|Mon|
+|1326|68749758540|Bowdoin|23:31:00|0:17:00|Fri|
+|1327|68749759502|Wonderland|23:55:00|0:19:00|Mon|
+|1328|68749759542|Wonderland|23:55:00|0:19:00|Fri|
+|1329|68749760500|Bowdoin|23:43:00|0:17:00|Mon|
+|1330|68749760540|Bowdoin|23:43:00|0:17:00|Fri|
+|1331|68749761502|Wonderland|00:09:00|0:19:00|Mon|
+|1332|68749761542|Wonderland|00:09:00|0:19:00|Fri|
+|1333|68749762500|Bowdoin|23:56:00|0:17:00|Mon|
+|1334|68749762540|Bowdoin|23:56:00|0:17:00|Fri|
+|1335|68749763502|Wonderland|00:23:00|0:19:00|Mon|
+|1336|68749763542|Wonderland|00:23:00|0:19:00|Fri|
+|1337|68749764500|Bowdoin|05:08:00|0:12:00|Mon|
+|1338|68749765502|Wonderland|05:33:00|0:19:00|Mon|
+|1339|68749766500|Bowdoin|12:43:00|0:18:00|Mon|
+|1340|68749767502|Wonderland|13:01:00|0:19:00|Mon|
+|1341|68749768502|Wonderland|13:16:00|0:19:00|Mon|
+|1342|68749769502|Wonderland|13:23:00|0:19:00|Mon|
+|1343|68749770502|Wonderland|12:46:00|0:19:00|Mon|
+|1344|68749771500|Bowdoin|12:35:00|0:18:00|Mon|
+|1345|68749772502|Wonderland|13:09:00|0:19:00|Mon|
+|1346|68749773500|Bowdoin|13:05:00|0:17:00|Mon|
+|1347|68749774500|Bowdoin|12:58:00|0:17:00|Mon|
+|1348|68749775502|Wonderland|13:30:00|0:19:00|Mon|
+|1349|68749776500|Bowdoin|12:20:00|0:18:00|Mon|
+|1350|68749777500|Bowdoin|12:28:00|0:18:00|Mon|
+|1351|68749778502|Wonderland|12:54:00|0:19:00|Mon|
+|1352|68749779500|Bowdoin|12:50:00|0:18:00|Mon|
+|1353|68749780500|Bowdoin|09:34:00|0:18:00|Mon|
+|1354|68749781500|Bowdoin|10:48:00|0:18:00|Mon|
+|1355|68749782500|Bowdoin|09:14:00|0:18:00|Mon|
+|1356|68749783500|Bowdoin|11:26:00|0:18:00|Mon|
+|1357|68749784502|Wonderland|09:35:00|0:19:00|Mon|
+|1358|68749785500|Bowdoin|10:03:00|0:18:00|Mon|
+|1359|68749786500|Bowdoin|11:18:00|0:18:00|Mon|
+|1360|68749787500|Bowdoin|10:41:00|0:18:00|Mon|
+|1361|68749788500|Bowdoin|09:45:00|0:18:00|Mon|
+|1362|68749789500|Bowdoin|12:11:00|0:18:00|Mon|
+|1363|68749790500|Bowdoin|09:19:00|0:18:00|Mon|
+|1364|68749791500|Bowdoin|09:50:00|0:18:00|Mon|
+|1365|68749792500|Bowdoin|10:11:00|0:18:00|Mon|
+|1366|68749793500|Bowdoin|10:18:00|0:18:00|Mon|
+|1367|68749794500|Bowdoin|11:03:00|0:18:00|Mon|
+|1368|68749795500|Bowdoin|10:33:00|0:18:00|Mon|
+|1369|68749796500|Bowdoin|11:11:00|0:18:00|Mon|
+|1370|68749797500|Bowdoin|11:33:00|0:18:00|Mon|
+|1371|68749798500|Bowdoin|10:26:00|0:18:00|Mon|
+|1372|68749799500|Bowdoin|11:56:00|0:18:00|Mon|
+|1373|68749800500|Bowdoin|11:41:00|0:18:00|Mon|
+|1374|68749801500|Bowdoin|09:24:00|0:18:00|Mon|
+|1375|68749802500|Bowdoin|09:29:00|0:18:00|Mon|
+|1376|68749803500|Bowdoin|12:03:00|0:18:00|Mon|
+|1377|68749804500|Bowdoin|11:48:00|0:18:00|Mon|
+|1378|68749805500|Bowdoin|09:04:00|0:18:00|Mon|
+|1379|68749806500|Bowdoin|09:09:00|0:18:00|Mon|
+|1380|68749807500|Bowdoin|09:56:00|0:18:00|Mon|
+|1381|68749808500|Bowdoin|10:56:00|0:18:00|Mon|
+|1382|68749809502|Wonderland|12:37:00|0:19:00|Mon|
+|1383|68749810502|Wonderland|12:29:00|0:19:00|Mon|
+|1384|68749811502|Wonderland|12:22:00|0:19:00|Mon|
+|1385|68749812502|Wonderland|12:14:00|0:19:00|Mon|
+|1386|68749813502|Wonderland|12:07:00|0:19:00|Mon|
+|1387|68749814502|Wonderland|11:59:00|0:19:00|Mon|
+|1388|68749815502|Wonderland|11:52:00|0:19:00|Mon|
+|1389|68749816502|Wonderland|11:44:00|0:19:00|Mon|
+|1390|68749817502|Wonderland|11:37:00|0:19:00|Mon|
+|1391|68749818502|Wonderland|11:29:00|0:19:00|Mon|
+|1392|68749819502|Wonderland|11:22:00|0:19:00|Mon|
+|1393|68749820502|Wonderland|11:14:00|0:19:00|Mon|
+|1394|68749821502|Wonderland|11:07:00|0:19:00|Mon|
+|1395|68749822502|Wonderland|10:59:00|0:19:00|Mon|
+|1396|68749823502|Wonderland|10:52:00|0:19:00|Mon|
+|1397|68749824502|Wonderland|10:44:00|0:19:00|Mon|
+|1398|68749825502|Wonderland|10:37:00|0:19:00|Mon|
+|1399|68749826502|Wonderland|10:29:00|0:19:00|Mon|
+|1400|68749827502|Wonderland|10:22:00|0:19:00|Mon|
+|1401|68749828502|Orient Heights|09:30:00|0:12:00|Mon|
+|1402|68749829502|Orient Heights|10:16:00|0:12:00|Mon|
+|1403|68749830502|Wonderland|10:11:00|0:19:00|Mon|
+|1404|68749831502|Wonderland|10:05:00|0:19:00|Mon|
+|1405|68749832502|Wonderland|10:00:00|0:19:00|Mon|
+|1406|68749833502|Wonderland|09:55:00|0:19:00|Mon|
+|1407|68749834502|Wonderland|09:50:00|0:19:00|Mon|
+|1408|68749835500|Bowdoin|09:39:00|0:18:00|Mon|
+|1409|68749836502|Orient Heights|09:45:00|0:12:00|Mon|
+|1410|68749837502|Wonderland|09:40:00|0:19:00|Mon|
+## 🚂 CR-Fitchburg | Fitchburg Line
+- Trip numbers ⬇️ 32 from 88 to 56
+- Average duration ⬇️ 0:00:00 overall from 1:26:25 to 1:26:24
+- ✅ No new trips
+- ❌ 32 trips removed with an average duration of 1:26:26
+### ❌ Removed trips
+||Trip|Headsign|Start time|Duration|Days|
+|--:|:--|:--|--:|--:|:--|
+|1|Concord250-731831-7411|Littleton/Route 495|09:30:00|1:10:00|—|
+|2|Concord250-731833-7430|North Station|16:13:00|1:10:00|—|
+|3|Concord250-731834-7408|North Station|07:48:00|0:59:00|—|
+|4|Concord250-731836-5435|Wachusett|18:15:00|1:39:00|—|
+|5|Concord250-731837-7405|South Acton|06:30:00|1:03:00|—|
+|6|Concord250-731838-7424|North Station|14:13:00|1:10:00|—|
+|7|Concord250-731839-7423|South Acton|15:00:00|1:03:00|—|
+|8|Concord250-731840-7416|North Station|11:06:00|1:17:00|—|
+|9|Concord250-731841-7420|North Station|12:13:00|1:10:00|—|
+|10|Concord250-731842-5427|Wachusett|16:00:00|1:54:00|—|
+|11|Concord250-731843-5426|North Station|14:27:00|1:56:00|—|
+|12|Concord250-731844-5447|Wachusett|23:40:00|1:36:00|—|
+|13|Concord250-731845-5444|North Station|20:55:00|1:38:00|—|
+|14|Concord250-731846-5421|Wachusett|14:00:00|1:54:00|—|
+|15|Concord250-731847-7414|North Station|09:48:00|1:02:00|—|
+|16|Concord250-731848-5418|North Station|09:47:00|1:50:00|—|
+|17|Concord250-731849-7436|North Station|18:28:00|1:10:00|—|
+|18|Concord250-731850-5402|North Station|05:05:00|1:42:00|—|
+|19|Concord250-731851-7409|South Acton|08:30:00|1:03:00|—|
+|20|Concord250-731852-5413|Wachusett|10:15:00|1:54:00|—|
+|21|Concord250-731853-5422|North Station|12:27:00|1:56:00|—|
+|22|Concord250-731854-7415|South Acton|11:00:00|1:03:00|—|
+|23|Concord250-731855-5407|Wachusett|07:30:00|1:52:00|—|
+|24|Concord250-731856-5417|Wachusett|12:00:00|1:54:00|—|
+|25|Concord250-731857-7419|South Acton|13:00:00|1:03:00|—|
+|26|Concord250-731858-7403|South Acton|05:30:00|1:03:00|—|
+|27|Concord250-731859-5412|North Station|08:05:00|1:45:00|—|
+|28|Concord250-731860-7404|North Station|06:48:00|0:59:00|—|
+|29|Concord250-731861-5441|Wachusett|20:40:00|1:36:00|—|
+|30|Concord250-731862-5438|North Station|18:17:00|1:46:00|—|
+|31|Concord250-731863-7401|South Acton|04:30:00|0:53:00|—|
+|32|Concord250-731864-5434|North Station|16:27:00|1:56:00|—|
+## 🚂 CR-Worcester | Framingham/Worcester Line
+- Trip numbers ⬇️ 80 from 157 to 77
+- Average duration ⬇️ 0:02:24 overall from 1:28:19 to 1:25:55
+- ✅ No new trips
+- ❌ 80 trips removed with an average duration of 1:30:38
+### ❌ Removed trips
+||Trip|Headsign|Start time|Duration|Days|
+|--:|:--|:--|--:|--:|:--|
+|1|MarathonMonday-720669-1558|South Station|16:40:00|0:49:00|—|
+|2|MarathonMonday-721007-503|Worcester|04:45:00|1:28:00|—|
+|3|MarathonMonday-721011-502|South Station|04:15:00|1:35:00|—|
+|4|MarathonMonday-721013-2565|Worcester|17:10:00|1:39:00|—|
+|5|MarathonMonday-721014-2571|Worcester|18:10:00|1:36:00|—|
+|6|MarathonMonday-721015-2559|Worcester|16:35:00|1:46:00|—|
+|7|MarathonMonday-721016-2556|South Station|15:36:00|1:36:00|—|
+|8|MarathonMonday-721017-2553|Worcester|15:40:00|1:40:00|—|
+|9|MarathonMonday-721018-2552|South Station|15:02:00|1:01:00|—|
+|10|MarathonMonday-721019-2551|Framingham|15:05:00|1:04:00|—|
+|11|MarathonMonday-721020-2550|South Station|13:50:00|1:48:00|—|
+|12|MarathonMonday-721021-2549|Worcester|14:30:00|1:46:00|—|
+|13|MarathonMonday-721022-2548|South Station|14:02:00|1:11:00|—|
+|14|MarathonMonday-721023-2546|South Station|12:50:00|2:09:00|—|
+|15|MarathonMonday-721024-2545|Worcester|13:45:00|1:36:00|—|
+|16|MarathonMonday-721025-2544|South Station|13:02:00|1:22:00|—|
+|17|MarathonMonday-721026-2543|Framingham|13:20:00|0:55:00|—|
+|18|MarathonMonday-721027-2542|South Station|11:50:00|2:07:00|—|
+|19|MarathonMonday-721028-2540|South Station|12:02:00|1:22:00|—|
+|20|MarathonMonday-721029-2539|Framingham|12:20:00|0:59:00|—|
+|21|MarathonMonday-721030-2538|South Station|10:50:00|1:59:00|—|
+|22|MarathonMonday-721031-2537|Worcester|11:50:00|1:44:00|—|
+|23|MarathonMonday-721032-2535|Framingham|11:20:00|0:59:00|—|
+|24|MarathonMonday-721033-2534|South Station|10:15:00|1:59:00|—|
+|25|MarathonMonday-721034-2533|Worcester|10:50:00|1:44:00|—|
+|26|MarathonMonday-721035-2532|South Station|10:32:00|1:11:00|—|
+|27|MarathonMonday-721036-2531|Framingham|10:20:00|1:03:00|—|
+|28|MarathonMonday-721037-2530|South Station|09:20:00|1:53:00|—|
+|29|MarathonMonday-721038-2529|Worcester|09:45:00|1:49:00|—|
+|30|MarathonMonday-721039-2528|South Station|09:37:00|1:11:00|—|
+|31|MarathonMonday-721040-2527|Framingham|09:10:00|1:03:00|—|
+|32|MarathonMonday-721041-2526|South Station|08:30:00|1:53:00|—|
+|33|MarathonMonday-721042-2525|Worcester|08:45:00|1:49:00|—|
+|34|MarathonMonday-721043-2523|Framingham|08:15:00|1:05:00|—|
+|35|MarathonMonday-721044-2522|South Station|07:55:00|1:45:00|—|
+|36|MarathonMonday-721045-2521|Worcester|07:45:00|1:44:00|—|
+|37|MarathonMonday-721046-2518|South Station|07:10:00|1:37:00|—|
+|38|MarathonMonday-721047-2515|Worcester|06:55:00|1:22:00|—|
+|39|MarathonMonday-721048-2514|South Station|06:30:00|1:42:00|—|
+|40|MarathonMonday-721049-2510|South Station|05:50:00|1:41:00|—|
+|41|MarathonMonday-721050-2509|Worcester|06:05:00|1:35:00|—|
+|42|MarathonMonday-721051-1574|South Station|19:00:00|0:53:00|—|
+|43|MarathonMonday-721052-1567|Framingham|17:45:00|0:56:00|—|
+|44|MarathonMonday-721053-1562|South Station|17:20:00|0:53:00|—|
+|45|MarathonMonday-721055-1555|Framingham|16:10:00|0:55:00|—|
+|46|MarathonMonday-721056-593|Worcester|23:45:00|1:36:00|—|
+|47|MarathonMonday-721057-592|South Station|22:50:00|1:28:00|—|
+|48|MarathonMonday-721058-585|Worcester|22:00:00|1:36:00|—|
+|49|MarathonMonday-721059-584|South Station|20:55:00|1:35:00|—|
+|50|MarathonMonday-721060-581|Worcester|21:00:00|1:36:00|—|
+|51|MarathonMonday-721061-580|South Station|19:55:00|1:35:00|—|
+|52|MarathonMonday-721062-577|Worcester|19:40:00|1:36:00|—|
+|53|MarathonMonday-721063-576|South Station|18:35:00|1:28:00|—|
+|54|MarathonMonday-721064-573|Worcester|18:40:00|1:37:00|—|
+|55|MarathonMonday-721065-568|South Station|17:45:00|1:28:00|—|
+|56|MarathonMonday-721066-560|South Station|16:30:00|1:20:00|—|
+|57|MarathonMonday-721067-554|South Station|15:00:00|1:40:00|—|
+|58|MarathonMonday-721068-541|Worcester|12:55:00|1:38:00|—|
+|59|MarathonMonday-721069-506|South Station|05:00:00|1:36:00|—|
+|60|MarathonMonday-721070-505|Worcester|05:25:00|1:29:00|—|
+|61|MarathonSunday-716338-5530|South Station|09:10:00|1:35:00|—|
+|62|MarathonSunday-716339-5508|South Station|05:10:00|1:35:00|—|
+|63|MarathonSunday-716340-5520|South Station|07:10:00|1:35:00|—|
+|64|MarathonSunday-716343-5554|South Station|15:10:00|1:35:00|—|
+|65|MarathonSunday-716345-5546|South Station|13:10:00|1:35:00|—|
+|66|MarathonSunday-716346-5538|South Station|11:10:00|1:35:00|—|
+|67|MarathonSunday-716349-5566|South Station|17:10:00|1:35:00|—|
+|68|MarathonSunday-716352-5576|South Station|18:55:00|1:35:00|—|
+|69|MarathonSunday-716354-5584|South Station|21:10:00|1:35:00|—|
+|70|MarathonSunday-716355-5591|Worcester|23:15:00|1:34:00|—|
+|71|MarathonSunday-716356-5594|South Station|23:25:00|1:35:00|—|
+|72|MarathonSunday-722832-5581|Worcester|21:00:00|1:35:00|—|
+|73|MarathonSunday-722833-5561|Worcester|17:00:00|1:35:00|—|
+|74|MarathonSunday-722834-5573|Worcester|18:45:00|1:35:00|—|
+|75|MarathonSunday-722835-5541|Worcester|13:00:00|1:35:00|—|
+|76|MarathonSunday-722836-5549|Worcester|15:00:00|1:35:00|—|
+|77|MarathonSunday-722837-5525|Worcester|09:00:00|1:35:00|—|
+|78|MarathonSunday-722838-5503|Worcester|05:00:00|1:35:00|—|
+|79|MarathonSunday-722839-5533|Worcester|11:00:00|1:35:00|—|
+|80|MarathonSunday-722840-5515|Worcester|07:00:00|1:35:00|—|
+## 🚊 Green-B | Green Line B
+- Trip numbers ⬇️ 282 from 1832 to 1550
+- Average duration ⬇️ 0:00:19 overall from 0:43:59 to 0:43:40
+- ✅ No new trips
+- ❌ 282 trips removed with an average duration of 0:45:44
+### ❌ Removed trips
+||Trip|Headsign|Start time|Duration|Days|
+|--:|:--|:--|--:|--:|:--|
+|1|68100986-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|05:45:00|0:39:00|—|
+|2|68100987-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|05:54:00|0:39:00|—|
+|3|68100992-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:04:00|0:39:00|—|
+|4|68100994-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:13:00|0:39:00|—|
+|5|68100996-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:23:00|0:40:00|—|
+|6|68100998-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:33:00|0:41:00|—|
+|7|68101000-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:43:00|0:42:00|—|
+|8|68101016-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:04:00|0:43:00|—|
+|9|68101017-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:38:00|0:43:00|—|
+|10|68101018-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:54:00|0:43:00|—|
+|11|68101019-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:30:00|0:43:00|—|
+|12|68101020-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:41:00|0:43:00|—|
+|13|68101021-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:14:00|0:43:00|—|
+|14|68101022-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:55:00|0:43:00|—|
+|15|68101023-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:23:00|0:43:00|—|
+|16|68101024-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:32:00|0:43:00|—|
+|17|68101025-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|07:48:00|0:43:00|—|
+|18|68101026-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:01:00|0:43:00|—|
+|19|68101027-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:08:00|0:43:00|—|
+|20|68101028-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:15:00|0:43:00|—|
+|21|68101029-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:22:00|0:43:00|—|
+|22|68101033-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:52:00|0:43:00|—|
+|23|68101035-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:00:00|0:43:00|—|
+|24|68101037-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:08:00|0:43:00|—|
+|25|68101039-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:15:00|0:43:00|—|
+|26|68101041-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:23:00|0:43:00|—|
+|27|68101043-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:31:00|0:43:00|—|
+|28|68101045-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:39:00|0:43:00|—|
+|29|68101047-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:46:00|0:43:00|—|
+|30|68101049-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:52:00|0:43:00|—|
+|31|68101052-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|09:59:00|0:44:00|—|
+|32|68101054-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:06:00|0:44:00|—|
+|33|68101056-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:13:00|0:45:00|—|
+|34|68101059-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:20:00|0:45:00|—|
+|35|68101060-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:27:00|0:45:00|—|
+|36|68101063-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:43:00|0:45:00|—|
+|37|68101065-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:51:00|0:45:00|—|
+|38|68101067-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:59:00|0:45:00|—|
+|39|68101069-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:06:00|0:45:00|—|
+|40|68101071-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:14:00|0:45:00|—|
+|41|68101073-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:22:00|0:45:00|—|
+|42|68101074-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:37:00|0:45:00|—|
+|43|68101076-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:30:00|0:45:00|—|
+|44|68101079-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:43:00|0:45:00|—|
+|45|68101081-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:51:00|0:45:00|—|
+|46|68101083-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|11:59:00|0:45:00|—|
+|47|68101085-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:07:00|0:45:00|—|
+|48|68101088-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:15:00|0:45:00|—|
+|49|68101091-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:31:00|0:45:00|—|
+|50|68101094-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:47:00|0:45:00|—|
+|51|68101095-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:55:00|0:45:00|—|
+|52|68101096-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:03:00|0:45:00|—|
+|53|68101098-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:11:00|0:45:00|—|
+|54|68101100-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:19:00|0:45:00|—|
+|55|68101102-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:27:00|0:45:00|—|
+|56|68101104-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:34:00|0:45:00|—|
+|57|68101106-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:42:00|0:45:00|—|
+|58|68101108-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:59:00|0:45:00|—|
+|59|68101109-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:15:00|0:45:00|—|
+|60|68101111-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:07:00|0:45:00|—|
+|61|68101113-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|08:44:00|0:43:00|—|
+|62|68101114-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|10:35:00|0:45:00|—|
+|63|68101115-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:23:00|0:45:00|—|
+|64|68101117-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:23:00|0:45:00|—|
+|65|68101119-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:31:00|0:45:00|—|
+|66|68101122-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:40:00|0:45:00|—|
+|67|68101124-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:48:00|0:45:00|—|
+|68|68101126-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|14:56:00|0:45:00|—|
+|69|68101129-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:04:00|0:45:00|—|
+|70|68101195-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:20:00|0:41:00|—|
+|71|68101196-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:16:00|1:03:00|—|
+|72|68101197-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:01:00|0:41:00|—|
+|73|68101198-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:10:00|0:41:00|—|
+|74|68101199-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:29:00|0:41:00|—|
+|75|68101200-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:39:00|0:41:00|—|
+|76|68101201-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:49:00|0:41:00|—|
+|77|68101202-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:59:00|0:41:00|—|
+|78|68101203-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:09:00|0:41:00|—|
+|79|68101204-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:19:00|0:41:00|—|
+|80|68101205-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:29:00|0:42:00|—|
+|81|68101206-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:37:00|0:43:00|—|
+|82|68101207-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:45:00|0:44:00|—|
+|83|68101208-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:52:00|0:46:00|—|
+|84|68101209-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:59:00|0:46:00|—|
+|85|68101210-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:06:00|0:46:00|—|
+|86|68101211-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:12:00|0:46:00|—|
+|87|68101212-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:19:00|0:46:00|—|
+|88|68101213-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:26:00|0:46:00|—|
+|89|68101214-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:33:00|0:46:00|—|
+|90|68101215-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:41:00|0:46:00|—|
+|91|68101216-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:49:00|0:46:00|—|
+|92|68101217-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:55:00|0:46:00|—|
+|93|68101218-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:03:00|0:46:00|—|
+|94|68101219-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:11:00|0:46:00|—|
+|95|68101220-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:19:00|0:46:00|—|
+|96|68101221-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:26:00|0:46:00|—|
+|97|68101222-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:34:00|0:46:00|—|
+|98|68101223-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:42:00|0:46:00|—|
+|99|68101224-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:10:00|0:46:00|—|
+|100|68101225-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:50:00|0:46:00|—|
+|101|68101226-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:57:00|0:46:00|—|
+|102|68101227-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:03:00|0:46:00|—|
+|103|68101228-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:17:00|0:46:00|—|
+|104|68101229-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:24:00|0:46:00|—|
+|105|68101230-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:46:00|0:46:00|—|
+|106|68101231-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:54:00|0:46:00|—|
+|107|68101232-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:31:00|0:46:00|—|
+|108|68101233-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:38:00|0:46:00|—|
+|109|68101234-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:02:00|0:46:00|—|
+|110|68101235-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:10:00|0:46:00|—|
+|111|68101236-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:17:00|0:46:00|—|
+|112|68101237-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:25:00|0:46:00|—|
+|113|68101238-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:33:00|0:46:00|—|
+|114|68101239-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:41:00|0:46:00|—|
+|115|68101240-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:48:00|0:46:00|—|
+|116|68101241-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:54:00|0:46:00|—|
+|117|68101242-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:02:00|0:46:00|—|
+|118|68101243-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:10:00|0:46:00|—|
+|119|68101244-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:18:00|0:46:00|—|
+|120|68101245-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:26:00|0:46:00|—|
+|121|68101246-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:34:00|0:46:00|—|
+|122|68101247-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:42:00|0:46:00|—|
+|123|68101248-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:58:00|0:46:00|—|
+|124|68101249-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:06:00|0:46:00|—|
+|125|68101250-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:14:00|0:46:00|—|
+|126|68101251-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:22:00|0:46:00|—|
+|127|68101252-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:30:00|0:46:00|—|
+|128|68101253-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:38:00|0:46:00|—|
+|129|68101254-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:45:00|0:46:00|—|
+|130|68101255-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:53:00|0:46:00|—|
+|131|68101256-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:10:00|0:46:00|—|
+|132|68101257-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:18:00|0:46:00|—|
+|133|68101258-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:26:00|0:46:00|—|
+|134|68101259-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:59:00|0:46:00|—|
+|135|68101260-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:34:00|0:46:00|—|
+|136|68101261-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:42:00|0:46:00|—|
+|137|68101262-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:51:00|0:46:00|—|
+|138|68101263-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:07:00|0:46:00|—|
+|139|68101264-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:15:00|0:46:00|—|
+|140|68101268-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|06:30:00|1:03:00|—|
+|141|68101305-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|12:39:00|0:45:00|—|
+|142|68101306-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:59:00|0:49:00|—|
+|143|68101307-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:14:00|0:49:00|—|
+|144|68101308-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:06:00|0:49:00|—|
+|145|68101309-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:06:00|0:49:00|—|
+|146|68101310-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:22:00|0:49:00|—|
+|147|68101311-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:38:00|0:49:00|—|
+|148|68101312-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:14:00|0:49:00|—|
+|149|68101313-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:30:00|0:49:00|—|
+|150|68101314-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:38:00|0:49:00|—|
+|151|68101315-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:54:00|0:49:00|—|
+|152|68101316-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:30:00|0:49:00|—|
+|153|68101317-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:46:00|0:49:00|—|
+|154|68101318-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:38:00|0:43:00|—|
+|155|68101319-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:58:00|0:49:00|—|
+|156|68101320-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:43:00|0:48:00|—|
+|157|68101321-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:46:00|0:49:00|—|
+|158|68101322-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:51:00|0:48:00|—|
+|159|68101323-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:22:00|0:49:00|—|
+|160|68101324-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:22:00|0:46:00|—|
+|161|68101325-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:12:00|0:45:00|—|
+|162|68101326-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:30:00|0:47:00|—|
+|163|68101327-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:20:00|0:45:00|—|
+|164|68101328-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:37:00|0:48:00|—|
+|165|68101329-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:51:00|0:49:00|—|
+|166|68101330-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:37:00|0:50:00|—|
+|167|68101331-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:28:00|0:46:00|—|
+|168|68101332-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:44:00|0:49:00|—|
+|169|68101333-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|15:36:00|0:47:00|—|
+|170|68101334-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:37:00|0:49:00|—|
+|171|68101335-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:22:00|0:49:00|—|
+|172|68101336-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:24:00|0:50:00|—|
+|173|68101337-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:30:00|0:49:00|—|
+|174|68101338-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:25:00|0:49:00|—|
+|175|68101339-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:34:00|0:49:00|—|
+|176|68101340-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:01:00|0:49:00|—|
+|177|68101341-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:29:00|0:50:00|—|
+|178|68101342-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:53:00|0:49:00|—|
+|179|68101343-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:01:00|0:49:00|—|
+|180|68101344-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:32:00|0:50:00|—|
+|181|68101345-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:14:00|0:49:00|—|
+|182|68101346-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:45:00|0:49:00|—|
+|183|68101347-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:17:00|0:49:00|—|
+|184|68101348-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:49:00|0:50:00|—|
+|185|68101349-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:21:00|0:50:00|—|
+|186|68101350-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:06:00|0:49:00|—|
+|187|68101351-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:13:00|0:50:00|—|
+|188|68101352-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|16:53:00|0:49:00|—|
+|189|68101353-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:57:00|0:50:00|—|
+|190|68101354-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:45:00|0:49:00|—|
+|191|68101355-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:09:00|0:49:00|—|
+|192|68101356-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:16:00|0:50:00|—|
+|193|68101357-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:42:00|0:49:00|—|
+|194|68101358-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:41:00|0:50:00|—|
+|195|68101359-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:05:00|0:50:00|—|
+|196|68101360-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:09:00|0:49:00|—|
+|197|68101361-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:50:00|0:49:00|—|
+|198|68101362-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|17:58:00|0:49:00|—|
+|199|68101363-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:49:00|0:45:00|—|
+|200|68101364-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:48:00|0:47:00|—|
+|201|68101365-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:28:00|0:47:00|—|
+|202|68101366-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:28:00|0:46:00|—|
+|203|68101367-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:41:00|0:48:00|—|
+|204|68101368-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:37:00|0:45:00|—|
+|205|68101369-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:36:00|0:47:00|—|
+|206|68101370-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:05:00|0:48:00|—|
+|207|68101371-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:40:00|0:45:00|—|
+|208|68101372-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:58:00|0:45:00|—|
+|209|68101373-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:20:00|0:47:00|—|
+|210|68101374-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:56:00|0:47:00|—|
+|211|68101375-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:19:00|0:47:00|—|
+|212|68101376-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:29:00|0:48:00|—|
+|213|68101377-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:31:00|0:45:00|—|
+|214|68101378-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:13:00|0:48:00|—|
+|215|68101379-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:10:00|0:47:00|—|
+|216|68101380-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:12:00|0:47:00|—|
+|217|68101381-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:02:00|0:47:00|—|
+|218|68101382-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:22:00|0:45:00|—|
+|219|68101383-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:37:00|0:48:00|—|
+|220|68101384-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:49:00|0:48:00|—|
+|221|68101385-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:46:00|0:44:00|—|
+|222|68101386-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:21:00|0:48:00|—|
+|223|68101387-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:44:00|0:47:00|—|
+|224|68101388-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:32:00|0:47:00|—|
+|225|68101389-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:12:00|0:46:00|—|
+|226|68101390-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:23:00|0:48:00|—|
+|227|68101391-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:52:00|0:47:00|—|
+|228|68101392-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:32:00|0:48:00|—|
+|229|68101393-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:01:00|0:47:00|—|
+|230|68101394-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|20:04:00|0:47:00|—|
+|231|68101395-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:54:00|0:47:00|—|
+|232|68101396-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:57:00|0:48:00|—|
+|233|68101397-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:45:00|0:48:00|—|
+|234|68101398-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:40:00|0:47:00|—|
+|235|68101399-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:00:00|0:49:00|—|
+|236|68101400-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:16:00|0:48:00|—|
+|237|68101401-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:52:00|0:49:00|—|
+|238|68101402-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:08:00|0:48:00|—|
+|239|68101403-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|18:59:00|0:49:00|—|
+|240|68101404-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:07:00|0:48:00|—|
+|241|68101405-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:24:00|0:48:00|—|
+|242|68101406-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|19:15:00|0:48:00|—|
+|243|68101407-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:56:00|0:42:00|—|
+|244|68101408-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:13:00|0:45:00|—|
+|245|68101409-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:32:00|0:45:00|—|
+|246|68101410-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:23:00|0:45:00|—|
+|247|68101411-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|00:55:00|0:42:00|—|
+|248|68101412-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:22:00|0:44:00|—|
+|249|68101413-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:32:00|0:44:00|—|
+|250|68101414-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:50:00|0:44:00|—|
+|251|68101415-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:11:00|0:42:00|—|
+|252|68101416-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|21:55:00|0:44:00|—|
+|253|68101417-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:50:00|0:46:00|—|
+|254|68101418-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:01:00|0:44:00|—|
+|255|68101419-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:11:00|0:44:00|—|
+|256|68101420-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:58:00|0:40:00|—|
+|257|68101421-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:47:00|0:42:00|—|
+|258|68101422-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:53:00|0:45:00|—|
+|259|68101423-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|00:41:00|0:42:00|—|
+|260|68101424-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|00:29:00|0:42:00|—|
+|261|68101425-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|00:06:00|0:42:00|—|
+|262|68101426-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:07:00|0:45:00|—|
+|263|68101427-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:02:00|0:45:00|—|
+|264|68101428-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:52:00|0:43:00|—|
+|265|68101429-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:34:00|0:45:00|—|
+|266|68101430-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:44:00|0:45:00|—|
+|267|68101431-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|22:41:00|0:44:00|—|
+|268|68101432-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:42:00|0:45:00|—|
+|269|68101433-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:30:00|0:43:00|—|
+|270|68101434-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:34:00|0:40:00|—|
+|271|68101435-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|00:17:00|0:42:00|—|
+|272|68101436-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:46:00|0:40:00|—|
+|273|68101437-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:02:00|0:46:00|—|
+|274|68101438-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|13:51:00|0:45:00|—|
+|275|68101439-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:20:00|0:44:00|—|
+|276|68101440-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:01:00|0:43:00|—|
+|277|68101441-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|00:12:00|0:40:00|—|
+|278|68101442-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:23:00|0:40:00|—|
+|279|68101443-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:12:00|0:45:00|—|
+|280|68101444-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:00:00|0:44:00|—|
+|281|68101445-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:22:00|0:45:00|—|
+|282|68101446-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Boston College|23:10:00|0:44:00|—|
+## 🚊 Green-C | Green Line C
+- Trip numbers ⬇️ 282 from 1832 to 1550
+- Average duration ⬇️ 0:00:02 overall from 0:34:01 to 0:33:58
+- ✅ No new trips
+- ❌ 282 trips removed with an average duration of 0:34:16
+### ❌ Removed trips
+||Trip|Headsign|Start time|Duration|Days|
+|--:|:--|:--|--:|--:|:--|
+|1|68100848-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:00:00|0:32:00|—|
+|2|68100849-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:10:00|0:54:00|—|
+|3|68100850-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:20:00|0:32:00|—|
+|4|68100851-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:31:00|0:32:00|—|
+|5|68100852-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:42:00|0:32:00|—|
+|6|68100853-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|05:52:00|0:32:00|—|
+|7|68100854-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:03:00|0:32:00|—|
+|8|68100855-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:13:00|0:32:00|—|
+|9|68100856-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:21:00|0:32:00|—|
+|10|68100857-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:28:00|0:32:00|—|
+|11|68100858-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:55:00|0:36:00|—|
+|12|68100859-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:36:00|0:33:00|—|
+|13|68100860-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:42:00|0:33:00|—|
+|14|68100861-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|06:48:00|0:34:00|—|
+|15|68100862-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:01:00|0:36:00|—|
+|16|68100863-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:08:00|0:36:00|—|
+|17|68100864-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:15:00|0:36:00|—|
+|18|68100865-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:21:00|0:36:00|—|
+|19|68100866-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:04:00|0:36:00|—|
+|20|68100867-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:28:00|0:36:00|—|
+|21|68100868-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:35:00|0:36:00|—|
+|22|68100869-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:42:00|0:36:00|—|
+|23|68100870-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:49:00|0:36:00|—|
+|24|68100871-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|07:57:00|0:36:00|—|
+|25|68100872-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:12:00|0:36:00|—|
+|26|68100873-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:19:00|0:36:00|—|
+|27|68100874-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:26:00|0:36:00|—|
+|28|68100875-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:33:00|0:36:00|—|
+|29|68100876-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:40:00|0:36:00|—|
+|30|68100877-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:47:00|0:36:00|—|
+|31|68100878-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:53:00|0:36:00|—|
+|32|68100879-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|08:59:00|0:36:00|—|
+|33|68100880-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:06:00|0:36:00|—|
+|34|68100881-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:13:00|0:36:00|—|
+|35|68100882-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:21:00|0:36:00|—|
+|36|68100883-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:28:00|0:36:00|—|
+|37|68100884-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:36:00|0:36:00|—|
+|38|68100885-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:43:00|0:36:00|—|
+|39|68100886-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:50:00|0:36:00|—|
+|40|68100887-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|09:57:00|0:36:00|—|
+|41|68100888-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:04:00|0:36:00|—|
+|42|68100889-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:11:00|0:36:00|—|
+|43|68100890-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:18:00|0:36:00|—|
+|44|68100891-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:25:00|0:36:00|—|
+|45|68100892-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:32:00|0:36:00|—|
+|46|68100893-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:38:00|0:36:00|—|
+|47|68100894-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:46:00|0:35:00|—|
+|48|68100895-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|10:53:00|0:35:00|—|
+|49|68100896-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:01:00|0:35:00|—|
+|50|68100897-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:09:00|0:35:00|—|
+|51|68100898-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:37:00|0:35:00|—|
+|52|68100899-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:18:00|0:35:00|—|
+|53|68100900-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:27:00|0:35:00|—|
+|54|68100901-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:45:00|0:35:00|—|
+|55|68100902-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|11:54:00|0:35:00|—|
+|56|68100903-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:04:00|0:35:00|—|
+|57|68100904-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:12:00|0:35:00|—|
+|58|68100905-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:57:00|0:35:00|—|
+|59|68100906-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:30:00|0:35:00|—|
+|60|68100907-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:39:00|0:35:00|—|
+|61|68100908-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:48:00|0:35:00|—|
+|62|68100909-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:06:00|0:35:00|—|
+|63|68100910-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:15:00|0:35:00|—|
+|64|68100911-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:24:00|0:35:00|—|
+|65|68100912-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:20:00|0:35:00|—|
+|66|68100913-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:34:00|0:35:00|—|
+|67|68100914-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:52:00|0:35:00|—|
+|68|68100915-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:59:00|0:35:00|—|
+|69|68100916-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:13:00|0:35:00|—|
+|70|68100917-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|12:21:00|0:35:00|—|
+|71|68100918-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|13:43:00|0:35:00|—|
+|72|68100919-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:06:00|0:35:00|—|
+|73|68100920-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:24:00|0:35:00|—|
+|74|68100921-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:31:00|0:36:00|—|
+|75|68100922-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:39:00|0:37:00|—|
+|76|68100923-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:46:00|0:37:00|—|
+|77|68100924-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:02:00|0:37:00|—|
+|78|68100925-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:27:00|0:35:00|—|
+|79|68100926-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:34:00|0:35:00|—|
+|80|68100927-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:42:00|0:35:00|—|
+|81|68100928-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:54:00|0:37:00|—|
+|82|68100929-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:49:00|0:35:00|—|
+|83|68100930-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|14:56:00|0:35:00|—|
+|84|68100931-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:03:00|0:35:00|—|
+|85|68100932-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:10:00|0:35:00|—|
+|86|68100933-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|15:17:00|0:35:00|—|
+|87|68100934-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:10:00|0:37:00|—|
+|88|68100935-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:18:00|0:37:00|—|
+|89|68100936-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:25:00|0:37:00|—|
+|90|68100937-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:32:00|0:37:00|—|
+|91|68100938-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:40:00|0:37:00|—|
+|92|68100939-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:48:00|0:37:00|—|
+|93|68100940-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:17:00|0:37:00|—|
+|94|68100941-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|16:56:00|0:37:00|—|
+|95|68100942-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:03:00|0:37:00|—|
+|96|68100943-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:10:00|0:37:00|—|
+|97|68100944-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:25:00|0:37:00|—|
+|98|68100945-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:33:00|0:37:00|—|
+|99|68100946-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:41:00|0:37:00|—|
+|100|68100947-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:49:00|0:37:00|—|
+|101|68100948-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|17:56:00|0:37:00|—|
+|102|68100949-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:04:00|0:37:00|—|
+|103|68100950-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:11:00|0:37:00|—|
+|104|68100951-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:41:00|0:35:00|—|
+|105|68100952-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:19:00|0:37:00|—|
+|106|68100953-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:56:00|0:34:00|—|
+|107|68100954-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:27:00|0:36:00|—|
+|108|68100955-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:34:00|0:35:00|—|
+|109|68100956-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|18:48:00|0:35:00|—|
+|110|68100957-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:04:00|0:34:00|—|
+|111|68100958-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:12:00|0:34:00|—|
+|112|68100959-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:20:00|0:34:00|—|
+|113|68100960-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:27:00|0:34:00|—|
+|114|68100961-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:35:00|0:34:00|—|
+|115|68100962-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:42:00|0:34:00|—|
+|116|68100963-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:50:00|0:34:00|—|
+|117|68100964-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|19:57:00|0:34:00|—|
+|118|68100965-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:05:00|0:34:00|—|
+|119|68100966-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:14:00|0:34:00|—|
+|120|68100967-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:23:00|0:34:00|—|
+|121|68100968-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:33:00|0:34:00|—|
+|122|68100969-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:43:00|0:34:00|—|
+|123|68100970-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|20:53:00|0:34:00|—|
+|124|68100971-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:03:00|0:34:00|—|
+|125|68100972-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:13:00|0:34:00|—|
+|126|68100973-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:23:00|0:34:00|—|
+|127|68100974-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:53:00|0:32:00|—|
+|128|68100975-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:33:00|0:33:00|—|
+|129|68100976-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|21:43:00|0:33:00|—|
+|130|68100977-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:24:00|0:32:00|—|
+|131|68100978-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:03:00|0:32:00|—|
+|132|68100979-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:13:00|0:32:00|—|
+|133|68100980-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:36:00|0:32:00|—|
+|134|68100981-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:23:00|0:32:00|—|
+|135|68100982-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:48:00|0:32:00|—|
+|136|68100983-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|22:59:00|0:32:00|—|
+|137|68100984-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:11:00|0:32:00|—|
+|138|68100985-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:35:00|0:31:00|—|
+|139|68100988-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|23:49:00|0:30:00|—|
+|140|68100989-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|00:18:00|0:29:00|—|
+|141|68100990-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|05:35:00|0:29:00|—|
+|142|68100991-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|05:55:00|0:29:00|—|
+|143|68100993-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:06:00|0:29:00|—|
+|144|68100995-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:17:00|0:29:00|—|
+|145|68100997-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:27:00|0:29:00|—|
+|146|68100999-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:38:00|0:29:00|—|
+|147|68101001-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:48:00|0:32:00|—|
+|148|68101002-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:56:00|0:32:00|—|
+|149|68101003-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:03:00|0:32:00|—|
+|150|68101004-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:12:00|0:32:00|—|
+|151|68101005-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:18:00|0:32:00|—|
+|152|68101006-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:25:00|0:32:00|—|
+|153|68101007-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:34:00|0:32:00|—|
+|154|68101008-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:40:00|0:32:00|—|
+|155|68101009-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:47:00|0:32:00|—|
+|156|68101010-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|07:54:00|0:32:00|—|
+|157|68101011-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:00:00|0:32:00|—|
+|158|68101012-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:07:00|0:32:00|—|
+|159|68101013-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:14:00|0:32:00|—|
+|160|68101014-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:21:00|0:32:00|—|
+|161|68101015-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:28:00|0:32:00|—|
+|162|68101030-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:36:00|0:32:00|—|
+|163|68101031-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:43:00|0:32:00|—|
+|164|68101032-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:51:00|0:32:00|—|
+|165|68101034-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|08:58:00|0:32:00|—|
+|166|68101036-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:05:00|0:32:00|—|
+|167|68101038-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:12:00|0:32:00|—|
+|168|68101040-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:19:00|0:32:00|—|
+|169|68101042-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:26:00|0:32:00|—|
+|170|68101044-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:32:00|0:32:00|—|
+|171|68101046-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:38:00|0:32:00|—|
+|172|68101048-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:45:00|0:32:00|—|
+|173|68101050-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|09:52:00|0:32:00|—|
+|174|68101051-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:07:00|0:32:00|—|
+|175|68101053-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:00:00|0:32:00|—|
+|176|68101055-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:22:00|0:32:00|—|
+|177|68101057-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:29:00|0:32:00|—|
+|178|68101058-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:15:00|0:32:00|—|
+|179|68101061-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:36:00|0:34:00|—|
+|180|68101062-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:43:00|0:34:00|—|
+|181|68101064-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:50:00|0:34:00|—|
+|182|68101066-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|10:57:00|0:34:00|—|
+|183|68101068-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:04:00|0:34:00|—|
+|184|68101070-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:11:00|0:34:00|—|
+|185|68101072-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:17:00|0:34:00|—|
+|186|68101075-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:24:00|0:34:00|—|
+|187|68101077-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:31:00|0:34:00|—|
+|188|68101078-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:39:00|0:34:00|—|
+|189|68101080-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:47:00|0:34:00|—|
+|190|68101082-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|11:56:00|0:34:00|—|
+|191|68101084-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:05:00|0:34:00|—|
+|192|68101086-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:32:00|0:34:00|—|
+|193|68101087-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:15:00|0:34:00|—|
+|194|68101089-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:23:00|0:34:00|—|
+|195|68101090-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:50:00|0:34:00|—|
+|196|68101092-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:59:00|0:34:00|—|
+|197|68101093-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|12:42:00|0:34:00|—|
+|198|68101097-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:08:00|0:34:00|—|
+|199|68101099-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:17:00|0:34:00|—|
+|200|68101101-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:26:00|0:34:00|—|
+|201|68101103-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:35:00|0:34:00|—|
+|202|68101105-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:44:00|0:34:00|—|
+|203|68101107-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|13:53:00|0:34:00|—|
+|204|68101110-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:02:00|0:34:00|—|
+|205|68101112-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:12:00|0:34:00|—|
+|206|68101116-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:21:00|0:34:00|—|
+|207|68101118-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:30:00|0:34:00|—|
+|208|68101120-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:37:00|0:34:00|—|
+|209|68101121-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:51:00|0:34:00|—|
+|210|68101123-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:44:00|0:34:00|—|
+|211|68101125-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:05:00|0:34:00|—|
+|212|68101127-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:20:00|0:34:00|—|
+|213|68101128-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|14:58:00|0:34:00|—|
+|214|68101130-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:12:00|0:34:00|—|
+|215|68101131-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:27:00|0:34:00|—|
+|216|68101132-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:34:00|0:34:00|—|
+|217|68101133-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:41:00|0:35:00|—|
+|218|68101134-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:48:00|0:35:00|—|
+|219|68101135-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|15:55:00|0:35:00|—|
+|220|68101136-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:03:00|0:36:00|—|
+|221|68101137-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:11:00|0:36:00|—|
+|222|68101138-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:19:00|0:36:00|—|
+|223|68101139-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:26:00|0:36:00|—|
+|224|68101140-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:34:00|0:36:00|—|
+|225|68101141-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:42:00|0:36:00|—|
+|226|68101142-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:50:00|0:36:00|—|
+|227|68101143-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|16:58:00|0:36:00|—|
+|228|68101144-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:28:00|0:36:00|—|
+|229|68101145-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:05:00|0:36:00|—|
+|230|68101146-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:20:00|0:36:00|—|
+|231|68101147-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:12:00|0:36:00|—|
+|232|68101148-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:36:00|0:36:00|—|
+|233|68101149-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:43:00|0:36:00|—|
+|234|68101150-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:50:00|0:36:00|—|
+|235|68101151-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|17:57:00|0:36:00|—|
+|236|68101152-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:05:00|0:36:00|—|
+|237|68101153-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:13:00|0:36:00|—|
+|238|68101154-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:21:00|0:36:00|—|
+|239|68101155-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:51:00|0:36:00|—|
+|240|68101156-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:29:00|0:36:00|—|
+|241|68101157-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:36:00|0:36:00|—|
+|242|68101158-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:44:00|0:36:00|—|
+|243|68101159-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|18:59:00|0:36:00|—|
+|244|68101160-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:06:00|0:36:00|—|
+|245|68101161-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:26:00|0:35:00|—|
+|246|68101162-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:12:00|0:35:00|—|
+|247|68101163-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:19:00|0:35:00|—|
+|248|68101164-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:33:00|0:34:00|—|
+|249|68101165-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:41:00|0:34:00|—|
+|250|68101166-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:49:00|0:34:00|—|
+|251|68101167-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|19:57:00|0:34:00|—|
+|252|68101168-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:04:00|0:34:00|—|
+|253|68101169-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:12:00|0:34:00|—|
+|254|68101170-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:19:00|0:34:00|—|
+|255|68101171-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:27:00|0:34:00|—|
+|256|68101172-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:34:00|0:34:00|—|
+|257|68101173-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:42:00|0:34:00|—|
+|258|68101174-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|20:51:00|0:34:00|—|
+|259|68101175-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:00:00|0:34:00|—|
+|260|68101176-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:10:00|0:34:00|—|
+|261|68101177-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:20:00|0:34:00|—|
+|262|68101178-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:00:00|0:34:00|—|
+|263|68101179-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:30:00|0:34:00|—|
+|264|68101180-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:40:00|0:34:00|—|
+|265|68101181-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|21:50:00|0:34:00|—|
+|266|68101182-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:09:00|0:34:00|—|
+|267|68101183-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:19:00|0:34:00|—|
+|268|68101184-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:28:00|0:34:00|—|
+|269|68101185-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:38:00|0:32:00|—|
+|270|68101186-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:48:00|0:31:00|—|
+|271|68101187-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|22:59:00|0:31:00|—|
+|272|68101188-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|23:11:00|0:31:00|—|
+|273|68101189-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|23:58:00|0:31:00|—|
+|274|68101190-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|00:10:00|0:31:00|—|
+|275|68101191-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|23:23:00|0:31:00|—|
+|276|68101192-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|23:34:00|0:31:00|—|
+|277|68101193-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|00:22:00|0:31:00|—|
+|278|68101194-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|00:50:00|0:31:00|—|
+|279|68101266-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|06:15:00|0:49:00|—|
+|280|68101283-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Government Center|00:03:00|0:29:00|—|
+|281|68101284-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|00:35:00|0:31:00|—|
+|282|68101285-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Cleveland Circle|23:46:00|0:31:00|—|
+## 🚊 Green-D | Green Line D
+- Trip numbers ⬇️ 288 from 1835 to 1547
+- Average duration ⬇️ 0:01:08 overall from 0:56:31 to 0:55:23
+- ✅ No new trips
+- ❌ 288 trips removed with an average duration of 1:02:40
+### ❌ Removed trips
+||Trip|Headsign|Start time|Duration|Days|
+|--:|:--|:--|--:|--:|:--|
+|1|68101265-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|04:45:00|0:44:00|—|
+|2|68101267-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:20:00|1:00:00|—|
+|3|68101269-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|04:45:00|1:00:00|—|
+|4|68101270-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:20:00|1:00:00|—|
+|5|68101271-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:10:00|1:00:00|—|
+|6|68101272-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:30:00|1:00:00|—|
+|7|68101273-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:40:00|1:00:00|—|
+|8|68101274-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:49:00|1:00:00|—|
+|9|68101275-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:29:00|1:01:00|—|
+|10|68101276-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|05:14:00|0:59:00|—|
+|11|68101277-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|05:35:00|0:59:00|—|
+|12|68101278-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|05:55:00|0:59:00|—|
+|13|68101279-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:46:00|1:03:00|—|
+|14|68101280-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:54:00|1:03:00|—|
+|15|68101282-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:38:00|1:02:00|—|
+|16|68101299-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:12:00|0:59:00|—|
+|17|68101300-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:02:00|1:00:00|—|
+|18|68101301-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|06:03:00|0:59:00|—|
+|19|68101303-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|04:53:00|1:00:00|—|
+|20|68101304-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|05:45:00|0:59:00|—|
+|21|68101484-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:52:00|1:04:00|—|
+|22|68101485-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:51:00|1:03:00|—|
+|23|68101486-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:43:00|1:03:00|—|
+|24|68101487-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:36:00|1:03:00|—|
+|25|68101488-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:27:00|1:03:00|—|
+|26|68101489-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:21:00|1:02:00|—|
+|27|68101490-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:35:00|1:03:00|—|
+|28|68101491-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:08:00|1:03:00|—|
+|29|68101492-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:59:00|1:03:00|—|
+|30|68101493-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:29:00|1:02:00|—|
+|31|68101494-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:14:00|1:01:00|—|
+|32|68101495-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:18:00|1:03:00|—|
+|33|68101496-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:44:00|1:03:00|—|
+|34|68101497-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:02:00|1:03:00|—|
+|35|68101498-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|05:58:00|1:00:00|—|
+|36|68101499-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|07:10:00|1:03:00|—|
+|37|68101500-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:06:00|1:00:00|—|
+|38|68101501-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|06:59:00|1:05:00|—|
+|39|68101502-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:16:00|1:02:00|—|
+|40|68101503-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:07:00|1:05:00|—|
+|41|68101504-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:24:00|1:02:00|—|
+|42|68101505-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:15:00|1:05:00|—|
+|43|68101506-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:32:00|1:02:00|—|
+|44|68101507-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:23:00|1:05:00|—|
+|45|68101508-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:39:00|1:05:00|—|
+|46|68101509-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:40:00|1:02:00|—|
+|47|68101510-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:31:00|1:05:00|—|
+|48|68101511-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:48:00|1:02:00|—|
+|49|68101512-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|08:56:00|1:02:00|—|
+|50|68101513-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:47:00|1:05:00|—|
+|51|68101514-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:04:00|1:02:00|—|
+|52|68101515-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|07:55:00|1:05:00|—|
+|53|68101516-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:12:00|1:02:00|—|
+|54|68101517-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:03:00|1:05:00|—|
+|55|68101518-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:20:00|1:02:00|—|
+|56|68101519-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:11:00|1:05:00|—|
+|57|68101520-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:28:00|1:02:00|—|
+|58|68101521-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:19:00|1:05:00|—|
+|59|68101522-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:36:00|1:02:00|—|
+|60|68101523-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:27:00|1:05:00|—|
+|61|68101524-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:43:00|1:05:00|—|
+|62|68101525-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:44:00|1:02:00|—|
+|63|68101526-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:35:00|1:05:00|—|
+|64|68101527-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|09:52:00|1:02:00|—|
+|65|68101528-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:00:00|1:02:00|—|
+|66|68101529-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:51:00|1:05:00|—|
+|67|68101530-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:08:00|1:02:00|—|
+|68|68101531-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|08:59:00|1:05:00|—|
+|69|68101532-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:16:00|1:02:00|—|
+|70|68101533-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:06:00|1:05:00|—|
+|71|68101534-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:23:00|1:02:00|—|
+|72|68101535-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:14:00|1:05:00|—|
+|73|68101536-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:31:00|1:02:00|—|
+|74|68101537-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:22:00|1:05:00|—|
+|75|68101538-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:39:00|1:02:00|—|
+|76|68101539-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:30:00|1:05:00|—|
+|77|68101540-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:47:00|1:02:00|—|
+|78|68101541-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:38:00|1:04:00|—|
+|79|68101542-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|10:54:00|1:02:00|—|
+|80|68101543-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:46:00|1:04:00|—|
+|81|68101544-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:01:00|1:03:00|—|
+|82|68101545-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:02:00|1:02:00|—|
+|83|68101546-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|09:54:00|1:03:00|—|
+|84|68101547-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:10:00|1:02:00|—|
+|85|68101548-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:18:00|1:02:00|—|
+|86|68101549-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:09:00|1:03:00|—|
+|87|68101550-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:26:00|1:02:00|—|
+|88|68101551-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:17:00|1:03:00|—|
+|89|68101552-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:34:00|1:02:00|—|
+|90|68101553-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:25:00|1:03:00|—|
+|91|68101554-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:42:00|1:02:00|—|
+|92|68101555-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:57:00|1:02:00|—|
+|93|68101556-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:33:00|1:03:00|—|
+|94|68101557-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|11:50:00|1:02:00|—|
+|95|68101558-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:41:00|1:03:00|—|
+|96|68101559-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:49:00|1:03:00|—|
+|97|68101560-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:05:00|1:03:00|—|
+|98|68101561-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:05:00|1:02:00|—|
+|99|68101562-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|10:57:00|1:03:00|—|
+|100|68101563-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:13:00|1:02:00|—|
+|101|68101564-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:21:00|1:02:00|—|
+|102|68101565-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:13:00|1:03:00|—|
+|103|68101566-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:29:00|1:02:00|—|
+|104|68101567-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:21:00|1:03:00|—|
+|105|68101568-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:37:00|1:02:00|—|
+|106|68101569-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:29:00|1:03:00|—|
+|107|68101570-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:45:00|1:02:00|—|
+|108|68101571-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:36:00|1:03:00|—|
+|109|68101572-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|12:53:00|1:02:00|—|
+|110|68101573-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:44:00|1:03:00|—|
+|111|68101574-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:01:00|1:02:00|—|
+|112|68101575-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|11:52:00|1:03:00|—|
+|113|68101576-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:09:00|1:02:00|—|
+|114|68101577-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:00:00|1:03:00|—|
+|115|68101578-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:16:00|1:02:00|—|
+|116|68101579-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:07:00|1:03:00|—|
+|117|68101580-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:23:00|1:04:00|—|
+|118|68101581-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:24:00|1:02:00|—|
+|119|68101582-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:15:00|1:03:00|—|
+|120|68101583-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:32:00|1:02:00|—|
+|121|68101584-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:40:00|1:02:00|—|
+|122|68101585-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:31:00|1:04:00|—|
+|123|68101586-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:48:00|1:02:00|—|
+|124|68101587-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:39:00|1:05:00|—|
+|125|68101588-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|13:56:00|1:02:00|—|
+|126|68101589-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:47:00|1:05:00|—|
+|127|68101590-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:04:00|1:02:00|—|
+|128|68101591-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:20:00|1:03:00|—|
+|129|68101592-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|12:55:00|1:05:00|—|
+|130|68101593-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:12:00|1:03:00|—|
+|131|68101594-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:03:00|1:05:00|—|
+|132|68101595-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:10:00|1:05:00|—|
+|133|68101596-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:26:00|1:05:00|—|
+|134|68101597-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:27:00|1:04:00|—|
+|135|68101598-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:18:00|1:05:00|—|
+|136|68101599-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:35:00|1:04:00|—|
+|137|68101600-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:43:00|1:05:00|—|
+|138|68101601-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:34:00|1:05:00|—|
+|139|68101602-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:51:00|1:05:00|—|
+|140|68101603-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:42:00|1:05:00|—|
+|141|68101604-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|14:59:00|1:05:00|—|
+|142|68101605-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:50:00|1:05:00|—|
+|143|68101606-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:07:00|1:05:00|—|
+|144|68101607-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|13:58:00|1:05:00|—|
+|145|68101608-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:15:00|1:05:00|—|
+|146|68101609-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:06:00|1:05:00|—|
+|147|68101610-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:23:00|1:05:00|—|
+|148|68101611-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:14:00|1:05:00|—|
+|149|68101612-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:31:00|1:05:00|—|
+|150|68101613-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:22:00|1:05:00|—|
+|151|68101614-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:39:00|1:05:00|—|
+|152|68101615-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:30:00|1:05:00|—|
+|153|68101616-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:55:00|1:05:00|—|
+|154|68101617-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|15:47:00|1:05:00|—|
+|155|68101618-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:55:00|0:57:00|—|
+|156|68101619-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:38:00|1:05:00|—|
+|157|68101620-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:46:00|1:05:00|—|
+|158|68101621-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:03:00|1:05:00|—|
+|159|68101622-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|14:54:00|1:05:00|—|
+|160|68101623-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:11:00|1:05:00|—|
+|161|68101624-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:02:00|1:05:00|—|
+|162|68101625-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:19:00|1:05:00|—|
+|163|68101626-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:10:00|1:05:00|—|
+|164|68101627-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:25:00|1:06:00|—|
+|165|68101628-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:27:00|1:05:00|—|
+|166|68101629-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:18:00|1:06:00|—|
+|167|68101630-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:35:00|1:05:00|—|
+|168|68101631-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:41:00|1:06:00|—|
+|169|68101632-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:43:00|1:05:00|—|
+|170|68101633-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:33:00|1:06:00|—|
+|171|68101634-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:51:00|1:05:00|—|
+|172|68101635-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|16:59:00|1:05:00|—|
+|173|68101636-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:48:00|1:07:00|—|
+|174|68101637-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:07:00|1:05:00|—|
+|175|68101638-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|15:56:00|1:07:00|—|
+|176|68101639-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:15:00|1:05:00|—|
+|177|68101640-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:03:00|1:07:00|—|
+|178|68101641-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:22:00|1:05:00|—|
+|179|68101642-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:11:00|1:07:00|—|
+|180|68101643-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:30:00|1:05:00|—|
+|181|68101644-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:19:00|1:07:00|—|
+|182|68101645-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:38:00|1:05:00|—|
+|183|68101646-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:27:00|1:07:00|—|
+|184|68101647-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:46:00|1:05:00|—|
+|185|68101648-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:35:00|1:07:00|—|
+|186|68101649-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:51:00|1:07:00|—|
+|187|68101650-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|17:54:00|1:05:00|—|
+|188|68101651-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:59:00|1:07:00|—|
+|189|68101652-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|16:43:00|1:07:00|—|
+|190|68101653-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:02:00|1:05:00|—|
+|191|68101654-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:10:00|1:04:00|—|
+|192|68101655-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:18:00|1:04:00|—|
+|193|68101656-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:06:00|1:07:00|—|
+|194|68101657-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:25:00|1:02:00|—|
+|195|68101658-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:14:00|1:07:00|—|
+|196|68101659-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:33:00|1:02:00|—|
+|197|68101660-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:22:00|1:07:00|—|
+|198|68101661-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:41:00|1:01:00|—|
+|199|68101662-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:30:00|1:07:00|—|
+|200|68101663-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:49:00|1:01:00|—|
+|201|68101664-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:38:00|1:06:00|—|
+|202|68101665-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|18:56:00|1:01:00|—|
+|203|68101666-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:10:00|1:01:00|—|
+|204|68101667-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:45:00|1:06:00|—|
+|205|68101668-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:03:00|1:01:00|—|
+|206|68101669-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|17:53:00|1:05:00|—|
+|207|68101670-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:00:00|1:05:00|—|
+|208|68101671-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:17:00|1:01:00|—|
+|209|68101672-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:08:00|1:05:00|—|
+|210|68101673-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:25:00|1:01:00|—|
+|211|68101674-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:16:00|1:05:00|—|
+|212|68101675-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:33:00|1:01:00|—|
+|213|68101676-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:24:00|1:05:00|—|
+|214|68101677-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:41:00|1:01:00|—|
+|215|68101678-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:31:00|1:05:00|—|
+|216|68101679-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:48:00|1:01:00|—|
+|217|68101680-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:39:00|1:05:00|—|
+|218|68101681-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|19:56:00|1:01:00|—|
+|219|68101682-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:47:00|1:05:00|—|
+|220|68101683-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:04:00|1:01:00|—|
+|221|68101684-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|18:55:00|1:05:00|—|
+|222|68101685-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:12:00|1:01:00|—|
+|223|68101686-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:28:00|1:01:00|—|
+|224|68101687-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:03:00|1:05:00|—|
+|225|68101688-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:20:00|1:01:00|—|
+|226|68101689-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:11:00|1:05:00|—|
+|227|68101690-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:20:00|1:05:00|—|
+|228|68101691-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:37:00|1:01:00|—|
+|229|68101692-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:28:00|1:05:00|—|
+|230|68101693-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:45:00|1:01:00|—|
+|231|68101694-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:36:00|1:05:00|—|
+|232|68101695-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|20:53:00|1:01:00|—|
+|233|68101696-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:45:00|1:05:00|—|
+|234|68101697-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Reservoir|21:02:00|0:43:00|—|
+|235|68101698-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|19:53:00|1:05:00|—|
+|236|68101699-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:10:00|1:01:00|—|
+|237|68101700-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:01:00|1:05:00|—|
+|238|68101701-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:18:00|1:03:00|—|
+|239|68101702-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:17:00|1:01:00|—|
+|240|68101703-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:09:00|1:04:00|—|
+|241|68101704-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:24:00|1:01:00|—|
+|242|68101705-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:32:00|1:01:00|—|
+|243|68101706-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:26:00|1:03:00|—|
+|244|68101707-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:40:00|1:01:00|—|
+|245|68101708-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:34:00|1:03:00|—|
+|246|68101709-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:48:00|1:01:00|—|
+|247|68101710-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:43:00|1:03:00|—|
+|248|68101711-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|21:57:00|1:01:00|—|
+|249|68101712-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|20:52:00|1:03:00|—|
+|250|68101713-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:06:00|1:01:00|—|
+|251|68101714-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:01:00|1:02:00|—|
+|252|68101715-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:14:00|1:01:00|—|
+|253|68101716-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:10:00|1:02:00|—|
+|254|68101717-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:23:00|1:01:00|—|
+|255|68101718-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:19:00|1:02:00|—|
+|256|68101719-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:32:00|1:00:00|—|
+|257|68101720-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:29:00|1:02:00|—|
+|258|68101721-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:47:00|1:02:00|—|
+|259|68101722-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:42:00|0:59:00|—|
+|260|68101723-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:38:00|1:02:00|—|
+|261|68101724-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|22:51:00|0:59:00|—|
+|262|68101725-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:00:00|0:59:00|—|
+|263|68101726-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|21:56:00|1:02:00|—|
+|264|68101727-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:09:00|0:59:00|—|
+|265|68101728-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:05:00|1:02:00|—|
+|266|68101729-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:18:00|0:59:00|—|
+|267|68101730-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:15:00|1:02:00|—|
+|268|68101731-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:28:00|0:59:00|—|
+|269|68101732-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:25:00|0:59:00|—|
+|270|68101733-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:38:00|0:59:00|—|
+|271|68101734-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:35:00|0:58:00|—|
+|272|68101735-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:48:00|0:59:00|—|
+|273|68101736-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|23:58:00|0:59:00|—|
+|274|68101737-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:45:00|0:58:00|—|
+|275|68101738-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|00:05:00|0:57:00|—|
+|276|68101739-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|22:55:00|0:57:00|—|
+|277|68101740-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:05:00|0:57:00|—|
+|278|68101741-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:08:00|0:59:00|—|
+|279|68101742-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:15:00|0:57:00|—|
+|280|68101743-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:18:00|0:59:00|—|
+|281|68101744-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:25:00|0:57:00|—|
+|282|68101745-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:28:00|0:59:00|—|
+|283|68101746-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:37:00|0:59:00|—|
+|284|68101747-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:35:00|0:57:00|—|
+|285|68101748-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:46:00|0:59:00|—|
+|286|68101749-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|23:45:00|0:57:00|—|
+|287|68101750-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Union Square|00:15:00|0:57:00|—|
+|288|68101755-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Riverside|00:55:00|0:59:00|—|
+## 🚊 Green-E | Green Line E
+- Trip numbers ⬇️ 329 from 1960 to 1631
+- Average duration ⬇️ 0:01:34 overall from 0:42:13 to 0:40:39
+- ✅ No new trips
+- ❌ 329 trips removed with an average duration of 0:50:03
+### ❌ Removed trips
+||Trip|Headsign|Start time|Duration|Days|
+|--:|:--|:--|--:|--:|:--|
+|1|68101281-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|04:50:00|0:44:00|—|
+|2|68101302-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:25:00|0:44:00|—|
+|3|68101783-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:10:00|0:48:00|—|
+|4|68101784-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:24:00|0:48:00|—|
+|5|68101785-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:57:00|0:50:00|—|
+|6|68101786-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:47:00|0:50:00|—|
+|7|68101787-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:31:00|0:49:00|—|
+|8|68101788-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:54:00|0:51:00|—|
+|9|68101789-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:02:00|0:53:00|—|
+|10|68101790-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:39:00|0:50:00|—|
+|11|68101791-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:34:00|0:50:00|—|
+|12|68101792-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:25:00|0:50:00|—|
+|13|68101793-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:12:00|0:50:00|—|
+|14|68101794-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:01:00|0:50:00|—|
+|15|68101795-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:13:00|0:50:00|—|
+|16|68101796-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:05:00|0:50:00|—|
+|17|68101797-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:09:00|0:53:00|—|
+|18|68101798-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:20:00|0:50:00|—|
+|19|68101799-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:17:00|0:53:00|—|
+|20|68101800-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:27:00|0:51:00|—|
+|21|68101801-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:25:00|0:53:00|—|
+|22|68101802-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:33:00|0:51:00|—|
+|23|68101803-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:32:00|0:53:00|—|
+|24|68101804-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:40:00|0:52:00|—|
+|25|68101805-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:39:00|0:53:00|—|
+|26|68101806-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:47:00|0:52:00|—|
+|27|68101807-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:46:00|0:53:00|—|
+|28|68101808-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:36:00|0:53:00|—|
+|29|68101809-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|06:55:00|0:52:00|—|
+|30|68101810-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:54:00|0:53:00|—|
+|31|68101811-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:43:00|0:53:00|—|
+|32|68101812-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:29:00|0:53:00|—|
+|33|68101813-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:22:00|0:53:00|—|
+|34|68101814-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:50:00|0:53:00|—|
+|35|68101815-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:50:00|0:53:00|—|
+|36|68101816-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:29:00|0:53:00|—|
+|37|68101817-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:22:00|0:53:00|—|
+|38|68101818-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:15:00|0:53:00|—|
+|39|68101819-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:15:00|0:53:00|—|
+|40|68101820-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:08:00|0:53:00|—|
+|41|68101821-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:08:00|0:53:00|—|
+|42|68101822-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:57:00|0:53:00|—|
+|43|68101823-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:01:00|0:53:00|—|
+|44|68101824-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:01:00|0:53:00|—|
+|45|68101825-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:57:00|0:53:00|—|
+|46|68101826-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|07:43:00|0:53:00|—|
+|47|68101827-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|08:36:00|0:53:00|—|
+|48|68101828-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:03:00|0:53:00|—|
+|49|68101829-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:38:00|0:54:00|—|
+|50|68101830-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:45:00|0:54:00|—|
+|51|68101831-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:30:00|0:54:00|—|
+|52|68101832-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:46:00|0:53:00|—|
+|53|68101833-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:09:00|0:53:00|—|
+|54|68101834-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:25:00|0:53:00|—|
+|55|68101835-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:03:00|0:53:00|—|
+|56|68101836-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:23:00|0:54:00|—|
+|57|68101837-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:32:00|0:53:00|—|
+|58|68101838-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:17:00|0:53:00|—|
+|59|68101839-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:53:00|0:53:00|—|
+|60|68101840-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:16:00|0:54:00|—|
+|61|68101841-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:39:00|0:53:00|—|
+|62|68101842-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|08:52:00|0:54:00|—|
+|63|68101843-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:38:00|0:53:00|—|
+|64|68101844-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|09:10:00|0:53:00|—|
+|65|68101845-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:16:00|0:53:00|—|
+|66|68101846-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:00:00|0:53:00|—|
+|67|68101847-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:35:00|0:53:00|—|
+|68|68101848-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:52:00|0:53:00|—|
+|69|68101849-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:02:00|0:53:00|—|
+|70|68101850-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:38:00|0:53:00|—|
+|71|68101851-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:02:00|0:53:00|—|
+|72|68101852-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:31:00|0:53:00|—|
+|73|68101853-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:49:00|0:53:00|—|
+|74|68101854-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:31:00|0:53:00|—|
+|75|68101855-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:42:00|0:53:00|—|
+|76|68101856-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:23:00|0:53:00|—|
+|77|68101857-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:45:00|0:53:00|—|
+|78|68101858-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:28:00|0:53:00|—|
+|79|68101859-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:59:00|0:53:00|—|
+|80|68101860-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:21:00|0:53:00|—|
+|81|68101861-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:07:00|0:53:00|—|
+|82|68101862-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:23:00|0:53:00|—|
+|83|68101863-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:45:00|0:53:00|—|
+|84|68101864-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:21:00|0:53:00|—|
+|85|68101865-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:59:00|0:53:00|—|
+|86|68101866-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:14:00|0:53:00|—|
+|87|68101867-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:07:00|0:53:00|—|
+|88|68101868-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:52:00|0:53:00|—|
+|89|68101869-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:14:00|0:53:00|—|
+|90|68101870-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|11:09:00|0:53:00|—|
+|91|68101871-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:00:00|0:53:00|—|
+|92|68101872-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:16:00|0:53:00|—|
+|93|68101873-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|10:09:00|0:53:00|—|
+|94|68101874-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:56:00|0:53:00|—|
+|95|68101875-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:49:00|0:53:00|—|
+|96|68101876-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:56:00|0:53:00|—|
+|97|68101877-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:28:00|0:53:00|—|
+|98|68101878-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:29:00|0:53:00|—|
+|99|68101879-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|09:35:00|0:53:00|—|
+|100|68101880-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|10:42:00|0:53:00|—|
+|101|68101881-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:29:00|0:53:00|—|
+|102|68101882-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:12:00|0:53:00|—|
+|103|68101883-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:12:00|0:53:00|—|
+|104|68101884-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:40:00|0:53:00|—|
+|105|68101885-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:40:00|0:53:00|—|
+|106|68101886-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:05:00|0:53:00|—|
+|107|68101887-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:05:00|0:53:00|—|
+|108|68101888-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:58:00|0:53:00|—|
+|109|68101889-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:58:00|0:53:00|—|
+|110|68101890-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:51:00|0:53:00|—|
+|111|68101891-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:51:00|0:53:00|—|
+|112|68101892-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:47:00|0:53:00|—|
+|113|68101893-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:44:00|0:53:00|—|
+|114|68101894-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:44:00|0:53:00|—|
+|115|68101895-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:47:00|0:53:00|—|
+|116|68101896-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:26:00|0:53:00|—|
+|117|68101897-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:26:00|0:53:00|—|
+|118|68101898-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:54:00|0:53:00|—|
+|119|68101899-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:37:00|0:53:00|—|
+|120|68101900-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:37:00|0:53:00|—|
+|121|68101901-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:54:00|0:53:00|—|
+|122|68101902-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:19:00|0:53:00|—|
+|123|68101903-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:19:00|0:53:00|—|
+|124|68101904-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|14:33:00|0:53:00|—|
+|125|68101905-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|13:33:00|0:53:00|—|
+|126|68101906-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:15:00|0:53:00|—|
+|127|68101907-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:15:00|0:53:00|—|
+|128|68101908-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:22:00|0:53:00|—|
+|129|68101909-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:22:00|0:53:00|—|
+|130|68101910-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:08:00|0:53:00|—|
+|131|68101911-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:08:00|0:53:00|—|
+|132|68101912-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|13:02:00|0:53:00|—|
+|133|68101913-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:06:00|0:53:00|—|
+|134|68101914-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|12:02:00|0:53:00|—|
+|135|68101915-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:55:00|0:53:00|—|
+|136|68101916-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:55:00|0:53:00|—|
+|137|68101917-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:06:00|0:53:00|—|
+|138|68101918-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:13:00|0:53:00|—|
+|139|68101919-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:13:00|0:53:00|—|
+|140|68101920-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:20:00|0:53:00|—|
+|141|68101921-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:20:00|0:53:00|—|
+|142|68101922-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:27:00|0:53:00|—|
+|143|68101923-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:27:00|0:53:00|—|
+|144|68101924-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:34:00|0:53:00|—|
+|145|68101925-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:34:00|0:53:00|—|
+|146|68101926-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:41:00|0:53:00|—|
+|147|68101927-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:41:00|0:53:00|—|
+|148|68101928-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|11:48:00|0:53:00|—|
+|149|68101929-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|12:48:00|0:53:00|—|
+|150|68101930-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:12:00|0:55:00|—|
+|151|68101931-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:14:00|0:53:00|—|
+|152|68101932-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:34:00|0:55:00|—|
+|153|68101933-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:35:00|0:53:00|—|
+|154|68101934-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:50:00|0:55:00|—|
+|155|68101935-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:49:00|0:55:00|—|
+|156|68101936-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:26:00|0:55:00|—|
+|157|68101937-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:32:00|0:54:00|—|
+|158|68101938-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:43:00|0:55:00|—|
+|159|68101939-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:43:00|0:53:00|—|
+|160|68101940-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:25:00|0:54:00|—|
+|161|68101941-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:01:00|0:53:00|—|
+|162|68101942-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:19:00|0:55:00|—|
+|163|68101943-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:28:00|0:55:00|—|
+|164|68101944-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:54:00|0:55:00|—|
+|165|68101945-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:08:00|0:53:00|—|
+|166|68101946-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:42:00|0:55:00|—|
+|167|68101947-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:28:00|0:53:00|—|
+|168|68101948-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:01:00|0:54:00|—|
+|169|68101949-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:18:00|0:54:00|—|
+|170|68101950-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:57:00|0:53:00|—|
+|171|68101951-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:56:00|0:55:00|—|
+|172|68101952-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:40:00|0:55:00|—|
+|173|68101953-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:21:00|0:55:00|—|
+|174|68101954-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:47:00|0:55:00|—|
+|175|68101955-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:21:00|0:53:00|—|
+|176|68101956-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|16:04:00|0:55:00|—|
+|177|68101957-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:14:00|0:55:00|—|
+|178|68101958-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:11:00|0:54:00|—|
+|179|68101959-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:08:00|0:54:00|—|
+|180|68101960-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|15:04:00|0:53:00|—|
+|181|68101961-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:35:00|0:55:00|—|
+|182|68101962-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|15:57:00|0:55:00|—|
+|183|68101963-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|14:50:00|0:53:00|—|
+|184|68101964-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:51:00|0:52:00|—|
+|185|68101965-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:51:00|0:53:00|—|
+|186|68101966-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:28:00|0:54:00|—|
+|187|68101967-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:34:00|0:53:00|—|
+|188|68101968-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:27:00|0:53:00|—|
+|189|68101969-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:36:00|0:52:00|—|
+|190|68101970-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:42:00|0:50:00|—|
+|191|68101971-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:52:00|0:55:00|—|
+|192|68101972-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:01:00|0:54:00|—|
+|193|68101973-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:58:00|0:48:00|—|
+|194|68101974-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:21:00|0:54:00|—|
+|195|68101975-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:55:00|0:53:00|—|
+|196|68101976-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:59:00|0:55:00|—|
+|197|68101977-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:54:00|0:55:00|—|
+|198|68101978-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:19:00|0:53:00|—|
+|199|68101979-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:08:00|0:54:00|—|
+|200|68101980-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:06:00|0:55:00|—|
+|201|68101981-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:41:00|0:53:00|—|
+|202|68101982-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:14:00|0:54:00|—|
+|203|68101983-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:58:00|0:53:00|—|
+|204|68101984-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:48:00|0:53:00|—|
+|205|68101985-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:05:00|0:53:00|—|
+|206|68101986-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|18:12:00|0:53:00|—|
+|207|68101987-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:43:00|0:52:00|—|
+|208|68101988-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:29:00|0:52:00|—|
+|209|68101989-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:43:00|0:53:00|—|
+|210|68101990-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:22:00|0:53:00|—|
+|211|68101991-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|17:35:00|0:53:00|—|
+|212|68101992-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:15:00|0:53:00|—|
+|213|68101993-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:01:00|0:55:00|—|
+|214|68101994-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:03:00|0:55:00|—|
+|215|68101995-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:08:00|0:55:00|—|
+|216|68101996-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:10:00|0:55:00|—|
+|217|68101997-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:16:00|0:55:00|—|
+|218|68101998-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:18:00|0:55:00|—|
+|219|68101999-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:23:00|0:55:00|—|
+|220|68102000-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:25:00|0:55:00|—|
+|221|68102001-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:30:00|0:55:00|—|
+|222|68102002-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:32:00|0:55:00|—|
+|223|68102003-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:46:00|0:55:00|—|
+|224|68102004-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:37:00|0:55:00|—|
+|225|68102005-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|17:39:00|0:55:00|—|
+|226|68102006-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|16:44:00|0:55:00|—|
+|227|68102007-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|05:50:00|0:50:00|—|
+|228|68102008-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:09:00|0:53:00|—|
+|229|68102009-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:36:00|0:53:00|—|
+|230|68102010-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:16:00|0:53:00|—|
+|231|68102011-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:03:00|0:53:00|—|
+|232|68102012-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:29:00|0:53:00|—|
+|233|68102013-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:50:00|0:52:00|—|
+|234|68102014-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:43:00|0:52:00|—|
+|235|68102015-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:57:00|0:52:00|—|
+|236|68102016-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|19:22:00|0:53:00|—|
+|237|68102017-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:55:00|0:52:00|—|
+|238|68102018-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:27:00|0:52:00|—|
+|239|68102019-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:48:00|0:52:00|—|
+|240|68102020-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:41:00|0:52:00|—|
+|241|68102021-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:34:00|0:52:00|—|
+|242|68102022-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:19:00|0:52:00|—|
+|243|68102023-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:12:00|0:52:00|—|
+|244|68102024-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|19:05:00|0:52:00|—|
+|245|68102025-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|18:58:00|0:52:00|—|
+|246|68102026-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:57:00|0:49:00|—|
+|247|68102027-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:49:00|0:50:00|—|
+|248|68102028-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:36:00|0:51:00|—|
+|249|68102029-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:42:00|0:51:00|—|
+|250|68102030-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:29:00|0:51:00|—|
+|251|68102031-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:09:00|0:52:00|—|
+|252|68102032-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:22:00|0:52:00|—|
+|253|68102033-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:02:00|0:52:00|—|
+|254|68102034-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|20:16:00|0:52:00|—|
+|255|68102035-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:13:00|0:09:00|—|
+|256|68102036-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:22:00|0:09:00|—|
+|257|68102037-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:00:00|0:09:00|—|
+|258|68102038-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:28:00|0:09:00|—|
+|259|68102039-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:08:00|0:09:00|—|
+|260|68102040-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:45:00|0:09:00|—|
+|261|68102041-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:53:00|0:09:00|—|
+|262|68102042-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|07:51:00|0:09:00|—|
+|263|68102043-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:15:00|0:09:00|—|
+|264|68102044-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:21:00|0:09:00|—|
+|265|68102045-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:49:00|0:09:00|—|
+|266|68102046-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:43:00|0:09:00|—|
+|267|68102047-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:38:00|0:09:00|—|
+|268|68102048-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:30:00|0:09:00|—|
+|269|68102049-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:54:00|0:47:00|—|
+|270|68102050-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:00:00|0:47:00|—|
+|271|68102051-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:13:00|0:52:00|—|
+|272|68102052-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:12:00|0:49:00|—|
+|273|68102053-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:46:00|0:47:00|—|
+|274|68102054-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:05:00|0:52:00|—|
+|275|68102055-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:04:00|0:49:00|—|
+|276|68102056-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:21:00|0:52:00|—|
+|277|68102057-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:20:00|0:49:00|—|
+|278|68102058-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:29:00|0:52:00|—|
+|279|68102059-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:28:00|0:49:00|—|
+|280|68102060-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:36:00|0:52:00|—|
+|281|68102061-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:35:00|0:49:00|—|
+|282|68102062-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:44:00|0:52:00|—|
+|283|68102063-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:43:00|0:49:00|—|
+|284|68102064-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|20:52:00|0:52:00|—|
+|285|68102065-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:51:00|0:49:00|—|
+|286|68102066-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:00:00|0:52:00|—|
+|287|68102067-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|21:59:00|0:49:00|—|
+|288|68102068-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:09:00|0:52:00|—|
+|289|68102069-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:08:00|0:49:00|—|
+|290|68102070-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:17:00|0:52:00|—|
+|291|68102071-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:16:00|0:49:00|—|
+|292|68102072-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:26:00|0:52:00|—|
+|293|68102073-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:25:00|0:49:00|—|
+|294|68102074-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:34:00|0:52:00|—|
+|295|68102075-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:33:00|0:49:00|—|
+|296|68102076-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:42:00|0:52:00|—|
+|297|68102077-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:41:00|0:47:00|—|
+|298|68102078-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:51:00|0:52:00|—|
+|299|68102079-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:50:00|0:47:00|—|
+|300|68102080-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|21:59:00|0:52:00|—|
+|301|68102081-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|22:58:00|0:47:00|—|
+|302|68102082-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:08:00|0:52:00|—|
+|303|68102083-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:07:00|0:47:00|—|
+|304|68102084-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:17:00|0:51:00|—|
+|305|68102085-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:15:00|0:47:00|—|
+|306|68102086-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:30:00|0:47:00|—|
+|307|68102087-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:42:00|0:49:00|—|
+|308|68102088-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:26:00|0:50:00|—|
+|309|68102089-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:23:00|0:47:00|—|
+|310|68102090-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:34:00|0:49:00|—|
+|311|68102091-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|23:38:00|0:47:00|—|
+|312|68102092-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|22:51:00|0:48:00|—|
+|313|68102094-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:57:00|0:47:00|—|
+|314|68102095-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:25:00|0:47:00|—|
+|315|68102096-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:31:00|0:47:00|—|
+|316|68102097-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:41:00|0:47:00|—|
+|317|68102098-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:52:00|0:47:00|—|
+|318|68102099-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:20:00|0:47:00|—|
+|319|68102100-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:42:00|0:48:00|—|
+|320|68102101-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|00:04:00|0:47:00|—|
+|321|68102102-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:14:00|0:47:00|—|
+|322|68102103-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|06:17:00|0:48:00|—|
+|323|68102104-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:46:00|0:47:00|—|
+|324|68102105-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|23:10:00|0:47:00|—|
+|325|68102107-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:35:00|0:47:00|—|
+|326|68102108-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|00:04:00|0:47:00|—|
+|327|68102109-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Heath Street|00:19:00|0:47:00|—|
+|328|68102123-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|04:49:00|0:09:00|—|
+|329|68102124-10:00-18:00-CopleyClosedKentClosedSouthStClosedStMarysClosed|Medford/Tufts|05:01:00|0:09:00|—|
 ## 🚌 Shuttle-AirportWonderland | Airport - Wonderland
 - Trip numbers did not change
 - Average duration did not change
