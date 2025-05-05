@@ -9,8 +9,8 @@ This is a Python script that compares two GTFS datasets and produces a report. D
 - `feed_info.txt`
 
 ## 🖥️ Requirements
-- Python 3.10.0 or later
-- `pip install email_validator pandas`
+- [Python](https://www.python.org/downloads/) 3.10.0 or later
+- Install Python libraries `pip install email_validator pandas`
 
 ## ▶️ Run
 1. Clone the repository `git clone https://github.com/joelcrampton/gtfs-comparison-script.git`
