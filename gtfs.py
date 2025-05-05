@@ -72,7 +72,7 @@ class Gtfs:
     # calendars.txt is ideal
     if self.calendars:
       days = self.calendars[service_id].get_days()
-    # calenar_dates.txt as an alternative
+    # calendar_dates.txt as an alternative
     if self.calendar_dates and not days:
       calendar_date = self.calendar_dates[service_id]
       days = [calendar_date.get_day()]
