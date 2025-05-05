@@ -21,5 +21,5 @@ This is a Python script that compares two GTFS datasets and produces a report. D
     - `--info` = include a table of new/removed trips for each route in the report (optional)
 5. The Python script will take anywhere from a few seconds to 10+ minutes to complete depending on the size of the GTFS data
 6. A Markdown report will be created in [`output/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/output). Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the outline to jump between sections quickly
-    - For now, new/removed trips are determined by `trip_id`. If the `trip_id` is in the new GTFS data and not in the old GTFS data then is it considered to be new. If the `trip_id` is in the new GTFS data and not in the old GTFS data then is it considered to be removed
+    - Currently, new/removed trips are determined by `trip_id`. If a `trip_id` is in the new GTFS data, but not in the old, then is it considered to be new. If a `trip_id` is in the old GTFS data, but not in the new, then is it considered to be removed
     - There are additional ways to determine new/removed trips e.g. `stop_id` sequence, trip duration or departure time. These will be investigated in the future...
