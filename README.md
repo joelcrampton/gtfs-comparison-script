@@ -13,4 +13,4 @@ This is a Python script that compares two GTFS datasets and produces a report. T
     - `--data` = the name of the directory containing the GTFS data e.g. `boston`
     - `--info` = include a table of new/removed trips for each route in the report (optional)
 5. The Python script will take approximately 5 minutes to complete depending on the size of the GTFS data
-6. A report named `region.md` will be created in `output/`. Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the Markdown outline to jump between sections quickly
+6. A Markdown report will be created in `output/`. Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the outline to jump between sections quickly
