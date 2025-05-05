@@ -71,11 +71,12 @@ class Gtfs:
     service_id = trip.service_id
     # calendars.txt is ideal
     if self.calendars:
-      days = self.calendars[service_id].get_days()
+      if service_id in self.calendars:
+        days = self.calendars[service_id].get_days()
     # calendar_dates.txt as an alternative
     if self.calendar_dates and not days:
-      calendar_date = self.calendar_dates[service_id]
-      days = [calendar_date.get_day()]
+      if service_id in self.calendar_dates:
+        days = [self.calendar_dates[service_id].get_day()]
     return days
 
   def get_days_count(self, trips: list[Trip]) -> dict[str, int]:
