@@ -2,7 +2,6 @@ import argparse
 import os
 import pandas as pd
 import shutil
-import sys
 import warnings
 import zipfile
 from collections import Counter
@@ -18,12 +17,6 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--data', required=True, help='The name of the directory containing the GTFS data')
 parser.add_argument('--info', action='store_false', help='Include a table of new/removed trips for each route in the report (optional)')
 args = parser.parse_args()
-
-DATA = sys.argv[1]
-INFO = False
-if len(sys.argv) > 2:
-  if sys.argv[2] == '--info':
-    INFO = True
 
 def load_data() -> tuple[Gtfs, Gtfs]:
   datasets = []
