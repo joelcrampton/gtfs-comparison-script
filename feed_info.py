@@ -31,7 +31,7 @@ class FeedInfo:
         if feed_publisher_name is None:
             raise ValueError('Missing feed_publisher_name')
         if feed_publisher_url is None:
-            raise ValueError(f'Invalid feed_publisher_url \'{feed_publisher_url}\'')
+            raise ValueError(f"Invalid feed_publisher_url '{feed_publisher_url}'")
         if feed_lang is None:
             raise ValueError('Missing feed_lang')
         

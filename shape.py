@@ -27,10 +27,10 @@ class Shape:
         if shape_pt_sequence is None:
             raise ValueError('Missing shape_pt_sequence')
         elif shape_pt_sequence < 0:
-                raise ValueError(f'Invalid shape_pt_sequence {shape_pt_sequence}. Must be non-negative')
+                raise ValueError(f"Invalid shape_pt_sequence {shape_pt_sequence}. Must be non-negative")
         if shape_dist_traveled is not None:
              if shape_dist_traveled < 0:
-                raise ValueError(f'Invalid shape_dist_traveled {shape_dist_traveled}. Must be non-negative')
+                raise ValueError(f"Invalid shape_dist_traveled {shape_dist_traveled}. Must be non-negative")
                   
         return self(shape_id, shape_pt_lat, shape_pt_lon, shape_pt_sequence, shape_dist_traveled)
     
