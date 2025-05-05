@@ -20,45 +20,6 @@ class Continuous(IntEnum):
     PHONE_AGENCY = 2
     COORDINATE_WITH_DRIVER = 3
 
-# calendar.txt
-class Day(IntEnum):
-    MONDAY = 1
-    TUESDAY = 2
-    WEDNESDAY = 3
-    THURSDAY = 4
-    FRIDAY = 5
-    SATURDAY = 6
-    SUNDAY = 7
-
-    def get_short_name(self) -> str:
-        match self:
-            case Day.MONDAY:
-                return 'mon'
-            case Day.TUESDAY:
-                return 'tues'
-            case Day.WEDNESDAY:
-                return 'weds'
-            case Day.THURSDAY:
-                return 'thurs'
-            case Day.FRIDAY:
-                return 'fri'
-            case Day.SATURDAY:
-                return 'sat'
-            case Day.SUNDAY:
-                return 'sun'
-
-    @classmethod
-    def get_week(self) -> list:
-        return [Day(i) for i in range(Day.MONDAY.value, Day.SUNDAY.value + 1)]
-    
-    @classmethod
-    def get_weekdays(self) -> list:
-        return self.get_week()[:5]
-    
-    @classmethod
-    def get_weekends(self) -> list:
-        return self.get_week()[5:]
-
 # trips.txt
 class DirectionId(IntEnum):
     OUTBOUND = 0

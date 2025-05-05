@@ -1,4 +1,5 @@
 import argparse
+import calendar
 import os
 import pandas as pd
 import shutil
@@ -8,14 +9,14 @@ from collections import Counter
 from datetime import datetime
 from gtfs import Gtfs, load
 from trip import Trip
-from enums import Day, Emoji
-from utils import format_total_seconds
+from enums import Emoji
+from utils import format_total_seconds, sort_days
 
 warnings.simplefilter('ignore', category=pd.errors.DtypeWarning) # Suppress DtypeWarnings from pandas
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--data', required=True, help='The name of the directory containing the GTFS data')
-parser.add_argument('--info', action='store_false', help='Include a table of new/removed trips for each route in the report (optional)')
+parser.add_argument('data', help='The name of the directory containing the GTFS data')
+parser.add_argument('--info', action='store_true', help='Include a table of new/removed trips for each route in the report (optional)')
 args = parser.parse_args()
 
 def load_data() -> tuple[Gtfs, Gtfs]:
@@ -45,25 +46,24 @@ def load_data() -> tuple[Gtfs, Gtfs]:
       after = gtfs
   return before, after
 
-def join_days(days: list[Day]) -> str:
+def join_days(days: list[str]) -> str:
   if not days:
     return ''
   if len(days) == 1:
-    return days[0].name.title()
-  return ', '.join(d.name.title() for d in days[:-1]) + ' and ' + days[-1].name.title()
+    return days[0]
+  return ', '.join(days[:-1]) + ' and ' + days[-1]
 
-def summarise_days_count(days_count: dict[Day, int], file):
-  if not days_count:
-    return
-  impacted_value = max(days_count.values())
-  impacted_days = sorted([k for k, v in days_count.items() if v == impacted_value])
-  if set(impacted_days) != set(Day.get_week()): # Only report Days if some are impacted more than others
-    days = join_days(impacted_days)
-    if set(impacted_days) == set(Day.get_weekdays()):
-      days = 'Weekdays'
-    if set(impacted_days) == set(Day.get_weekends()):
-      days = 'Weekends'
-    print(f"- {Emoji.CALENDAR.value} {days} {'was' if len(impacted_days) == 1 else 'were'} impacted the most", file=file)
+def summarise_days_count(days_count: dict[str, int], file):
+  if days_count:
+    impacted_value = max(days_count.values())
+    impacted_days = sort_days([k for k, v in days_count.items() if v == impacted_value])
+    if impacted_days != list(calendar.day_name): # Only report days if some are impacted more than others
+      days = join_days(impacted_days)
+      if impacted_days == list(calendar.day_name)[:5]:
+        days = 'Weekdays'
+      if impacted_days == list(calendar.day_name)[5:]:
+        days = 'Weekends'
+      print(f"- {Emoji.CALENDAR.value} {days} {'was' if len(impacted_days) == 1 else 'were'} impacted the most", file=file)
 
 def summarise_trips(gtfs: Gtfs, trips: list[Trip], new: bool, file):
   emoji = Emoji.WHITE_CHECK_MARK.value if new else Emoji.X.value
@@ -71,25 +71,25 @@ def summarise_trips(gtfs: Gtfs, trips: list[Trip], new: bool, file):
     print(f"- {emoji} No {'new trips' if new else 'trips removed'}", file=file)
   else:
     average_duration = gtfs.get_average_duration([trip.trip_id for trip in trips])
-    available_days_count = gtfs.get_available_days_count([trip.service_id for trip in trips])
+    available_days_count = gtfs.get_days_count(trips)
     print(f"- {emoji} {len(trips)} {'new trips' if new else 'trips removed'} with an average duration of {format_total_seconds(average_duration)}", file=file)
-    for day in sorted(available_days_count.keys()):
-      print(f"\t- {available_days_count[day]} on {day.name.title()}", file=file)
+    for day in sort_days(available_days_count.keys()):
+      print(f"\t- {available_days_count[day]} on {day}", file=file)
 
 def info(gtfs: Gtfs, trips: list[Trip], file):
-  print('||Trip|Headsign|Start time|Duration|Days|', file=file)
+  print('||Trip|Headsign|Departure time|Duration|Days|', file=file)
   print('|--:|:--|:--|--:|--:|:--|', file=file)
   count = 0
   for trip in sorted(trips, key=lambda trip: trip.sort_key()):
     count += 1
-    service_id = trip.service_id
     trip_id = trip.trip_id
     trip_headsign = trip.trip_headsign if trip.trip_headsign else '—'
-    start_time = format_total_seconds(gtfs.get_trip_start_time(trip_id))
+    departure_time = format_total_seconds(gtfs.get_trip_departure_time(trip_id))
     duration = format_total_seconds(gtfs.get_trip_duration(trip_id))
-    days = gtfs.get_available_days(service_id)
-    days = ', '.join(day.get_short_name().title() for day in days) if days else '—'
-    print(f"|{count}|{trip_id}|{trip_headsign}|{start_time}|{duration}|{days}|", file=file)
+    days = gtfs.get_days(trip)
+    days_abbr = list(calendar.day_abbr)
+    days_str = ', '.join(days_abbr[days.index(day)] for day in days) if days else '—'
+    print(f"|{count}|{trip_id}|{trip_headsign}|{departure_time}|{duration}|{days_str}|", file=file)
 
 def main():
   start = datetime.now()
@@ -102,7 +102,7 @@ def main():
     routes += after.routes.values() # All Routes
     for route in sorted(routes, key=lambda route: route.sort_key()):
       route_id = route.route_id
-      route_long_name = route.route_long_name
+      route_long_name = f"| {route.route_long_name}" if route.route_long_name else ''
       route_type = route.route_type
       
       trips_before = before.get_trips(route_id)
@@ -110,25 +110,23 @@ def main():
       
       new_trips = [v for k, v in trips_after.items() if k not in trips_before.keys()] # New Trips are in after Gtfs
       removed_trips = [v for k, v in trips_before.items() if k not in trips_after.keys()] # Removed Trips are in before Gtfs
-      new_service_ids = list({trip.service_id for trip in new_trips})
-      removed_service_ids = list({trip.service_id for trip in removed_trips})
 
       # Skip routes without new or removed trips
       if new_trips or removed_trips:
-        print(f"Processing {route_id} | {route_long_name}")
-        print(f"## {route_type.get_emoji().value} {route_id} | {route_long_name}", file=file)
+        print(f"Processing {route_id} {route_long_name}")
+        print(f"## {route_type.get_emoji().value} {route_id} {route_long_name}", file=file)
         if not trips_before:
-          days_count = after.get_available_days_count(new_service_ids)
+          days_count = after.get_days_count(new_trips)
           print(f"- {Emoji.WHITE_CHECK_MARK.value} All new trips", file=file)
           summarise_days_count(days_count, file)
-          for day in sorted(days_count.keys()):
-            print(f"\t- {days_count[day]} on {day.name.title()}", file=file)
+          for day in sort_days(days_count.keys()):
+            print(f"\t- {days_count[day]} on {day}", file=file)
         elif not trips_after:
-          days_count = before.get_available_days_count(removed_service_ids)
+          days_count = before.get_days_count(removed_trips)
           print(f"- {Emoji.X.value} All trips removed", file=file)
           summarise_days_count(days_count, file)
-          for day in sorted(days_count.keys()):
-            print(f"\t- {days_count[day]} on {day.name.title()}", file=file)
+          for day in sort_days(days_count.keys()):
+            print(f"\t- {days_count[day]} on {day}", file=file)
         else:
           trips_emoji = Emoji.ARROW_UP.value if len(trips_before) < len(trips_after) else Emoji.ARROW_DOWN.value
           trips_value = abs(len(trips_before) - len(trips_after))
@@ -137,8 +135,8 @@ def main():
           y = after.get_average_duration(trips_after.keys())
           average_duration_emoji = Emoji.ARROW_UP.value if x < y else Emoji.ARROW_DOWN.value
           average_duration_value = abs(x - y)
-          days_count = dict(Counter(after.get_available_days_count(new_service_ids)) + Counter(before.get_available_days_count(removed_service_ids)))
-          
+          days_count = dict(Counter(after.get_days_count(new_trips)) + Counter(before.get_days_count(removed_trips)))
+
           if trips_value:
             print(f"- Trip numbers {trips_emoji} {trips_value} from {len(trips_before)} to {len(trips_after)}", file=file)
           else:
