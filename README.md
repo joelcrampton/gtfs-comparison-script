@@ -6,7 +6,6 @@ This is a Python script that compares two GTFS datasets and produces a report. D
 - `trips.txt`
 - `stop_times.txt`
 - `calendar.txt` or `calendar_dates.txt`
-- `shapes.txt`
 - `feed_info.txt`
 
 ## :desktop_computer: Requirements
