@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 from dataclasses import dataclass
 from agency import Agency
@@ -9,7 +10,7 @@ from calendr import Calendar
 from calendar_date import CalendarDate
 from shape import Shape
 from feed_info import FeedInfo
-from enums import Day, RouteType
+from enums import RouteType
 
 @dataclass(frozen=True)
 class Gtfs:
@@ -41,20 +42,20 @@ class Gtfs:
   def get_trips(self, route_id: str) -> dict[str, Trip]:
     return {k: v for k, v in self.trips.items() if v.route_id == route_id}
   
-  def get_trip_start_time(self, trip_id: str) -> int:
+  def get_trip_departure_time(self, trip_id: str) -> int:
     stop_times = self.stop_times[trip_id]
-    start_stop_time = min(stop_times, key=lambda stop_time: stop_time.stop_sequence)
-    return start_stop_time.arrival_time
+    departure_stop_time = min(stop_times, key=lambda stop_time: stop_time.stop_sequence)
+    return departure_stop_time.departure_time
 
-  def get_trip_end_time(self, trip_id: str) -> int:
+  def get_trip_arrival_time(self, trip_id: str) -> int:
     stop_times = self.stop_times[trip_id]
-    end_stop_time = max(stop_times, key=lambda stop_time: stop_time.stop_sequence)
-    return end_stop_time.departure_time
+    arrival_stop_time = max(stop_times, key=lambda stop_time: stop_time.stop_sequence)
+    return arrival_stop_time.arrival_time
 
   def get_trip_duration(self, trip_id: str) -> int:
-    start_time = self.get_trip_start_time(trip_id)
-    end_time = self.get_trip_end_time(trip_id)
-    return end_time - start_time
+    departure_time = self.get_trip_departure_time(trip_id)
+    arrival_time = self.get_trip_arrival_time(trip_id)
+    return arrival_time - departure_time
     
   def get_average_duration(self, trip_ids: list[str]) -> int:
     total_seconds = 0
@@ -62,13 +63,21 @@ class Gtfs:
       total_seconds += self.get_trip_duration(trip_id)
     return total_seconds // len(trip_ids)
 
-  def get_available_days(self, service_id: str) -> list:
-    return self.calendars[service_id].get_available_days()
+  def get_days(self, trip: Trip) -> list[str]:
+    service_id = trip.service_id
+    # calendars.txt is ideal
+    if self.calendars:
+      return self.calendars[service_id].get_days()
+    # calenar_dates.txt as an alternative
+    elif self.calendar_dates:
+      calendar_date = self.calendar_dates[service_id]
+      return [calendar_date.get_day()]
+    return []
 
-  def get_available_days_count(self, service_ids: list[str]) -> dict[Day, int]:
+  def get_days_count(self, trips: list[Trip]) -> dict[str, int]:
     count = {}
-    for service_id in service_ids:
-      days = self.get_available_days(service_id)
+    for trip in trips:
+      days = self.get_days(trip)
       for day in days:
         count[day] = count[day] + 1 if day in count else 1
     return count
@@ -118,12 +127,18 @@ def load(dir) -> Gtfs:
   stop_times = load_dict_list(pd.read_csv(filepath), StopTime)
   
   filepath = f"{dir}/calendar.txt"
-  print(f"Loading {filepath}")
-  calendars = load_dict_value(pd.read_csv(filepath), Calendar)
+  if os.path.exists(filepath):
+    print(f"Loading {filepath}")
+    calendars = load_dict_value(pd.read_csv(filepath), Calendar)
+  else:
+    calendars = {}
   
   filepath = f"{dir}/calendar_dates.txt"
-  print(f"Loading {filepath}")
-  calendar_dates = load_dict_value(pd.read_csv(filepath), CalendarDate)
+  if os.path.exists(filepath):
+    print(f"Loading {filepath}")
+    calendar_dates = load_dict_value(pd.read_csv(filepath), CalendarDate)
+  else:
+    calendar_dates = {}
   
   filepath = f"{dir}/shapes.txt"
   print(f"Loading {filepath}")

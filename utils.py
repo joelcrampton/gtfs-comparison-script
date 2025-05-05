@@ -1,3 +1,4 @@
+import calendar
 import re
 from email_validator import validate_email, EmailNotValidError
 from urllib.parse import urlparse
@@ -30,3 +31,6 @@ def format_total_seconds(total_seconds) -> str:
     m = (total_seconds % 3600) // 60
     s = total_seconds % 60
     return f"{h}:{m:02}:{s:02}"
+
+def sort_days(days: list[str] | set[str]) -> list[str]:
+    return sorted(days, key=lambda day: list(calendar.day_name).index(day))

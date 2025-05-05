@@ -27,3 +27,6 @@ class CalendarDate:
     
     def get_id(self) -> str:
         return self.service_id
+
+    def get_day(self):
+        return self.service_date.strftime('%A')
