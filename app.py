@@ -151,10 +151,10 @@ def main():
           summarise_trips(after, new_trips, True, file)
           summarise_trips(before, removed_trips, False, file)
         
-        if new_trips and INFO:
+        if new_trips and args.info:
           print(f"### {Emoji.WHITE_CHECK_MARK.value} New trips", file=file)
           info(after, new_trips, file)
-        if removed_trips and INFO:
+        if removed_trips and args.info:
           print(f"### {Emoji.X.value} Removed trips", file=file)
           info(before, removed_trips, file)
   
