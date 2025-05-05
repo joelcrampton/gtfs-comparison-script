@@ -1,15 +1,15 @@
 # Calgary Transit 2025-04-03 vs. Calgary Transit 2025-04-23
-## :tram: 201-20758 | Red Line - Somerset - Bridlewood/Tuscany CTrain
-- Trip numbers :arrow_down: 1580 from 2806 to 1226
-- Average duration :arrow_up: 0:18:42 overall from 0:38:49 to 0:57:31
-- :calendar: Sunday was impacted the most
-- :white_check_mark: 372 new trips with an average duration of 0:58:37
+## 🚋 201-20758 | Red Line - Somerset - Bridlewood/Tuscany CTrain
+- Trip numbers ⬇️ 1580 from 2806 to 1226
+- Average duration ⬆️ 0:18:42 overall from 0:38:49 to 0:57:31
+- 📅 Sunday was impacted the most
+- ✅ 372 new trips with an average duration of 0:58:37
 	- 130 on Saturday
 	- 242 on Sunday
-- :x: 1952 trips removed with an average duration of 0:30:51
+- ❌ 1952 trips removed with an average duration of 0:30:51
 	- 739 on Saturday
 	- 1213 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|70043135|TUSCANY|4:03:00|0:48:00|Sun|
@@ -384,7 +384,7 @@
 |370|70083657|SOMERSET-BRIDLEWOOD|22:55:00|1:03:00|Sat|
 |371|70083659|SOMERSET-BRIDLEWOOD|5:31:00|0:07:00|Sat|
 |372|70083661|SOMERSET-BRIDLEWOOD|5:11:00|0:07:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|69820533|SUNNYSIDE STN|8:08:00|0:22:00|Sat|
@@ -2339,17 +2339,17 @@
 |1950|69919110|TUSCANY|25:45:00|0:13:00|Sun|
 |1951|69919111|TUSCANY|25:55:00|0:13:00|Sun|
 |1952|69919387|SOMERSET-BRIDLEWOOD|4:30:00|0:07:00|Sun|
-## :tram: 202-20758 | Blue Line - Saddletowne/69 Street CTrain
-- Trip numbers :arrow_down: 620 from 1933 to 1313
-- Average duration :arrow_up: 0:00:29 overall from 0:43:42 to 0:44:11
-- :calendar: Sunday was impacted the most
-- :white_check_mark: 486 new trips with an average duration of 0:43:14
+## 🚋 202-20758 | Blue Line - Saddletowne/69 Street CTrain
+- Trip numbers ⬇️ 620 from 1933 to 1313
+- Average duration ⬆️ 0:00:29 overall from 0:43:42 to 0:44:11
+- 📅 Sunday was impacted the most
+- ✅ 486 new trips with an average duration of 0:43:14
 	- 240 on Saturday
 	- 246 on Sunday
-- :x: 1106 trips removed with an average duration of 0:42:55
+- ❌ 1106 trips removed with an average duration of 0:42:55
 	- 455 on Saturday
 	- 651 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|70043415|69 ST STATION|4:20:00|0:42:00|Sun|
@@ -2838,7 +2838,7 @@
 |484|70083540|SADDLETOWNE|23:19:00|0:46:00|Sat|
 |485|70083541|69 ST STATION|24:11:00|0:47:00|Sat|
 |486|70083542|SADDLETOWNE|25:04:00|0:46:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|69820557|SUNALTA STN|8:22:00|0:12:00|Sat|

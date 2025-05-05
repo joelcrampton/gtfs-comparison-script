@@ -1,9 +1,9 @@
 # OC Transpo 2025-03-21 vs. OC Transpo 2025-05-03
-## :tram: 1-350 | Blair <> Tunney's Pasture
-- Trip numbers :arrow_down: 301 from 1447 to 1146
-- Average duration :arrow_up: 0:00:02 overall from 0:27:36 to 0:27:38
-- :calendar: Weekdays were impacted the most
-- :white_check_mark: 1146 new trips with an average duration of 0:27:38
+## 🚋 1-350 | Blair <> Tunney's Pasture
+- Trip numbers ⬇️ 301 from 1447 to 1146
+- Average duration ⬆️ 0:00:02 overall from 0:27:36 to 0:27:38
+- 📅 Weekdays were impacted the most
+- ✅ 1146 new trips with an average duration of 0:27:38
 	- 683 on Monday
 	- 683 on Tuesday
 	- 683 on Wednesday
@@ -11,7 +11,7 @@
 	- 683 on Friday
 	- 264 on Saturday
 	- 199 on Sunday
-- :x: 1447 trips removed with an average duration of 0:27:36
+- ❌ 1447 trips removed with an average duration of 0:27:36
 	- 984 on Monday
 	- 984 on Tuesday
 	- 984 on Wednesday
@@ -19,11 +19,11 @@
 	- 984 on Friday
 	- 264 on Saturday
 	- 199 on Sunday
-## :tram: 2-354 | Bayview <> Limebank
+## 🚋 2-354 | Bayview <> Limebank
 - Trip numbers did not change
 - Average duration did not change
-- :calendar: Weekdays were impacted the most
-- :white_check_mark: 521 new trips with an average duration of 0:35:10
+- 📅 Weekdays were impacted the most
+- ✅ 521 new trips with an average duration of 0:35:10
 	- 182 on Monday
 	- 182 on Tuesday
 	- 182 on Wednesday
@@ -31,7 +31,7 @@
 	- 182 on Friday
 	- 177 on Saturday
 	- 162 on Sunday
-- :x: 521 trips removed with an average duration of 0:35:10
+- ❌ 521 trips removed with an average duration of 0:35:10
 	- 182 on Monday
 	- 182 on Tuesday
 	- 182 on Wednesday
@@ -39,11 +39,11 @@
 	- 182 on Friday
 	- 177 on Saturday
 	- 162 on Sunday
-## :tram: 4-354 | South Keys <> Airport ~ Aéroport
+## 🚋 4-354 | South Keys <> Airport ~ Aéroport
 - Trip numbers did not change
 - Average duration did not change
-- :calendar: Weekdays were impacted the most
-- :white_check_mark: 522 new trips with an average duration of 0:07:37
+- 📅 Weekdays were impacted the most
+- ✅ 522 new trips with an average duration of 0:07:37
 	- 184 on Monday
 	- 184 on Tuesday
 	- 184 on Wednesday
@@ -51,7 +51,7 @@
 	- 184 on Friday
 	- 177 on Saturday
 	- 161 on Sunday
-- :x: 522 trips removed with an average duration of 0:07:37
+- ❌ 522 trips removed with an average duration of 0:07:37
 	- 184 on Monday
 	- 184 on Tuesday
 	- 184 on Wednesday
@@ -59,11 +59,11 @@
 	- 184 on Friday
 	- 177 on Saturday
 	- 161 on Sunday
-## :bus: 5 | Waller <> Elmvale
-- Trip numbers :arrow_up: 466 from 1202 to 1668
-- Average duration :arrow_up: 0:04:51 overall from 0:28:40 to 0:33:31
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1660 new trips with an average duration of 0:33:32
+## 🚌 5 | Waller <> Elmvale
+- Trip numbers ⬆️ 466 from 1202 to 1668
+- Average duration ⬆️ 0:04:51 overall from 0:28:40 to 0:33:31
+- 📅 Tuesday was impacted the most
+- ✅ 1660 new trips with an average duration of 0:33:32
 	- 200 on Monday
 	- 395 on Tuesday
 	- 394 on Wednesday
@@ -71,7 +71,7 @@
 	- 131 on Friday
 	- 138 on Saturday
 	- 139 on Sunday
-- :x: 1194 trips removed with an average duration of 0:28:37
+- ❌ 1194 trips removed with an average duration of 0:28:37
 	- 151 on Monday
 	- 154 on Tuesday
 	- 77 on Wednesday
@@ -79,11 +79,11 @@
 	- 286 on Friday
 	- 198 on Saturday
 	- 108 on Sunday
-## :bus: 6 | Greenboro <> Rockcliffe
-- Trip numbers :arrow_down: 258 from 2462 to 2204
-- Average duration :arrow_up: 0:01:46 overall from 0:51:23 to 0:53:09
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 2192 new trips with an average duration of 0:53:14
+## 🚌 6 | Greenboro <> Rockcliffe
+- Trip numbers ⬇️ 258 from 2462 to 2204
+- Average duration ⬆️ 0:01:46 overall from 0:51:23 to 0:53:09
+- 📅 Tuesday was impacted the most
+- ✅ 2192 new trips with an average duration of 0:53:14
 	- 271 on Monday
 	- 461 on Tuesday
 	- 473 on Wednesday
@@ -91,7 +91,7 @@
 	- 153 on Friday
 	- 294 on Saturday
 	- 236 on Sunday
-- :x: 2450 trips removed with an average duration of 0:51:22
+- ❌ 2450 trips removed with an average duration of 0:51:22
 	- 296 on Monday
 	- 317 on Tuesday
 	- 144 on Wednesday
@@ -99,11 +99,11 @@
 	- 555 on Friday
 	- 442 on Saturday
 	- 244 on Sunday
-## :bus: 7 | Carleton <> St-Laurent
-- Trip numbers :arrow_down: 504 from 2440 to 1936
-- Average duration :arrow_up: 0:04:59 overall from 0:48:41 to 0:53:40
-- :calendar: Thursday was impacted the most
-- :white_check_mark: 1933 new trips with an average duration of 0:53:40
+## 🚌 7 | Carleton <> St-Laurent
+- Trip numbers ⬇️ 504 from 2440 to 1936
+- Average duration ⬆️ 0:04:59 overall from 0:48:41 to 0:53:40
+- 📅 Thursday was impacted the most
+- ✅ 1933 new trips with an average duration of 0:53:40
 	- 252 on Monday
 	- 384 on Tuesday
 	- 384 on Wednesday
@@ -111,7 +111,7 @@
 	- 128 on Friday
 	- 282 on Saturday
 	- 247 on Sunday
-- :x: 2437 trips removed with an average duration of 0:48:41
+- ❌ 2437 trips removed with an average duration of 0:48:41
 	- 309 on Monday
 	- 294 on Tuesday
 	- 147 on Wednesday
@@ -119,9 +119,9 @@
 	- 565 on Friday
 	- 424 on Saturday
 	- 247 on Sunday
-## :bus: 8 | Gatineau <> Dow's Lake
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 8 | Gatineau <> Dow's Lake
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 137 on Monday
 	- 225 on Tuesday
 	- 225 on Wednesday
@@ -129,11 +129,11 @@
 	- 75 on Friday
 	- 140 on Saturday
 	- 124 on Sunday
-## :bus: 9 | Rideau <> Hurdman
-- Trip numbers :arrow_down: 259 from 1258 to 999
-- Average duration :arrow_down: 0:00:48 overall from 0:25:43 to 0:24:55
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 989 new trips with an average duration of 0:24:54
+## 🚌 9 | Rideau <> Hurdman
+- Trip numbers ⬇️ 259 from 1258 to 999
+- Average duration ⬇️ 0:00:48 overall from 0:25:43 to 0:24:55
+- 📅 Tuesday was impacted the most
+- ✅ 989 new trips with an average duration of 0:24:54
 	- 125 on Monday
 	- 212 on Tuesday
 	- 211 on Wednesday
@@ -141,7 +141,7 @@
 	- 70 on Friday
 	- 122 on Saturday
 	- 110 on Sunday
-- :x: 1248 trips removed with an average duration of 0:25:42
+- ❌ 1248 trips removed with an average duration of 0:25:42
 	- 162 on Monday
 	- 159 on Tuesday
 	- 79 on Wednesday
@@ -149,11 +149,11 @@
 	- 296 on Friday
 	- 206 on Saturday
 	- 116 on Sunday
-## :bus: 10 | Hurdman <> Main
-- Trip numbers :arrow_down: 282 from 1814 to 1532
-- Average duration :arrow_up: 0:16:53 overall from 0:27:18 to 0:44:11
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1529 new trips with an average duration of 0:44:10
+## 🚌 10 | Hurdman <> Main
+- Trip numbers ⬇️ 282 from 1814 to 1532
+- Average duration ⬆️ 0:16:53 overall from 0:27:18 to 0:44:11
+- 📅 Tuesday was impacted the most
+- ✅ 1529 new trips with an average duration of 0:44:10
 	- 189 on Monday
 	- 345 on Tuesday
 	- 344 on Wednesday
@@ -161,7 +161,7 @@
 	- 115 on Friday
 	- 158 on Saturday
 	- 148 on Sunday
-- :x: 1811 trips removed with an average duration of 0:27:18
+- ❌ 1811 trips removed with an average duration of 0:27:18
 	- 239 on Monday
 	- 240 on Tuesday
 	- 120 on Wednesday
@@ -169,11 +169,11 @@
 	- 434 on Friday
 	- 292 on Saturday
 	- 148 on Sunday
-## :bus: 11 | Waller <> Bayshore
-- Trip numbers :arrow_down: 558 from 2244 to 1686
-- Average duration :arrow_up: 0:07:43 overall from 0:53:00 to 1:00:43
-- :calendar: Thursday was impacted the most
-- :white_check_mark: 1674 new trips with an average duration of 1:00:33
+## 🚌 11 | Waller <> Bayshore
+- Trip numbers ⬇️ 558 from 2244 to 1686
+- Average duration ⬆️ 0:07:43 overall from 0:53:00 to 1:00:43
+- 📅 Thursday was impacted the most
+- ✅ 1674 new trips with an average duration of 1:00:33
 	- 201 on Monday
 	- 391 on Tuesday
 	- 389 on Wednesday
@@ -181,7 +181,7 @@
 	- 129 on Friday
 	- 160 on Saturday
 	- 144 on Sunday
-- :x: 2232 trips removed with an average duration of 0:53:02
+- ❌ 2232 trips removed with an average duration of 0:53:02
 	- 280 on Monday
 	- 280 on Tuesday
 	- 139 on Wednesday
@@ -189,11 +189,11 @@
 	- 521 on Friday
 	- 396 on Saturday
 	- 204 on Sunday
-## :bus: 12 | Blair <> Tunney's Pasture
-- Trip numbers :arrow_down: 428 from 2548 to 2120
-- Average duration :arrow_up: 0:05:51 overall from 0:41:53 to 0:47:44
-- :calendar: Thursday was impacted the most
-- :white_check_mark: 2115 new trips with an average duration of 0:47:44
+## 🚌 12 | Blair <> Tunney's Pasture
+- Trip numbers ⬇️ 428 from 2548 to 2120
+- Average duration ⬆️ 0:05:51 overall from 0:41:53 to 0:47:44
+- 📅 Thursday was impacted the most
+- ✅ 2115 new trips with an average duration of 0:47:44
 	- 261 on Monday
 	- 456 on Tuesday
 	- 456 on Wednesday
@@ -201,7 +201,7 @@
 	- 152 on Friday
 	- 270 on Saturday
 	- 219 on Sunday
-- :x: 2543 trips removed with an average duration of 0:41:53
+- ❌ 2543 trips removed with an average duration of 0:41:53
 	- 309 on Monday
 	- 307 on Tuesday
 	- 154 on Wednesday
@@ -209,19 +209,19 @@
 	- 579 on Friday
 	- 489 on Saturday
 	- 234 on Sunday
-## :bus: 13 | Gatineau <> Tunney's Pasture
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 13 | Gatineau <> Tunney's Pasture
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 59 on Monday
 	- 177 on Tuesday
 	- 177 on Wednesday
 	- 118 on Thursday
 	- 59 on Friday
-## :bus: 14 | St-Laurent <> Tunney's Pasture
-- Trip numbers :arrow_down: 159 from 1725 to 1566
-- Average duration :arrow_down: 0:01:44 overall from 0:53:25 to 0:51:41
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1560 new trips with an average duration of 0:51:43
+## 🚌 14 | St-Laurent <> Tunney's Pasture
+- Trip numbers ⬇️ 159 from 1725 to 1566
+- Average duration ⬇️ 0:01:44 overall from 0:53:25 to 0:51:41
+- 📅 Tuesday was impacted the most
+- ✅ 1560 new trips with an average duration of 0:51:43
 	- 178 on Monday
 	- 356 on Tuesday
 	- 355 on Wednesday
@@ -229,7 +229,7 @@
 	- 118 on Friday
 	- 196 on Saturday
 	- 120 on Sunday
-- :x: 1719 trips removed with an average duration of 0:53:27
+- ❌ 1719 trips removed with an average duration of 0:53:27
 	- 236 on Monday
 	- 223 on Tuesday
 	- 111 on Wednesday
@@ -237,25 +237,25 @@
 	- 394 on Friday
 	- 309 on Saturday
 	- 120 on Sunday
-## :bus: 15 | Blair <> Parliament ~ Parlement
-- Trip numbers :arrow_down: 32 from 542 to 510
-- Average duration :arrow_down: 0:06:58 overall from 0:44:35 to 0:37:37
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 504 new trips with an average duration of 0:37:38
+## 🚌 15 | Blair <> Parliament ~ Parlement
+- Trip numbers ⬇️ 32 from 542 to 510
+- Average duration ⬇️ 0:06:58 overall from 0:44:35 to 0:37:37
+- 📅 Tuesday was impacted the most
+- ✅ 504 new trips with an average duration of 0:37:38
 	- 50 on Monday
 	- 152 on Tuesday
 	- 151 on Wednesday
 	- 101 on Thursday
 	- 50 on Friday
-- :x: 536 trips removed with an average duration of 0:44:27
+- ❌ 536 trips removed with an average duration of 0:44:27
 	- 103 on Monday
 	- 101 on Tuesday
 	- 50 on Wednesday
 	- 131 on Thursday
 	- 151 on Friday
-## :bus: 16 | Westboro - Main
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 16 | Westboro - Main
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 189 on Monday
 	- 192 on Tuesday
 	- 96 on Wednesday
@@ -263,19 +263,19 @@
 	- 327 on Friday
 	- 168 on Saturday
 	- 78 on Sunday
-## :bus: 17 | Wateridge <> Parliament ~ Parlement
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 17 | Wateridge <> Parliament ~ Parlement
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 13 on Monday
 	- 39 on Tuesday
 	- 39 on Wednesday
 	- 26 on Thursday
 	- 13 on Friday
-## :bus: 18 | St-Laurent <> Billings Bridge
-- Trip numbers :arrow_down: 132 from 1186 to 1054
-- Average duration :arrow_up: 0:12:21 overall from 0:31:41 to 0:44:02
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1048 new trips with an average duration of 0:44:02
+## 🚌 18 | St-Laurent <> Billings Bridge
+- Trip numbers ⬇️ 132 from 1186 to 1054
+- Average duration ⬆️ 0:12:21 overall from 0:31:41 to 0:44:02
+- 📅 Tuesday was impacted the most
+- ✅ 1048 new trips with an average duration of 0:44:02
 	- 132 on Monday
 	- 224 on Tuesday
 	- 223 on Wednesday
@@ -283,7 +283,7 @@
 	- 74 on Friday
 	- 130 on Saturday
 	- 116 on Sunday
-- :x: 1180 trips removed with an average duration of 0:31:41
+- ❌ 1180 trips removed with an average duration of 0:31:41
 	- 147 on Monday
 	- 147 on Tuesday
 	- 73 on Wednesday
@@ -291,11 +291,11 @@
 	- 278 on Friday
 	- 204 on Saturday
 	- 116 on Sunday
-## :bus: 19 | Parliament ~ Parlement <> Hurdman
-- Trip numbers :arrow_down: 205 from 1206 to 1001
-- Average duration :arrow_up: 0:02:06 overall from 0:42:55 to 0:45:01
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1000 new trips with an average duration of 0:45:01
+## 🚌 19 | Parliament ~ Parlement <> Hurdman
+- Trip numbers ⬇️ 205 from 1206 to 1001
+- Average duration ⬆️ 0:02:06 overall from 0:42:55 to 0:45:01
+- 📅 Tuesday was impacted the most
+- ✅ 1000 new trips with an average duration of 0:45:01
 	- 126 on Monday
 	- 213 on Tuesday
 	- 212 on Wednesday
@@ -303,7 +303,7 @@
 	- 71 on Friday
 	- 126 on Saturday
 	- 110 on Sunday
-- :x: 1205 trips removed with an average duration of 0:42:57
+- ❌ 1205 trips removed with an average duration of 0:42:57
 	- 151 on Monday
 	- 152 on Tuesday
 	- 76 on Wednesday
@@ -311,11 +311,11 @@
 	- 286 on Friday
 	- 204 on Saturday
 	- 116 on Sunday
-## :bus: 20 | Rideau <> St-Laurent
-- Trip numbers :arrow_down: 140 from 1109 to 969
-- Average duration :arrow_up: 0:10:32 overall from 0:29:51 to 0:40:23
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 968 new trips with an average duration of 0:40:23
+## 🚌 20 | Rideau <> St-Laurent
+- Trip numbers ⬇️ 140 from 1109 to 969
+- Average duration ⬆️ 0:10:32 overall from 0:29:51 to 0:40:23
+- 📅 Tuesday was impacted the most
+- ✅ 968 new trips with an average duration of 0:40:23
 	- 122 on Monday
 	- 207 on Tuesday
 	- 207 on Wednesday
@@ -323,7 +323,7 @@
 	- 69 on Friday
 	- 120 on Saturday
 	- 105 on Sunday
-- :x: 1108 trips removed with an average duration of 0:29:51
+- ❌ 1108 trips removed with an average duration of 0:29:51
 	- 142 on Monday
 	- 138 on Tuesday
 	- 69 on Wednesday
@@ -331,43 +331,43 @@
 	- 260 on Friday
 	- 192 on Saturday
 	- 105 on Sunday
-## :bus: 21 | Canotek <> Blair
-- Trip numbers :arrow_down: 5 from 55 to 50
-- Average duration :arrow_down: 0:04:36 overall from 0:11:36 to 0:07:00
-- :calendar: Tuesday and Thursday were impacted the most
-- :white_check_mark: 50 new trips with an average duration of 0:07:00
+## 🚌 21 | Canotek <> Blair
+- Trip numbers ⬇️ 5 from 55 to 50
+- Average duration ⬇️ 0:04:36 overall from 0:11:36 to 0:07:00
+- 📅 Tuesday and Thursday were impacted the most
+- ✅ 50 new trips with an average duration of 0:07:00
 	- 5 on Monday
 	- 15 on Tuesday
 	- 15 on Wednesday
 	- 10 on Thursday
 	- 5 on Friday
-- :x: 55 trips removed with an average duration of 0:11:36
+- ❌ 55 trips removed with an average duration of 0:11:36
 	- 10 on Monday
 	- 10 on Tuesday
 	- 5 on Wednesday
 	- 15 on Thursday
 	- 15 on Friday
-## :bus: 23 | Rothwell Heights & Blair
-- Trip numbers :arrow_down: 80 from 160 to 80
-- Average duration :arrow_up: 0:00:51 overall from 0:24:31 to 0:25:22
-- :calendar: Thursday was impacted the most
-- :white_check_mark: 80 new trips with an average duration of 0:25:22
+## 🚌 23 | Rothwell Heights & Blair
+- Trip numbers ⬇️ 80 from 160 to 80
+- Average duration ⬆️ 0:00:51 overall from 0:24:31 to 0:25:22
+- 📅 Thursday was impacted the most
+- ✅ 80 new trips with an average duration of 0:25:22
 	- 8 on Monday
 	- 24 on Tuesday
 	- 24 on Wednesday
 	- 16 on Thursday
 	- 8 on Friday
-- :x: 160 trips removed with an average duration of 0:24:31
+- ❌ 160 trips removed with an average duration of 0:24:31
 	- 30 on Monday
 	- 30 on Tuesday
 	- 15 on Wednesday
 	- 40 on Thursday
 	- 45 on Friday
-## :bus: 24 | Chapel Hill <> St-Laurent
-- Trip numbers :arrow_down: 194 from 1480 to 1286
-- Average duration :arrow_up: 0:20:28 overall from 0:23:33 to 0:44:01
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1280 new trips with an average duration of 0:44:07
+## 🚌 24 | Chapel Hill <> St-Laurent
+- Trip numbers ⬇️ 194 from 1480 to 1286
+- Average duration ⬆️ 0:20:28 overall from 0:23:33 to 0:44:01
+- 📅 Tuesday was impacted the most
+- ✅ 1280 new trips with an average duration of 0:44:07
 	- 150 on Monday
 	- 302 on Tuesday
 	- 301 on Wednesday
@@ -375,7 +375,7 @@
 	- 100 on Friday
 	- 126 on Saturday
 	- 100 on Sunday
-- :x: 1474 trips removed with an average duration of 0:23:34
+- ❌ 1474 trips removed with an average duration of 0:23:34
 	- 205 on Monday
 	- 215 on Tuesday
 	- 107 on Wednesday
@@ -383,11 +383,11 @@
 	- 372 on Friday
 	- 195 on Saturday
 	- 100 on Sunday
-## :bus: 25 | Blair / Wateridge <> Millennium
-- Trip numbers :arrow_down: 744 from 2351 to 1607
-- Average duration :arrow_up: 0:04:37 overall from 0:36:32 to 0:41:09
-- :calendar: Friday was impacted the most
-- :white_check_mark: 1592 new trips with an average duration of 0:41:11
+## 🚌 25 | Blair / Wateridge <> Millennium
+- Trip numbers ⬇️ 744 from 2351 to 1607
+- Average duration ⬆️ 0:04:37 overall from 0:36:32 to 0:41:09
+- 📅 Friday was impacted the most
+- ✅ 1592 new trips with an average duration of 0:41:11
 	- 189 on Monday
 	- 373 on Tuesday
 	- 370 on Wednesday
@@ -395,7 +395,7 @@
 	- 123 on Friday
 	- 156 on Saturday
 	- 133 on Sunday
-- :x: 2336 trips removed with an average duration of 0:36:30
+- ❌ 2336 trips removed with an average duration of 0:36:30
 	- 314 on Monday
 	- 309 on Tuesday
 	- 154 on Wednesday
@@ -403,17 +403,17 @@
 	- 567 on Friday
 	- 357 on Saturday
 	- 206 on Sunday
-## :bus: 26 | Pineview <> Blair
-- Trip numbers :arrow_down: 773 from 1063 to 290
-- Average duration :arrow_up: 0:02:50 overall from 0:08:36 to 0:11:26
-- :calendar: Friday was impacted the most
-- :white_check_mark: 290 new trips with an average duration of 0:11:26
+## 🚌 26 | Pineview <> Blair
+- Trip numbers ⬇️ 773 from 1063 to 290
+- Average duration ⬆️ 0:02:50 overall from 0:08:36 to 0:11:26
+- 📅 Friday was impacted the most
+- ✅ 290 new trips with an average duration of 0:11:26
 	- 29 on Monday
 	- 87 on Tuesday
 	- 87 on Wednesday
 	- 58 on Thursday
 	- 29 on Friday
-- :x: 1063 trips removed with an average duration of 0:08:36
+- ❌ 1063 trips removed with an average duration of 0:08:36
 	- 147 on Monday
 	- 150 on Tuesday
 	- 75 on Wednesday
@@ -421,17 +421,17 @@
 	- 261 on Friday
 	- 156 on Saturday
 	- 72 on Sunday
-## :bus: 27 | St-Laurent - Wateridge
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 27 | St-Laurent - Wateridge
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 36 on Monday
 	- 36 on Tuesday
 	- 18 on Wednesday
 	- 50 on Thursday
 	- 54 on Friday
-## :bus: 28 | Blackburn Hamlet - Blair
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 28 | Blackburn Hamlet - Blair
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 141 on Monday
 	- 152 on Tuesday
 	- 76 on Wednesday
@@ -439,11 +439,11 @@
 	- 248 on Friday
 	- 180 on Saturday
 	- 40 on Sunday
-## :bus: 30 | Blair <> Millennium
-- Trip numbers :arrow_down: 215 from 1363 to 1148
-- Average duration :arrow_up: 0:01:24 overall from 0:26:54 to 0:28:18
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1146 new trips with an average duration of 0:28:18
+## 🚌 30 | Blair <> Millennium
+- Trip numbers ⬇️ 215 from 1363 to 1148
+- Average duration ⬆️ 0:01:24 overall from 0:26:54 to 0:28:18
+- 📅 Tuesday was impacted the most
+- ✅ 1146 new trips with an average duration of 0:28:18
 	- 141 on Monday
 	- 259 on Tuesday
 	- 261 on Wednesday
@@ -451,7 +451,7 @@
 	- 87 on Friday
 	- 116 on Saturday
 	- 108 on Sunday
-- :x: 1361 trips removed with an average duration of 0:26:54
+- ❌ 1361 trips removed with an average duration of 0:26:54
 	- 185 on Monday
 	- 192 on Tuesday
 	- 96 on Wednesday
@@ -459,11 +459,11 @@
 	- 342 on Friday
 	- 183 on Saturday
 	- 109 on Sunday
-## :bus: 31 | Tenth Line <> Place d'Orléans
-- Trip numbers :arrow_up: 861 from 110 to 971
-- Average duration :arrow_up: 0:16:59 overall from 0:14:00 to 0:30:59
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 971 new trips with an average duration of 0:30:59
+## 🚌 31 | Tenth Line <> Place d'Orléans
+- Trip numbers ⬆️ 861 from 110 to 971
+- Average duration ⬆️ 0:16:59 overall from 0:14:00 to 0:30:59
+- 📅 Tuesday was impacted the most
+- ✅ 971 new trips with an average duration of 0:30:59
 	- 118 on Monday
 	- 207 on Tuesday
 	- 207 on Wednesday
@@ -471,23 +471,23 @@
 	- 69 on Friday
 	- 134 on Saturday
 	- 98 on Sunday
-- :x: 110 trips removed with an average duration of 0:14:00
+- ❌ 110 trips removed with an average duration of 0:14:00
 	- 20 on Monday
 	- 20 on Tuesday
 	- 10 on Wednesday
 	- 30 on Thursday
 	- 30 on Friday
-## :bus: 32 | Blair <> Chapel Hill
-- Trip numbers :arrow_down: 104 from 264 to 160
-- Average duration :arrow_up: 0:09:04 overall from 0:31:37 to 0:40:41
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 160 new trips with an average duration of 0:40:41
+## 🚌 32 | Blair <> Chapel Hill
+- Trip numbers ⬇️ 104 from 264 to 160
+- Average duration ⬆️ 0:09:04 overall from 0:31:37 to 0:40:41
+- 📅 Tuesday was impacted the most
+- ✅ 160 new trips with an average duration of 0:40:41
 	- 16 on Monday
 	- 48 on Tuesday
 	- 48 on Wednesday
 	- 32 on Thursday
 	- 16 on Friday
-- :x: 264 trips removed with an average duration of 0:31:37
+- ❌ 264 trips removed with an average duration of 0:31:37
 	- 42 on Monday
 	- 44 on Tuesday
 	- 22 on Wednesday
@@ -495,11 +495,11 @@
 	- 72 on Friday
 	- 21 on Saturday
 	- 12 on Sunday
-## :bus: 33 | Place d'Orléans / Blair <> Portobello
-- Trip numbers :arrow_up: 335 from 670 to 1005
-- Average duration :arrow_down: 0:00:37 overall from 0:29:54 to 0:29:17
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1005 new trips with an average duration of 0:29:17
+## 🚌 33 | Place d'Orléans / Blair <> Portobello
+- Trip numbers ⬆️ 335 from 670 to 1005
+- Average duration ⬇️ 0:00:37 overall from 0:29:54 to 0:29:17
+- 📅 Tuesday was impacted the most
+- ✅ 1005 new trips with an average duration of 0:29:17
 	- 121 on Monday
 	- 222 on Tuesday
 	- 222 on Wednesday
@@ -507,17 +507,17 @@
 	- 74 on Friday
 	- 124 on Saturday
 	- 94 on Sunday
-- :x: 670 trips removed with an average duration of 0:29:54
+- ❌ 670 trips removed with an average duration of 0:29:54
 	- 125 on Monday
 	- 128 on Tuesday
 	- 64 on Wednesday
 	- 161 on Thursday
 	- 192 on Friday
-## :bus: 34 | Blair <> Chapel Hill
-- Trip numbers :arrow_down: 119 from 1057 to 938
-- Average duration :arrow_up: 0:00:18 overall from 0:33:13 to 0:33:31
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 938 new trips with an average duration of 0:33:31
+## 🚌 34 | Blair <> Chapel Hill
+- Trip numbers ⬇️ 119 from 1057 to 938
+- Average duration ⬆️ 0:00:18 overall from 0:33:13 to 0:33:31
+- 📅 Tuesday was impacted the most
+- ✅ 938 new trips with an average duration of 0:33:31
 	- 113 on Monday
 	- 213 on Tuesday
 	- 213 on Wednesday
@@ -525,7 +525,7 @@
 	- 71 on Friday
 	- 102 on Saturday
 	- 84 on Sunday
-- :x: 1057 trips removed with an average duration of 0:33:13
+- ❌ 1057 trips removed with an average duration of 0:33:13
 	- 139 on Monday
 	- 144 on Tuesday
 	- 72 on Wednesday
@@ -533,11 +533,11 @@
 	- 258 on Friday
 	- 162 on Saturday
 	- 84 on Sunday
-## :bus: 35 | Blair <> Avalon
-- Trip numbers :arrow_down: 209 from 1227 to 1018
-- Average duration :arrow_down: 0:00:28 overall from 0:35:57 to 0:35:29
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1015 new trips with an average duration of 0:35:29
+## 🚌 35 | Blair <> Avalon
+- Trip numbers ⬇️ 209 from 1227 to 1018
+- Average duration ⬇️ 0:00:28 overall from 0:35:57 to 0:35:29
+- 📅 Tuesday was impacted the most
+- ✅ 1015 new trips with an average duration of 0:35:29
 	- 122 on Monday
 	- 226 on Tuesday
 	- 227 on Wednesday
@@ -545,7 +545,7 @@
 	- 76 on Friday
 	- 120 on Saturday
 	- 92 on Sunday
-- :x: 1224 trips removed with an average duration of 0:35:57
+- ❌ 1224 trips removed with an average duration of 0:35:57
 	- 154 on Monday
 	- 168 on Tuesday
 	- 84 on Wednesday
@@ -553,9 +553,9 @@
 	- 299 on Friday
 	- 192 on Saturday
 	- 95 on Sunday
-## :bus: 36 | Place d'Orléans <> Innes
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 36 | Place d'Orléans <> Innes
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 118 on Monday
 	- 207 on Tuesday
 	- 207 on Wednesday
@@ -563,19 +563,19 @@
 	- 69 on Friday
 	- 122 on Saturday
 	- 98 on Sunday
-## :bus: 37 | Queenswood Heights - Blair
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 37 | Queenswood Heights - Blair
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 80 on Monday
 	- 80 on Tuesday
 	- 40 on Wednesday
 	- 108 on Thursday
 	- 120 on Friday
-## :bus: 38 | Blair <> Trim
-- Trip numbers :arrow_down: 263 from 1252 to 989
-- Average duration :arrow_up: 0:05:14 overall from 0:26:53 to 0:32:07
-- :calendar: Thursday was impacted the most
-- :white_check_mark: 987 new trips with an average duration of 0:32:07
+## 🚌 38 | Blair <> Trim
+- Trip numbers ⬇️ 263 from 1252 to 989
+- Average duration ⬆️ 0:05:14 overall from 0:26:53 to 0:32:07
+- 📅 Thursday was impacted the most
+- ✅ 987 new trips with an average duration of 0:32:07
 	- 120 on Monday
 	- 211 on Tuesday
 	- 213 on Wednesday
@@ -583,7 +583,7 @@
 	- 71 on Friday
 	- 132 on Saturday
 	- 98 on Sunday
-- :x: 1250 trips removed with an average duration of 0:26:53
+- ❌ 1250 trips removed with an average duration of 0:26:53
 	- 162 on Monday
 	- 164 on Tuesday
 	- 82 on Wednesday
@@ -591,11 +591,11 @@
 	- 295 on Friday
 	- 213 on Saturday
 	- 99 on Sunday
-## :bus: 39 | Blair & N Rideau <> Millennium
-- Trip numbers :arrow_down: 494 from 2893 to 2399
-- Average duration :arrow_up: 0:03:08 overall from 0:26:52 to 0:30:00
-- :calendar: Friday was impacted the most
-- :white_check_mark: 2394 new trips with an average duration of 0:29:59
+## 🚌 39 | Blair & N Rideau <> Millennium
+- Trip numbers ⬇️ 494 from 2893 to 2399
+- Average duration ⬆️ 0:03:08 overall from 0:26:52 to 0:30:00
+- 📅 Friday was impacted the most
+- ✅ 2394 new trips with an average duration of 0:29:59
 	- 314 on Monday
 	- 489 on Tuesday
 	- 489 on Wednesday
@@ -603,7 +603,7 @@
 	- 163 on Friday
 	- 314 on Saturday
 	- 300 on Sunday
-- :x: 2888 trips removed with an average duration of 0:26:53
+- ❌ 2888 trips removed with an average duration of 0:26:53
 	- 367 on Monday
 	- 360 on Tuesday
 	- 180 on Wednesday
@@ -611,11 +611,11 @@
 	- 691 on Friday
 	- 471 on Saturday
 	- 300 on Sunday
-## :bus: 40 | St-Laurent <> Greenboro
-- Trip numbers :arrow_down: 472 from 2293 to 1821
-- Average duration :arrow_up: 0:03:34 overall from 0:27:07 to 0:30:41
-- :calendar: Thursday was impacted the most
-- :white_check_mark: 1806 new trips with an average duration of 0:30:45
+## 🚌 40 | St-Laurent <> Greenboro
+- Trip numbers ⬇️ 472 from 2293 to 1821
+- Average duration ⬆️ 0:03:34 overall from 0:27:07 to 0:30:41
+- 📅 Thursday was impacted the most
+- ✅ 1806 new trips with an average duration of 0:30:45
 	- 215 on Monday
 	- 430 on Tuesday
 	- 428 on Wednesday
@@ -623,7 +623,7 @@
 	- 142 on Friday
 	- 160 on Saturday
 	- 145 on Sunday
-- :x: 2278 trips removed with an average duration of 0:27:09
+- ❌ 2278 trips removed with an average duration of 0:27:09
 	- 262 on Monday
 	- 252 on Tuesday
 	- 125 on Wednesday
@@ -631,9 +631,9 @@
 	- 510 on Friday
 	- 457 on Saturday
 	- 265 on Sunday
-## :bus: 41 | St-Laurent <> Billings Bridge
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 41 | St-Laurent <> Billings Bridge
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 193 on Monday
 	- 396 on Tuesday
 	- 396 on Wednesday
@@ -641,11 +641,11 @@
 	- 132 on Friday
 	- 158 on Saturday
 	- 122 on Sunday
-## :bus: 42 | Blair <> Hurdman
-- Trip numbers :arrow_down: 241 from 1091 to 850
-- Average duration :arrow_down: 0:01:16 overall from 0:26:34 to 0:25:18
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 847 new trips with an average duration of 0:25:19
+## 🚌 42 | Blair <> Hurdman
+- Trip numbers ⬇️ 241 from 1091 to 850
+- Average duration ⬇️ 0:01:16 overall from 0:26:34 to 0:25:18
+- 📅 Tuesday was impacted the most
+- ✅ 847 new trips with an average duration of 0:25:19
 	- 102 on Monday
 	- 189 on Tuesday
 	- 188 on Wednesday
@@ -653,7 +653,7 @@
 	- 63 on Friday
 	- 100 on Saturday
 	- 79 on Sunday
-- :x: 1088 trips removed with an average duration of 0:26:34
+- ❌ 1088 trips removed with an average duration of 0:26:34
 	- 147 on Monday
 	- 147 on Tuesday
 	- 74 on Wednesday
@@ -661,19 +661,19 @@
 	- 267 on Friday
 	- 162 on Saturday
 	- 90 on Sunday
-## :bus: 43 | Karsh <> Greenboro
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 43 | Karsh <> Greenboro
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 38 on Monday
 	- 114 on Tuesday
 	- 114 on Wednesday
 	- 76 on Thursday
 	- 38 on Friday
-## :bus: 44 | Billings Bridge <> Hurdman
-- Trip numbers :arrow_down: 309 from 1969 to 1660
-- Average duration :arrow_up: 0:01:00 overall from 0:29:45 to 0:30:45
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1645 new trips with an average duration of 0:30:47
+## 🚌 44 | Billings Bridge <> Hurdman
+- Trip numbers ⬇️ 309 from 1969 to 1660
+- Average duration ⬆️ 0:01:00 overall from 0:29:45 to 0:30:45
+- 📅 Tuesday was impacted the most
+- ✅ 1645 new trips with an average duration of 0:30:47
 	- 195 on Monday
 	- 391 on Tuesday
 	- 389 on Wednesday
@@ -681,7 +681,7 @@
 	- 129 on Friday
 	- 150 on Saturday
 	- 131 on Sunday
-- :x: 1954 trips removed with an average duration of 0:29:45
+- ❌ 1954 trips removed with an average duration of 0:29:45
 	- 261 on Monday
 	- 262 on Tuesday
 	- 130 on Wednesday
@@ -689,11 +689,11 @@
 	- 458 on Friday
 	- 337 on Saturday
 	- 131 on Sunday
-## :bus: 45 | Hospital ~ Hôpital <> Hurdman & N Rideau
-- Trip numbers :arrow_down: 206 from 2020 to 1814
-- Average duration :arrow_down: 0:00:14 overall from 0:08:59 to 0:08:45
-- :calendar: Tuesday and Thursday were impacted the most
-- :white_check_mark: 1812 new trips with an average duration of 0:08:45
+## 🚌 45 | Hospital ~ Hôpital <> Hurdman & N Rideau
+- Trip numbers ⬇️ 206 from 2020 to 1814
+- Average duration ⬇️ 0:00:14 overall from 0:08:59 to 0:08:45
+- 📅 Tuesday and Thursday were impacted the most
+- ✅ 1812 new trips with an average duration of 0:08:45
 	- 224 on Monday
 	- 414 on Tuesday
 	- 414 on Wednesday
@@ -701,7 +701,7 @@
 	- 138 on Friday
 	- 174 on Saturday
 	- 172 on Sunday
-- :x: 2018 trips removed with an average duration of 0:08:59
+- ❌ 2018 trips removed with an average duration of 0:08:59
 	- 272 on Monday
 	- 272 on Tuesday
 	- 136 on Wednesday
@@ -709,9 +709,9 @@
 	- 494 on Friday
 	- 262 on Saturday
 	- 172 on Sunday
-## :bus: 46 | Billings Bridge - Hurdman
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 46 | Billings Bridge - Hurdman
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 241 on Monday
 	- 240 on Tuesday
 	- 120 on Wednesday
@@ -719,27 +719,27 @@
 	- 421 on Friday
 	- 237 on Saturday
 	- 122 on Sunday
-## :bus: 47 | Hawthorne <> St-Laurent
-- Trip numbers :arrow_down: 34 from 174 to 140
-- Average duration :arrow_down: 0:02:02 overall from 0:27:36 to 0:25:34
-- :calendar: Tuesday and Thursday were impacted the most
-- :white_check_mark: 140 new trips with an average duration of 0:25:34
+## 🚌 47 | Hawthorne <> St-Laurent
+- Trip numbers ⬇️ 34 from 174 to 140
+- Average duration ⬇️ 0:02:02 overall from 0:27:36 to 0:25:34
+- 📅 Tuesday and Thursday were impacted the most
+- ✅ 140 new trips with an average duration of 0:25:34
 	- 14 on Monday
 	- 42 on Tuesday
 	- 42 on Wednesday
 	- 28 on Thursday
 	- 14 on Friday
-- :x: 174 trips removed with an average duration of 0:27:36
+- ❌ 174 trips removed with an average duration of 0:27:36
 	- 32 on Monday
 	- 32 on Tuesday
 	- 16 on Wednesday
 	- 46 on Thursday
 	- 48 on Friday
-## :bus: 48 | Hurdman <> Carleton
-- Trip numbers :arrow_up: 280 from 1012 to 1292
-- Average duration :arrow_up: 0:20:53 overall from 0:28:19 to 0:49:12
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1291 new trips with an average duration of 0:49:13
+## 🚌 48 | Hurdman <> Carleton
+- Trip numbers ⬆️ 280 from 1012 to 1292
+- Average duration ⬆️ 0:20:53 overall from 0:28:19 to 0:49:12
+- 📅 Tuesday was impacted the most
+- ✅ 1291 new trips with an average duration of 0:49:13
 	- 157 on Monday
 	- 291 on Tuesday
 	- 291 on Wednesday
@@ -747,7 +747,7 @@
 	- 97 on Friday
 	- 142 on Saturday
 	- 120 on Sunday
-- :x: 1011 trips removed with an average duration of 0:28:19
+- ❌ 1011 trips removed with an average duration of 0:28:19
 	- 131 on Monday
 	- 138 on Tuesday
 	- 69 on Wednesday
@@ -755,11 +755,11 @@
 	- 238 on Friday
 	- 176 on Saturday
 	- 62 on Sunday
-## :bus: 49 | Elmvale <> Hurdman
-- Trip numbers :arrow_down: 50 from 497 to 447
-- Average duration :arrow_up: 0:00:06 overall from 0:14:24 to 0:14:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 447 new trips with an average duration of 0:14:30
+## 🚌 49 | Elmvale <> Hurdman
+- Trip numbers ⬇️ 50 from 497 to 447
+- Average duration ⬆️ 0:00:06 overall from 0:14:24 to 0:14:30
+- 📅 Tuesday was impacted the most
+- ✅ 447 new trips with an average duration of 0:14:30
 	- 54 on Monday
 	- 105 on Tuesday
 	- 105 on Wednesday
@@ -767,7 +767,7 @@
 	- 35 on Friday
 	- 40 on Saturday
 	- 38 on Sunday
-- :x: 497 trips removed with an average duration of 0:14:24
+- ❌ 497 trips removed with an average duration of 0:14:24
 	- 72 on Monday
 	- 72 on Tuesday
 	- 36 on Wednesday
@@ -775,20 +775,20 @@
 	- 127 on Friday
 	- 60 on Saturday
 	- 38 on Sunday
-## :bus: 50 | Tunney's Pasture - Lincoln Fields
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 50 | Tunney's Pasture - Lincoln Fields
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 120 on Monday
 	- 120 on Tuesday
 	- 60 on Wednesday
 	- 162 on Thursday
 	- 180 on Friday
 	- 126 on Saturday
-## :bus: 51 | Tunney's Pasture <> Britannia
-- Trip numbers :arrow_down: 883 from 1865 to 982
-- Average duration :arrow_up: 0:06:38 overall from 0:35:25 to 0:42:03
-- :calendar: Friday was impacted the most
-- :white_check_mark: 972 new trips with an average duration of 0:42:00
+## 🚌 51 | Tunney's Pasture <> Britannia
+- Trip numbers ⬇️ 883 from 1865 to 982
+- Average duration ⬆️ 0:06:38 overall from 0:35:25 to 0:42:03
+- 📅 Friday was impacted the most
+- ✅ 972 new trips with an average duration of 0:42:00
 	- 122 on Monday
 	- 206 on Tuesday
 	- 205 on Wednesday
@@ -796,7 +796,7 @@
 	- 68 on Friday
 	- 124 on Saturday
 	- 110 on Sunday
-- :x: 1855 trips removed with an average duration of 0:35:25
+- ❌ 1855 trips removed with an average duration of 0:35:25
 	- 237 on Monday
 	- 239 on Tuesday
 	- 120 on Wednesday
@@ -804,11 +804,11 @@
 	- 450 on Friday
 	- 294 on Saturday
 	- 178 on Sunday
-## :bus: 53 | Tunney's Pasture <> Baseline
-- Trip numbers :arrow_down: 569 from 1914 to 1345
-- Average duration :arrow_up: 0:16:15 overall from 0:19:54 to 0:36:09
-- :calendar: Thursday was impacted the most
-- :white_check_mark: 1344 new trips with an average duration of 0:36:09
+## 🚌 53 | Tunney's Pasture <> Baseline
+- Trip numbers ⬇️ 569 from 1914 to 1345
+- Average duration ⬆️ 0:16:15 overall from 0:19:54 to 0:36:09
+- 📅 Thursday was impacted the most
+- ✅ 1344 new trips with an average duration of 0:36:09
 	- 166 on Monday
 	- 303 on Tuesday
 	- 303 on Wednesday
@@ -816,7 +816,7 @@
 	- 101 on Friday
 	- 140 on Saturday
 	- 130 on Sunday
-- :x: 1913 trips removed with an average duration of 0:19:54
+- ❌ 1913 trips removed with an average duration of 0:19:54
 	- 260 on Monday
 	- 260 on Tuesday
 	- 130 on Wednesday
@@ -824,9 +824,9 @@
 	- 453 on Friday
 	- 317 on Saturday
 	- 126 on Sunday
-## :bus: 54 | Tunneys Pasture
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 54 | Tunneys Pasture
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 56 on Monday
 	- 56 on Tuesday
 	- 28 on Wednesday
@@ -834,9 +834,9 @@
 	- 88 on Friday
 	- 12 on Saturday
 	- 8 on Sunday
-## :bus: 55 | Westgate - Elmvale
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 55 | Westgate - Elmvale
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 240 on Monday
 	- 226 on Tuesday
 	- 113 on Wednesday
@@ -844,11 +844,11 @@
 	- 415 on Friday
 	- 240 on Saturday
 	- 152 on Sunday
-## :bus: 56 | King Edward & Civic <> Tunney's Pasture
-- Trip numbers :arrow_down: 212 from 1550 to 1338
-- Average duration :arrow_up: 0:03:53 overall from 0:19:25 to 0:23:18
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1336 new trips with an average duration of 0:23:18
+## 🚌 56 | King Edward & Civic <> Tunney's Pasture
+- Trip numbers ⬇️ 212 from 1550 to 1338
+- Average duration ⬆️ 0:03:53 overall from 0:19:25 to 0:23:18
+- 📅 Tuesday was impacted the most
+- ✅ 1336 new trips with an average duration of 0:23:18
 	- 165 on Monday
 	- 303 on Tuesday
 	- 303 on Wednesday
@@ -856,7 +856,7 @@
 	- 101 on Friday
 	- 136 on Saturday
 	- 127 on Sunday
-- :x: 1548 trips removed with an average duration of 0:19:26
+- ❌ 1548 trips removed with an average duration of 0:19:26
 	- 208 on Monday
 	- 208 on Tuesday
 	- 104 on Wednesday
@@ -864,11 +864,11 @@
 	- 376 on Friday
 	- 218 on Saturday
 	- 127 on Sunday
-## :bus: 57 | Tunney's Pasture & N Rideau <> Complexe Carling Campus
-- Trip numbers :arrow_down: 837 from 2566 to 1729
-- Average duration :arrow_up: 0:05:59 overall from 0:37:07 to 0:43:06
-- :calendar: Thursday and Friday were impacted the most
-- :white_check_mark: 1722 new trips with an average duration of 0:43:08
+## 🚌 57 | Tunney's Pasture & N Rideau <> Complexe Carling Campus
+- Trip numbers ⬇️ 837 from 2566 to 1729
+- Average duration ⬆️ 0:05:59 overall from 0:37:07 to 0:43:06
+- 📅 Thursday and Friday were impacted the most
+- ✅ 1722 new trips with an average duration of 0:43:08
 	- 209 on Monday
 	- 408 on Tuesday
 	- 406 on Wednesday
@@ -876,7 +876,7 @@
 	- 136 on Friday
 	- 148 on Saturday
 	- 146 on Sunday
-- :x: 2559 trips removed with an average duration of 0:37:07
+- ❌ 2559 trips removed with an average duration of 0:37:07
 	- 318 on Monday
 	- 318 on Tuesday
 	- 159 on Wednesday
@@ -884,11 +884,11 @@
 	- 603 on Friday
 	- 439 on Saturday
 	- 252 on Sunday
-## :bus: 58 | Complexe Carling Campus / Abbott POCC <> Bayshore
-- Trip numbers :arrow_down: 186 from 1103 to 917
-- Average duration :arrow_down: 0:17:11 overall from 0:32:58 to 0:15:47
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 916 new trips with an average duration of 0:15:47
+## 🚌 58 | Complexe Carling Campus / Abbott POCC <> Bayshore
+- Trip numbers ⬇️ 186 from 1103 to 917
+- Average duration ⬇️ 0:17:11 overall from 0:32:58 to 0:15:47
+- 📅 Tuesday was impacted the most
+- ✅ 916 new trips with an average duration of 0:15:47
 	- 109 on Monday
 	- 204 on Tuesday
 	- 203 on Wednesday
@@ -896,7 +896,7 @@
 	- 68 on Friday
 	- 114 on Saturday
 	- 82 on Sunday
-- :x: 1102 trips removed with an average duration of 0:32:58
+- ❌ 1102 trips removed with an average duration of 0:32:58
 	- 141 on Monday
 	- 144 on Tuesday
 	- 72 on Wednesday
@@ -904,19 +904,19 @@
 	- 263 on Friday
 	- 180 on Saturday
 	- 94 on Sunday
-## :bus: 60 | Cope <> Terry Fox / Tunney's Pasture
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 60 | Cope <> Terry Fox / Tunney's Pasture
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 70 on Monday
 	- 210 on Tuesday
 	- 210 on Wednesday
 	- 140 on Thursday
 	- 70 on Friday
-## :bus: 61 | Tunney's Pasture & N Rideau <> Stittsville
-- Trip numbers :arrow_down: 382 from 1971 to 1589
-- Average duration :arrow_up: 0:03:40 overall from 0:58:52 to 1:02:32
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1582 new trips with an average duration of 1:02:32
+## 🚌 61 | Tunney's Pasture & N Rideau <> Stittsville
+- Trip numbers ⬇️ 382 from 1971 to 1589
+- Average duration ⬆️ 0:03:40 overall from 0:58:52 to 1:02:32
+- 📅 Tuesday was impacted the most
+- ✅ 1582 new trips with an average duration of 1:02:32
 	- 199 on Monday
 	- 346 on Tuesday
 	- 347 on Wednesday
@@ -924,7 +924,7 @@
 	- 116 on Friday
 	- 174 on Saturday
 	- 168 on Sunday
-- :x: 1964 trips removed with an average duration of 0:58:53
+- ❌ 1964 trips removed with an average duration of 0:58:53
 	- 271 on Monday
 	- 270 on Tuesday
 	- 136 on Wednesday
@@ -932,11 +932,11 @@
 	- 491 on Friday
 	- 267 on Saturday
 	- 167 on Sunday
-## :bus: 62 | Tunney's Pasture <> Stittsville
-- Trip numbers :arrow_down: 125 from 1181 to 1056
-- Average duration :arrow_up: 0:02:32 overall from 1:05:52 to 1:08:24
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1056 new trips with an average duration of 1:08:24
+## 🚌 62 | Tunney's Pasture <> Stittsville
+- Trip numbers ⬇️ 125 from 1181 to 1056
+- Average duration ⬆️ 0:02:32 overall from 1:05:52 to 1:08:24
+- 📅 Tuesday was impacted the most
+- ✅ 1056 new trips with an average duration of 1:08:24
 	- 136 on Monday
 	- 222 on Tuesday
 	- 222 on Wednesday
@@ -944,7 +944,7 @@
 	- 74 on Friday
 	- 130 on Saturday
 	- 124 on Sunday
-- :x: 1181 trips removed with an average duration of 1:05:52
+- ❌ 1181 trips removed with an average duration of 1:05:52
 	- 147 on Monday
 	- 148 on Tuesday
 	- 74 on Wednesday
@@ -952,11 +952,11 @@
 	- 284 on Friday
 	- 192 on Saturday
 	- 124 on Sunday
-## :bus: 63 | Innovation / Briarbrook <> Tunney's Pasture & N Rideau
-- Trip numbers :arrow_down: 167 from 1467 to 1300
-- Average duration :arrow_up: 0:08:36 overall from 0:52:36 to 1:01:12
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1300 new trips with an average duration of 1:01:12
+## 🚌 63 | Innovation / Briarbrook <> Tunney's Pasture & N Rideau
+- Trip numbers ⬇️ 167 from 1467 to 1300
+- Average duration ⬆️ 0:08:36 overall from 0:52:36 to 1:01:12
+- 📅 Tuesday was impacted the most
+- ✅ 1300 new trips with an average duration of 1:01:12
 	- 157 on Monday
 	- 297 on Tuesday
 	- 297 on Wednesday
@@ -964,7 +964,7 @@
 	- 99 on Friday
 	- 136 on Saturday
 	- 116 on Sunday
-- :x: 1467 trips removed with an average duration of 0:52:36
+- ❌ 1467 trips removed with an average duration of 0:52:36
 	- 203 on Monday
 	- 202 on Tuesday
 	- 101 on Wednesday
@@ -972,35 +972,35 @@
 	- 359 on Friday
 	- 216 on Saturday
 	- 112 on Sunday
-## :bus: 64 | Morgan's Grant/Innovation - Tunney's Pasture
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 64 | Morgan's Grant/Innovation - Tunney's Pasture
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 182 on Monday
 	- 182 on Tuesday
 	- 91 on Wednesday
 	- 229 on Thursday
 	- 273 on Friday
-## :bus: 66 | Tunneys Pasture <> Innovation
-- Trip numbers :arrow_down: 23 from 213 to 190
-- Average duration :arrow_down: 0:13:44 overall from 0:59:06 to 0:45:22
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 190 new trips with an average duration of 0:45:22
+## 🚌 66 | Tunneys Pasture <> Innovation
+- Trip numbers ⬇️ 23 from 213 to 190
+- Average duration ⬇️ 0:13:44 overall from 0:59:06 to 0:45:22
+- 📅 Tuesday was impacted the most
+- ✅ 190 new trips with an average duration of 0:45:22
 	- 19 on Monday
 	- 57 on Tuesday
 	- 57 on Wednesday
 	- 38 on Thursday
 	- 19 on Friday
-- :x: 213 trips removed with an average duration of 0:59:06
+- ❌ 213 trips removed with an average duration of 0:59:06
 	- 40 on Monday
 	- 40 on Tuesday
 	- 20 on Wednesday
 	- 53 on Thursday
 	- 60 on Friday
-## :bus: 67 | Terry Fox / Tunney's Pasture <> Cope
-- Trip numbers :arrow_up: 427 from 409 to 836
-- Average duration :arrow_down: 0:00:34 overall from 0:25:46 to 0:25:12
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 836 new trips with an average duration of 0:25:12
+## 🚌 67 | Terry Fox / Tunney's Pasture <> Cope
+- Trip numbers ⬆️ 427 from 409 to 836
+- Average duration ⬇️ 0:00:34 overall from 0:25:46 to 0:25:12
+- 📅 Tuesday was impacted the most
+- ✅ 836 new trips with an average duration of 0:25:12
 	- 102 on Monday
 	- 186 on Tuesday
 	- 186 on Wednesday
@@ -1008,15 +1008,15 @@
 	- 62 on Friday
 	- 96 on Saturday
 	- 80 on Sunday
-- :x: 409 trips removed with an average duration of 0:25:46
+- ❌ 409 trips removed with an average duration of 0:25:46
 	- 74 on Monday
 	- 76 on Tuesday
 	- 38 on Wednesday
 	- 107 on Thursday
 	- 114 on Friday
-## :bus: 68 | Baseline <> Terry Fox
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 68 | Baseline <> Terry Fox
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 230 on Monday
 	- 438 on Tuesday
 	- 438 on Wednesday
@@ -1024,9 +1024,9 @@
 	- 146 on Friday
 	- 214 on Saturday
 	- 168 on Sunday
-## :bus: 70 | Fallowfield <> Limebank & CFIA ~ ACIA
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 70 | Fallowfield <> Limebank & CFIA ~ ACIA
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 160 on Monday
 	- 291 on Tuesday
 	- 291 on Wednesday
@@ -1034,27 +1034,27 @@
 	- 97 on Friday
 	- 134 on Saturday
 	- 126 on Sunday
-## :bus: 73 | Limebank <> Fallowfield / Tunney's Pasture
-- Trip numbers :arrow_up: 479 from 191 to 670
-- Average duration :arrow_down: 0:04:59 overall from 0:33:12 to 0:28:13
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 664 new trips with an average duration of 0:28:20
+## 🚌 73 | Limebank <> Fallowfield / Tunney's Pasture
+- Trip numbers ⬆️ 479 from 191 to 670
+- Average duration ⬇️ 0:04:59 overall from 0:33:12 to 0:28:13
+- 📅 Tuesday was impacted the most
+- ✅ 664 new trips with an average duration of 0:28:20
 	- 66 on Monday
 	- 200 on Tuesday
 	- 199 on Wednesday
 	- 133 on Thursday
 	- 66 on Friday
-- :x: 185 trips removed with an average duration of 0:33:07
+- ❌ 185 trips removed with an average duration of 0:33:07
 	- 35 on Monday
 	- 35 on Tuesday
 	- 17 on Wednesday
 	- 46 on Thursday
 	- 52 on Friday
-## :bus: 74 | Limebank <> Tunney's Pasture
-- Trip numbers :arrow_down: 212 from 1633 to 1421
-- Average duration :arrow_up: 0:03:50 overall from 0:47:20 to 0:51:10
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1421 new trips with an average duration of 0:51:10
+## 🚌 74 | Limebank <> Tunney's Pasture
+- Trip numbers ⬇️ 212 from 1633 to 1421
+- Average duration ⬆️ 0:03:50 overall from 0:47:20 to 0:51:10
+- 📅 Tuesday was impacted the most
+- ✅ 1421 new trips with an average duration of 0:51:10
 	- 163 on Monday
 	- 342 on Tuesday
 	- 342 on Wednesday
@@ -1062,7 +1062,7 @@
 	- 114 on Friday
 	- 134 on Saturday
 	- 98 on Sunday
-- :x: 1633 trips removed with an average duration of 0:47:20
+- ❌ 1633 trips removed with an average duration of 0:47:20
 	- 241 on Monday
 	- 240 on Tuesday
 	- 120 on Wednesday
@@ -1070,11 +1070,11 @@
 	- 409 on Friday
 	- 213 on Saturday
 	- 98 on Sunday
-## :bus: 75 | Tunney's Pasture & N Rideau <> Barrhaven Centre / Cambrian
-- Trip numbers :arrow_down: 405 from 2985 to 2580
-- Average duration :arrow_up: 0:04:47 overall from 0:47:37 to 0:52:24
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 2560 new trips with an average duration of 0:52:21
+## 🚌 75 | Tunney's Pasture & N Rideau <> Barrhaven Centre / Cambrian
+- Trip numbers ⬇️ 405 from 2985 to 2580
+- Average duration ⬆️ 0:04:47 overall from 0:47:37 to 0:52:24
+- 📅 Tuesday was impacted the most
+- ✅ 2560 new trips with an average duration of 0:52:21
 	- 328 on Monday
 	- 532 on Tuesday
 	- 534 on Wednesday
@@ -1082,7 +1082,7 @@
 	- 178 on Friday
 	- 330 on Saturday
 	- 302 on Sunday
-- :x: 2965 trips removed with an average duration of 0:47:37
+- ❌ 2965 trips removed with an average duration of 0:47:37
 	- 370 on Monday
 	- 369 on Tuesday
 	- 185 on Wednesday
@@ -1090,11 +1090,11 @@
 	- 706 on Friday
 	- 496 on Saturday
 	- 302 on Sunday
-## :bus: 80 | Barrhaven Centre <> Tunney's Pasture
-- Trip numbers :arrow_down: 191 from 1891 to 1700
-- Average duration :arrow_up: 0:07:17 overall from 0:46:26 to 0:53:43
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1692 new trips with an average duration of 0:53:45
+## 🚌 80 | Barrhaven Centre <> Tunney's Pasture
+- Trip numbers ⬇️ 191 from 1891 to 1700
+- Average duration ⬆️ 0:07:17 overall from 0:46:26 to 0:53:43
+- 📅 Tuesday was impacted the most
+- ✅ 1692 new trips with an average duration of 0:53:45
 	- 187 on Monday
 	- 425 on Tuesday
 	- 424 on Wednesday
@@ -1102,7 +1102,7 @@
 	- 141 on Friday
 	- 140 on Saturday
 	- 92 on Sunday
-- :x: 1883 trips removed with an average duration of 0:46:26
+- ❌ 1883 trips removed with an average duration of 0:46:26
 	- 274 on Monday
 	- 285 on Tuesday
 	- 142 on Wednesday
@@ -1110,11 +1110,11 @@
 	- 473 on Friday
 	- 211 on Saturday
 	- 92 on Sunday
-## :bus: 81 | Tunney's Pasture <> Bayshore
-- Trip numbers :arrow_up: 100 from 889 to 989
-- Average duration :arrow_up: 0:24:09 overall from 0:28:26 to 0:52:35
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 989 new trips with an average duration of 0:52:35
+## 🚌 81 | Tunney's Pasture <> Bayshore
+- Trip numbers ⬆️ 100 from 889 to 989
+- Average duration ⬆️ 0:24:09 overall from 0:28:26 to 0:52:35
+- 📅 Tuesday was impacted the most
+- ✅ 989 new trips with an average duration of 0:52:35
 	- 124 on Monday
 	- 213 on Tuesday
 	- 213 on Wednesday
@@ -1122,7 +1122,7 @@
 	- 71 on Friday
 	- 120 on Saturday
 	- 106 on Sunday
-- :x: 889 trips removed with an average duration of 0:28:26
+- ❌ 889 trips removed with an average duration of 0:28:26
 	- 122 on Monday
 	- 122 on Tuesday
 	- 61 on Wednesday
@@ -1130,11 +1130,11 @@
 	- 219 on Friday
 	- 126 on Saturday
 	- 72 on Sunday
-## :bus: 82 | Baseline <> Lincoln Fields & Tunney's Pasture
-- Trip numbers :arrow_down: 169 from 1222 to 1053
-- Average duration :arrow_down: 0:06:02 overall from 0:46:54 to 0:40:52
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1052 new trips with an average duration of 0:40:52
+## 🚌 82 | Baseline <> Lincoln Fields & Tunney's Pasture
+- Trip numbers ⬇️ 169 from 1222 to 1053
+- Average duration ⬇️ 0:06:02 overall from 0:46:54 to 0:40:52
+- 📅 Tuesday was impacted the most
+- ✅ 1052 new trips with an average duration of 0:40:52
 	- 128 on Monday
 	- 231 on Tuesday
 	- 230 on Wednesday
@@ -1142,7 +1142,7 @@
 	- 77 on Friday
 	- 130 on Saturday
 	- 102 on Sunday
-- :x: 1221 trips removed with an average duration of 0:46:53
+- ❌ 1221 trips removed with an average duration of 0:46:53
 	- 154 on Monday
 	- 160 on Tuesday
 	- 80 on Wednesday
@@ -1150,9 +1150,9 @@
 	- 289 on Friday
 	- 210 on Saturday
 	- 98 on Sunday
-## :bus: 83 | Viewmount - Tunney's Pasture
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 83 | Viewmount - Tunney's Pasture
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 138 on Monday
 	- 140 on Tuesday
 	- 70 on Wednesday
@@ -1160,27 +1160,27 @@
 	- 246 on Friday
 	- 162 on Saturday
 	- 72 on Sunday
-## :bus: 84 | Centrepointe <> Baseline
-- Trip numbers :arrow_down: 348 from 468 to 120
-- Average duration :arrow_up: 0:01:48 overall from 0:06:07 to 0:07:55
-- :calendar: Friday was impacted the most
-- :white_check_mark: 120 new trips with an average duration of 0:07:55
+## 🚌 84 | Centrepointe <> Baseline
+- Trip numbers ⬇️ 348 from 468 to 120
+- Average duration ⬆️ 0:01:48 overall from 0:06:07 to 0:07:55
+- 📅 Friday was impacted the most
+- ✅ 120 new trips with an average duration of 0:07:55
 	- 12 on Monday
 	- 36 on Tuesday
 	- 36 on Wednesday
 	- 24 on Thursday
 	- 12 on Friday
-- :x: 468 trips removed with an average duration of 0:06:07
+- ❌ 468 trips removed with an average duration of 0:06:07
 	- 88 on Monday
 	- 88 on Tuesday
 	- 44 on Wednesday
 	- 116 on Thursday
 	- 132 on Friday
-## :bus: 85 | Lees <> Bayshore
-- Trip numbers :arrow_down: 274 from 2127 to 1853
-- Average duration :arrow_up: 0:06:44 overall from 0:50:25 to 0:57:09
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1849 new trips with an average duration of 0:57:09
+## 🚌 85 | Lees <> Bayshore
+- Trip numbers ⬇️ 274 from 2127 to 1853
+- Average duration ⬆️ 0:06:44 overall from 0:50:25 to 0:57:09
+- 📅 Tuesday was impacted the most
+- ✅ 1849 new trips with an average duration of 0:57:09
 	- 229 on Monday
 	- 400 on Tuesday
 	- 402 on Wednesday
@@ -1188,7 +1188,7 @@
 	- 134 on Friday
 	- 228 on Saturday
 	- 189 on Sunday
-- :x: 2123 trips removed with an average duration of 0:50:25
+- ❌ 2123 trips removed with an average duration of 0:50:25
 	- 276 on Monday
 	- 276 on Tuesday
 	- 138 on Wednesday
@@ -1196,11 +1196,11 @@
 	- 510 on Friday
 	- 341 on Saturday
 	- 192 on Sunday
-## :bus: 86 | Tunney's Pasture <> Antares
-- Trip numbers :arrow_down: 84 from 1373 to 1289
-- Average duration :arrow_up: 0:03:22 overall from 0:27:41 to 0:31:03
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1288 new trips with an average duration of 0:31:03
+## 🚌 86 | Tunney's Pasture <> Antares
+- Trip numbers ⬇️ 84 from 1373 to 1289
+- Average duration ⬆️ 0:03:22 overall from 0:27:41 to 0:31:03
+- 📅 Tuesday was impacted the most
+- ✅ 1288 new trips with an average duration of 0:31:03
 	- 159 on Monday
 	- 294 on Tuesday
 	- 294 on Wednesday
@@ -1208,7 +1208,7 @@
 	- 98 on Friday
 	- 126 on Saturday
 	- 122 on Sunday
-- :x: 1372 trips removed with an average duration of 0:27:41
+- ❌ 1372 trips removed with an average duration of 0:27:41
 	- 178 on Monday
 	- 180 on Tuesday
 	- 90 on Wednesday
@@ -1216,11 +1216,11 @@
 	- 332 on Friday
 	- 215 on Saturday
 	- 124 on Sunday
-## :bus: 87 | Tunney's Pasture <> Baseline
-- Trip numbers :arrow_down: 88 from 1352 to 1264
-- Average duration :arrow_up: 0:03:46 overall from 0:24:46 to 0:28:32
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1258 new trips with an average duration of 0:28:32
+## 🚌 87 | Tunney's Pasture <> Baseline
+- Trip numbers ⬇️ 88 from 1352 to 1264
+- Average duration ⬆️ 0:03:46 overall from 0:24:46 to 0:28:32
+- 📅 Tuesday was impacted the most
+- ✅ 1258 new trips with an average duration of 0:28:32
 	- 140 on Monday
 	- 320 on Tuesday
 	- 319 on Wednesday
@@ -1228,7 +1228,7 @@
 	- 106 on Friday
 	- 92 on Saturday
 	- 68 on Sunday
-- :x: 1346 trips removed with an average duration of 0:24:47
+- ❌ 1346 trips removed with an average duration of 0:24:47
 	- 213 on Monday
 	- 213 on Tuesday
 	- 106 on Wednesday
@@ -1236,11 +1236,11 @@
 	- 353 on Friday
 	- 135 on Saturday
 	- 68 on Sunday
-## :bus: 88 | Hurdman <> Bayshore
-- Trip numbers :arrow_down: 242 from 2573 to 2331
-- Average duration :arrow_down: 0:14:54 overall from 0:59:47 to 0:44:53
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 2321 new trips with an average duration of 0:44:54
+## 🚌 88 | Hurdman <> Bayshore
+- Trip numbers ⬇️ 242 from 2573 to 2331
+- Average duration ⬇️ 0:14:54 overall from 0:59:47 to 0:44:53
+- 📅 Tuesday was impacted the most
+- ✅ 2321 new trips with an average duration of 0:44:54
 	- 267 on Monday
 	- 548 on Tuesday
 	- 546 on Wednesday
@@ -1248,7 +1248,7 @@
 	- 182 on Friday
 	- 244 on Saturday
 	- 170 on Sunday
-- :x: 2563 trips removed with an average duration of 0:59:49
+- ❌ 2563 trips removed with an average duration of 0:59:49
 	- 359 on Monday
 	- 363 on Tuesday
 	- 181 on Wednesday
@@ -1256,9 +1256,9 @@
 	- 630 on Friday
 	- 369 on Saturday
 	- 172 on Sunday
-## :bus: 89 | Colonnade - Tunney's Pasture
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 89 | Colonnade - Tunney's Pasture
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 174 on Monday
 	- 174 on Tuesday
 	- 87 on Wednesday
@@ -1266,11 +1266,11 @@
 	- 318 on Friday
 	- 204 on Saturday
 	- 114 on Sunday
-## :bus: 90 | Greenboro <> Hurdman
-- Trip numbers :arrow_down: 135 from 1735 to 1600
-- Average duration :arrow_up: 0:06:29 overall from 0:32:20 to 0:38:49
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1593 new trips with an average duration of 0:38:50
+## 🚌 90 | Greenboro <> Hurdman
+- Trip numbers ⬇️ 135 from 1735 to 1600
+- Average duration ⬆️ 0:06:29 overall from 0:32:20 to 0:38:49
+- 📅 Tuesday was impacted the most
+- ✅ 1593 new trips with an average duration of 0:38:50
 	- 191 on Monday
 	- 378 on Tuesday
 	- 375 on Wednesday
@@ -1278,7 +1278,7 @@
 	- 126 on Friday
 	- 140 on Saturday
 	- 131 on Sunday
-- :x: 1728 trips removed with an average duration of 0:32:21
+- ❌ 1728 trips removed with an average duration of 0:32:21
 	- 246 on Monday
 	- 249 on Tuesday
 	- 125 on Wednesday
@@ -1286,17 +1286,17 @@
 	- 441 on Friday
 	- 214 on Saturday
 	- 132 on Sunday
-## :bus: 92 | Greenboro <> Walkley / Hurdman
-- Trip numbers :arrow_down: 778 from 1178 to 400
-- Average duration :arrow_up: 0:03:54 overall from 0:26:21 to 0:30:15
-- :calendar: Friday was impacted the most
-- :white_check_mark: 394 new trips with an average duration of 0:30:26
+## 🚌 92 | Greenboro <> Walkley / Hurdman
+- Trip numbers ⬇️ 778 from 1178 to 400
+- Average duration ⬆️ 0:03:54 overall from 0:26:21 to 0:30:15
+- 📅 Friday was impacted the most
+- ✅ 394 new trips with an average duration of 0:30:26
 	- 39 on Monday
 	- 119 on Tuesday
 	- 118 on Wednesday
 	- 79 on Thursday
 	- 39 on Friday
-- :x: 1172 trips removed with an average duration of 0:26:21
+- ❌ 1172 trips removed with an average duration of 0:26:21
 	- 150 on Monday
 	- 153 on Tuesday
 	- 76 on Wednesday
@@ -1304,11 +1304,11 @@
 	- 274 on Friday
 	- 207 on Saturday
 	- 90 on Sunday
-## :bus: 93 | Rotary <> Leitrim
-- Trip numbers :arrow_down: 361 from 1405 to 1044
-- Average duration :arrow_down: 0:17:20 overall from 0:32:04 to 0:14:44
-- :calendar: Friday was impacted the most
-- :white_check_mark: 1044 new trips with an average duration of 0:14:44
+## 🚌 93 | Rotary <> Leitrim
+- Trip numbers ⬇️ 361 from 1405 to 1044
+- Average duration ⬇️ 0:17:20 overall from 0:32:04 to 0:14:44
+- 📅 Friday was impacted the most
+- ✅ 1044 new trips with an average duration of 0:14:44
 	- 136 on Monday
 	- 216 on Tuesday
 	- 216 on Wednesday
@@ -1316,7 +1316,7 @@
 	- 72 on Friday
 	- 132 on Saturday
 	- 128 on Sunday
-- :x: 1405 trips removed with an average duration of 0:32:04
+- ❌ 1405 trips removed with an average duration of 0:32:04
 	- 182 on Monday
 	- 184 on Tuesday
 	- 92 on Wednesday
@@ -1324,17 +1324,17 @@
 	- 341 on Friday
 	- 219 on Saturday
 	- 130 on Sunday
-## :bus: 94 | Leitrim <> Dun Skipper
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 94 | Leitrim <> Dun Skipper
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 12 on Monday
 	- 36 on Tuesday
 	- 36 on Wednesday
 	- 24 on Thursday
 	- 12 on Friday
-## :bus: 96 | Merivale/96b Hunt Club - Hurdman/Greenboro
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 96 | Merivale/96b Hunt Club - Hurdman/Greenboro
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 89 on Monday
 	- 88 on Tuesday
 	- 44 on Wednesday
@@ -1342,9 +1342,9 @@
 	- 178 on Friday
 	- 168 on Saturday
 	- 92 on Sunday
-## :bus: 97 | Airport - Hurdman/Parliament
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 97 | Airport - Hurdman/Parliament
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 336 on Monday
 	- 336 on Tuesday
 	- 168 on Wednesday
@@ -1352,11 +1352,11 @@
 	- 646 on Friday
 	- 465 on Saturday
 	- 284 on Sunday
-## :bus: 98 | Hawthorne & N Rideau <> Hurdman
-- Trip numbers :arrow_up: 1066 from 1823 to 2889
-- Average duration :arrow_down: 0:05:46 overall from 0:30:06 to 0:24:20
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 2885 new trips with an average duration of 0:24:19
+## 🚌 98 | Hawthorne & N Rideau <> Hurdman
+- Trip numbers ⬆️ 1066 from 1823 to 2889
+- Average duration ⬇️ 0:05:46 overall from 0:30:06 to 0:24:20
+- 📅 Tuesday was impacted the most
+- ✅ 2885 new trips with an average duration of 0:24:19
 	- 362 on Monday
 	- 625 on Tuesday
 	- 626 on Wednesday
@@ -1364,7 +1364,7 @@
 	- 209 on Friday
 	- 340 on Saturday
 	- 306 on Sunday
-- :x: 1819 trips removed with an average duration of 0:30:06
+- ❌ 1819 trips removed with an average duration of 0:30:06
 	- 224 on Monday
 	- 224 on Tuesday
 	- 112 on Wednesday
@@ -1372,11 +1372,11 @@
 	- 421 on Friday
 	- 332 on Saturday
 	- 171 on Sunday
-## :bus: 99 | Barrhaven Centre via Weybridge <> Limebank
-- Trip numbers :arrow_down: 318 from 1405 to 1087
-- Average duration :arrow_down: 0:16:35 overall from 0:46:02 to 0:29:27
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1087 new trips with an average duration of 0:29:27
+## 🚌 99 | Barrhaven Centre via Weybridge <> Limebank
+- Trip numbers ⬇️ 318 from 1405 to 1087
+- Average duration ⬇️ 0:16:35 overall from 0:46:02 to 0:29:27
+- 📅 Tuesday was impacted the most
+- ✅ 1087 new trips with an average duration of 0:29:27
 	- 134 on Monday
 	- 237 on Tuesday
 	- 237 on Wednesday
@@ -1384,7 +1384,7 @@
 	- 79 on Friday
 	- 132 on Saturday
 	- 110 on Sunday
-- :x: 1405 trips removed with an average duration of 0:46:02
+- ❌ 1405 trips removed with an average duration of 0:46:02
 	- 182 on Monday
 	- 188 on Tuesday
 	- 94 on Wednesday
@@ -1392,11 +1392,11 @@
 	- 343 on Friday
 	- 219 on Saturday
 	- 122 on Sunday
-## :bus: 110 | Innovation / Briarbrook <> Limebank & Greenboro
-- Trip numbers :arrow_down: 51 from 791 to 740
-- Average duration :arrow_up: 0:38:26 overall from 0:48:58 to 1:27:24
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 740 new trips with an average duration of 1:27:24
+## 🚌 110 | Innovation / Briarbrook <> Limebank & Greenboro
+- Trip numbers ⬇️ 51 from 791 to 740
+- Average duration ⬆️ 0:38:26 overall from 0:48:58 to 1:27:24
+- 📅 Tuesday was impacted the most
+- ✅ 740 new trips with an average duration of 1:27:24
 	- 80 on Monday
 	- 204 on Tuesday
 	- 204 on Wednesday
@@ -1404,7 +1404,7 @@
 	- 68 on Friday
 	- 24 on Saturday
 	- 24 on Sunday
-- :x: 791 trips removed with an average duration of 0:48:58
+- ❌ 791 trips removed with an average duration of 0:48:58
 	- 133 on Monday
 	- 134 on Tuesday
 	- 67 on Wednesday
@@ -1412,11 +1412,11 @@
 	- 219 on Friday
 	- 54 on Saturday
 	- 36 on Sunday
-## :bus: 111 | Billings Bridge / Carleton <> Baseline
-- Trip numbers :arrow_down: 154 from 1973 to 1819
-- Average duration :arrow_down: 0:06:08 overall from 0:35:21 to 0:29:13
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1814 new trips with an average duration of 0:29:14
+## 🚌 111 | Billings Bridge / Carleton <> Baseline
+- Trip numbers ⬇️ 154 from 1973 to 1819
+- Average duration ⬇️ 0:06:08 overall from 0:35:21 to 0:29:13
+- 📅 Tuesday was impacted the most
+- ✅ 1814 new trips with an average duration of 0:29:14
 	- 210 on Monday
 	- 444 on Tuesday
 	- 444 on Wednesday
@@ -1424,7 +1424,7 @@
 	- 148 on Friday
 	- 148 on Saturday
 	- 125 on Sunday
-- :x: 1968 trips removed with an average duration of 0:35:21
+- ❌ 1968 trips removed with an average duration of 0:35:21
 	- 287 on Monday
 	- 289 on Tuesday
 	- 145 on Wednesday
@@ -1432,9 +1432,9 @@
 	- 493 on Friday
 	- 261 on Saturday
 	- 116 on Sunday
-## :bus: 112 | Billings Bridge <> Baseline
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 112 | Billings Bridge <> Baseline
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 130 on Monday
 	- 213 on Tuesday
 	- 213 on Wednesday
@@ -1442,17 +1442,17 @@
 	- 71 on Friday
 	- 136 on Saturday
 	- 118 on Sunday
-## :bus: 114 | Carlington - Rideau
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 114 | Carlington - Rideau
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 8 on Monday
 	- 8 on Tuesday
 	- 4 on Wednesday
 	- 8 on Thursday
 	- 12 on Friday
-## :bus: 116 | Greenboro <> Baseline
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 116 | Greenboro <> Baseline
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 81 on Monday
 	- 120 on Tuesday
 	- 120 on Wednesday
@@ -1460,25 +1460,25 @@
 	- 40 on Friday
 	- 90 on Saturday
 	- 82 on Sunday
-## :bus: 117 | Baseline <> Greenboro
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 117 | Baseline <> Greenboro
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 9 on Monday
 	- 27 on Tuesday
 	- 27 on Wednesday
 	- 18 on Thursday
 	- 9 on Friday
-## :bus: 125 | Blair - Aviation
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 125 | Blair - Aviation
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 131 | Fallingbrook - Chapel Hill
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 131 | Fallingbrook - Chapel Hill
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 160 on Monday
 	- 168 on Tuesday
 	- 84 on Wednesday
@@ -1486,11 +1486,11 @@
 	- 300 on Friday
 	- 198 on Saturday
 	- 96 on Sunday
-## :bus: 138 | Place d'Orléans <> Hiawatha
-- Trip numbers :arrow_down: 129 from 748 to 619
-- Average duration :arrow_down: 0:15:07 overall from 0:34:34 to 0:19:27
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 619 new trips with an average duration of 0:19:27
+## 🚌 138 | Place d'Orléans <> Hiawatha
+- Trip numbers ⬇️ 129 from 748 to 619
+- Average duration ⬇️ 0:15:07 overall from 0:34:34 to 0:19:27
+- 📅 Tuesday was impacted the most
+- ✅ 619 new trips with an average duration of 0:19:27
 	- 73 on Monday
 	- 144 on Tuesday
 	- 144 on Wednesday
@@ -1498,7 +1498,7 @@
 	- 48 on Friday
 	- 64 on Saturday
 	- 50 on Sunday
-- :x: 748 trips removed with an average duration of 0:34:34
+- ❌ 748 trips removed with an average duration of 0:34:34
 	- 104 on Monday
 	- 104 on Tuesday
 	- 52 on Wednesday
@@ -1506,28 +1506,28 @@
 	- 184 on Friday
 	- 108 on Saturday
 	- 56 on Sunday
-## :bus: 140 | Heron Park - Billings Bridge
-- :x: All trips removed
-- :calendar: Saturday was impacted the most
+## 🚌 140 | Heron Park - Billings Bridge
+- ❌ All trips removed
+- 📅 Saturday was impacted the most
 	- 48 on Monday
 	- 48 on Tuesday
 	- 24 on Wednesday
 	- 80 on Thursday
 	- 72 on Friday
 	- 96 on Saturday
-## :bus: 141 | Billings Bridge - Kaladar
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 141 | Billings Bridge - Kaladar
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 20 on Monday
 	- 20 on Tuesday
 	- 10 on Wednesday
 	- 20 on Thursday
 	- 30 on Friday
-## :bus: 153 | Carlingwood <> Lincoln Fields
-- Trip numbers :arrow_down: 44 from 254 to 210
-- Average duration :arrow_down: 0:14:53 overall from 0:31:01 to 0:16:08
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 210 new trips with an average duration of 0:16:08
+## 🚌 153 | Carlingwood <> Lincoln Fields
+- Trip numbers ⬇️ 44 from 254 to 210
+- Average duration ⬇️ 0:14:53 overall from 0:31:01 to 0:16:08
+- 📅 Tuesday was impacted the most
+- ✅ 210 new trips with an average duration of 0:16:08
 	- 25 on Monday
 	- 51 on Tuesday
 	- 51 on Wednesday
@@ -1535,7 +1535,7 @@
 	- 17 on Friday
 	- 16 on Saturday
 	- 16 on Sunday
-- :x: 254 trips removed with an average duration of 0:31:01
+- ❌ 254 trips removed with an average duration of 0:31:01
 	- 34 on Monday
 	- 34 on Tuesday
 	- 17 on Wednesday
@@ -1543,43 +1543,43 @@
 	- 63 on Friday
 	- 36 on Saturday
 	- 24 on Sunday
-## :bus: 154 | Queensway Terrace - Lincoln Fields
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 154 | Queensway Terrace - Lincoln Fields
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 10 on Monday
 	- 10 on Tuesday
 	- 5 on Wednesday
 	- 10 on Thursday
 	- 15 on Friday
-## :bus: 155 | Queensway Terrace - Bayshore
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 155 | Queensway Terrace - Bayshore
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 10 on Monday
 	- 10 on Tuesday
 	- 5 on Wednesday
 	- 10 on Thursday
 	- 15 on Friday
-## :bus: 158 | Bayshore <> Haanel
-- Trip numbers :arrow_down: 4 from 44 to 40
+## 🚌 158 | Bayshore <> Haanel
+- Trip numbers ⬇️ 4 from 44 to 40
 - Average duration did not change
-- :calendar: Tuesday and Thursday were impacted the most
-- :white_check_mark: 40 new trips with an average duration of 0:09:00
+- 📅 Tuesday and Thursday were impacted the most
+- ✅ 40 new trips with an average duration of 0:09:00
 	- 4 on Monday
 	- 12 on Tuesday
 	- 12 on Wednesday
 	- 8 on Thursday
 	- 4 on Friday
-- :x: 44 trips removed with an average duration of 0:09:00
+- ❌ 44 trips removed with an average duration of 0:09:00
 	- 8 on Monday
 	- 8 on Tuesday
 	- 4 on Wednesday
 	- 12 on Thursday
 	- 12 on Friday
-## :bus: 161 | Hazeldean <> Terry Fox
-- Trip numbers :arrow_up: 303 from 598 to 901
-- Average duration :arrow_up: 0:02:00 overall from 0:31:44 to 0:33:44
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 901 new trips with an average duration of 0:33:44
+## 🚌 161 | Hazeldean <> Terry Fox
+- Trip numbers ⬆️ 303 from 598 to 901
+- Average duration ⬆️ 0:02:00 overall from 0:31:44 to 0:33:44
+- 📅 Tuesday was impacted the most
+- ✅ 901 new trips with an average duration of 0:33:44
 	- 108 on Monday
 	- 219 on Tuesday
 	- 219 on Wednesday
@@ -1587,17 +1587,17 @@
 	- 73 on Friday
 	- 66 on Saturday
 	- 70 on Sunday
-- :x: 598 trips removed with an average duration of 0:31:44
+- ❌ 598 trips removed with an average duration of 0:31:44
 	- 110 on Monday
 	- 122 on Tuesday
 	- 61 on Wednesday
 	- 122 on Thursday
 	- 183 on Friday
-## :bus: 162 | Kanata West~Kanata ouest <> Terry Fox
-- Trip numbers :arrow_up: 362 from 252 to 614
-- Average duration :arrow_down: 0:15:29 overall from 0:31:20 to 0:15:51
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 614 new trips with an average duration of 0:15:51
+## 🚌 162 | Kanata West~Kanata ouest <> Terry Fox
+- Trip numbers ⬆️ 362 from 252 to 614
+- Average duration ⬇️ 0:15:29 overall from 0:31:20 to 0:15:51
+- 📅 Tuesday was impacted the most
+- ✅ 614 new trips with an average duration of 0:15:51
 	- 77 on Monday
 	- 135 on Tuesday
 	- 135 on Wednesday
@@ -1605,16 +1605,16 @@
 	- 45 on Friday
 	- 68 on Saturday
 	- 64 on Sunday
-- :x: 252 trips removed with an average duration of 0:31:20
+- ❌ 252 trips removed with an average duration of 0:31:20
 	- 28 on Monday
 	- 28 on Tuesday
 	- 14 on Wednesday
 	- 56 on Thursday
 	- 42 on Friday
 	- 84 on Saturday
-## :bus: 163 | Terry Fox <> Kittiwake
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 163 | Terry Fox <> Kittiwake
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 106 on Monday
 	- 189 on Tuesday
 	- 189 on Wednesday
@@ -1622,19 +1622,19 @@
 	- 63 on Friday
 	- 102 on Saturday
 	- 86 on Sunday
-## :bus: 164 | Terry Fox - Hope Side
-- :x: All trips removed
-- :calendar: Thursday and Friday were impacted the most
+## 🚌 164 | Terry Fox - Hope Side
+- ❌ All trips removed
+- 📅 Thursday and Friday were impacted the most
 	- 26 on Monday
 	- 26 on Tuesday
 	- 13 on Wednesday
 	- 39 on Thursday
 	- 39 on Friday
-## :bus: 165 | Innovation <> Terry Fox
-- Trip numbers :arrow_up: 403 from 220 to 623
-- Average duration :arrow_down: 0:03:50 overall from 0:20:30 to 0:16:40
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 623 new trips with an average duration of 0:16:40
+## 🚌 165 | Innovation <> Terry Fox
+- Trip numbers ⬆️ 403 from 220 to 623
+- Average duration ⬇️ 0:03:50 overall from 0:20:30 to 0:16:40
+- 📅 Tuesday was impacted the most
+- ✅ 623 new trips with an average duration of 0:16:40
 	- 72 on Monday
 	- 147 on Tuesday
 	- 147 on Wednesday
@@ -1642,25 +1642,25 @@
 	- 49 on Friday
 	- 64 on Saturday
 	- 46 on Sunday
-- :x: 220 trips removed with an average duration of 0:20:30
+- ❌ 220 trips removed with an average duration of 0:20:30
 	- 40 on Monday
 	- 40 on Tuesday
 	- 20 on Wednesday
 	- 60 on Thursday
 	- 60 on Friday
-## :bus: 166 | Eagleson -  Innovation
-- :x: All trips removed
-- :calendar: Thursday and Friday were impacted the most
+## 🚌 166 | Eagleson -  Innovation
+- ❌ All trips removed
+- 📅 Thursday and Friday were impacted the most
 	- 4 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 6 on Thursday
 	- 6 on Friday
-## :bus: 168 | Hope Side <> Terry Fox
-- Trip numbers :arrow_down: 329 from 1348 to 1019
-- Average duration :arrow_down: 0:03:55 overall from 0:42:42 to 0:38:47
-- :calendar: Friday was impacted the most
-- :white_check_mark: 1010 new trips with an average duration of 0:38:47
+## 🚌 168 | Hope Side <> Terry Fox
+- Trip numbers ⬇️ 329 from 1348 to 1019
+- Average duration ⬇️ 0:03:55 overall from 0:42:42 to 0:38:47
+- 📅 Friday was impacted the most
+- ✅ 1010 new trips with an average duration of 0:38:47
 	- 127 on Monday
 	- 215 on Tuesday
 	- 214 on Wednesday
@@ -1668,7 +1668,7 @@
 	- 71 on Friday
 	- 128 on Saturday
 	- 113 on Sunday
-- :x: 1339 trips removed with an average duration of 0:42:43
+- ❌ 1339 trips removed with an average duration of 0:42:43
 	- 161 on Monday
 	- 172 on Tuesday
 	- 86 on Wednesday
@@ -1676,9 +1676,9 @@
 	- 329 on Friday
 	- 209 on Saturday
 	- 140 on Sunday
-## :bus: 170 | Fallowfield - Barrhaven Centre
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 170 | Fallowfield - Barrhaven Centre
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 150 on Monday
 	- 150 on Tuesday
 	- 75 on Wednesday
@@ -1686,9 +1686,9 @@
 	- 290 on Friday
 	- 198 on Saturday
 	- 130 on Sunday
-## :bus: 171 | Fallowfield - Barrhaven Centre
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 171 | Fallowfield - Barrhaven Centre
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 129 on Monday
 	- 138 on Tuesday
 	- 69 on Wednesday
@@ -1696,11 +1696,11 @@
 	- 213 on Friday
 	- 18 on Saturday
 	- 12 on Sunday
-## :bus: 173 | Citigate <> Barrhaven Centre
-- Trip numbers :arrow_up: 460 from 548 to 1008
-- Average duration :arrow_down: 0:06:29 overall from 0:32:10 to 0:25:41
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 1008 new trips with an average duration of 0:25:41
+## 🚌 173 | Citigate <> Barrhaven Centre
+- Trip numbers ⬆️ 460 from 548 to 1008
+- Average duration ⬇️ 0:06:29 overall from 0:32:10 to 0:25:41
+- 📅 Tuesday was impacted the most
+- ✅ 1008 new trips with an average duration of 0:25:41
 	- 127 on Monday
 	- 213 on Tuesday
 	- 213 on Wednesday
@@ -1708,15 +1708,15 @@
 	- 71 on Friday
 	- 130 on Saturday
 	- 112 on Sunday
-- :x: 548 trips removed with an average duration of 0:32:10
+- ❌ 548 trips removed with an average duration of 0:32:10
 	- 104 on Monday
 	- 104 on Tuesday
 	- 52 on Wednesday
 	- 132 on Thursday
 	- 156 on Friday
-## :bus: 175 | Barrhaven Centre - Golflinks
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 175 | Barrhaven Centre - Golflinks
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 50 on Monday
 	- 50 on Tuesday
 	- 25 on Wednesday
@@ -1724,49 +1724,49 @@
 	- 77 on Friday
 	- 18 on Saturday
 	- 4 on Sunday
-## :bus: 176 | Manotick - Barrhaven Centre
-- :x: All trips removed
-- :calendar: Thursday and Friday were impacted the most
+## 🚌 176 | Manotick - Barrhaven Centre
+- ❌ All trips removed
+- 📅 Thursday and Friday were impacted the most
 	- 28 on Monday
 	- 28 on Tuesday
 	- 14 on Wednesday
 	- 42 on Thursday
 	- 42 on Friday
-## :bus: 186 | Rideau - Nepean South / sud
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 186 | Rideau - Nepean South / sud
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 10 on Monday
 	- 10 on Tuesday
 	- 5 on Wednesday
 	- 10 on Thursday
 	- 15 on Friday
-## :bus: 187 | Baseline <> Amberwood
-- Trip numbers :arrow_down: 25 from 125 to 100
-- Average duration :arrow_down: 0:03:57 overall from 0:26:21 to 0:22:24
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 100 new trips with an average duration of 0:22:24
+## 🚌 187 | Baseline <> Amberwood
+- Trip numbers ⬇️ 25 from 125 to 100
+- Average duration ⬇️ 0:03:57 overall from 0:26:21 to 0:22:24
+- 📅 Tuesday was impacted the most
+- ✅ 100 new trips with an average duration of 0:22:24
 	- 10 on Monday
 	- 30 on Tuesday
 	- 30 on Wednesday
 	- 20 on Thursday
 	- 10 on Friday
-- :x: 125 trips removed with an average duration of 0:26:21
+- ❌ 125 trips removed with an average duration of 0:26:21
 	- 22 on Monday
 	- 24 on Tuesday
 	- 12 on Wednesday
 	- 31 on Thursday
 	- 36 on Friday
-## :bus: 189 | Colonnade <> Baseline
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 189 | Colonnade <> Baseline
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 76 on Monday
 	- 228 on Tuesday
 	- 228 on Wednesday
 	- 152 on Thursday
 	- 76 on Friday
-## :bus: 190 | Mooney's Bay - Hurdman
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 190 | Mooney's Bay - Hurdman
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 8 on Monday
 	- 8 on Tuesday
 	- 4 on Wednesday
@@ -1774,11 +1774,11 @@
 	- 16 on Friday
 	- 12 on Saturday
 	- 8 on Sunday
-## :bus: 197 | Uplands / Greenboro
-- Trip numbers :arrow_down: 22 from 307 to 285
-- Average duration :arrow_up: 0:06:20 overall from 0:23:14 to 0:29:34
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 285 new trips with an average duration of 0:29:34
+## 🚌 197 | Uplands / Greenboro
+- Trip numbers ⬇️ 22 from 307 to 285
+- Average duration ⬆️ 0:06:20 overall from 0:23:14 to 0:29:34
+- 📅 Tuesday was impacted the most
+- ✅ 285 new trips with an average duration of 0:29:34
 	- 34 on Monday
 	- 69 on Tuesday
 	- 69 on Wednesday
@@ -1786,7 +1786,7 @@
 	- 23 on Friday
 	- 22 on Saturday
 	- 22 on Sunday
-- :x: 307 trips removed with an average duration of 0:23:14
+- ❌ 307 trips removed with an average duration of 0:23:14
 	- 46 on Monday
 	- 46 on Tuesday
 	- 23 on Wednesday
@@ -1794,1570 +1794,1570 @@
 	- 80 on Friday
 	- 33 on Saturday
 	- 22 on Sunday
-## :bus: 198 | Limebank <> Greenboro
-- Trip numbers :arrow_down: 11 from 121 to 110
-- Average duration :arrow_up: 0:05:00 overall from 0:25:27 to 0:30:27
-- :calendar: Tuesday and Thursday were impacted the most
-- :white_check_mark: 110 new trips with an average duration of 0:30:27
+## 🚌 198 | Limebank <> Greenboro
+- Trip numbers ⬇️ 11 from 121 to 110
+- Average duration ⬆️ 0:05:00 overall from 0:25:27 to 0:30:27
+- 📅 Tuesday and Thursday were impacted the most
+- ✅ 110 new trips with an average duration of 0:30:27
 	- 11 on Monday
 	- 33 on Tuesday
 	- 33 on Wednesday
 	- 22 on Thursday
 	- 11 on Friday
-- :x: 121 trips removed with an average duration of 0:25:27
+- ❌ 121 trips removed with an average duration of 0:25:27
 	- 22 on Monday
 	- 22 on Tuesday
 	- 11 on Wednesday
 	- 33 on Thursday
 	- 33 on Friday
-## :bus: 199 | Hurdman - Leikin
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 199 | Hurdman - Leikin
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 8 on Monday
 	- 8 on Tuesday
 	- 4 on Wednesday
 	- 8 on Thursday
 	- 12 on Friday
-## :bus: 221 | Blair <> Cumberland
-- Trip numbers :arrow_down: 6 from 86 to 80
-- Average duration :arrow_up: 0:07:46 overall from 0:26:14 to 0:34:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 80 new trips with an average duration of 0:34:00
+## 🚌 221 | Blair <> Cumberland
+- Trip numbers ⬇️ 6 from 86 to 80
+- Average duration ⬆️ 0:07:46 overall from 0:26:14 to 0:34:00
+- 📅 Tuesday was impacted the most
+- ✅ 80 new trips with an average duration of 0:34:00
 	- 8 on Monday
 	- 24 on Tuesday
 	- 24 on Wednesday
 	- 16 on Thursday
 	- 8 on Friday
-- :x: 86 trips removed with an average duration of 0:26:14
+- ❌ 86 trips removed with an average duration of 0:26:14
 	- 15 on Monday
 	- 16 on Tuesday
 	- 8 on Wednesday
 	- 23 on Thursday
 	- 24 on Friday
-## :bus: 222 | Blair <> Vars
-- Trip numbers :arrow_down: 5 from 65 to 60
-- Average duration :arrow_up: 0:05:52 overall from 0:40:38 to 0:46:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 60 new trips with an average duration of 0:46:30
+## 🚌 222 | Blair <> Vars
+- Trip numbers ⬇️ 5 from 65 to 60
+- Average duration ⬆️ 0:05:52 overall from 0:40:38 to 0:46:30
+- 📅 Tuesday was impacted the most
+- ✅ 60 new trips with an average duration of 0:46:30
 	- 6 on Monday
 	- 18 on Tuesday
 	- 18 on Wednesday
 	- 12 on Thursday
 	- 6 on Friday
-- :x: 65 trips removed with an average duration of 0:40:38
+- ❌ 65 trips removed with an average duration of 0:40:38
 	- 12 on Monday
 	- 12 on Tuesday
 	- 6 on Wednesday
 	- 17 on Thursday
 	- 18 on Friday
-## :bus: 226 | Chapel Hill <> Blair
+## 🚌 226 | Chapel Hill <> Blair
 - Trip numbers did not change
-- Average duration :arrow_up: 0:14:30 overall from 0:19:00 to 0:33:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 140 new trips with an average duration of 0:33:30
+- Average duration ⬆️ 0:14:30 overall from 0:19:00 to 0:33:30
+- 📅 Tuesday was impacted the most
+- ✅ 140 new trips with an average duration of 0:33:30
 	- 14 on Monday
 	- 42 on Tuesday
 	- 42 on Wednesday
 	- 28 on Thursday
 	- 14 on Friday
-- :x: 140 trips removed with an average duration of 0:19:00
+- ❌ 140 trips removed with an average duration of 0:19:00
 	- 28 on Monday
 	- 28 on Tuesday
 	- 14 on Wednesday
 	- 28 on Thursday
 	- 42 on Friday
-## :bus: 228 | Blair <> Navan / Sarsfield
-- Trip numbers :arrow_down: 5 from 65 to 60
-- Average duration :arrow_up: 0:03:53 overall from 0:48:57 to 0:52:50
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 60 new trips with an average duration of 0:52:50
+## 🚌 228 | Blair <> Navan / Sarsfield
+- Trip numbers ⬇️ 5 from 65 to 60
+- Average duration ⬆️ 0:03:53 overall from 0:48:57 to 0:52:50
+- 📅 Tuesday was impacted the most
+- ✅ 60 new trips with an average duration of 0:52:50
 	- 6 on Monday
 	- 18 on Tuesday
 	- 18 on Wednesday
 	- 12 on Thursday
 	- 6 on Friday
-- :x: 65 trips removed with an average duration of 0:48:57
+- ❌ 65 trips removed with an average duration of 0:48:57
 	- 12 on Monday
 	- 12 on Tuesday
 	- 6 on Wednesday
 	- 17 on Thursday
 	- 18 on Friday
-## :bus: 231 | Blair - Meadowglen
-- :x: All trips removed
-- :calendar: Thursday and Friday were impacted the most
+## 🚌 231 | Blair - Meadowglen
+- ❌ All trips removed
+- 📅 Thursday and Friday were impacted the most
 	- 16 on Monday
 	- 16 on Tuesday
 	- 8 on Wednesday
 	- 24 on Thursday
 	- 24 on Friday
-## :bus: 232 | Blair - Queenswood Heights
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 232 | Blair - Queenswood Heights
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 26 on Monday
 	- 26 on Tuesday
 	- 13 on Wednesday
 	- 34 on Thursday
 	- 39 on Friday
-## :bus: 234 | Blair <> Tenth line
-- Trip numbers :arrow_down: 8 from 138 to 130
-- Average duration :arrow_up: 0:05:57 overall from 0:33:03 to 0:39:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 130 new trips with an average duration of 0:39:00
+## 🚌 234 | Blair <> Tenth line
+- Trip numbers ⬇️ 8 from 138 to 130
+- Average duration ⬆️ 0:05:57 overall from 0:33:03 to 0:39:00
+- 📅 Tuesday was impacted the most
+- ✅ 130 new trips with an average duration of 0:39:00
 	- 13 on Monday
 	- 39 on Tuesday
 	- 39 on Wednesday
 	- 26 on Thursday
 	- 13 on Friday
-- :x: 138 trips removed with an average duration of 0:33:03
+- ❌ 138 trips removed with an average duration of 0:33:03
 	- 26 on Monday
 	- 26 on Tuesday
 	- 13 on Wednesday
 	- 34 on Thursday
 	- 39 on Friday
-## :bus: 236 | Blair - Esprit
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 236 | Blair - Esprit
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 28 on Monday
 	- 28 on Tuesday
 	- 14 on Wednesday
 	- 36 on Thursday
 	- 42 on Friday
-## :bus: 237 | Blair <> Place d'Orléans
-- Trip numbers :arrow_down: 8 from 88 to 80
-- Average duration :arrow_up: 0:05:23 overall from 0:23:37 to 0:29:00
-- :calendar: Tuesday and Thursday were impacted the most
-- :white_check_mark: 80 new trips with an average duration of 0:29:00
+## 🚌 237 | Blair <> Place d'Orléans
+- Trip numbers ⬇️ 8 from 88 to 80
+- Average duration ⬆️ 0:05:23 overall from 0:23:37 to 0:29:00
+- 📅 Tuesday and Thursday were impacted the most
+- ✅ 80 new trips with an average duration of 0:29:00
 	- 8 on Monday
 	- 24 on Tuesday
 	- 24 on Wednesday
 	- 16 on Thursday
 	- 8 on Friday
-- :x: 88 trips removed with an average duration of 0:23:37
+- ❌ 88 trips removed with an average duration of 0:23:37
 	- 16 on Monday
 	- 16 on Tuesday
 	- 8 on Wednesday
 	- 24 on Thursday
 	- 24 on Friday
-## :bus: 252 | Tunney's Pasture - Fernbank
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 252 | Tunney's Pasture - Fernbank
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 26 on Monday
 	- 26 on Tuesday
 	- 13 on Wednesday
 	- 34 on Thursday
 	- 39 on Friday
-## :bus: 256 | Tunney's Pasture <> Bridlewood
-- Trip numbers :arrow_up: 2 from 148 to 150
-- Average duration :arrow_up: 0:07:22 overall from 0:50:38 to 0:58:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 150 new trips with an average duration of 0:58:00
+## 🚌 256 | Tunney's Pasture <> Bridlewood
+- Trip numbers ⬆️ 2 from 148 to 150
+- Average duration ⬆️ 0:07:22 overall from 0:50:38 to 0:58:00
+- 📅 Tuesday was impacted the most
+- ✅ 150 new trips with an average duration of 0:58:00
 	- 15 on Monday
 	- 45 on Tuesday
 	- 45 on Wednesday
 	- 30 on Thursday
 	- 15 on Friday
-- :x: 148 trips removed with an average duration of 0:50:38
+- ❌ 148 trips removed with an average duration of 0:50:38
 	- 28 on Monday
 	- 28 on Tuesday
 	- 14 on Wednesday
 	- 36 on Thursday
 	- 42 on Friday
-## :bus: 257 | Tunney's Pasture - Bridlewood
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 257 | Tunney's Pasture - Bridlewood
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 38 on Monday
 	- 38 on Tuesday
 	- 19 on Wednesday
 	- 50 on Thursday
 	- 57 on Friday
-## :bus: 258 | Tunney's Pasture - Grandview
-- :x: All trips removed
-- :calendar: Thursday and Friday were impacted the most
+## 🚌 258 | Tunney's Pasture - Grandview
+- ❌ All trips removed
+- 📅 Thursday and Friday were impacted the most
 	- 18 on Monday
 	- 18 on Tuesday
 	- 9 on Wednesday
 	- 27 on Thursday
 	- 27 on Friday
-## :bus: 261 | Tunney's Pasture <> Kimpton
-- Trip numbers :arrow_down: 8 from 88 to 80
-- Average duration :arrow_down: 0:05:30 overall from 0:57:45 to 0:52:15
-- :calendar: Tuesday and Thursday were impacted the most
-- :white_check_mark: 80 new trips with an average duration of 0:52:15
+## 🚌 261 | Tunney's Pasture <> Kimpton
+- Trip numbers ⬇️ 8 from 88 to 80
+- Average duration ⬇️ 0:05:30 overall from 0:57:45 to 0:52:15
+- 📅 Tuesday and Thursday were impacted the most
+- ✅ 80 new trips with an average duration of 0:52:15
 	- 8 on Monday
 	- 24 on Tuesday
 	- 24 on Wednesday
 	- 16 on Thursday
 	- 8 on Friday
-- :x: 88 trips removed with an average duration of 0:57:45
+- ❌ 88 trips removed with an average duration of 0:57:45
 	- 16 on Monday
 	- 16 on Tuesday
 	- 8 on Wednesday
 	- 24 on Thursday
 	- 24 on Friday
-## :bus: 262 | Tunney's Pasture <> Fernbank
-- Trip numbers :arrow_down: 59 from 149 to 90
-- Average duration :arrow_up: 0:09:52 overall from 0:46:41 to 0:56:33
-- :calendar: Tuesday and Thursday were impacted the most
-- :white_check_mark: 90 new trips with an average duration of 0:56:33
+## 🚌 262 | Tunney's Pasture <> Fernbank
+- Trip numbers ⬇️ 59 from 149 to 90
+- Average duration ⬆️ 0:09:52 overall from 0:46:41 to 0:56:33
+- 📅 Tuesday and Thursday were impacted the most
+- ✅ 90 new trips with an average duration of 0:56:33
 	- 9 on Monday
 	- 27 on Tuesday
 	- 27 on Wednesday
 	- 18 on Thursday
 	- 9 on Friday
-- :x: 149 trips removed with an average duration of 0:46:41
+- ❌ 149 trips removed with an average duration of 0:46:41
 	- 28 on Monday
 	- 28 on Tuesday
 	- 14 on Wednesday
 	- 37 on Thursday
 	- 42 on Friday
-## :bus: 263 | Tunney's Pasture <> Richmond
-- Trip numbers :arrow_down: 7 from 77 to 70
-- Average duration :arrow_up: 0:13:08 overall from 0:56:17 to 1:09:25
-- :calendar: Tuesday and Thursday were impacted the most
-- :white_check_mark: 70 new trips with an average duration of 1:09:25
+## 🚌 263 | Tunney's Pasture <> Richmond
+- Trip numbers ⬇️ 7 from 77 to 70
+- Average duration ⬆️ 0:13:08 overall from 0:56:17 to 1:09:25
+- 📅 Tuesday and Thursday were impacted the most
+- ✅ 70 new trips with an average duration of 1:09:25
 	- 7 on Monday
 	- 21 on Tuesday
 	- 21 on Wednesday
 	- 14 on Thursday
 	- 7 on Friday
-- :x: 77 trips removed with an average duration of 0:56:17
+- ❌ 77 trips removed with an average duration of 0:56:17
 	- 14 on Monday
 	- 14 on Tuesday
 	- 7 on Wednesday
 	- 21 on Thursday
 	- 21 on Friday
-## :bus: 264 | Tunney's Pasture - Terry Fox
-- :x: All trips removed
-- :calendar: Thursday and Friday were impacted the most
+## 🚌 264 | Tunney's Pasture - Terry Fox
+- ❌ All trips removed
+- 📅 Thursday and Friday were impacted the most
 	- 16 on Monday
 	- 16 on Tuesday
 	- 8 on Wednesday
 	- 24 on Thursday
 	- 24 on Friday
-## :bus: 265 | Tunney's Pasture <> Terry Fox
-- Trip numbers :arrow_up: 74 from 66 to 140
-- Average duration :arrow_up: 0:23:35 overall from 0:39:50 to 1:03:25
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 140 new trips with an average duration of 1:03:25
+## 🚌 265 | Tunney's Pasture <> Terry Fox
+- Trip numbers ⬆️ 74 from 66 to 140
+- Average duration ⬆️ 0:23:35 overall from 0:39:50 to 1:03:25
+- 📅 Tuesday was impacted the most
+- ✅ 140 new trips with an average duration of 1:03:25
 	- 14 on Monday
 	- 42 on Tuesday
 	- 42 on Wednesday
 	- 28 on Thursday
 	- 14 on Friday
-- :x: 66 trips removed with an average duration of 0:39:50
+- ❌ 66 trips removed with an average duration of 0:39:50
 	- 12 on Monday
 	- 12 on Tuesday
 	- 6 on Wednesday
 	- 18 on Thursday
 	- 18 on Friday
-## :bus: 266 | Tunney's Pasture <> Springbrook
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 266 | Tunney's Pasture <> Springbrook
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 8 on Monday
 	- 24 on Tuesday
 	- 24 on Wednesday
 	- 16 on Thursday
 	- 8 on Friday
-## :bus: 267 | Tunney's Pasture - Glen Cairn
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 267 | Tunney's Pasture - Glen Cairn
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 28 on Monday
 	- 28 on Tuesday
 	- 14 on Wednesday
 	- 36 on Thursday
 	- 42 on Friday
-## :bus: 268 | Tunney's Pasture - Kanata Lakes
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 268 | Tunney's Pasture - Kanata Lakes
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 24 on Monday
 	- 24 on Tuesday
 	- 12 on Wednesday
 	- 32 on Thursday
 	- 36 on Friday
-## :bus: 270 | Tunney's Pasture - Cedarview
-- :x: All trips removed
-- :calendar: Thursday and Friday were impacted the most
+## 🚌 270 | Tunney's Pasture - Cedarview
+- ❌ All trips removed
+- 📅 Thursday and Friday were impacted the most
 	- 16 on Monday
 	- 16 on Tuesday
 	- 8 on Wednesday
 	- 24 on Thursday
 	- 24 on Friday
-## :bus: 271 | Tunney's Pasture - Stoneway
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 271 | Tunney's Pasture - Stoneway
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 26 on Monday
 	- 26 on Tuesday
 	- 13 on Wednesday
 	- 34 on Thursday
 	- 39 on Friday
-## :bus: 272 | Tunney's Pasture - Cobble Hill
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 272 | Tunney's Pasture - Cobble Hill
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 28 on Monday
 	- 28 on Tuesday
 	- 14 on Wednesday
 	- 37 on Thursday
 	- 42 on Friday
-## :bus: 273 | Tunney's Pasture - Tartan
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 273 | Tunney's Pasture - Tartan
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 26 on Monday
 	- 26 on Tuesday
 	- 13 on Wednesday
 	- 34 on Thursday
 	- 39 on Friday
-## :bus: 275 | Tunney's Pasture <> Half Moon Bay
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 275 | Tunney's Pasture <> Half Moon Bay
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 13 on Monday
 	- 39 on Tuesday
 	- 39 on Wednesday
 	- 26 on Thursday
 	- 13 on Friday
-## :bus: 277 | Tunney's Pasture <> Nepean Woods
-- Trip numbers :arrow_down: 30 from 150 to 120
-- Average duration :arrow_down: 0:00:16 overall from 0:50:36 to 0:50:20
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 120 new trips with an average duration of 0:50:20
+## 🚌 277 | Tunney's Pasture <> Nepean Woods
+- Trip numbers ⬇️ 30 from 150 to 120
+- Average duration ⬇️ 0:00:16 overall from 0:50:36 to 0:50:20
+- 📅 Tuesday was impacted the most
+- ✅ 120 new trips with an average duration of 0:50:20
 	- 12 on Monday
 	- 36 on Tuesday
 	- 36 on Wednesday
 	- 24 on Thursday
 	- 12 on Friday
-- :x: 150 trips removed with an average duration of 0:50:36
+- ❌ 150 trips removed with an average duration of 0:50:36
 	- 29 on Monday
 	- 28 on Tuesday
 	- 14 on Wednesday
 	- 37 on Thursday
 	- 42 on Friday
-## :bus: 278 | Tunney's Pasture - Riverside South/Sud
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 278 | Tunney's Pasture - Riverside South/Sud
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 32 on Monday
 	- 34 on Tuesday
 	- 17 on Wednesday
 	- 43 on Thursday
 	- 51 on Friday
-## :bus: 279 | Tunney's Pasture <> Manotick
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 279 | Tunney's Pasture <> Manotick
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 7 on Monday
 	- 21 on Tuesday
 	- 21 on Wednesday
 	- 14 on Thursday
 	- 7 on Friday
-## :bus: 282 | Tunney's Pasture - Trend-Arlington
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 282 | Tunney's Pasture - Trend-Arlington
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 26 on Monday
 	- 26 on Tuesday
 	- 13 on Wednesday
 	- 34 on Thursday
 	- 39 on Friday
-## :bus: 283 | Limebank <> Richmond / Munster
-- Trip numbers :arrow_down: 7 from 77 to 70
-- Average duration :arrow_down: 0:14:51 overall from 1:02:42 to 0:47:51
-- :calendar: Tuesday and Thursday were impacted the most
-- :white_check_mark: 70 new trips with an average duration of 0:47:51
+## 🚌 283 | Limebank <> Richmond / Munster
+- Trip numbers ⬇️ 7 from 77 to 70
+- Average duration ⬇️ 0:14:51 overall from 1:02:42 to 0:47:51
+- 📅 Tuesday and Thursday were impacted the most
+- ✅ 70 new trips with an average duration of 0:47:51
 	- 7 on Monday
 	- 21 on Tuesday
 	- 21 on Wednesday
 	- 14 on Thursday
 	- 7 on Friday
-- :x: 77 trips removed with an average duration of 1:02:42
+- ❌ 77 trips removed with an average duration of 1:02:42
 	- 14 on Monday
 	- 14 on Tuesday
 	- 7 on Wednesday
 	- 21 on Thursday
 	- 21 on Friday
-## :bus: 290 | Hurdman - McCarthy
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 290 | Hurdman - McCarthy
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 26 on Monday
 	- 26 on Tuesday
 	- 13 on Wednesday
 	- 34 on Thursday
 	- 39 on Friday
-## :bus: 291 | Hurdman - Herongate
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 291 | Hurdman - Herongate
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 24 on Monday
 	- 22 on Tuesday
 	- 11 on Wednesday
 	- 30 on Thursday
 	- 33 on Friday
-## :bus: 294 | Greenboro <> Lester
-- Trip numbers :arrow_down: 38 from 128 to 90
-- Average duration :arrow_down: 0:18:58 overall from 0:34:58 to 0:16:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 90 new trips with an average duration of 0:16:00
+## 🚌 294 | Greenboro <> Lester
+- Trip numbers ⬇️ 38 from 128 to 90
+- Average duration ⬇️ 0:18:58 overall from 0:34:58 to 0:16:00
+- 📅 Tuesday was impacted the most
+- ✅ 90 new trips with an average duration of 0:16:00
 	- 9 on Monday
 	- 27 on Tuesday
 	- 27 on Wednesday
 	- 18 on Thursday
 	- 9 on Friday
-- :x: 128 trips removed with an average duration of 0:34:58
+- ❌ 128 trips removed with an average duration of 0:34:58
 	- 24 on Monday
 	- 24 on Tuesday
 	- 12 on Wednesday
 	- 32 on Thursday
 	- 36 on Friday
-## :bus: 299 | Limebank <> Manotick
-- Trip numbers :arrow_up: 12 from 98 to 110
-- Average duration :arrow_down: 0:15:33 overall from 0:29:22 to 0:13:49
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 110 new trips with an average duration of 0:13:49
+## 🚌 299 | Limebank <> Manotick
+- Trip numbers ⬆️ 12 from 98 to 110
+- Average duration ⬇️ 0:15:33 overall from 0:29:22 to 0:13:49
+- 📅 Tuesday was impacted the most
+- ✅ 110 new trips with an average duration of 0:13:49
 	- 11 on Monday
 	- 33 on Tuesday
 	- 33 on Wednesday
 	- 22 on Thursday
 	- 11 on Friday
-- :x: 98 trips removed with an average duration of 0:29:22
+- ❌ 98 trips removed with an average duration of 0:29:22
 	- 14 on Monday
 	- 20 on Tuesday
 	- 10 on Wednesday
 	- 24 on Thursday
 	- 30 on Friday
-## :bus: 301 | Bayshore / Carlingwood <> Richmond / Stittsville
+## 🚌 301 | Bayshore / Carlingwood <> Richmond / Stittsville
 - Trip numbers did not change
 - Average duration did not change
-- :calendar: Monday was impacted the most
-- :white_check_mark: 4 new trips with an average duration of 1:03:00
+- 📅 Monday was impacted the most
+- ✅ 4 new trips with an average duration of 1:03:00
 	- 4 on Monday
-- :x: 4 trips removed with an average duration of 1:03:00
+- ❌ 4 trips removed with an average duration of 1:03:00
 	- 4 on Monday
-## :bus: 302 | St Laurent / Place D'Orléans <> Cumberland
-- Trip numbers :arrow_up: 2 from 4 to 6
+## 🚌 302 | St Laurent / Place D'Orléans <> Cumberland
+- Trip numbers ⬆️ 2 from 4 to 6
 - Average duration did not change
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 6 new trips with an average duration of 1:04:00
+- 📅 Tuesday was impacted the most
+- ✅ 6 new trips with an average duration of 1:04:00
 	- 6 on Tuesday
-- :x: 4 trips removed with an average duration of 1:04:00
+- ❌ 4 trips removed with an average duration of 1:04:00
 	- 4 on Tuesday
-## :bus: 303 | Bayshore / Carlingwood <> Dunrobin / Carp / Stittsville
-- Trip numbers :arrow_up: 4 from 2 to 6
+## 🚌 303 | Bayshore / Carlingwood <> Dunrobin / Carp / Stittsville
+- Trip numbers ⬆️ 4 from 2 to 6
 - Average duration did not change
-- :calendar: Wednesday was impacted the most
-- :white_check_mark: 6 new trips with an average duration of 1:14:00
+- 📅 Wednesday was impacted the most
+- ✅ 6 new trips with an average duration of 1:14:00
 	- 6 on Wednesday
-- :x: 2 trips removed with an average duration of 1:14:00
+- ❌ 2 trips removed with an average duration of 1:14:00
 	- 2 on Wednesday
-## :bus: 304 | Billings Bridge / South Keys <> Osgoode / Greely / Metcalfe
+## 🚌 304 | Billings Bridge / South Keys <> Osgoode / Greely / Metcalfe
 - Trip numbers did not change
 - Average duration did not change
-- :calendar: Thursday was impacted the most
-- :white_check_mark: 4 new trips with an average duration of 1:13:30
+- 📅 Thursday was impacted the most
+- ✅ 4 new trips with an average duration of 1:13:30
 	- 4 on Thursday
-- :x: 4 trips removed with an average duration of 1:13:30
+- ❌ 4 trips removed with an average duration of 1:13:30
 	- 4 on Thursday
-## :bus: 305 | Carlingwood <> North Gower / Manotick
-- Trip numbers :arrow_down: 4 from 6 to 2
+## 🚌 305 | Carlingwood <> North Gower / Manotick
+- Trip numbers ⬇️ 4 from 6 to 2
 - Average duration did not change
-- :calendar: Friday was impacted the most
-- :white_check_mark: 2 new trips with an average duration of 1:19:00
+- 📅 Friday was impacted the most
+- ✅ 2 new trips with an average duration of 1:19:00
 	- 2 on Friday
-- :x: 6 trips removed with an average duration of 1:19:00
+- ❌ 6 trips removed with an average duration of 1:19:00
 	- 6 on Friday
-## :bus: 404 | Centre Canadian Tire Centre <> Tunney's Pasture
-- Trip numbers :arrow_down: 6 from 38 to 32
-- Average duration :arrow_up: 0:02:42 overall from 0:31:25 to 0:34:07
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 32 new trips with an average duration of 0:34:07
+## 🚌 404 | Centre Canadian Tire Centre <> Tunney's Pasture
+- Trip numbers ⬇️ 6 from 38 to 32
+- Average duration ⬆️ 0:02:42 overall from 0:31:25 to 0:34:07
+- 📅 Saturday was impacted the most
+- ✅ 32 new trips with an average duration of 0:34:07
 	- 3 on Monday
 	- 5 on Tuesday
 	- 2 on Wednesday
 	- 8 on Thursday
 	- 5 on Saturday
 	- 9 on Sunday
-- :x: 38 trips removed with an average duration of 0:31:25
+- ❌ 38 trips removed with an average duration of 0:31:25
 	- 8 on Monday
 	- 8 on Thursday
 	- 7 on Friday
 	- 12 on Saturday
 	- 3 on Sunday
-## :bus: 405 
-- Trip numbers :arrow_down: 9 from 13 to 4
+## 🚌 405 
+- Trip numbers ⬇️ 9 from 13 to 4
 - Average duration did not change
-- :calendar: Thursday was impacted the most
-- :white_check_mark: 4 new trips with an average duration of 0:53:00
+- 📅 Thursday was impacted the most
+- ✅ 4 new trips with an average duration of 0:53:00
 	- 3 on Thursday
 	- 1 on Saturday
-- :x: 13 trips removed with an average duration of 0:53:00
+- ❌ 13 trips removed with an average duration of 0:53:00
 	- 3 on Monday
 	- 3 on Thursday
 	- 3 on Friday
 	- 4 on Saturday
-## :bus: 406 | Limebank
-- Trip numbers :arrow_down: 3 from 5 to 2
+## 🚌 406 | Limebank
+- Trip numbers ⬇️ 3 from 5 to 2
 - Average duration did not change
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 2 new trips with an average duration of 0:56:00
+- 📅 Saturday was impacted the most
+- ✅ 2 new trips with an average duration of 0:56:00
 	- 1 on Thursday
 	- 1 on Saturday
-- :x: 5 trips removed with an average duration of 0:56:00
+- ❌ 5 trips removed with an average duration of 0:56:00
 	- 1 on Monday
 	- 1 on Thursday
 	- 1 on Friday
 	- 2 on Saturday
-## :bus: 602 | De La Salle <> Rideau
-- Trip numbers :arrow_down: 2 from 72 to 70
-- Average duration :arrow_down: 0:01:07 overall from 0:17:15 to 0:16:08
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 70 new trips with an average duration of 0:16:08
+## 🚌 602 | De La Salle <> Rideau
+- Trip numbers ⬇️ 2 from 72 to 70
+- Average duration ⬇️ 0:01:07 overall from 0:17:15 to 0:16:08
+- 📅 Tuesday was impacted the most
+- ✅ 70 new trips with an average duration of 0:16:08
 	- 7 on Monday
 	- 21 on Tuesday
 	- 21 on Wednesday
 	- 14 on Thursday
 	- 7 on Friday
-- :x: 72 trips removed with an average duration of 0:17:15
+- ❌ 72 trips removed with an average duration of 0:17:15
 	- 8 on Monday
 	- 16 on Tuesday
 	- 8 on Wednesday
 	- 16 on Thursday
 	- 24 on Friday
-## :bus: 606 | Immaculata H.S
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 606 | Immaculata H.S
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 1 on Monday
 	- 3 on Tuesday
 	- 3 on Wednesday
 	- 2 on Thursday
 	- 1 on Friday
-## :bus: 609 | De La Salle <> Elmvale
-- Trip numbers :arrow_up: 5 from 45 to 50
-- Average duration :arrow_up: 0:07:24 overall from 0:27:36 to 0:35:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 50 new trips with an average duration of 0:35:00
+## 🚌 609 | De La Salle <> Elmvale
+- Trip numbers ⬆️ 5 from 45 to 50
+- Average duration ⬆️ 0:07:24 overall from 0:27:36 to 0:35:00
+- 📅 Tuesday was impacted the most
+- ✅ 50 new trips with an average duration of 0:35:00
 	- 5 on Monday
 	- 15 on Tuesday
 	- 15 on Wednesday
 	- 10 on Thursday
 	- 5 on Friday
-- :x: 45 trips removed with an average duration of 0:27:36
+- ❌ 45 trips removed with an average duration of 0:27:36
 	- 5 on Monday
 	- 10 on Tuesday
 	- 5 on Wednesday
 	- 10 on Thursday
 	- 15 on Friday
-## :bus: 610 | St. Pius <> Baseline
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 610 | St. Pius <> Baseline
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-## :bus: 611 | Gisele Lalonde <> Orléans
-- Trip numbers :arrow_up: 2 from 18 to 20
+## 🚌 611 | Gisele Lalonde <> Orléans
+- Trip numbers ⬆️ 2 from 18 to 20
 - Average duration did not change
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:28:30
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:28:30
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:28:30
+- ❌ 18 trips removed with an average duration of 0:28:30
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 612 | Béatrice Desloges / Gisele Lalonde <> Renaud
-- Trip numbers :arrow_up: 6 from 54 to 60
-- Average duration :arrow_up: 0:04:50 overall from 0:27:00 to 0:31:50
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 60 new trips with an average duration of 0:31:50
+## 🚌 612 | Béatrice Desloges / Gisele Lalonde <> Renaud
+- Trip numbers ⬆️ 6 from 54 to 60
+- Average duration ⬆️ 0:04:50 overall from 0:27:00 to 0:31:50
+- 📅 Tuesday was impacted the most
+- ✅ 60 new trips with an average duration of 0:31:50
 	- 6 on Monday
 	- 18 on Tuesday
 	- 18 on Wednesday
 	- 12 on Thursday
 	- 6 on Friday
-- :x: 54 trips removed with an average duration of 0:27:00
+- ❌ 54 trips removed with an average duration of 0:27:00
 	- 6 on Monday
 	- 12 on Tuesday
 	- 6 on Wednesday
 	- 12 on Thursday
 	- 18 on Friday
-## :bus: 613 | Hurdman
-- Trip numbers :arrow_up: 1 from 9 to 10
-- Average duration :arrow_up: 0:01:00 overall from 0:17:00 to 0:18:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 10 new trips with an average duration of 0:18:00
+## 🚌 613 | Hurdman
+- Trip numbers ⬆️ 1 from 9 to 10
+- Average duration ⬆️ 0:01:00 overall from 0:17:00 to 0:18:00
+- 📅 Tuesday was impacted the most
+- ✅ 10 new trips with an average duration of 0:18:00
 	- 1 on Monday
 	- 3 on Tuesday
 	- 3 on Wednesday
 	- 2 on Thursday
 	- 1 on Friday
-- :x: 9 trips removed with an average duration of 0:17:00
+- ❌ 9 trips removed with an average duration of 0:17:00
 	- 1 on Monday
 	- 2 on Tuesday
 	- 1 on Wednesday
 	- 2 on Thursday
 	- 3 on Friday
-## :bus: 615 | Parliament ~ Parlement
-- Trip numbers :arrow_up: 1 from 9 to 10
-- Average duration :arrow_up: 0:03:00 overall from 0:45:00 to 0:48:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 10 new trips with an average duration of 0:48:00
+## 🚌 615 | Parliament ~ Parlement
+- Trip numbers ⬆️ 1 from 9 to 10
+- Average duration ⬆️ 0:03:00 overall from 0:45:00 to 0:48:00
+- 📅 Tuesday was impacted the most
+- ✅ 10 new trips with an average duration of 0:48:00
 	- 1 on Monday
 	- 3 on Tuesday
 	- 3 on Wednesday
 	- 2 on Thursday
 	- 1 on Friday
-- :x: 9 trips removed with an average duration of 0:45:00
+- ❌ 9 trips removed with an average duration of 0:45:00
 	- 1 on Monday
 	- 2 on Tuesday
 	- 1 on Wednesday
 	- 2 on Thursday
 	- 3 on Friday
-## :bus: 616 | Gloucester H.S <> Parliament ~ Parlement
-- Trip numbers :arrow_up: 3 from 27 to 30
-- Average duration :arrow_up: 0:02:20 overall from 0:41:00 to 0:43:20
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 30 new trips with an average duration of 0:43:20
+## 🚌 616 | Gloucester H.S <> Parliament ~ Parlement
+- Trip numbers ⬆️ 3 from 27 to 30
+- Average duration ⬆️ 0:02:20 overall from 0:41:00 to 0:43:20
+- 📅 Tuesday was impacted the most
+- ✅ 30 new trips with an average duration of 0:43:20
 	- 3 on Monday
 	- 9 on Tuesday
 	- 9 on Wednesday
 	- 6 on Thursday
 	- 3 on Friday
-- :x: 27 trips removed with an average duration of 0:41:00
+- ❌ 27 trips removed with an average duration of 0:41:00
 	- 3 on Monday
 	- 6 on Tuesday
 	- 3 on Wednesday
 	- 6 on Thursday
 	- 9 on Friday
-## :bus: 617 | Omer-Deslauriers <> Hurdman
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 617 | Omer-Deslauriers <> Hurdman
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-## :bus: 618 | Louis Riel <> Millennium
-- Trip numbers :arrow_up: 4 from 36 to 40
-- Average duration :arrow_up: 0:07:30 overall from 0:31:30 to 0:39:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 40 new trips with an average duration of 0:39:00
+## 🚌 618 | Louis Riel <> Millennium
+- Trip numbers ⬆️ 4 from 36 to 40
+- Average duration ⬆️ 0:07:30 overall from 0:31:30 to 0:39:00
+- 📅 Tuesday was impacted the most
+- ✅ 40 new trips with an average duration of 0:39:00
 	- 4 on Monday
 	- 12 on Tuesday
 	- 12 on Wednesday
 	- 8 on Thursday
 	- 4 on Friday
-- :x: 36 trips removed with an average duration of 0:31:30
+- ❌ 36 trips removed with an average duration of 0:31:30
 	- 4 on Monday
 	- 8 on Tuesday
 	- 4 on Wednesday
 	- 8 on Thursday
 	- 12 on Friday
-## :bus: 619 | Louis Riel <> Blair
-- Trip numbers :arrow_up: 3 from 27 to 30
-- Average duration :arrow_up: 0:07:40 overall from 0:15:20 to 0:23:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 30 new trips with an average duration of 0:23:00
+## 🚌 619 | Louis Riel <> Blair
+- Trip numbers ⬆️ 3 from 27 to 30
+- Average duration ⬆️ 0:07:40 overall from 0:15:20 to 0:23:00
+- 📅 Tuesday was impacted the most
+- ✅ 30 new trips with an average duration of 0:23:00
 	- 3 on Monday
 	- 9 on Tuesday
 	- 9 on Wednesday
 	- 6 on Thursday
 	- 3 on Friday
-- :x: 27 trips removed with an average duration of 0:15:20
+- ❌ 27 trips removed with an average duration of 0:15:20
 	- 3 on Monday
 	- 6 on Tuesday
 	- 3 on Wednesday
 	- 6 on Thursday
 	- 9 on Friday
-## :bus: 620 | St-Laurent
-- Trip numbers :arrow_up: 1 from 9 to 10
-- Average duration :arrow_up: 0:02:00 overall from 0:16:00 to 0:18:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 10 new trips with an average duration of 0:18:00
+## 🚌 620 | St-Laurent
+- Trip numbers ⬆️ 1 from 9 to 10
+- Average duration ⬆️ 0:02:00 overall from 0:16:00 to 0:18:00
+- 📅 Tuesday was impacted the most
+- ✅ 10 new trips with an average duration of 0:18:00
 	- 1 on Monday
 	- 3 on Tuesday
 	- 3 on Wednesday
 	- 2 on Thursday
 	- 1 on Friday
-- :x: 9 trips removed with an average duration of 0:16:00
+- ❌ 9 trips removed with an average duration of 0:16:00
 	- 1 on Monday
 	- 2 on Tuesday
 	- 1 on Wednesday
 	- 2 on Thursday
 	- 3 on Friday
-## :bus: 621 | Colonel By H.S <> Bearbrook
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 621 | Colonel By H.S <> Bearbrook
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 6 on Monday
 	- 18 on Tuesday
 	- 18 on Wednesday
 	- 12 on Thursday
 	- 6 on Friday
-## :bus: 622 | Colonel By / Gloucester H.S / Lester B. Pearson <> Renaud
-- Trip numbers :arrow_up: 4 from 36 to 40
-- Average duration :arrow_up: 0:08:00 overall from 0:36:00 to 0:44:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 40 new trips with an average duration of 0:44:00
+## 🚌 622 | Colonel By / Gloucester H.S / Lester B. Pearson <> Renaud
+- Trip numbers ⬆️ 4 from 36 to 40
+- Average duration ⬆️ 0:08:00 overall from 0:36:00 to 0:44:00
+- 📅 Tuesday was impacted the most
+- ✅ 40 new trips with an average duration of 0:44:00
 	- 4 on Monday
 	- 12 on Tuesday
 	- 12 on Wednesday
 	- 8 on Thursday
 	- 4 on Friday
-- :x: 36 trips removed with an average duration of 0:36:00
+- ❌ 36 trips removed with an average duration of 0:36:00
 	- 4 on Monday
 	- 8 on Tuesday
 	- 4 on Wednesday
 	- 8 on Thursday
 	- 12 on Friday
-## :bus: 624 | Gloucester H.S <> Rideau
-- Trip numbers :arrow_up: 2 from 18 to 20
+## 🚌 624 | Gloucester H.S <> Rideau
+- Trip numbers ⬆️ 2 from 18 to 20
 - Average duration did not change
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:45:30
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:45:30
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:45:30
+- ❌ 18 trips removed with an average duration of 0:45:30
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 628 | Louis-Riel <> Blair
-- Trip numbers :arrow_up: 64 from 36 to 100
-- Average duration :arrow_up: 0:00:12 overall from 0:21:00 to 0:21:12
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 100 new trips with an average duration of 0:21:12
+## 🚌 628 | Louis-Riel <> Blair
+- Trip numbers ⬆️ 64 from 36 to 100
+- Average duration ⬆️ 0:00:12 overall from 0:21:00 to 0:21:12
+- 📅 Tuesday was impacted the most
+- ✅ 100 new trips with an average duration of 0:21:12
 	- 10 on Monday
 	- 30 on Tuesday
 	- 30 on Wednesday
 	- 20 on Thursday
 	- 10 on Friday
-- :x: 36 trips removed with an average duration of 0:21:00
+- ❌ 36 trips removed with an average duration of 0:21:00
 	- 4 on Monday
 	- 8 on Tuesday
 	- 4 on Wednesday
 	- 8 on Thursday
 	- 12 on Friday
-## :bus: 630 | Blair / Colonel By / Gloucester H.S <> Millennium
-- Trip numbers :arrow_up: 3 from 27 to 30
-- Average duration :arrow_up: 0:06:20 overall from 0:41:40 to 0:48:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 30 new trips with an average duration of 0:48:00
+## 🚌 630 | Blair / Colonel By / Gloucester H.S <> Millennium
+- Trip numbers ⬆️ 3 from 27 to 30
+- Average duration ⬆️ 0:06:20 overall from 0:41:40 to 0:48:00
+- 📅 Tuesday was impacted the most
+- ✅ 30 new trips with an average duration of 0:48:00
 	- 3 on Monday
 	- 9 on Tuesday
 	- 9 on Wednesday
 	- 6 on Thursday
 	- 3 on Friday
-- :x: 27 trips removed with an average duration of 0:41:40
+- ❌ 27 trips removed with an average duration of 0:41:40
 	- 3 on Monday
 	- 6 on Tuesday
 	- 3 on Wednesday
 	- 6 on Thursday
 	- 9 on Friday
-## :bus: 631 | Colonel By / Gloucester H.S <> Chapel Hill
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:06:00 overall from 0:38:00 to 0:44:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:44:00
+## 🚌 631 | Colonel By / Gloucester H.S <> Chapel Hill
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:06:00 overall from 0:38:00 to 0:44:00
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:44:00
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:38:00
+- ❌ 18 trips removed with an average duration of 0:38:00
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 632 | Gisèle Lalonde <> Orléans
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:02:00 overall from 0:28:00 to 0:30:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:30:00
+## 🚌 632 | Gisèle Lalonde <> Orléans
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:02:00 overall from 0:28:00 to 0:30:00
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:30:00
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:28:00
+- ❌ 18 trips removed with an average duration of 0:28:00
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 633 | Lester B. Pearson <> St-Laurent
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:06:00 overall from 0:23:30 to 0:29:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:29:30
+## 🚌 633 | Lester B. Pearson <> St-Laurent
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:06:00 overall from 0:23:30 to 0:29:30
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:29:30
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:23:30
+- ❌ 18 trips removed with an average duration of 0:23:30
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 634 | Mer bleue <> Place d'Orléans
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:06:00 overall from 0:26:30 to 0:32:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:32:30
+## 🚌 634 | Mer bleue <> Place d'Orléans
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:06:00 overall from 0:26:30 to 0:32:30
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:32:30
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:26:30
+- ❌ 18 trips removed with an average duration of 0:26:30
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 635 | Cairine Wilson
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 635 | Cairine Wilson
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 636 | Tenth Line <> Place d'Orléans
-- Trip numbers :arrow_up: 1 from 9 to 10
-- Average duration :arrow_up: 0:03:00 overall from 0:06:00 to 0:09:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 10 new trips with an average duration of 0:09:00
+## 🚌 636 | Tenth Line <> Place d'Orléans
+- Trip numbers ⬆️ 1 from 9 to 10
+- Average duration ⬆️ 0:03:00 overall from 0:06:00 to 0:09:00
+- 📅 Tuesday was impacted the most
+- ✅ 10 new trips with an average duration of 0:09:00
 	- 1 on Monday
 	- 3 on Tuesday
 	- 3 on Wednesday
 	- 2 on Thursday
 	- 1 on Friday
-- :x: 9 trips removed with an average duration of 0:06:00
+- ❌ 9 trips removed with an average duration of 0:06:00
 	- 1 on Monday
 	- 2 on Tuesday
 	- 1 on Wednesday
 	- 2 on Thursday
 	- 3 on Friday
-## :bus: 637 | St. Matthew H.S <> Chapel Hill
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 637 | St. Matthew H.S <> Chapel Hill
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-## :bus: 638 | Cairine Wilson H.S <> Place d'Orléans
-- Trip numbers :arrow_up: 21 from 9 to 30
-- Average duration :arrow_down: 0:03:00 overall from 0:17:00 to 0:14:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 30 new trips with an average duration of 0:14:00
+## 🚌 638 | Cairine Wilson H.S <> Place d'Orléans
+- Trip numbers ⬆️ 21 from 9 to 30
+- Average duration ⬇️ 0:03:00 overall from 0:17:00 to 0:14:00
+- 📅 Tuesday was impacted the most
+- ✅ 30 new trips with an average duration of 0:14:00
 	- 3 on Monday
 	- 9 on Tuesday
 	- 9 on Wednesday
 	- 6 on Thursday
 	- 3 on Friday
-- :x: 9 trips removed with an average duration of 0:17:00
+- ❌ 9 trips removed with an average duration of 0:17:00
 	- 1 on Monday
 	- 2 on Tuesday
 	- 1 on Wednesday
 	- 2 on Thursday
 	- 3 on Friday
-## :bus: 639 | Gisèle Lalonde <> Place d'Orléans
-- Trip numbers :arrow_up: 3 from 27 to 30
-- Average duration :arrow_up: 0:02:40 overall from 0:44:20 to 0:47:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 30 new trips with an average duration of 0:47:00
+## 🚌 639 | Gisèle Lalonde <> Place d'Orléans
+- Trip numbers ⬆️ 3 from 27 to 30
+- Average duration ⬆️ 0:02:40 overall from 0:44:20 to 0:47:00
+- 📅 Tuesday was impacted the most
+- ✅ 30 new trips with an average duration of 0:47:00
 	- 3 on Monday
 	- 9 on Tuesday
 	- 9 on Wednesday
 	- 6 on Thursday
 	- 3 on Friday
-- :x: 27 trips removed with an average duration of 0:44:20
+- ❌ 27 trips removed with an average duration of 0:44:20
 	- 3 on Monday
 	- 6 on Tuesday
 	- 3 on Wednesday
 	- 6 on Thursday
 	- 9 on Friday
-## :bus: 640 | Brookfield <> Greenboro
-- Trip numbers :arrow_up: 3 from 27 to 30
-- Average duration :arrow_up: 0:03:00 overall from 0:29:00 to 0:32:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 30 new trips with an average duration of 0:32:00
+## 🚌 640 | Brookfield <> Greenboro
+- Trip numbers ⬆️ 3 from 27 to 30
+- Average duration ⬆️ 0:03:00 overall from 0:29:00 to 0:32:00
+- 📅 Tuesday was impacted the most
+- ✅ 30 new trips with an average duration of 0:32:00
 	- 3 on Monday
 	- 9 on Tuesday
 	- 9 on Wednesday
 	- 6 on Thursday
 	- 3 on Friday
-- :x: 27 trips removed with an average duration of 0:29:00
+- ❌ 27 trips removed with an average duration of 0:29:00
 	- 3 on Monday
 	- 6 on Tuesday
 	- 3 on Wednesday
 	- 6 on Thursday
 	- 9 on Friday
-## :bus: 641 | Louis Riel <> Orléans
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:08:30 overall from 0:23:00 to 0:31:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:31:30
+## 🚌 641 | Louis Riel <> Orléans
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:08:30 overall from 0:23:00 to 0:31:30
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:31:30
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:23:00
+- ❌ 18 trips removed with an average duration of 0:23:00
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 644 | Canterbury H.S <> Greenboro
-- Trip numbers :arrow_up: 5 from 45 to 50
-- Average duration :arrow_up: 0:08:48 overall from 0:24:48 to 0:33:36
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 50 new trips with an average duration of 0:33:36
+## 🚌 644 | Canterbury H.S <> Greenboro
+- Trip numbers ⬆️ 5 from 45 to 50
+- Average duration ⬆️ 0:08:48 overall from 0:24:48 to 0:33:36
+- 📅 Tuesday was impacted the most
+- ✅ 50 new trips with an average duration of 0:33:36
 	- 5 on Monday
 	- 15 on Tuesday
 	- 15 on Wednesday
 	- 10 on Thursday
 	- 5 on Friday
-- :x: 45 trips removed with an average duration of 0:24:48
+- ❌ 45 trips removed with an average duration of 0:24:48
 	- 5 on Monday
 	- 10 on Tuesday
 	- 5 on Wednesday
 	- 10 on Thursday
 	- 15 on Friday
-## :bus: 645 | Hurdman
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_down: 0:04:00 overall from 0:21:00 to 0:17:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:17:00
+## 🚌 645 | Hurdman
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬇️ 0:04:00 overall from 0:21:00 to 0:17:00
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:17:00
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:21:00
+- ❌ 18 trips removed with an average duration of 0:21:00
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 646 | Canterbury H.S <> Terry Fox
-- Trip numbers :arrow_up: 4 from 36 to 40
-- Average duration :arrow_down: 0:03:00 overall from 1:23:30 to 1:20:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 40 new trips with an average duration of 1:20:30
+## 🚌 646 | Canterbury H.S <> Terry Fox
+- Trip numbers ⬆️ 4 from 36 to 40
+- Average duration ⬇️ 0:03:00 overall from 1:23:30 to 1:20:30
+- 📅 Tuesday was impacted the most
+- ✅ 40 new trips with an average duration of 1:20:30
 	- 4 on Monday
 	- 12 on Tuesday
 	- 12 on Wednesday
 	- 8 on Thursday
 	- 4 on Friday
-- :x: 36 trips removed with an average duration of 1:23:30
+- ❌ 36 trips removed with an average duration of 1:23:30
 	- 4 on Monday
 	- 8 on Tuesday
 	- 4 on Wednesday
 	- 8 on Thursday
 	- 12 on Friday
-## :bus: 647 | Canterbury H.S. <> Hurdman
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 647 | Canterbury H.S. <> Hurdman
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 7 on Monday
 	- 21 on Tuesday
 	- 21 on Wednesday
 	- 14 on Thursday
 	- 7 on Friday
-## :bus: 648 | Louis Riel <> Orléans
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:05:00 overall from 0:25:30 to 0:30:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:30:30
+## 🚌 648 | Louis Riel <> Orléans
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:05:00 overall from 0:25:30 to 0:30:30
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:30:30
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:25:30
+- ❌ 18 trips removed with an average duration of 0:25:30
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 649 | Hillcrest <> Greenboro
-- Trip numbers :arrow_up: 3 from 27 to 30
-- Average duration :arrow_up: 0:09:40 overall from 0:32:40 to 0:42:20
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 30 new trips with an average duration of 0:42:20
+## 🚌 649 | Hillcrest <> Greenboro
+- Trip numbers ⬆️ 3 from 27 to 30
+- Average duration ⬆️ 0:09:40 overall from 0:32:40 to 0:42:20
+- 📅 Tuesday was impacted the most
+- ✅ 30 new trips with an average duration of 0:42:20
 	- 3 on Monday
 	- 9 on Tuesday
 	- 9 on Wednesday
 	- 6 on Thursday
 	- 3 on Friday
-- :x: 27 trips removed with an average duration of 0:32:40
+- ❌ 27 trips removed with an average duration of 0:32:40
 	- 3 on Monday
 	- 6 on Tuesday
 	- 3 on Wednesday
 	- 6 on Thursday
 	- 9 on Friday
-## :bus: 656 | A.Y Jackson <> Hope Side
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 656 | A.Y Jackson <> Hope Side
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-## :bus: 657 | A.Y Jackson <> Hope Side
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 657 | A.Y Jackson <> Hope Side
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 4 on Monday
 	- 12 on Tuesday
 	- 12 on Wednesday
 	- 8 on Thursday
 	- 4 on Friday
-## :bus: 658 | Grandview / Borden <> Bell H.S
-- Trip numbers :arrow_up: 5 from 45 to 50
-- Average duration :arrow_up: 0:08:24 overall from 0:28:48 to 0:37:12
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 50 new trips with an average duration of 0:37:12
+## 🚌 658 | Grandview / Borden <> Bell H.S
+- Trip numbers ⬆️ 5 from 45 to 50
+- Average duration ⬆️ 0:08:24 overall from 0:28:48 to 0:37:12
+- 📅 Tuesday was impacted the most
+- ✅ 50 new trips with an average duration of 0:37:12
 	- 5 on Monday
 	- 15 on Tuesday
 	- 15 on Wednesday
 	- 10 on Thursday
 	- 5 on Friday
-- :x: 45 trips removed with an average duration of 0:28:48
+- ❌ 45 trips removed with an average duration of 0:28:48
 	- 5 on Monday
 	- 10 on Tuesday
 	- 5 on Wednesday
 	- 10 on Thursday
 	- 15 on Friday
-## :bus: 660 | Bell H.S <> Innovation
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:15:00 overall from 0:40:00 to 0:55:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:55:00
+## 🚌 660 | Bell H.S <> Innovation
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:15:00 overall from 0:40:00 to 0:55:00
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:55:00
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:40:00
+- ❌ 18 trips removed with an average duration of 0:40:00
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 661 | Bell H.S <> Terry Fox
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:11:30 overall from 0:33:30 to 0:45:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:45:00
+## 🚌 661 | Bell H.S <> Terry Fox
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:11:30 overall from 0:33:30 to 0:45:00
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:45:00
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:33:30
+- ❌ 18 trips removed with an average duration of 0:33:30
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 662 | Holy Trinity <> Bridlewood
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 662 | Holy Trinity <> Bridlewood
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 1 on Monday
 	- 3 on Tuesday
 	- 3 on Wednesday
 	- 2 on Thursday
 	- 1 on Friday
-## :bus: 663 | Earl of March H.S <> Terry Fox
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 663 | Earl of March H.S <> Terry Fox
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 11 on Monday
 	- 33 on Tuesday
 	- 33 on Wednesday
 	- 22 on Thursday
 	- 11 on Friday
-## :bus: 664 | Earl of March <> Terry Fox
-- Trip numbers :arrow_up: 6 from 54 to 60
+## 🚌 664 | Earl of March <> Terry Fox
+- Trip numbers ⬆️ 6 from 54 to 60
 - Average duration did not change
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 60 new trips with an average duration of 0:19:30
+- 📅 Tuesday was impacted the most
+- ✅ 60 new trips with an average duration of 0:19:30
 	- 6 on Monday
 	- 18 on Tuesday
 	- 18 on Wednesday
 	- 12 on Thursday
 	- 6 on Friday
-- :x: 54 trips removed with an average duration of 0:19:30
+- ❌ 54 trips removed with an average duration of 0:19:30
 	- 6 on Monday
 	- 12 on Tuesday
 	- 6 on Wednesday
 	- 12 on Thursday
 	- 18 on Friday
-## :bus: 665 | Bell H.S <> Bridlewood
-- Trip numbers :arrow_up: 5 from 45 to 50
-- Average duration :arrow_up: 0:04:24 overall from 0:38:36 to 0:43:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 50 new trips with an average duration of 0:43:00
+## 🚌 665 | Bell H.S <> Bridlewood
+- Trip numbers ⬆️ 5 from 45 to 50
+- Average duration ⬆️ 0:04:24 overall from 0:38:36 to 0:43:00
+- 📅 Tuesday was impacted the most
+- ✅ 50 new trips with an average duration of 0:43:00
 	- 5 on Monday
 	- 15 on Tuesday
 	- 15 on Wednesday
 	- 10 on Thursday
 	- 5 on Friday
-- :x: 45 trips removed with an average duration of 0:38:36
+- ❌ 45 trips removed with an average duration of 0:38:36
 	- 5 on Monday
 	- 10 on Tuesday
 	- 5 on Wednesday
 	- 10 on Thursday
 	- 15 on Friday
-## :bus: 667 | Holy Trinity H.S <> Hope Side
-- Trip numbers :arrow_up: 11 from 99 to 110
-- Average duration :arrow_up: 0:06:11 overall from 0:27:05 to 0:33:16
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 110 new trips with an average duration of 0:33:16
+## 🚌 667 | Holy Trinity H.S <> Hope Side
+- Trip numbers ⬆️ 11 from 99 to 110
+- Average duration ⬆️ 0:06:11 overall from 0:27:05 to 0:33:16
+- 📅 Tuesday was impacted the most
+- ✅ 110 new trips with an average duration of 0:33:16
 	- 11 on Monday
 	- 33 on Tuesday
 	- 33 on Wednesday
 	- 22 on Thursday
 	- 11 on Friday
-- :x: 99 trips removed with an average duration of 0:27:05
+- ❌ 99 trips removed with an average duration of 0:27:05
 	- 11 on Monday
 	- 22 on Tuesday
 	- 11 on Wednesday
 	- 22 on Thursday
 	- 33 on Friday
-## :bus: 668 | Holy Trinity H.S <> Bridlewood
-- Trip numbers :arrow_up: 10 from 90 to 100
-- Average duration :arrow_up: 0:07:18 overall from 0:31:06 to 0:38:24
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 100 new trips with an average duration of 0:38:24
+## 🚌 668 | Holy Trinity H.S <> Bridlewood
+- Trip numbers ⬆️ 10 from 90 to 100
+- Average duration ⬆️ 0:07:18 overall from 0:31:06 to 0:38:24
+- 📅 Tuesday was impacted the most
+- ✅ 100 new trips with an average duration of 0:38:24
 	- 10 on Monday
 	- 30 on Tuesday
 	- 30 on Wednesday
 	- 20 on Thursday
 	- 10 on Friday
-- :x: 90 trips removed with an average duration of 0:31:06
+- ❌ 90 trips removed with an average duration of 0:31:06
 	- 10 on Monday
 	- 20 on Tuesday
 	- 10 on Wednesday
 	- 20 on Thursday
 	- 30 on Friday
-## :bus: 669 | Bell <> Bayshore
-- Trip numbers :arrow_up: 7 from 63 to 70
-- Average duration :arrow_down: 0:02:26 overall from 0:20:51 to 0:18:25
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 70 new trips with an average duration of 0:18:25
+## 🚌 669 | Bell <> Bayshore
+- Trip numbers ⬆️ 7 from 63 to 70
+- Average duration ⬇️ 0:02:26 overall from 0:20:51 to 0:18:25
+- 📅 Tuesday was impacted the most
+- ✅ 70 new trips with an average duration of 0:18:25
 	- 7 on Monday
 	- 21 on Tuesday
 	- 21 on Wednesday
 	- 14 on Thursday
 	- 7 on Friday
-- :x: 63 trips removed with an average duration of 0:20:51
+- ❌ 63 trips removed with an average duration of 0:20:51
 	- 7 on Monday
 	- 14 on Tuesday
 	- 7 on Wednesday
 	- 14 on Thursday
 	- 21 on Friday
-## :bus: 670 | St. Pius <> Nepean S.
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:01:30 overall from 0:36:07 to 0:37:37
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:37:37
+## 🚌 670 | St. Pius <> Nepean S.
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:01:30 overall from 0:36:07 to 0:37:37
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:37:37
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:36:07
+- ❌ 18 trips removed with an average duration of 0:36:07
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 671 | John McCrae H.S <> Half Moon Bay
-- Trip numbers :arrow_up: 10 from 90 to 100
-- Average duration :arrow_up: 0:08:12 overall from 0:30:42 to 0:38:54
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 100 new trips with an average duration of 0:38:54
+## 🚌 671 | John McCrae H.S <> Half Moon Bay
+- Trip numbers ⬆️ 10 from 90 to 100
+- Average duration ⬆️ 0:08:12 overall from 0:30:42 to 0:38:54
+- 📅 Tuesday was impacted the most
+- ✅ 100 new trips with an average duration of 0:38:54
 	- 10 on Monday
 	- 30 on Tuesday
 	- 30 on Wednesday
 	- 20 on Thursday
 	- 10 on Friday
-- :x: 90 trips removed with an average duration of 0:30:42
+- ❌ 90 trips removed with an average duration of 0:30:42
 	- 10 on Monday
 	- 20 on Tuesday
 	- 10 on Wednesday
 	- 20 on Thursday
 	- 30 on Friday
-## :bus: 672 | John McCrae H.S <> Golflinks
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:03:30 overall from 0:20:00 to 0:23:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:23:30
+## 🚌 672 | John McCrae H.S <> Golflinks
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:03:30 overall from 0:20:00 to 0:23:30
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:23:30
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:20:00
+- ❌ 18 trips removed with an average duration of 0:20:00
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 673 | Fallowfield <> Longfields Davidson Height & Pierre-de-blois
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 673 | Fallowfield <> Longfields Davidson Height & Pierre-de-blois
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 7 on Monday
 	- 21 on Tuesday
 	- 21 on Wednesday
 	- 14 on Thursday
 	- 7 on Friday
-## :bus: 674 | All Saints <> Innovation
-- Trip numbers :arrow_up: 23 from 117 to 140
-- Average duration :arrow_down: 0:00:28 overall from 0:30:32 to 0:30:04
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 134 new trips with an average duration of 0:30:01
+## 🚌 674 | All Saints <> Innovation
+- Trip numbers ⬆️ 23 from 117 to 140
+- Average duration ⬇️ 0:00:28 overall from 0:30:32 to 0:30:04
+- 📅 Tuesday was impacted the most
+- ✅ 134 new trips with an average duration of 0:30:01
 	- 13 on Monday
 	- 41 on Tuesday
 	- 40 on Wednesday
 	- 27 on Thursday
 	- 13 on Friday
-- :x: 111 trips removed with an average duration of 0:30:21
+- ❌ 111 trips removed with an average duration of 0:30:21
 	- 12 on Monday
 	- 25 on Tuesday
 	- 12 on Wednesday
 	- 25 on Thursday
 	- 37 on Friday
-## :bus: 675 | Bell H.S / Franco-Ouest <> Cambrian
-- Trip numbers :arrow_up: 2 from 18 to 20
+## 🚌 675 | Bell H.S / Franco-Ouest <> Cambrian
+- Trip numbers ⬆️ 2 from 18 to 20
 - Average duration did not change
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 1:02:30
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 1:02:30
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 1:02:30
+- ❌ 18 trips removed with an average duration of 1:02:30
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 676 | St. Mother Teresa H.S <> Riverview
-- Trip numbers :arrow_up: 4 from 36 to 40
-- Average duration :arrow_up: 0:07:30 overall from 0:14:00 to 0:21:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 40 new trips with an average duration of 0:21:30
+## 🚌 676 | St. Mother Teresa H.S <> Riverview
+- Trip numbers ⬆️ 4 from 36 to 40
+- Average duration ⬆️ 0:07:30 overall from 0:14:00 to 0:21:30
+- 📅 Tuesday was impacted the most
+- ✅ 40 new trips with an average duration of 0:21:30
 	- 4 on Monday
 	- 12 on Tuesday
 	- 12 on Wednesday
 	- 8 on Thursday
 	- 4 on Friday
-- :x: 36 trips removed with an average duration of 0:14:00
+- ❌ 36 trips removed with an average duration of 0:14:00
 	- 4 on Monday
 	- 8 on Tuesday
 	- 4 on Wednesday
 	- 8 on Thursday
 	- 12 on Friday
-## :bus: 677 | Larkin <> St. Joseph H.S
-- Trip numbers :arrow_down: 14 from 54 to 40
-- Average duration :arrow_up: 0:06:00 overall from 0:23:00 to 0:29:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 40 new trips with an average duration of 0:29:00
+## 🚌 677 | Larkin <> St. Joseph H.S
+- Trip numbers ⬇️ 14 from 54 to 40
+- Average duration ⬆️ 0:06:00 overall from 0:23:00 to 0:29:00
+- 📅 Tuesday was impacted the most
+- ✅ 40 new trips with an average duration of 0:29:00
 	- 4 on Monday
 	- 12 on Tuesday
 	- 12 on Wednesday
 	- 8 on Thursday
 	- 4 on Friday
-- :x: 54 trips removed with an average duration of 0:23:00
+- ❌ 54 trips removed with an average duration of 0:23:00
 	- 6 on Monday
 	- 12 on Tuesday
 	- 6 on Wednesday
 	- 12 on Thursday
 	- 18 on Friday
-## :bus: 678 | Louis Riel <> Orléans
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:07:30 overall from 0:25:00 to 0:32:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:32:30
+## 🚌 678 | Louis Riel <> Orléans
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:07:30 overall from 0:25:00 to 0:32:30
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:32:30
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:25:00
+- ❌ 18 trips removed with an average duration of 0:25:00
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 679 | St Joseph H.S <> Cobble Hill
-- Trip numbers :arrow_down: 12 from 72 to 60
-- Average duration :arrow_up: 0:02:45 overall from 0:23:15 to 0:26:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 60 new trips with an average duration of 0:26:00
+## 🚌 679 | St Joseph H.S <> Cobble Hill
+- Trip numbers ⬇️ 12 from 72 to 60
+- Average duration ⬆️ 0:02:45 overall from 0:23:15 to 0:26:00
+- 📅 Tuesday was impacted the most
+- ✅ 60 new trips with an average duration of 0:26:00
 	- 6 on Monday
 	- 18 on Tuesday
 	- 18 on Wednesday
 	- 12 on Thursday
 	- 6 on Friday
-- :x: 72 trips removed with an average duration of 0:23:15
+- ❌ 72 trips removed with an average duration of 0:23:15
 	- 8 on Monday
 	- 16 on Tuesday
 	- 8 on Wednesday
 	- 16 on Thursday
 	- 24 on Friday
-## :bus: 680 | Merivale H.S <> Riverside South ~ Riverside Sud
-- Trip numbers :arrow_up: 8 from 72 to 80
-- Average duration :arrow_down: 0:00:38 overall from 0:30:30 to 0:29:52
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 80 new trips with an average duration of 0:29:52
+## 🚌 680 | Merivale H.S <> Riverside South ~ Riverside Sud
+- Trip numbers ⬆️ 8 from 72 to 80
+- Average duration ⬇️ 0:00:38 overall from 0:30:30 to 0:29:52
+- 📅 Tuesday was impacted the most
+- ✅ 80 new trips with an average duration of 0:29:52
 	- 8 on Monday
 	- 24 on Tuesday
 	- 24 on Wednesday
 	- 16 on Thursday
 	- 8 on Friday
-- :x: 72 trips removed with an average duration of 0:30:30
+- ❌ 72 trips removed with an average duration of 0:30:30
 	- 8 on Monday
 	- 16 on Tuesday
 	- 8 on Wednesday
 	- 16 on Thursday
 	- 24 on Friday
-## :bus: 681 | Bell H.S <> Kanata
-- Trip numbers :arrow_up: 2 from 18 to 20
-- Average duration :arrow_up: 0:08:30 overall from 0:44:00 to 0:52:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 20 new trips with an average duration of 0:52:30
+## 🚌 681 | Bell H.S <> Kanata
+- Trip numbers ⬆️ 2 from 18 to 20
+- Average duration ⬆️ 0:08:30 overall from 0:44:00 to 0:52:30
+- 📅 Tuesday was impacted the most
+- ✅ 20 new trips with an average duration of 0:52:30
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-- :x: 18 trips removed with an average duration of 0:44:00
+- ❌ 18 trips removed with an average duration of 0:44:00
 	- 2 on Monday
 	- 4 on Tuesday
 	- 2 on Wednesday
 	- 4 on Thursday
 	- 6 on Friday
-## :bus: 682 | Cedarview M.S <> Fallowfield
-- Trip numbers :arrow_up: 6 from 54 to 60
-- Average duration :arrow_up: 0:06:00 overall from 0:16:40 to 0:22:40
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 60 new trips with an average duration of 0:22:40
+## 🚌 682 | Cedarview M.S <> Fallowfield
+- Trip numbers ⬆️ 6 from 54 to 60
+- Average duration ⬆️ 0:06:00 overall from 0:16:40 to 0:22:40
+- 📅 Tuesday was impacted the most
+- ✅ 60 new trips with an average duration of 0:22:40
 	- 6 on Monday
 	- 18 on Tuesday
 	- 18 on Wednesday
 	- 12 on Thursday
 	- 6 on Friday
-- :x: 54 trips removed with an average duration of 0:16:40
+- ❌ 54 trips removed with an average duration of 0:16:40
 	- 6 on Monday
 	- 12 on Tuesday
 	- 6 on Wednesday
 	- 12 on Thursday
 	- 18 on Friday
-## :bus: 683 | Cedarview M.S <> Half Moon Bay
-- Trip numbers :arrow_up: 16 from 144 to 160
-- Average duration :arrow_up: 0:04:30 overall from 0:40:48 to 0:45:18
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 160 new trips with an average duration of 0:45:18
+## 🚌 683 | Cedarview M.S <> Half Moon Bay
+- Trip numbers ⬆️ 16 from 144 to 160
+- Average duration ⬆️ 0:04:30 overall from 0:40:48 to 0:45:18
+- 📅 Tuesday was impacted the most
+- ✅ 160 new trips with an average duration of 0:45:18
 	- 16 on Monday
 	- 48 on Tuesday
 	- 48 on Wednesday
 	- 32 on Thursday
 	- 16 on Friday
-- :x: 144 trips removed with an average duration of 0:40:48
+- ❌ 144 trips removed with an average duration of 0:40:48
 	- 16 on Monday
 	- 32 on Tuesday
 	- 16 on Wednesday
 	- 32 on Thursday
 	- 48 on Friday
-## :bus: 684 | Golflinks <> Longfields-Davidson Heights
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 684 | Golflinks <> Longfields-Davidson Heights
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 3 on Monday
 	- 9 on Tuesday
 	- 9 on Wednesday
 	- 6 on Thursday
 	- 3 on Friday
-## :bus: 685 | Pierre-de-Blois <> Fallowfield
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 685 | Pierre-de-Blois <> Fallowfield
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-## :bus: 686 | Omer-Deslauriers <> Baseline
-- Trip numbers :arrow_up: 1 from 9 to 10
-- Average duration :arrow_up: 0:08:00 overall from 0:28:00 to 0:36:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 10 new trips with an average duration of 0:36:00
+## 🚌 686 | Omer-Deslauriers <> Baseline
+- Trip numbers ⬆️ 1 from 9 to 10
+- Average duration ⬆️ 0:08:00 overall from 0:28:00 to 0:36:00
+- 📅 Tuesday was impacted the most
+- ✅ 10 new trips with an average duration of 0:36:00
 	- 1 on Monday
 	- 3 on Tuesday
 	- 3 on Wednesday
 	- 2 on Thursday
 	- 1 on Friday
-- :x: 9 trips removed with an average duration of 0:28:00
+- ❌ 9 trips removed with an average duration of 0:28:00
 	- 1 on Monday
 	- 2 on Tuesday
 	- 1 on Wednesday
 	- 2 on Thursday
 	- 3 on Friday
-## :bus: 687 | Merivale H.S <> Merivale Gardens
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 687 | Merivale H.S <> Merivale Gardens
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 2 on Monday
 	- 6 on Tuesday
 	- 6 on Wednesday
 	- 4 on Thursday
 	- 2 on Friday
-## :bus: 688 | Merivale H.S <> Terry Fox
-- Trip numbers :arrow_up: 5 from 45 to 50
+## 🚌 688 | Merivale H.S <> Terry Fox
+- Trip numbers ⬆️ 5 from 45 to 50
 - Average duration did not change
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 50 new trips with an average duration of 0:51:12
+- 📅 Tuesday was impacted the most
+- ✅ 50 new trips with an average duration of 0:51:12
 	- 5 on Monday
 	- 15 on Tuesday
 	- 15 on Wednesday
 	- 10 on Thursday
 	- 5 on Friday
-- :x: 45 trips removed with an average duration of 0:51:12
+- ❌ 45 trips removed with an average duration of 0:51:12
 	- 5 on Monday
 	- 10 on Tuesday
 	- 5 on Wednesday
 	- 10 on Thursday
 	- 15 on Friday
-## :bus: 689 | Billings Bridge <> Omer-Deslauriers
-- Trip numbers :arrow_up: 4 from 36 to 40
-- Average duration :arrow_down: 0:00:30 overall from 0:40:15 to 0:39:45
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 40 new trips with an average duration of 0:39:45
+## 🚌 689 | Billings Bridge <> Omer-Deslauriers
+- Trip numbers ⬆️ 4 from 36 to 40
+- Average duration ⬇️ 0:00:30 overall from 0:40:15 to 0:39:45
+- 📅 Tuesday was impacted the most
+- ✅ 40 new trips with an average duration of 0:39:45
 	- 4 on Monday
 	- 12 on Tuesday
 	- 12 on Wednesday
 	- 8 on Thursday
 	- 4 on Friday
-- :x: 36 trips removed with an average duration of 0:40:15
+- ❌ 36 trips removed with an average duration of 0:40:15
 	- 4 on Monday
 	- 8 on Tuesday
 	- 4 on Wednesday
 	- 8 on Thursday
 	- 12 on Friday
-## :bus: 690 | St. Mother Teresa H.S <> Barrhaven Centre
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 690 | St. Mother Teresa H.S <> Barrhaven Centre
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 4 on Monday
 	- 12 on Tuesday
 	- 12 on Wednesday
 	- 8 on Thursday
 	- 4 on Friday
-## :bus: 691 | Omer-Deslauriers <> Bayshore
-- Trip numbers :arrow_up: 3 from 27 to 30
-- Average duration :arrow_up: 0:08:00 overall from 0:35:20 to 0:43:20
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 30 new trips with an average duration of 0:43:20
+## 🚌 691 | Omer-Deslauriers <> Bayshore
+- Trip numbers ⬆️ 3 from 27 to 30
+- Average duration ⬆️ 0:08:00 overall from 0:35:20 to 0:43:20
+- 📅 Tuesday was impacted the most
+- ✅ 30 new trips with an average duration of 0:43:20
 	- 3 on Monday
 	- 9 on Tuesday
 	- 9 on Wednesday
 	- 6 on Thursday
 	- 3 on Friday
-- :x: 27 trips removed with an average duration of 0:35:20
+- ❌ 27 trips removed with an average duration of 0:35:20
 	- 3 on Monday
 	- 6 on Tuesday
 	- 3 on Wednesday
 	- 6 on Thursday
 	- 9 on Friday
-## :bus: 693 | Limebank <> St. Francis Xavier H.S
-- Trip numbers :arrow_up: 34 from 126 to 160
-- Average duration :arrow_down: 0:08:45 overall from 0:27:30 to 0:18:45
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 160 new trips with an average duration of 0:18:45
+## 🚌 693 | Limebank <> St. Francis Xavier H.S
+- Trip numbers ⬆️ 34 from 126 to 160
+- Average duration ⬇️ 0:08:45 overall from 0:27:30 to 0:18:45
+- 📅 Tuesday was impacted the most
+- ✅ 160 new trips with an average duration of 0:18:45
 	- 16 on Monday
 	- 48 on Tuesday
 	- 48 on Wednesday
 	- 32 on Thursday
 	- 16 on Friday
-- :x: 126 trips removed with an average duration of 0:27:30
+- ❌ 126 trips removed with an average duration of 0:27:30
 	- 14 on Monday
 	- 28 on Tuesday
 	- 14 on Wednesday
 	- 28 on Thursday
 	- 42 on Friday
-## :bus: 694 | Marketplace --Chapman mills
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 694 | Marketplace --Chapman mills
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 1 on Monday
 	- 2 on Tuesday
 	- 1 on Wednesday
 	- 2 on Thursday
 	- 3 on Friday
-## :bus: 696 | Mother Theresa H.S <> Larkin
-- Trip numbers :arrow_down: 12 from 72 to 60
-- Average duration :arrow_down: 0:03:36 overall from 0:26:36 to 0:23:00
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 60 new trips with an average duration of 0:23:00
+## 🚌 696 | Mother Theresa H.S <> Larkin
+- Trip numbers ⬇️ 12 from 72 to 60
+- Average duration ⬇️ 0:03:36 overall from 0:26:36 to 0:23:00
+- 📅 Tuesday was impacted the most
+- ✅ 60 new trips with an average duration of 0:23:00
 	- 6 on Monday
 	- 18 on Tuesday
 	- 18 on Wednesday
 	- 12 on Thursday
 	- 6 on Friday
-- :x: 72 trips removed with an average duration of 0:26:36
+- ❌ 72 trips removed with an average duration of 0:26:36
 	- 8 on Monday
 	- 16 on Tuesday
 	- 8 on Wednesday
 	- 16 on Thursday
 	- 24 on Friday
-## :bus: 697 | Leitrim <> Ridgemont H.S
-- :white_check_mark: All new trips
-- :calendar: Tuesday and Wednesday were impacted the most
+## 🚌 697 | Leitrim <> Ridgemont H.S
+- ✅ All new trips
+- 📅 Tuesday and Wednesday were impacted the most
 	- 5 on Monday
 	- 15 on Tuesday
 	- 15 on Wednesday
 	- 10 on Thursday
 	- 5 on Friday
-## :bus: 698 | St Patrick H.S <> Blohm
-- Trip numbers :arrow_up: 12 from 108 to 120
-- Average duration :arrow_down: 0:01:30 overall from 0:40:00 to 0:38:30
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 120 new trips with an average duration of 0:38:30
+## 🚌 698 | St Patrick H.S <> Blohm
+- Trip numbers ⬆️ 12 from 108 to 120
+- Average duration ⬇️ 0:01:30 overall from 0:40:00 to 0:38:30
+- 📅 Tuesday was impacted the most
+- ✅ 120 new trips with an average duration of 0:38:30
 	- 12 on Monday
 	- 36 on Tuesday
 	- 36 on Wednesday
 	- 24 on Thursday
 	- 12 on Friday
-- :x: 108 trips removed with an average duration of 0:40:00
+- ❌ 108 trips removed with an average duration of 0:40:00
 	- 12 on Monday
 	- 24 on Tuesday
 	- 12 on Wednesday
 	- 24 on Thursday
 	- 36 on Friday
-## :bus: 699 | Pierre-Des-Blois <> Findlay Creek
-- Trip numbers :arrow_up: 4 from 36 to 40
+## 🚌 699 | Pierre-Des-Blois <> Findlay Creek
+- Trip numbers ⬆️ 4 from 36 to 40
 - Average duration did not change
-- :calendar: Tuesday was impacted the most
-- :white_check_mark: 40 new trips with an average duration of 0:55:00
+- 📅 Tuesday was impacted the most
+- ✅ 40 new trips with an average duration of 0:55:00
 	- 4 on Monday
 	- 12 on Tuesday
 	- 12 on Wednesday
 	- 8 on Thursday
 	- 4 on Friday
-- :x: 36 trips removed with an average duration of 0:55:00
+- ❌ 36 trips removed with an average duration of 0:55:00
 	- 4 on Monday
 	- 8 on Tuesday
 	- 4 on Wednesday
 	- 8 on Thursday
 	- 12 on Friday
-## :bus: B2 | Bayview - Greenboro
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 B2 | Bayview - Greenboro
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 251 on Monday
 	- 182 on Tuesday
 	- 91 on Wednesday
@@ -3365,24 +3365,24 @@
 	- 402 on Friday
 	- 192 on Saturday
 	- 258 on Sunday
-## :bus: E1 | Shuttle/Navette-Express Downtown/Centre-Ville <> Shuttle/Navette-Express Blair
-- Trip numbers :arrow_down: 65 from 385 to 320
-- Average duration :arrow_down: 0:00:12 overall from 0:22:42 to 0:22:30
-- :calendar: Thursday was impacted the most
-- :white_check_mark: 320 new trips with an average duration of 0:22:30
+## 🚌 E1 | Shuttle/Navette-Express Downtown/Centre-Ville <> Shuttle/Navette-Express Blair
+- Trip numbers ⬇️ 65 from 385 to 320
+- Average duration ⬇️ 0:00:12 overall from 0:22:42 to 0:22:30
+- 📅 Thursday was impacted the most
+- ✅ 320 new trips with an average duration of 0:22:30
 	- 32 on Monday
 	- 96 on Tuesday
 	- 96 on Wednesday
 	- 64 on Thursday
 	- 32 on Friday
-- :x: 385 trips removed with an average duration of 0:22:42
+- ❌ 385 trips removed with an average duration of 0:22:42
 	- 70 on Monday
 	- 70 on Tuesday
 	- 35 on Wednesday
 	- 105 on Thursday
 	- 105 on Friday
-## :bus: R1 
-- :x: All trips removed
-- :calendar: Friday was impacted the most
+## 🚌 R1 
+- ❌ All trips removed
+- 📅 Friday was impacted the most
 	- 537 on Thursday
 	- 558 on Friday

@@ -8,11 +8,11 @@ This is a Python script that compares two GTFS datasets and produces a report. D
 - `calendar.txt` or `calendar_dates.txt`
 - `feed_info.txt`
 
-## :desktop_computer: Requirements
+## 🖥️ Requirements
 - Python 3.10.0 or later
 - `pip install email_validator pandas`
 
-## :arrow_forward: Run
+## ▶️ Run
 1. Clone the repository `git clone https://github.com/joelcrampton/gtfs-comparison-script.git`
 2. Open a new terminal at `gtfs-comparison-script/`
 3. Copy a directory containing two GTFS datasets into `data/`. Datasets must be `.zip` files. Name this directory after the region it is for

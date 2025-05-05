@@ -1,19 +1,19 @@
 # Consat Telematics AB 2025-03-17 vs. Consat Telematics AB 2025-05-05
-## :bus: 1 | Montreal St - St Lawrence College
-- Trip numbers :arrow_down: 20 from 374 to 354
-- Average duration :arrow_down: 0:01:14 overall from 0:42:11 to 0:40:57
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 345 new trips with an average duration of 0:41:26
+## 🚌 1 | Montreal St - St Lawrence College
+- Trip numbers ⬇️ 20 from 374 to 354
+- Average duration ⬇️ 0:01:14 overall from 0:42:11 to 0:40:57
+- 📅 Saturday was impacted the most
+- ✅ 345 new trips with an average duration of 0:41:26
 	- 48 on Monday
 	- 71 on Friday
 	- 142 on Saturday
 	- 84 on Sunday
-- :x: 365 trips removed with an average duration of 0:42:40
+- ❌ 365 trips removed with an average duration of 0:42:40
 	- 71 on Wednesday
 	- 71 on Friday
 	- 142 on Saturday
 	- 81 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2056776:477270:500359|Saint Lawrence College|5:53:00|0:37:00|Sun|
@@ -361,7 +361,7 @@
 |343|2115996:494699:500628|Saint Lawrence College|9:45:00|0:45:00|Sat|
 |344|2115997:494308:500628|Montreal Street|9:00:00|0:45:00|Sat|
 |345|2115998:493813:500628|Saint Lawrence College|6:48:00|0:42:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997276:473186:474737|Not In Service|23:35:00|0:02:00|Sat|
@@ -729,16 +729,16 @@
 |363|2061015:480061:484982|Saint Lawrence College|9:45:00|0:45:00|Fri|
 |364|2061016:481256:484982|Montreal Street|9:00:00|0:45:00|Fri|
 |365|2061019:481888:484982|Saint Lawrence College|6:48:00|0:42:00|Fri|
-## :bus: 1B | St Lawrence College-Downtown
-- Trip numbers :arrow_up: 16 from 16 to 32
-- Average duration :arrow_up: 0:01:00 overall from 0:25:00 to 0:26:00
-- :calendar: Sunday was impacted the most
-- :white_check_mark: 24 new trips with an average duration of 0:26:20
+## 🚌 1B | St Lawrence College-Downtown
+- Trip numbers ⬆️ 16 from 16 to 32
+- Average duration ⬆️ 0:01:00 overall from 0:25:00 to 0:26:00
+- 📅 Sunday was impacted the most
+- ✅ 24 new trips with an average duration of 0:26:20
 	- 12 on Monday
 	- 12 on Sunday
-- :x: 8 trips removed with an average duration of 0:25:00
+- ❌ 8 trips removed with an average duration of 0:25:00
 	- 8 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2106156:499940:500531|B - Downtown|6:20:00|0:25:00|Sun|
@@ -765,7 +765,7 @@
 |22|2112119:501841:502013|B - Downtown|15:15:00|0:27:00|Mon|
 |23|2112120:501372:502013|B - Downtown|16:15:00|0:26:00|Mon|
 |24|2112121:500915:502013|B - Downtown|17:15:00|0:26:00|Mon|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1999091:466074:474665|Downtown|10:15:00|0:25:00|Sun|
@@ -776,21 +776,21 @@
 |6|1999096:471905:474665|Downtown|15:15:00|0:25:00|Sun|
 |7|1999097:468094:474665|Downtown|16:15:00|0:25:00|Sun|
 |8|1999098:467367:474665|Downtown|17:15:00|0:25:00|Sun|
-## :bus: 2 | Division St - Train Station
-- Trip numbers :arrow_up: 18 from 364 to 382
-- Average duration :arrow_up: 0:01:09 overall from 0:54:37 to 0:55:46
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 337 new trips with an average duration of 0:57:10
+## 🚌 2 | Division St - Train Station
+- Trip numbers ⬆️ 18 from 364 to 382
+- Average duration ⬆️ 0:01:09 overall from 0:54:37 to 0:55:46
+- 📅 Saturday was impacted the most
+- ✅ 337 new trips with an average duration of 0:57:10
 	- 66 on Monday
 	- 71 on Friday
 	- 134 on Saturday
 	- 66 on Sunday
-- :x: 319 trips removed with an average duration of 0:55:56
+- ❌ 319 trips removed with an average duration of 0:55:56
 	- 66 on Wednesday
 	- 66 on Friday
 	- 130 on Saturday
 	- 57 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2104526:493151:500597|Division Street|6:15:00|0:46:00|Sat|
@@ -1130,7 +1130,7 @@
 |335|2116209:493880:500318|Division Street|21:30:00|0:31:00|Sat|
 |336|2116210:493687:500288|Division Street|22:30:00|0:31:00|Sat|
 |337|2116211:497308:500318|Division Street|23:30:00|0:25:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996680:472911:482885|Division Street|19:00:00|1:01:00|Sat|
@@ -1452,21 +1452,21 @@
 |317|2061751:480489:482864|Division Street|20:30:00|0:31:00|Fri|
 |318|2061755:480914:482883|Division Street|23:30:00|0:25:00|Fri|
 |319|2061758:481652:482883|Division Street|21:30:00|0:31:00|Fri|
-## :bus: 2B | Bus Terminal - St Lawrence College
-- Trip numbers :arrow_down: 44 from 102 to 58
-- Average duration :arrow_down: 0:01:28 overall from 0:22:36 to 0:21:08
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 35 new trips with an average duration of 0:19:06
+## 🚌 2B | Bus Terminal - St Lawrence College
+- Trip numbers ⬇️ 44 from 102 to 58
+- Average duration ⬇️ 0:01:28 overall from 0:22:36 to 0:21:08
+- 📅 Saturday was impacted the most
+- ✅ 35 new trips with an average duration of 0:19:06
 	- 5 on Monday
 	- 8 on Friday
 	- 16 on Saturday
 	- 6 on Sunday
-- :x: 79 trips removed with an average duration of 0:22:08
+- ❌ 79 trips removed with an average duration of 0:22:08
 	- 16 on Wednesday
 	- 16 on Friday
 	- 22 on Saturday
 	- 25 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2057057:477598:500325|Downtown|9:30:00|0:12:00|Sun|
@@ -1504,7 +1504,7 @@
 |33|2116338:500059:500288|Bus Terminal|23:01:00|0:12:00|Sat|
 |34|2116339:498263:500318|Bus Terminal|23:55:00|0:12:00|Sat|
 |35|2116448:495265:500445|Downtown|9:30:00|0:12:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997058:469688:482877|St. Lawrence College|5:35:00|0:40:00|Sat|
@@ -1586,21 +1586,21 @@
 |77|2061891:480438:484999|Bus Terminal|18:15:00|0:15:00|Fri|
 |78|2062514:481662:485008|Downtown|5:20:00|0:13:00|Fri|
 |79|2062557:480419:484952|Downtown|13:58:00|0:12:00|Fri|
-## :bus: 4 | Downtown - Cataraqui Centre
-- Trip numbers :arrow_down: 13 from 370 to 357
-- Average duration :arrow_down: 0:00:14 overall from 0:29:18 to 0:29:04
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 357 new trips with an average duration of 0:29:04
+## 🚌 4 | Downtown - Cataraqui Centre
+- Trip numbers ⬇️ 13 from 370 to 357
+- Average duration ⬇️ 0:00:14 overall from 0:29:18 to 0:29:04
+- 📅 Saturday was impacted the most
+- ✅ 357 new trips with an average duration of 0:29:04
 	- 53 on Monday
 	- 66 on Friday
 	- 132 on Saturday
 	- 106 on Sunday
-- :x: 370 trips removed with an average duration of 0:29:18
+- ❌ 370 trips removed with an average duration of 0:29:18
 	- 66 on Wednesday
 	- 66 on Friday
 	- 132 on Saturday
 	- 106 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2056751:479061:500265|Downtown via Princess St|9:45:00|0:30:00|Sun|
@@ -1960,7 +1960,7 @@
 |355|2116458:500102:500622|Cataraqui Centre via Princess St|12:46:00|0:31:00|Sat|
 |356|2116459:494237:500622|Cataraqui Centre via Princess St|15:16:00|0:30:00|Sat|
 |357|2116460:496771:500622|Cataraqui Centre via Princess St|17:45:00|0:30:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997881:473905:484021|Downtown via Princess St|6:17:00|0:25:00|Sat|
@@ -2333,21 +2333,21 @@
 |368|2061885:481043:484931|Cataraqui Centre via Princess St|15:17:00|0:33:00|Fri|
 |369|2061886:480726:483998|Cataraqui Centre via Princess St|14:15:00|0:32:00|Fri|
 |370|2061887:480393:484043|Cataraqui Centre via Princess St|14:45:00|0:34:00|Fri|
-## :bus: 6 | Cataraqui Centre - St Lawrence College
-- Trip numbers :arrow_down: 103 from 314 to 211
-- Average duration :arrow_down: 0:03:33 overall from 0:28:01 to 0:24:28
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 198 new trips with an average duration of 0:25:10
+## 🚌 6 | Cataraqui Centre - St Lawrence College
+- Trip numbers ⬇️ 103 from 314 to 211
+- Average duration ⬇️ 0:03:33 overall from 0:28:01 to 0:24:28
+- 📅 Saturday was impacted the most
+- ✅ 198 new trips with an average duration of 0:25:10
 	- 13 on Monday
 	- 60 on Friday
 	- 112 on Saturday
 	- 13 on Sunday
-- :x: 301 trips removed with an average duration of 0:28:38
+- ❌ 301 trips removed with an average duration of 0:28:38
 	- 60 on Wednesday
 	- 60 on Friday
 	- 168 on Saturday
 	- 13 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2104839:496996:500437|Saint Lawrence College|6:02:00|0:26:00|Sat|
@@ -2548,7 +2548,7 @@
 |196|2115534:494603:500474|Cataraqui Centre|20:45:00|0:14:00|Sat|
 |197|2115535:497334:500474|Cataraqui Centre|21:45:00|0:14:00|Sat|
 |198|2115536:494094:500474|Cataraqui Centre|22:45:00|0:12:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996630:469052:484052|Saint Lawrence College|6:02:00|0:28:00|Sat|
@@ -2852,18 +2852,18 @@
 |299|2061603:481687:484912|Saint Lawrence College|16:32:00|0:32:00|Fri|
 |300|2061607:483784:484938|Cataraqui Centre|18:30:00|0:30:00|Fri|
 |301|2061608:482033:484043|Saint Lawrence College|18:05:00|0:30:00|Fri|
-## :bus: 6B | Cataraqui Centre - Gardiners Centre
-- Trip numbers :arrow_up: 9 from 38 to 47
-- Average duration :arrow_down: 0:00:43 overall from 0:15:00 to 0:14:17
-- :calendar: Sunday was impacted the most
-- :white_check_mark: 34 new trips with an average duration of 0:14:01
+## 🚌 6B | Cataraqui Centre - Gardiners Centre
+- Trip numbers ⬆️ 9 from 38 to 47
+- Average duration ⬇️ 0:00:43 overall from 0:15:00 to 0:14:17
+- 📅 Sunday was impacted the most
+- ✅ 34 new trips with an average duration of 0:14:01
 	- 13 on Monday
 	- 8 on Saturday
 	- 13 on Sunday
-- :x: 25 trips removed with an average duration of 0:15:00
+- ❌ 25 trips removed with an average duration of 0:15:00
 	- 12 on Saturday
 	- 13 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2104865:493400:500266|Gardiners Centre|19:00:00|0:14:00|Sat|
@@ -2900,7 +2900,7 @@
 |32|2115530:493976:500474|Gardiners Centre|20:30:00|0:15:00|Sat|
 |33|2115531:495179:500474|Gardiners Centre|21:30:00|0:15:00|Sat|
 |34|2115532:499997:500474|Gardiners Centre|22:30:00|0:15:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996946:473808:484052|Gardiners Centre|19:30:00|0:15:00|Sat|
@@ -2928,21 +2928,21 @@
 |23|2054980:477969:484939|Gardiners Centre|20:30:00|0:15:00|Sat|
 |24|2054981:478682:484939|Gardiners Centre|21:30:00|0:15:00|Sat|
 |25|2054982:476519:484939|Gardiners Centre|22:30:00|0:15:00|Sat|
-## :bus: 7 | Grant Timmins / Dalton - Cataraqui Centre
-- Trip numbers :arrow_down: 36 from 373 to 337
-- Average duration :arrow_down: 0:09:42 overall from 0:40:08 to 0:30:26
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 305 new trips with an average duration of 0:29:52
+## 🚌 7 | Grant Timmins / Dalton - Cataraqui Centre
+- Trip numbers ⬇️ 36 from 373 to 337
+- Average duration ⬇️ 0:09:42 overall from 0:40:08 to 0:30:26
+- 📅 Saturday was impacted the most
+- ✅ 305 new trips with an average duration of 0:29:52
 	- 50 on Monday
 	- 76 on Friday
 	- 129 on Saturday
 	- 50 on Sunday
-- :x: 341 trips removed with an average duration of 0:40:32
+- ❌ 341 trips removed with an average duration of 0:40:32
 	- 75 on Wednesday
 	- 75 on Friday
 	- 127 on Saturday
 	- 64 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2105291:494217:500832|Cataraqui Centre|18:30:00|0:31:00|Sat|
@@ -3250,7 +3250,7 @@
 |303|2116335:496092:500618|Grant Timmins/Dalton via John Counter Bv|22:58:00|0:32:00|Sat|
 |304|2116336:498327:500377|Grant Timmins/Dalton via John Counter Bv|7:11:00|0:49:00|Sat|
 |305|2116337:493999:500529|Grant Timmins/Dalton via John Counter Bv|6:58:00|0:32:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996879:468425:474559|Invista Centre via John Counter Blvd|15:30:00|0:41:00|Sat|
@@ -3594,21 +3594,21 @@
 |339|2062478:481541:484954|Invista Centre via John Counter Blvd|21:15:00|0:27:00|Fri|
 |340|2062489:480172:484954|Invista Centre via John Counter Blvd|22:30:00|0:40:00|Fri|
 |341|2062495:481125:484954|Grant Timmins/Dalton via John Counter Bv|21:44:00|0:46:00|Fri|
-## :bus: 7B | Bus Terminal - Cataraqui Centre
-- Trip numbers :arrow_down: 59 from 176 to 117
-- Average duration :arrow_down: 0:04:11 overall from 0:21:23 to 0:17:12
-- :calendar: Sunday was impacted the most
-- :white_check_mark: 80 new trips with an average duration of 0:14:34
+## 🚌 7B | Bus Terminal - Cataraqui Centre
+- Trip numbers ⬇️ 59 from 176 to 117
+- Average duration ⬇️ 0:04:11 overall from 0:21:23 to 0:17:12
+- 📅 Sunday was impacted the most
+- ✅ 80 new trips with an average duration of 0:14:34
 	- 22 on Monday
 	- 8 on Friday
 	- 22 on Saturday
 	- 28 on Sunday
-- :x: 139 trips removed with an average duration of 0:20:59
+- ❌ 139 trips removed with an average duration of 0:20:59
 	- 12 on Wednesday
 	- 12 on Friday
 	- 32 on Saturday
 	- 83 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2056607:478705:500265|Bus Terminal|23:45:00|0:12:00|Sun|
@@ -3691,7 +3691,7 @@
 |78|2116158:497704:500342|Cataraqui Centre|21:15:00|0:15:00|Sat|
 |79|2116159:496841:500377|Bus Terminal|22:11:00|0:32:00|Sat|
 |80|2116213:493016:500569|Bus Terminal|23:30:00|0:12:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996923:471317:474544|Cataraqui Centre|19:00:00|0:30:00|Sat|
@@ -3833,21 +3833,21 @@
 |137|2062449:481848:484960|Bus Terminal|24:00:00|0:12:00|Fri|
 |138|2062458:481173:484960|Cataraqui Centre|23:30:00|0:30:00|Fri|
 |139|2062517:481035:484989|Bus Terminal|5:30:00|0:15:00|Fri|
-## :bus: 10 | Amherstview - Cataraqui Centre
-- Trip numbers :arrow_down: 14 from 174 to 160
-- Average duration :arrow_up: 0:00:09 overall from 0:29:48 to 0:29:57
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 138 new trips with an average duration of 0:29:57
+## 🚌 10 | Amherstview - Cataraqui Centre
+- Trip numbers ⬇️ 14 from 174 to 160
+- Average duration ⬆️ 0:00:09 overall from 0:29:48 to 0:29:57
+- 📅 Saturday was impacted the most
+- ✅ 138 new trips with an average duration of 0:29:57
 	- 22 on Monday
 	- 34 on Friday
 	- 60 on Saturday
 	- 22 on Sunday
-- :x: 152 trips removed with an average duration of 0:29:47
+- ❌ 152 trips removed with an average duration of 0:29:47
 	- 35 on Wednesday
 	- 35 on Friday
 	- 60 on Saturday
 	- 22 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2105485:498783:500384|Amherstview|8:55:00|0:30:00|Sat|
@@ -3988,7 +3988,7 @@
 |136|2116027:493570:500427|Cataraqui Centre|19:25:00|0:30:00|Sat|
 |137|2116028:498136:500427|Cataraqui Centre|20:25:00|0:30:00|Sat|
 |138|2116029:498538:500427|Cataraqui Centre|21:25:00|0:30:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997417:468076:474830|Amherstview|6:55:00|0:30:00|Sat|
@@ -4143,21 +4143,21 @@
 |150|2061674:481083:483968|Amherstview|21:55:00|0:30:00|Fri|
 |151|2061675:481831:483968|Cataraqui Centre|22:25:00|0:28:00|Fri|
 |152|2062024:480139:484987|Cataraqui Centre|7:35:00|0:12:00|Fri|
-## :bus: 11 | Cataraqui Centre - Train Station
-- Trip numbers :arrow_down: 55 from 299 to 244
-- Average duration :arrow_up: 0:07:08 overall from 0:25:02 to 0:32:10
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 216 new trips with an average duration of 0:33:06
+## 🚌 11 | Cataraqui Centre - Train Station
+- Trip numbers ⬇️ 55 from 299 to 244
+- Average duration ⬆️ 0:07:08 overall from 0:25:02 to 0:32:10
+- 📅 Saturday was impacted the most
+- ✅ 216 new trips with an average duration of 0:33:06
 	- 29 on Monday
 	- 63 on Friday
 	- 95 on Saturday
 	- 29 on Sunday
-- :x: 271 trips removed with an average duration of 0:25:02
+- ❌ 271 trips removed with an average duration of 0:25:02
 	- 60 on Wednesday
 	- 60 on Friday
 	- 95 on Saturday
 	- 56 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2104838:500092:500865|Train Station|6:15:00|0:29:00|Sat|
@@ -4376,7 +4376,7 @@
 |214|2115568:500214:500554|Cataraqui Centre|6:00:00|0:25:00|Sat|
 |215|2115569:500151:500610|Cataraqui Centre|7:00:00|0:25:00|Sat|
 |216|2115570:497761:500610|Kingston Centre via Bath Road|6:30:00|0:25:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996720:469702:474538|Kingston Centre via Bath Road|6:14:00|0:15:00|Sat|
@@ -4650,16 +4650,16 @@
 |269|2060637:480655:484993|Kingston Centre via Bath Road|18:35:00|0:25:00|Fri|
 |270|2060883:480909:482161|Cataraqui Centre via Bath Road|18:27:00|0:10:00|Fri|
 |271|2060889:480957:482196|Cataraqui Centre via Bath Road|17:27:00|0:10:00|Fri|
-## :bus: 12 | Downtown - CFB Kingston
-- Trip numbers :arrow_down: 28 from 56 to 28
-- Average duration :arrow_up: 0:00:03 overall from 0:12:57 to 0:13:00
-- :calendar: Friday was impacted the most
-- :white_check_mark: 28 new trips with an average duration of 0:13:00
+## 🚌 12 | Downtown - CFB Kingston
+- Trip numbers ⬇️ 28 from 56 to 28
+- Average duration ⬆️ 0:00:03 overall from 0:12:57 to 0:13:00
+- 📅 Friday was impacted the most
+- ✅ 28 new trips with an average duration of 0:13:00
 	- 28 on Friday
-- :x: 56 trips removed with an average duration of 0:12:57
+- ❌ 56 trips removed with an average duration of 0:12:57
 	- 28 on Wednesday
 	- 28 on Friday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2110111:499571:500351|CFB Kingston|16:17:00|0:13:00|Fri|
@@ -4690,7 +4690,7 @@
 |26|2117028:493664:500501|Downtown|7:00:00|0:13:00|Fri|
 |27|2117029:497891:500501|Downtown|8:30:00|0:13:00|Fri|
 |28|2117031:495515:500351|Downtown|18:00:00|0:13:00|Fri|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2006012:470634:484986|CFB Kingston|16:17:00|0:13:00|Wed|
@@ -4749,14 +4749,14 @@
 |54|2062305:484582:485010|Downtown|16:00:00|0:13:00|Fri|
 |55|2062306:484724:485003|Downtown|14:59:00|0:13:00|Fri|
 |56|2062307:484799:485003|Downtown|16:30:00|0:13:00|Fri|
-## :bus: 13 | Cataraqui North - Waterloo
-- :white_check_mark: All new trips
-- :calendar: Friday was impacted the most
+## 🚌 13 | Cataraqui North - Waterloo
+- ✅ All new trips
+- 📅 Friday was impacted the most
 	- 19 on Monday
 	- 37 on Friday
 	- 31 on Saturday
 	- 19 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2105382:493080:500857|Cataraqui North|18:27:00|0:28:00|Sat|
@@ -4865,21 +4865,21 @@
 |104|2112966:501972:502052|Cataraqui North|21:17:00|0:08:00|Mon|
 |105|2112967:501433:502059|Cataraqui North|22:17:00|0:08:00|Mon|
 |106|2113003:501497:502026|Cataraqui North|20:27:00|0:08:00|Mon|
-## :bus: 14 | Cataraqui North - INVISTA Centre
-- Trip numbers :arrow_down: 29 from 171 to 142
-- Average duration :arrow_down: 0:02:37 overall from 0:28:00 to 0:25:23
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 129 new trips with an average duration of 0:25:07
+## 🚌 14 | Cataraqui North - INVISTA Centre
+- Trip numbers ⬇️ 29 from 171 to 142
+- Average duration ⬇️ 0:02:37 overall from 0:28:00 to 0:25:23
+- 📅 Saturday was impacted the most
+- ✅ 129 new trips with an average duration of 0:25:07
 	- 17 on Monday
 	- 36 on Friday
 	- 59 on Saturday
 	- 17 on Sunday
-- :x: 158 trips removed with an average duration of 0:28:00
+- ❌ 158 trips removed with an average duration of 0:28:00
 	- 29 on Wednesday
 	- 29 on Friday
 	- 87 on Saturday
 	- 13 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2105353:499772:500266|Cataraqui North|6:35:00|0:25:00|Sat|
@@ -5011,7 +5011,7 @@
 |127|2115758:498008:500495|Cataraqui North|16:30:00|0:28:00|Sat|
 |128|2115759:493062:500474|Cataraqui North|17:30:00|0:28:00|Sat|
 |129|2115760:499596:500554|Cataraqui North|18:30:00|0:28:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996944:468061:484052|Cataraqui North|21:00:00|0:28:00|Sat|
@@ -5172,21 +5172,21 @@
 |156|2061583:480779:484990|Cataraqui North|21:00:00|0:28:00|Fri|
 |157|2061586:481238:484990|Cataraqui North|20:00:00|0:28:00|Fri|
 |158|2061612:480693:484982|Cataraqui North|19:05:00|0:28:00|Fri|
-## :bus: 15 | Centre 70 Park & Ride - Cataraqui Centre
-- Trip numbers :arrow_down: 34 from 246 to 212
-- Average duration :arrow_down: 0:02:17 overall from 0:55:33 to 0:53:16
-- :calendar: Friday was impacted the most
-- :white_check_mark: 182 new trips with an average duration of 0:52:43
+## 🚌 15 | Centre 70 Park & Ride - Cataraqui Centre
+- Trip numbers ⬇️ 34 from 246 to 212
+- Average duration ⬇️ 0:02:17 overall from 0:55:33 to 0:53:16
+- 📅 Friday was impacted the most
+- ✅ 182 new trips with an average duration of 0:52:43
 	- 28 on Monday
 	- 65 on Friday
 	- 61 on Saturday
 	- 28 on Sunday
-- :x: 216 trips removed with an average duration of 0:55:25
+- ❌ 216 trips removed with an average duration of 0:55:25
 	- 62 on Wednesday
 	- 62 on Friday
 	- 62 on Saturday
 	- 30 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2104962:500686:500864|Cataraqui Centre|19:03:00|0:51:00|Sat|
@@ -5371,7 +5371,7 @@
 |180|2115645:498477:500631|Centre 70 Park & Ride|6:18:00|0:57:00|Sat|
 |181|2115646:495195:500519|Centre 70 Park & Ride|7:18:00|0:57:00|Sat|
 |182|2116138:493244:500631|Cataraqui Woods|5:47:00|0:31:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996736:466152:474538|Gardiners Centre|6:02:00|0:12:00|Sat|
@@ -5590,21 +5590,21 @@
 |214|2061720:481010:482161|Cataraqui Woods|8:45:00|1:03:00|Fri|
 |215|2061721:480176:482161|Cataraqui Woods|10:45:00|1:03:00|Fri|
 |216|2061722:480986:482161|Cataraqui Woods|12:45:00|1:03:00|Fri|
-## :bus: 16 | First Canada - St Lawrence College
-- Trip numbers :arrow_down: 122 from 393 to 271
-- Average duration :arrow_down: 0:03:02 overall from 0:28:56 to 0:25:54
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 245 new trips with an average duration of 0:25:34
+## 🚌 16 | First Canada - St Lawrence College
+- Trip numbers ⬇️ 122 from 393 to 271
+- Average duration ⬇️ 0:03:02 overall from 0:28:56 to 0:25:54
+- 📅 Saturday was impacted the most
+- ✅ 245 new trips with an average duration of 0:25:34
 	- 28 on Monday
 	- 63 on Friday
 	- 125 on Saturday
 	- 29 on Sunday
-- :x: 367 trips removed with an average duration of 0:28:56
+- ❌ 367 trips removed with an average duration of 0:28:56
 	- 63 on Wednesday
 	- 63 on Friday
 	- 187 on Saturday
 	- 54 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2057381:479409:500603|Bus Terminal|23:42:00|0:12:00|Sun|
@@ -5852,7 +5852,7 @@
 |243|2116152:493916:500342|Bus Terminal|20:40:00|0:34:00|Sat|
 |244|2116160:494784:500287|Bus Terminal|23:10:00|0:14:00|Sat|
 |245|2116162:498521:500628|Bus Terminal|23:45:00|0:14:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997448:478584:482188|Bus Terminal|7:10:00|0:34:00|Sat|
@@ -6222,24 +6222,24 @@
 |365|2062499:481162:484954|Train Station via Kingston Centre|7:48:00|0:25:00|Fri|
 |366|2062510:480058:485008|Bus Terminal|6:15:00|0:29:00|Fri|
 |367|2062515:481995:484960|Train Station via Kingston Centre|6:18:00|0:22:00|Fri|
-## :bus: 16B | Bus Terminal - Kingston Centre
-- Trip numbers :arrow_down: 6 from 8 to 2
+## 🚌 16B | Bus Terminal - Kingston Centre
+- Trip numbers ⬇️ 6 from 8 to 2
 - Average duration did not change
-- :calendar: Weekends were impacted the most
-- :white_check_mark: 2 new trips with an average duration of 0:13:00
+- 📅 Weekends were impacted the most
+- ✅ 2 new trips with an average duration of 0:13:00
 	- 1 on Saturday
 	- 1 on Sunday
-- :x: 8 trips removed with an average duration of 0:13:00
+- ❌ 8 trips removed with an average duration of 0:13:00
 	- 2 on Wednesday
 	- 2 on Friday
 	- 2 on Saturday
 	- 2 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2057380:479242:500490|Kingston Centre|5:34:00|0:13:00|Sun|
 |2|2116161:497879:500499|Kingston Centre|5:34:00|0:13:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997647:476523:479900|Kingston Centre|5:34:00|0:13:00|Sat|
@@ -6250,13 +6250,13 @@
 |6|2057380:479242:480028|Kingston Centre|5:34:00|0:13:00|Sun|
 |7|2061715:480416:484921|Kingston Centre|5:55:00|0:13:00|Fri|
 |8|2061717:481196:484976|Kingston Centre|5:34:00|0:13:00|Fri|
-## :bus: 17A 
-- :x: All trips removed
-- :calendar: Sunday was impacted the most
+## 🚌 17A 
+- ❌ All trips removed
+- 📅 Sunday was impacted the most
 	- 14 on Wednesday
 	- 14 on Saturday
 	- 24 on Sunday
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996993:468577:474685|An Clachan via Queen's Main Campus|24:26:00|0:05:00|Sat|
@@ -6311,13 +6311,13 @@
 |50|2005199:467339:474795|An Clachan via Brock|24:01:00|0:06:00|Wed|
 |51|2005207:472386:474795|An Clachan via Brock|23:01:00|0:06:00|Wed|
 |52|2005209:468515:474795|An Clachan via Queen's Main Campus|22:56:00|0:05:00|Wed|
-## :bus: 17D 
-- :x: All trips removed
-- :calendar: Sunday was impacted the most
+## 🚌 17D 
+- ❌ All trips removed
+- 📅 Sunday was impacted the most
 	- 14 on Wednesday
 	- 14 on Saturday
 	- 24 on Sunday
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996989:467986:474685|Downtown|25:07:00|0:06:00|Sat|
@@ -6372,13 +6372,13 @@
 |50|2005194:468603:474795|Downtown via Queen's Main Campus|24:30:00|0:07:00|Wed|
 |51|2005200:468780:474795|Downtown|23:37:00|0:06:00|Wed|
 |52|2005203:469988:474795|Downtown via Queen's Main Campus|23:30:00|0:07:00|Wed|
-## :bus: 17P 
-- :x: All trips removed
-- :calendar: Sunday was impacted the most
+## 🚌 17P 
+- ❌ All trips removed
+- 📅 Sunday was impacted the most
 	- 14 on Wednesday
 	- 14 on Saturday
 	- 24 on Sunday
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996988:472487:474685|Princess/Albert via Queen's Main Campus|26:13:00|0:05:00|Sat|
@@ -6433,13 +6433,13 @@
 |50|2005201:473360:474795|Princess/Albert via University|23:48:00|0:08:00|Wed|
 |51|2005202:470831:474795|Princess/Albert via Queen's Main Campus|23:43:00|0:05:00|Wed|
 |52|2006481:469004:474765|Princess/Albert via University|26:18:00|0:06:00|Wed|
-## :bus: 17W 
-- :x: All trips removed
-- :calendar: Sunday was impacted the most
+## 🚌 17W 
+- ❌ All trips removed
+- 📅 Sunday was impacted the most
 	- 29 on Wednesday
 	- 29 on Saturday
 	- 49 on Sunday
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996991:468307:474685|Queen's Main Campus|24:48:00|0:09:00|Sat|
@@ -6549,18 +6549,18 @@
 |105|2005205:466104:474795|Queen's West Campus|23:27:00|0:03:00|Wed|
 |106|2005206:466538:474795|Queen's West Campus|23:15:00|0:03:00|Wed|
 |107|2005208:468281:474795|Queen's West Campus via Main Campus|23:09:00|0:06:00|Wed|
-## :bus: 18 | Train Station - Downtown
-- Trip numbers :arrow_down: 164 from 230 to 66
-- Average duration :arrow_down: 0:00:17 overall from 0:27:38 to 0:27:21
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 34 new trips with an average duration of 0:27:42
+## 🚌 18 | Train Station - Downtown
+- Trip numbers ⬇️ 164 from 230 to 66
+- Average duration ⬇️ 0:00:17 overall from 0:27:38 to 0:27:21
+- 📅 Saturday was impacted the most
+- ✅ 34 new trips with an average duration of 0:27:42
 	- 34 on Saturday
-- :x: 198 trips removed with an average duration of 0:27:44
+- ❌ 198 trips removed with an average duration of 0:27:44
 	- 49 on Wednesday
 	- 49 on Friday
 	- 68 on Saturday
 	- 32 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2116163:498794:500318|Downtown via St. Lawrence College|23:00:00|0:27:00|Sat|
@@ -6597,7 +6597,7 @@
 |32|2116203:498073:500508|Train Station|8:45:00|0:27:00|Sat|
 |33|2116204:498047:500508|Train Station|9:45:00|0:27:00|Sat|
 |34|2116205:496124:500508|Train Station|10:45:00|0:27:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997649:482709:482885|Downtown via St. Lawrence College|23:00:00|0:27:00|Sat|
@@ -6798,21 +6798,21 @@
 |196|2062575:481738:484962|Downtown via St. Lawrence College|7:15:00|0:27:00|Fri|
 |197|2062576:481512:485003|Downtown via St. Lawrence College|15:45:00|0:27:00|Fri|
 |198|2062577:481517:484922|Downtown via St. Lawrence College|14:45:00|0:27:00|Fri|
-## :bus: 19 | Woodhaven - Cataraqui Centre
-- Trip numbers :arrow_up: 6 from 324 to 330
-- Average duration :arrow_down: 0:00:04 overall from 0:10:20 to 0:10:16
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 296 new trips with an average duration of 0:10:13
+## 🚌 19 | Woodhaven - Cataraqui Centre
+- Trip numbers ⬆️ 6 from 324 to 330
+- Average duration ⬇️ 0:00:04 overall from 0:10:20 to 0:10:16
+- 📅 Saturday was impacted the most
+- ✅ 296 new trips with an average duration of 0:10:13
 	- 60 on Monday
 	- 44 on Friday
 	- 130 on Saturday
 	- 62 on Sunday
-- :x: 290 trips removed with an average duration of 0:10:18
+- ❌ 290 trips removed with an average duration of 0:10:18
 	- 44 on Wednesday
 	- 44 on Friday
 	- 132 on Saturday
 	- 70 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2056959:475963:500587|Cataraqui Centre|23:26:00|0:13:00|Sun|
@@ -7111,7 +7111,7 @@
 |294|2116391:493934:500368|Cataraqui Centre|17:57:00|0:13:00|Sat|
 |295|2116392:494221:500622|Cataraqui Centre|18:27:00|0:13:00|Sat|
 |296|2116393:497118:500445|Cataraqui Centre|18:57:00|0:13:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996890:473085:474544|Woodhaven|19:35:00|0:07:00|Sat|
@@ -7404,16 +7404,16 @@
 |288|2061588:480085:484915|Woodhaven|19:20:00|0:07:00|Fri|
 |289|2061594:480786:484043|Cataraqui Centre|15:28:00|0:16:00|Fri|
 |290|2061595:481613:484043|Woodhaven|15:20:00|0:08:00|Fri|
-## :bus: 19A | Westbrook - Cataraqui Centre
-- Trip numbers :arrow_down: 22 from 44 to 22
-- Average duration :arrow_up: 0:00:06 overall from 0:16:43 to 0:16:49
-- :calendar: Friday was impacted the most
-- :white_check_mark: 22 new trips with an average duration of 0:16:49
+## 🚌 19A | Westbrook - Cataraqui Centre
+- Trip numbers ⬇️ 22 from 44 to 22
+- Average duration ⬆️ 0:00:06 overall from 0:16:43 to 0:16:49
+- 📅 Friday was impacted the most
+- ✅ 22 new trips with an average duration of 0:16:49
 	- 22 on Friday
-- :x: 44 trips removed with an average duration of 0:16:43
+- ❌ 44 trips removed with an average duration of 0:16:43
 	- 22 on Wednesday
 	- 22 on Friday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2109921:494174:500371|Cataraqui Centre|6:56:00|0:17:00|Fri|
@@ -7438,7 +7438,7 @@
 |20|2110097:498877:500819|Cataraqui Centre|16:00:00|0:17:00|Fri|
 |21|2111178:497205:500842|Westbrook|17:10:00|0:20:00|Fri|
 |22|2111179:500049:500842|Cataraqui Centre|17:30:00|0:17:00|Fri|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2005573:470093:480021|Cataraqui Centre|7:06:00|0:17:00|Wed|
@@ -7485,11 +7485,11 @@
 |42|2061605:481880:484931|Cataraqui Centre|16:10:00|0:17:00|Fri|
 |43|2061609:481274:484990|Cataraqui Centre|17:38:00|0:17:00|Fri|
 |44|2061610:482094:484990|Westbrook|17:20:00|0:18:00|Fri|
-## :bus: 20 
-- :x: All trips removed
-- :calendar: Wednesday was impacted the most
+## 🚌 20 
+- ❌ All trips removed
+- 📅 Wednesday was impacted the most
 	- 75 on Wednesday
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2005065:472697:474742|Queen's West Campus|17:12:00|0:03:00|Wed|
@@ -7567,21 +7567,21 @@
 |73|2005137:469299:474742|Princess/Albert|8:15:00|0:12:00|Wed|
 |74|2005138:473075:474742|Queen's West Campus|8:12:00|0:03:00|Wed|
 |75|2005139:466341:474742|Queen's West Campus|8:00:00|0:12:00|Wed|
-## :bus: 22 | First Canada - Innovation/15
-- Trip numbers :arrow_down: 108 from 374 to 266
-- Average duration :arrow_up: 0:00:38 overall from 0:17:40 to 0:18:18
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 240 new trips with an average duration of 0:18:24
+## 🚌 22 | First Canada - Innovation/15
+- Trip numbers ⬇️ 108 from 374 to 266
+- Average duration ⬆️ 0:00:38 overall from 0:17:40 to 0:18:18
+- 📅 Saturday was impacted the most
+- ✅ 240 new trips with an average duration of 0:18:24
 	- 30 on Monday
 	- 61 on Friday
 	- 119 on Saturday
 	- 30 on Sunday
-- :x: 348 trips removed with an average duration of 0:17:41
+- ❌ 348 trips removed with an average duration of 0:17:41
 	- 61 on Wednesday
 	- 61 on Friday
 	- 174 on Saturday
 	- 52 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2105217:500798:500835|Innovation / Highway 15|8:38:00|0:19:00|Sat|
@@ -7824,7 +7824,7 @@
 |238|2116145:497912:500305|Express - Queen's/KGH via CFB Kingston|20:45:00|0:20:00|Sat|
 |239|2116147:495375:500618|Express - Queen's/KGH via CFB Kingston|19:45:00|0:20:00|Sat|
 |240|2116148:499131:500618|Bus Terminal|21:00:00|0:14:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997453:480815:482188|Express - Queen's/KGH via CFB Kingston|7:45:00|0:20:00|Sat|
@@ -8175,21 +8175,21 @@
 |346|2062501:481735:484954|Bus Terminal|7:31:00|0:16:00|Fri|
 |347|2062516:481593:484954|Express - Queen's/KGH via Highway 15|6:15:00|0:20:00|Fri|
 |348|2062518:480749:484937|Express - Queen's/KGH via Highway 15|7:45:00|0:21:00|Fri|
-## :bus: 31 | Providence Care Hospital - St Lawrence College
-- Trip numbers :arrow_down: 19 from 188 to 169
-- Average duration :arrow_down: 0:01:35 overall from 0:39:03 to 0:37:28
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 169 new trips with an average duration of 0:37:28
+## 🚌 31 | Providence Care Hospital - St Lawrence College
+- Trip numbers ⬇️ 19 from 188 to 169
+- Average duration ⬇️ 0:01:35 overall from 0:39:03 to 0:37:28
+- 📅 Saturday was impacted the most
+- ✅ 169 new trips with an average duration of 0:37:28
 	- 19 on Monday
 	- 38 on Friday
 	- 74 on Saturday
 	- 38 on Sunday
-- :x: 188 trips removed with an average duration of 0:39:03
+- ❌ 188 trips removed with an average duration of 0:39:03
 	- 38 on Wednesday
 	- 38 on Friday
 	- 74 on Saturday
 	- 38 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2056777:478952:500359|Providence Care Hospital|6:30:00|0:45:00|Sun|
@@ -8361,7 +8361,7 @@
 |167|2115992:496358:500628|Providence Care Hospital|22:30:00|0:45:00|Sat|
 |168|2115999:496824:500628|Providence Care Hospital|7:30:00|0:45:00|Sat|
 |169|2116030:495440:500499|Providence Care Hospital|5:47:00|0:28:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997279:473007:474737|Providence Care Hospital|21:30:00|0:45:00|Sat|
@@ -8552,21 +8552,21 @@
 |186|2061632:481777:484921|Kingston Centre|22:00:00|0:12:00|Fri|
 |187|2061690:480891:484976|Providence Care Hospital|5:47:00|0:28:00|Fri|
 |188|2061782:480193:482207|Kingston Centre|25:35:00|0:10:00|Fri|
-## :bus: 32 | St. Lawrence College - Providence Care Hospital
-- Trip numbers :arrow_down: 12 from 178 to 166
-- Average duration :arrow_down: 0:00:57 overall from 0:38:30 to 0:37:33
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 166 new trips with an average duration of 0:37:33
+## 🚌 32 | St. Lawrence College - Providence Care Hospital
+- Trip numbers ⬇️ 12 from 178 to 166
+- Average duration ⬇️ 0:00:57 overall from 0:38:30 to 0:37:33
+- 📅 Saturday was impacted the most
+- ✅ 166 new trips with an average duration of 0:37:33
 	- 19 on Monday
 	- 38 on Friday
 	- 72 on Saturday
 	- 37 on Sunday
-- :x: 178 trips removed with an average duration of 0:38:30
+- ❌ 178 trips removed with an average duration of 0:38:30
 	- 36 on Wednesday
 	- 36 on Friday
 	- 70 on Saturday
 	- 36 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2056778:494989:500359|St. Lawrence College|7:16:00|0:42:00|Sun|
@@ -8735,7 +8735,7 @@
 |164|2115994:499150:500628|St. Lawrence College|11:16:00|0:42:00|Sat|
 |165|2115995:496122:500628|St. Lawrence College|17:16:00|0:42:00|Sat|
 |166|2116139:495147:500628|B - Kingston Centre|23:16:00|0:26:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997278:471114:474737|St. Lawrence College|22:16:00|0:42:00|Sat|
@@ -8916,13 +8916,13 @@
 |176|2061629:481123:484921|St. Lawrence College|6:15:00|0:13:00|Fri|
 |177|2061634:482047:482111|St. Lawrence College|4:29:00|0:11:00|Fri|
 |178|2061693:480822:484912|Kingston Centre|23:16:00|0:26:00|Fri|
-## :bus: 60 | King's Crossing - Downtown
-- :white_check_mark: All new trips
-- :calendar: Saturday was impacted the most
+## 🚌 60 | King's Crossing - Downtown
+- ✅ All new trips
+- 📅 Saturday was impacted the most
 	- 142 on Monday
 	- 212 on Saturday
 	- 142 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2105115:493623:500507|King's Crossing North|15:30:00|0:05:00|Sat|
@@ -9421,15 +9421,15 @@
 |494|2116993:496254:500342|King's Crossing North|6:15:00|0:05:00|Sat|
 |495|2116999:493908:500305|CFB Kingston|6:04:00|0:17:00|Sat|
 |496|2117000:497478:500342|CFB Kingston|6:44:00|0:17:00|Sat|
-## :bus: 90A | Loyalist Link - Odessa-Amherstview-Bath
+## 🚌 90A | Loyalist Link - Odessa-Amherstview-Bath
 - Trip numbers did not change
 - Average duration did not change
-- :calendar: Friday was impacted the most
-- :white_check_mark: 14 new trips with an average duration of 0:45:00
+- 📅 Friday was impacted the most
+- ✅ 14 new trips with an average duration of 0:45:00
 	- 14 on Friday
-- :x: 14 trips removed with an average duration of 0:45:00
+- ❌ 14 trips removed with an average duration of 0:45:00
 	- 14 on Friday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2113221:497716:500534|Loyalist Link - Bath|9:00:00|0:45:00|Fri|
@@ -9446,7 +9446,7 @@
 |12|2113232:493283:500534|Loyalist Link - Bath|13:30:00|0:45:00|Fri|
 |13|2113233:496161:500534|Loyalist Link - Odessa|11:45:00|0:45:00|Fri|
 |14|2113234:495850:500534|Loyalist Link - Bath|15:00:00|0:45:00|Fri|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2019981:467786:474744|Loyalist Link - Bath|9:00:00|0:45:00|Fri|
@@ -9463,15 +9463,15 @@
 |12|2019992:467421:474744|Loyalist Link - Bath|13:30:00|0:45:00|Fri|
 |13|2019993:466776:474744|Loyalist Link - Odessa|11:45:00|0:45:00|Fri|
 |14|2019994:466281:474744|Loyalist Link - Bath|15:00:00|0:45:00|Fri|
-## :bus: 90B | Loyalist Link - Taylor Kidd-Amherstview-Kingston
+## 🚌 90B | Loyalist Link - Taylor Kidd-Amherstview-Kingston
 - Trip numbers did not change
 - Average duration did not change
-- :calendar: Friday was impacted the most
-- :white_check_mark: 12 new trips with an average duration of 0:30:00
+- 📅 Friday was impacted the most
+- ✅ 12 new trips with an average duration of 0:30:00
 	- 12 on Friday
-- :x: 12 trips removed with an average duration of 0:30:00
+- ❌ 12 trips removed with an average duration of 0:30:00
 	- 12 on Friday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2113235:494550:500343|Loyalist Link - Kingston|8:30:00|0:35:00|Fri|
@@ -9486,7 +9486,7 @@
 |10|2113244:492864:500280|Loyalist Link - Kingston|16:55:00|0:35:00|Fri|
 |11|2113249:498596:500280|Loyalist Link - Kingston|15:55:00|0:35:00|Fri|
 |12|2113250:498863:500280|Loyalist Link - Direct Coil|15:30:00|0:25:00|Fri|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2019995:483616:483971|Loyalist Link - Kingston|8:30:00|0:35:00|Fri|
@@ -9501,21 +9501,21 @@
 |10|2020004:483660:483984|Loyalist Link - Kingston|16:55:00|0:35:00|Fri|
 |11|2073036:483825:483984|Loyalist Link - Kingston|15:55:00|0:35:00|Fri|
 |12|2073037:483490:483984|Loyalist Link - Direct Coil|15:30:00|0:25:00|Fri|
-## :bus: 501 | Express - Cataraqui Centre - Downtown
-- Trip numbers :arrow_down: 50 from 622 to 572
-- Average duration :arrow_up: 0:00:15 overall from 0:26:21 to 0:26:36
-- :calendar: Weekends were impacted the most
-- :white_check_mark: 572 new trips with an average duration of 0:26:36
+## 🚌 501 | Express - Cataraqui Centre - Downtown
+- Trip numbers ⬇️ 50 from 622 to 572
+- Average duration ⬆️ 0:00:15 overall from 0:26:21 to 0:26:36
+- 📅 Weekends were impacted the most
+- ✅ 572 new trips with an average duration of 0:26:36
 	- 92 on Monday
 	- 112 on Friday
 	- 184 on Saturday
 	- 184 on Sunday
-- :x: 622 trips removed with an average duration of 0:26:21
+- ❌ 622 trips removed with an average duration of 0:26:21
 	- 127 on Wednesday
 	- 127 on Friday
 	- 184 on Saturday
 	- 184 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2056750:493446:500265|Express - Cataraqui Centre via Front/Bayridge|10:15:00|0:30:00|Sun|
@@ -10090,7 +10090,7 @@
 |570|2115805:496012:500418|Express - Cataraqui Centre via Front/Bayridge|15:15:00|0:30:00|Sat|
 |571|2115806:499350:500368|Express - Cataraqui Centre via Front/Bayridge|16:15:00|0:29:00|Sat|
 |572|2115807:496923:500445|Express - Cataraqui Centre via Front/Bayridge|17:15:00|0:29:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997064:483509:484025|Express - Cataraqui Centre via Front/Bayridge|9:45:00|0:30:00|Sat|
@@ -10715,21 +10715,21 @@
 |620|2061637:480344:483986|Express - Downtown via Princess St|5:20:00|0:08:00|Fri|
 |621|2061638:483819:483986|Express - Cataraqui Centre via Front/Bayridge|5:28:00|0:27:00|Fri|
 |622|2061723:480276:483989|Express - Downtown via Princess St|7:24:00|0:08:00|Fri|
-## :bus: 502 | Express - Cataraqui Centre - Downtown
-- Trip numbers :arrow_down: 40 from 588 to 548
-- Average duration :arrow_down: 0:00:11 overall from 0:26:33 to 0:26:22
-- :calendar: Weekends were impacted the most
-- :white_check_mark: 548 new trips with an average duration of 0:26:22
+## 🚌 502 | Express - Cataraqui Centre - Downtown
+- Trip numbers ⬇️ 40 from 588 to 548
+- Average duration ⬇️ 0:00:11 overall from 0:26:33 to 0:26:22
+- 📅 Weekends were impacted the most
+- ✅ 548 new trips with an average duration of 0:26:22
 	- 88 on Monday
 	- 108 on Friday
 	- 176 on Saturday
 	- 176 on Sunday
-- :x: 588 trips removed with an average duration of 0:26:33
+- ❌ 588 trips removed with an average duration of 0:26:33
 	- 118 on Wednesday
 	- 118 on Friday
 	- 176 on Saturday
 	- 176 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2056849:496154:500587|Express - Downtown via Bayridge/Front|6:30:00|0:27:00|Sun|
@@ -11280,7 +11280,7 @@
 |546|2115853:495945:500571|Express - Cataraqui Centre via Princess|15:00:00|0:24:00|Sat|
 |547|2115854:496180:500571|Express - Cataraqui Centre via Princess|16:00:00|0:24:00|Sat|
 |548|2115855:496545:500571|Express - Cataraqui Centre via Princess|17:00:00|0:23:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997086:473381:479848|Express - Cataraqui Centre via Princess|23:30:00|0:18:00|Sat|
@@ -11871,19 +11871,19 @@
 |586|2061591:480249:484036|Express - Downtown via Bayridge/Front|17:10:00|0:29:00|Fri|
 |587|2061601:481998:482196|Express - Downtown via Bayridge/Front|17:40:00|0:29:00|Fri|
 |588|2061606:480946:484947|Express - Downtown via Bayridge/Front|19:10:00|0:29:00|Fri|
-## :bus: 601 | Express - Queen's / KGH - Innovation / 15
-- Trip numbers :arrow_down: 205 from 268 to 63
-- Average duration :arrow_down: 0:01:06 overall from 0:26:03 to 0:24:57
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 27 new trips with an average duration of 0:22:35
+## 🚌 601 | Express - Queen's / KGH - Innovation / 15
+- Trip numbers ⬇️ 205 from 268 to 63
+- Average duration ⬇️ 0:01:06 overall from 0:26:03 to 0:24:57
+- 📅 Saturday was impacted the most
+- ✅ 27 new trips with an average duration of 0:22:35
 	- 26 on Friday
 	- 1 on Saturday
-- :x: 232 trips removed with an average duration of 0:25:56
+- ❌ 232 trips removed with an average duration of 0:25:56
 	- 26 on Wednesday
 	- 26 on Friday
 	- 108 on Saturday
 	- 72 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2110156:498550:502023|Express - Queen's/KGH via CFB Kingston|10:37:00|0:26:00|Fri|
@@ -11913,7 +11913,7 @@
 |25|2110255:495339:502041|Express - Queen's/KGH via Downtown|6:25:00|0:02:00|Fri|
 |26|2111506:495719:502056|Express - Queen's/KGH via Downtown|14:35:00|0:02:00|Fri|
 |27|2116154:499060:500342|Express - Queen's/KGH via Downtown|6:07:00|0:05:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997458:466297:482188|Express - Queen's/KGH via CFB Kingston|8:07:00|0:28:00|Sat|
@@ -12148,16 +12148,16 @@
 |230|2062547:480124:484952|Express - Queen's/KGH via Downtown|14:13:00|0:05:00|Fri|
 |231|2062555:480076:484984|Express - Queen's/KGH via Downtown|14:20:00|0:02:00|Fri|
 |232|2062558:481216:484995|Express - Queen's/KGH via Downtown|6:20:00|0:02:00|Fri|
-## :bus: 601A | Express - Queen's / KGH - Innovation / 15
-- Trip numbers :arrow_down: 26 from 52 to 26
-- Average duration :arrow_down: 0:00:42 overall from 0:26:46 to 0:26:04
-- :calendar: Friday was impacted the most
-- :white_check_mark: 26 new trips with an average duration of 0:26:04
+## 🚌 601A | Express - Queen's / KGH - Innovation / 15
+- Trip numbers ⬇️ 26 from 52 to 26
+- Average duration ⬇️ 0:00:42 overall from 0:26:46 to 0:26:04
+- 📅 Friday was impacted the most
+- ✅ 26 new trips with an average duration of 0:26:04
 	- 26 on Friday
-- :x: 52 trips removed with an average duration of 0:26:46
+- ❌ 52 trips removed with an average duration of 0:26:46
 	- 26 on Wednesday
 	- 26 on Friday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2110154:493178:502023|Express - Queen's/KGH via Highway 15|6:42:00|0:23:00|Fri|
@@ -12186,7 +12186,7 @@
 |24|2110248:499610:502011|Express - Queen's/KGH via Highway 15|15:22:00|0:26:00|Fri|
 |25|2110253:493710:502028|Express - Queen's/KGH via Highway 15|14:52:00|0:26:00|Fri|
 |26|2110256:499465:502011|Express - Queen's/KGH via Highway 15|14:22:00|0:26:00|Fri|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2060140:484593:484948|Express - Queen's/KGH via Highway 15|6:37:00|0:28:00|Wed|
@@ -12241,19 +12241,19 @@
 |50|2062551:484792:484984|Express - Queen's/KGH via Highway 15|15:22:00|0:26:00|Fri|
 |51|2062556:484541:484952|Express - Queen's/KGH via Highway 15|14:52:00|0:26:00|Fri|
 |52|2062559:484624:484984|Express - Queen's/KGH via Highway 15|14:22:00|0:26:00|Fri|
-## :bus: 602 | Express - Innovation / 15 - Queen's / KGH
-- Trip numbers :arrow_down: 199 from 260 to 61
-- Average duration :arrow_down: 0:00:12 overall from 0:24:22 to 0:24:10
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 26 new trips with an average duration of 0:24:36
+## 🚌 602 | Express - Innovation / 15 - Queen's / KGH
+- Trip numbers ⬇️ 199 from 260 to 61
+- Average duration ⬇️ 0:00:12 overall from 0:24:22 to 0:24:10
+- 📅 Saturday was impacted the most
+- ✅ 26 new trips with an average duration of 0:24:36
 	- 25 on Friday
 	- 1 on Saturday
-- :x: 225 trips removed with an average duration of 0:24:27
+- ❌ 225 trips removed with an average duration of 0:24:27
 	- 25 on Wednesday
 	- 25 on Friday
 	- 105 on Saturday
 	- 70 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2110165:501575:502025|Express - Innovation / Highway 15 via CFB|18:35:00|0:25:00|Fri|
@@ -12282,7 +12282,7 @@
 |24|2110235:501696:502028|Express - Innovation / Highway 15 via CFB|14:18:00|0:28:00|Fri|
 |25|2110237:501460:502028|Express - Innovation / Highway 15 via CFB|18:18:00|0:25:00|Fri|
 |26|2116994:496530:500342|Downtown|6:12:00|0:03:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997464:481857:482188|Bus Terminal|8:35:00|0:24:00|Sat|
@@ -12510,16 +12510,16 @@
 |223|2062662:480734:484994|Not In Service|23:11:00|0:22:00|Sun|
 |224|2062663:480529:482181|Not In Service|22:35:00|0:24:00|Sun|
 |225|2062663:480529:484950|Not In Service|22:35:00|0:24:00|Sun|
-## :bus: 602A | Express - Innovation / 15 - Queen's / KGH
-- Trip numbers :arrow_down: 25 from 50 to 25
+## 🚌 602A | Express - Innovation / 15 - Queen's / KGH
+- Trip numbers ⬇️ 25 from 50 to 25
 - Average duration did not change
-- :calendar: Friday was impacted the most
-- :white_check_mark: 25 new trips with an average duration of 0:25:55
+- 📅 Friday was impacted the most
+- ✅ 25 new trips with an average duration of 0:25:55
 	- 25 on Friday
-- :x: 50 trips removed with an average duration of 0:25:55
+- ❌ 50 trips removed with an average duration of 0:25:55
 	- 25 on Wednesday
 	- 25 on Friday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2110155:501823:502025|Express - Innovation / Highway 15|17:33:00|0:26:00|Fri|
@@ -12547,7 +12547,7 @@
 |23|2110249:501581:502011|Express - Innovation / Highway 15|17:48:00|0:26:00|Fri|
 |24|2110250:501835:502011|Express - Innovation / Highway 15|14:48:00|0:28:00|Fri|
 |25|2110251:501566:502011|Express - Innovation / Highway 15|16:48:00|0:27:00|Fri|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2060141:480900:484988|Bus Terminal|17:33:00|0:26:00|Wed|
@@ -12600,21 +12600,21 @@
 |48|2062552:481210:484984|Bus Terminal|17:48:00|0:26:00|Fri|
 |49|2062553:481318:484984|Bus Terminal|14:48:00|0:28:00|Fri|
 |50|2062554:481126:484984|Bus Terminal|16:48:00|0:27:00|Fri|
-## :bus: 701 | Express - King's Crossing - Cataraqui Centre
-- Trip numbers :arrow_down: 17 from 574 to 557
-- Average duration :arrow_up: 0:00:11 overall from 0:19:53 to 0:20:04
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 470 new trips with an average duration of 0:20:04
+## 🚌 701 | Express - King's Crossing - Cataraqui Centre
+- Trip numbers ⬇️ 17 from 574 to 557
+- Average duration ⬆️ 0:00:11 overall from 0:19:53 to 0:20:04
+- 📅 Saturday was impacted the most
+- ✅ 470 new trips with an average duration of 0:20:04
 	- 90 on Monday
 	- 113 on Friday
 	- 177 on Saturday
 	- 90 on Sunday
-- :x: 487 trips removed with an average duration of 0:19:51
+- ❌ 487 trips removed with an average duration of 0:19:51
 	- 113 on Wednesday
 	- 113 on Friday
 	- 174 on Saturday
 	- 87 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2104471:494948:500400|Express - Cataraqui Centre via Brock/Bath|13:00:00|0:26:00|Sat|
@@ -13087,7 +13087,7 @@
 |468|2116295:496173:500462|Express - Cataraqui Centre via Brock/Bath|13:30:00|0:26:00|Sat|
 |469|2116299:495426:500462|Express - Cataraqui Centre via Brock/Bath|12:00:00|0:26:00|Sat|
 |470|2116303:494701:500462|Express - Cataraqui Centre via Brock/Bath|10:30:00|0:23:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996761:468843:479856|Express - Cataraqui Centre via Downtown|6:04:00|0:12:00|Sat|
@@ -13577,21 +13577,21 @@
 |485|2061699:482061:482139|Express - Cataraqui Centre via Brock/Bath|20:00:00|0:22:00|Fri|
 |486|2061777:482021:482207|Express - Cataraqui Centre via Brock/Bath|24:02:00|0:20:00|Fri|
 |487|2061778:480665:482207|Express - Cataraqui Centre via Downtown|23:50:00|0:11:00|Fri|
-## :bus: 702 | Express - Cataraqui Centre - King's Crossing
-- Trip numbers :arrow_down: 36 from 478 to 442
-- Average duration :arrow_down: 0:00:15 overall from 0:19:03 to 0:18:48
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 372 new trips with an average duration of 0:18:51
+## 🚌 702 | Express - Cataraqui Centre - King's Crossing
+- Trip numbers ⬇️ 36 from 478 to 442
+- Average duration ⬇️ 0:00:15 overall from 0:19:03 to 0:18:48
+- 📅 Saturday was impacted the most
+- ✅ 372 new trips with an average duration of 0:18:51
 	- 70 on Monday
 	- 92 on Friday
 	- 140 on Saturday
 	- 70 on Sunday
-- :x: 408 trips removed with an average duration of 0:19:08
+- ❌ 408 trips removed with an average duration of 0:19:08
 	- 98 on Wednesday
 	- 98 on Friday
 	- 142 on Saturday
 	- 70 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2104612:500192:500515|Express - King's Crossing via Downtown|23:15:00|0:23:00|Sat|
@@ -13966,7 +13966,7 @@
 |370|2115433:499231:500456|Express - King's Crossing via Division|19:45:00|0:12:00|Sat|
 |371|2115434:498947:500456|Express - King's Crossing via Division|21:15:00|0:11:00|Sat|
 |372|2115435:497097:500456|Express - King's Crossing via Division|22:45:00|0:11:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1996737:478194:479856|Express - King's Crossing via Downtown|6:45:00|0:23:00|Sat|
@@ -14377,21 +14377,21 @@
 |406|2061692:480889:482148|Express - King's Crossing via Downtown|23:33:00|0:22:00|Fri|
 |407|2061698:481507:484922|Express - King's Crossing via Division|20:30:00|0:13:00|Fri|
 |408|2061700:480572:484922|Express - King's Crossing via Downtown|20:00:00|0:24:00|Fri|
-## :bus: 702B | Express - Cataraqui Centre - Downtown
-- Trip numbers :arrow_up: 16 from 98 to 114
+## 🚌 702B | Express - Cataraqui Centre - Downtown
+- Trip numbers ⬆️ 16 from 98 to 114
 - Average duration did not change
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 96 new trips with an average duration of 0:26:28
+- 📅 Saturday was impacted the most
+- ✅ 96 new trips with an average duration of 0:26:28
 	- 20 on Monday
 	- 18 on Friday
 	- 38 on Saturday
 	- 20 on Sunday
-- :x: 80 trips removed with an average duration of 0:26:28
+- ❌ 80 trips removed with an average duration of 0:26:28
 	- 13 on Wednesday
 	- 13 on Friday
 	- 36 on Saturday
 	- 18 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2104477:498533:500400|Express - Downtown|12:00:00|0:26:00|Sat|
@@ -14490,7 +14490,7 @@
 |94|2116293:497237:500462|Express - Downtown|14:00:00|0:28:00|Sat|
 |95|2116297:495018:500462|Express - Downtown|12:30:00|0:26:00|Sat|
 |96|2116301:496019:500462|Express - Downtown|11:00:00|0:26:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997712:475701:479927|Express - Downtown|12:00:00|0:26:00|Sat|
@@ -14573,19 +14573,19 @@
 |78|2061210:480606:482207|Express - Downtown|11:00:00|0:26:00|Fri|
 |79|2061211:481411:482207|Express - Downtown|10:00:00|0:24:00|Fri|
 |80|2061212:480168:482207|Express - Downtown|9:00:00|0:26:00|Fri|
-## :bus: 801 | Express - Motnreal St Park & Ride - Downtown
-- Trip numbers :arrow_up: 13 from 62 to 75
-- Average duration :arrow_down: 0:05:55 overall from 0:20:03 to 0:14:08
-- :calendar: Friday was impacted the most
-- :white_check_mark: 75 new trips with an average duration of 0:14:08
+## 🚌 801 | Express - Motnreal St Park & Ride - Downtown
+- Trip numbers ⬆️ 13 from 62 to 75
+- Average duration ⬇️ 0:05:55 overall from 0:20:03 to 0:14:08
+- 📅 Friday was impacted the most
+- ✅ 75 new trips with an average duration of 0:14:08
 	- 20 on Monday
 	- 15 on Friday
 	- 20 on Saturday
 	- 20 on Sunday
-- :x: 62 trips removed with an average duration of 0:20:03
+- ❌ 62 trips removed with an average duration of 0:20:03
 	- 31 on Wednesday
 	- 31 on Friday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2104743:498895:500400|Express - Downtown|15:44:00|0:14:00|Sat|
@@ -14663,7 +14663,7 @@
 |73|2112101:500958:502045|Express - Downtown|13:14:00|0:14:00|Mon|
 |74|2112106:501165:502045|Express - Downtown|11:44:00|0:14:00|Mon|
 |75|2112109:501390:502045|Express - Downtown|10:14:00|0:14:00|Mon|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2005022:468798:474847|Express - Queen's/KGH via Downtown|6:20:00|0:20:00|Wed|
@@ -14728,16 +14728,16 @@
 |60|2061611:481413:482158|Express - Queen's/KGH via Downtown|16:20:00|0:20:00|Fri|
 |61|2061696:480382:482158|Express - Queen's/KGH via Downtown|15:40:00|0:20:00|Fri|
 |62|2062321:481672:484937|Express - Queen's/KGH via Downtown|5:50:00|0:22:00|Fri|
-## :bus: 801B | Express - Downtown
-- Trip numbers :arrow_down: 60 from 118 to 58
-- Average duration :arrow_up: 0:00:02 overall from 0:14:22 to 0:14:24
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 29 new trips with an average duration of 0:14:24
+## 🚌 801B | Express - Downtown
+- Trip numbers ⬇️ 60 from 118 to 58
+- Average duration ⬆️ 0:00:02 overall from 0:14:22 to 0:14:24
+- 📅 Saturday was impacted the most
+- ✅ 29 new trips with an average duration of 0:14:24
 	- 29 on Saturday
-- :x: 89 trips removed with an average duration of 0:14:21
+- ❌ 89 trips removed with an average duration of 0:14:21
 	- 59 on Saturday
 	- 30 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2116153:497652:500342|Express - Downtown|5:55:00|0:12:00|Sat|
@@ -14769,7 +14769,7 @@
 |27|2116298:499623:500462|Express - Downtown|13:14:00|0:14:00|Sat|
 |28|2116302:496199:500462|Express - Downtown|11:44:00|0:14:00|Sat|
 |29|2116304:495099:500462|Express - Downtown|10:14:00|0:14:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997639:471720:482203|Express - Downtown via Montreal St|5:55:00|0:12:00|Sat|
@@ -14861,11 +14861,11 @@
 |87|2055818:475190:479853|Express - Downtown via Montreal St|13:14:00|0:14:00|Sat|
 |88|2055822:477593:479853|Express - Downtown via Montreal St|11:44:00|0:14:00|Sat|
 |89|2055824:476463:479853|Express - Downtown via Montreal St|10:14:00|0:14:00|Sat|
-## :bus: 801A | Express - Montreal St Park & Ride - Queen's / KGH
-- :white_check_mark: All new trips
-- :calendar: Friday was impacted the most
+## 🚌 801A | Express - Montreal St Park & Ride - Queen's / KGH
+- ✅ All new trips
+- 📅 Friday was impacted the most
 	- 20 on Friday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2110409:500234:500559|Express - Queen's / KGH|7:20:00|0:18:00|Fri|
@@ -14888,21 +14888,21 @@
 |18|2110669:499351:500559|Express - Queen's / KGH|17:20:00|0:20:00|Fri|
 |19|2110670:494716:500559|Express - Queen's / KGH|18:00:00|0:20:00|Fri|
 |20|2117032:493320:502023|Express - Queen's / KGH|5:50:00|0:22:00|Fri|
-## :bus: 802 | Express - Downtown - Montreal St Park & Ride
-- Trip numbers :arrow_down: 18 from 172 to 154
-- Average duration :arrow_down: 0:01:03 overall from 0:14:39 to 0:13:36
-- :calendar: Saturday was impacted the most
-- :white_check_mark: 126 new trips with an average duration of 0:13:46
+## 🚌 802 | Express - Downtown - Montreal St Park & Ride
+- Trip numbers ⬇️ 18 from 172 to 154
+- Average duration ⬇️ 0:01:03 overall from 0:14:39 to 0:13:36
+- 📅 Saturday was impacted the most
+- ✅ 126 new trips with an average duration of 0:13:46
 	- 20 on Monday
 	- 38 on Friday
 	- 48 on Saturday
 	- 20 on Sunday
-- :x: 144 trips removed with an average duration of 0:15:00
+- ❌ 144 trips removed with an average duration of 0:15:00
 	- 30 on Wednesday
 	- 30 on Friday
 	- 56 on Saturday
 	- 28 on Sunday
-### :white_check_mark: New trips
+### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2104475:499233:500400|Express - Montreal Street Park & Ride|18:30:00|0:13:00|Sat|
@@ -15031,7 +15031,7 @@
 |124|2116296:493261:500462|Express - Montreal Street Park & Ride|13:00:00|0:13:00|Sat|
 |125|2116300:500094:500462|Express - Montreal Street Park & Ride|11:30:00|0:13:00|Sat|
 |126|2116305:494747:500462|Express - Montreal Street Park & Ride|10:00:00|0:13:00|Sat|
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|1997701:474433:479927|Express - Montreal Street Park & Ride|8:00:00|0:12:00|Sat|
@@ -15178,12 +15178,12 @@
 |142|2060724:480295:482149|Express - Montreal Street Park & Ride|17:00:00|0:19:00|Fri|
 |143|2060725:482031:482149|Express - Montreal Street Park & Ride|16:20:00|0:19:00|Fri|
 |144|2060727:480613:482149|Express - Montreal Street Park & Ride|15:40:00|0:17:00|Fri|
-## :bus: XTRA 
-- :x: All trips removed
-- :calendar: Wednesday and Friday were impacted the most
+## 🚌 XTRA 
+- ❌ All trips removed
+- 📅 Wednesday and Friday were impacted the most
 	- 1 on Wednesday
 	- 1 on Friday
-### :x: Removed trips
+### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
 |1|2006003:468641:474606|Cataraqui Centre|14:45:00|0:08:00|Wed|
