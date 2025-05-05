@@ -17,6 +17,14 @@ def check_email(email: str) -> bool:
     except EmailNotValidError:
         return False
 
+def get_abbr_day(d: str) -> str:
+    day_names = list(calendar.day_name)
+    day_abbrs = list(calendar.day_abbr)
+    for day_name in day_names:
+        if d == day_name:
+            return day_abbrs[day_names.index(d)]
+    return None
+
 def get_int_prefix(x: str):
     match = re.match(r'^(\d+)', x)
     return int(match.group(1)) if match else None
