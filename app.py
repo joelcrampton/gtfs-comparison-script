@@ -32,7 +32,10 @@ def load_data() -> tuple[Gtfs, Gtfs]:
             zip_ref.extractall(extract_dir)
         gtfs = load(extract_dir)
         datasets.append(gtfs)
-        shutil.rmtree(extract_dir)
+        try:
+          shutil.rmtree(extract_dir)
+        except Exception as e:
+          print(f"Error deleting {extract_dir}: {e}")
   
   before = datasets[0]
   after = datasets[0]
