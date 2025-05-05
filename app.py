@@ -1,3 +1,4 @@
+import argparse
 import os
 import pandas as pd
 import shutil
@@ -11,7 +12,12 @@ from trip import Trip
 from enums import Day, Emoji
 from utils import format_total_seconds
 
-warnings.simplefilter("ignore", category=pd.errors.DtypeWarning) # Suppress DtypeWarnings from pandas
+warnings.simplefilter('ignore', category=pd.errors.DtypeWarning) # Suppress DtypeWarnings from pandas
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--data', required=True, help='The name of the directory containing the GTFS data')
+parser.add_argument('--info', action='store_false', help='Include a table of new/removed trips for each route in the report (optional)')
+args = parser.parse_args()
 
 DATA = sys.argv[1]
 INFO = False
@@ -21,7 +27,7 @@ if len(sys.argv) > 2:
 
 def load_data() -> tuple[Gtfs, Gtfs]:
   datasets = []
-  dir = os.path.join('data', DATA)
+  dir = os.path.join('data', args.data)
   for filename in os.listdir(dir):
     filepath = os.path.join(dir, filename)
     if filename.endswith('.zip'):
@@ -94,7 +100,8 @@ def info(gtfs: Gtfs, trips: list[Trip], file):
 
 def main():
   start = datetime.now()
-  with open(f"output/{DATA}.md", 'w', encoding='utf-8') as file:
+  filepath = os.path.join('output', f"{args.data}.md")
+  with open(filepath, 'w', encoding='utf-8') as file:
     before, after = load_data()
     print(f"# {before.get_name()} {before.feed_info.feed_start_date} vs. {after.get_name()} {after.feed_info.feed_start_date}", file=file)
     
