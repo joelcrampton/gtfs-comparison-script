@@ -9,8 +9,8 @@ This is a Python script that compares two GTFS datasets and produces a report. T
 1. Clone the repository `git clone https://github.com/joelcrampton/gtfs-comparison-script.git`
 2. Open a new terminal at `gtfs-comparison-script/`
 3. Copy a directory containing two GTFS datasets into `data/`. Datasets must be `.zip` files. Name this directory after the region it is for
-4. Run the script e.g. `python app.py --data boston --info`
+4. Run the Python script e.g. `python app.py --data boston --info`
     - `--data` = the name of the directory containing the GTFS data e.g. `boston`
     - `--info` = include a table of new/removed trips for each route in the report (optional)
-5. The script will take approximately 5 minutes to complete depending on the size of the GTFS data
+5. The Python script will take approximately 5 minutes to complete depending on the size of the GTFS data
 6. A report named `region.md` will be created in `output/`. Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the Markdown outline to jump between sections quickly
