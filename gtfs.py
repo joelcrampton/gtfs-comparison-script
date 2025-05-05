@@ -148,12 +148,7 @@ def load(dir) -> Gtfs:
   else:
     calendar_dates = None
   
-  filepath = f"{dir}/shapes.txt"
-  if os.path.exists(filepath):
-    print(f"Loading {filepath}")
-    shapes = load_dict_list(pd.read_csv(filepath), Shape)
-  else:
-    shapes = None
+  shapes = None
   
   filepath = f"{dir}/feed_info.txt"
   print(f"Loading {filepath}")
