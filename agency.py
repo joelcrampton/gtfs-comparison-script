@@ -28,7 +28,7 @@ class Agency:
         if agency_name is None:
             raise ValueError('Missing agency_name')
         if agency_url is None:
-            raise ValueError(f'Invalid agency_url \'{agency_url}\'')
+            raise ValueError("Invalid agency_url '{agency_url}'")
         if agency_timezone is None:
             raise ValueError('Missing agency_timezone')
         

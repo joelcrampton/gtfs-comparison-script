@@ -29,7 +29,7 @@ class Calendar:
             raise ValueError('Missing service_id')
         for day in days.keys():
             if days[day] is None:
-                raise ValueError(f'Missing {day.name.lower()}')
+                raise ValueError("Missing {day.name.lower()}")
         if start_date is None:
             raise ValueError('Missing start_date')
         if end_date is None:
