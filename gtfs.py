@@ -67,15 +67,16 @@ class Gtfs:
     return total_seconds // len(trip_ids)
 
   def get_days(self, trip: Trip) -> list[str]:
+    days = []
     service_id = trip.service_id
     # calendars.txt is ideal
     if self.calendars:
-      return self.calendars[service_id].get_days()
+      days = self.calendars[service_id].get_days()
     # calenar_dates.txt as an alternative
-    elif self.calendar_dates:
+    if self.calendar_dates and not days:
       calendar_date = self.calendar_dates[service_id]
-      return [calendar_date.get_day()]
-    return []
+      days = [calendar_date.get_day()]
+    return days
 
   def get_days_count(self, trips: list[Trip]) -> dict[str, int]:
     count = {}
