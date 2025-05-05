@@ -14,15 +14,15 @@ from enums import RouteType
 
 @dataclass(frozen=True)
 class Gtfs:
-  agencies: dict[str, Agency]
-  stops: dict[str, Stop]
-  routes: dict[str, Route]
-  trips: dict[str, Trip]
-  stop_times: dict[str, list[StopTime]]
-  calendars: dict[str, Calendar]
-  calendar_dates: dict[str, CalendarDate]
-  shapes: dict[str, list[Shape]]
-  feed_info: FeedInfo
+  agencies: dict[str, Agency] # Required
+  stops: dict[str, Stop] # Required
+  routes: dict[str, Route] # Required
+  trips: dict[str, Trip] # Required
+  stop_times: dict[str, list[StopTime]] # Required
+  calendars: dict[str, Calendar] # Conditionally Required
+  calendar_dates: dict[str, CalendarDate] # Conditionally Required
+  shapes: dict[str, list[Shape]] # Optional
+  feed_info: FeedInfo # Conditionally Required
 
   def summary(self):
     summary = f"{self.feed_info.feed_publisher_name} {self.feed_info.feed_start_date}: "
@@ -31,9 +31,12 @@ class Gtfs:
     summary += f"\n\t{len(self.routes)} routes"
     summary += f"\n\t{len(self.trips)} trips"
     summary += f"\n\t{sum(len(v) for v in self.stop_times.values())} stop_times"
-    summary += f"\n\t{len(self.calendars)} calendars"
-    summary += f"\n\t{len(self.calendar_dates)} calendar_dates"
-    summary += f"\n\t{sum(len(v) for v in self.shapes.values())} shapes"
+    if self.calendars:
+      summary += f"\n\t{len(self.calendars)} calendars"
+    if self.calendar_dates:
+      summary += f"\n\t{len(self.calendar_dates)} calendar_dates"
+    if self.shapes:
+      summary += f"\n\t{sum(len(v) for v in self.shapes.values())} shapes"
     return summary
   
   def get_route_types(self) -> set[RouteType]:
@@ -106,6 +109,9 @@ def load_dict_list(df: pd.DataFrame, type_: type) -> dict:
   return collection
 
 def load(dir) -> Gtfs:
+  if not os.path.exists(f"{dir}/calendar.txt") and not os.path.exists(f"{dir}/calendar_dates.txt"):
+    raise FileNotFoundError('calendar.txt or calendar_dates.txt is required')
+   
   filepath = f"{dir}/agency.txt"
   print(f"Loading {filepath}")
   agencies = load_dict_value(pd.read_csv(filepath), Agency)
@@ -125,24 +131,27 @@ def load(dir) -> Gtfs:
   filepath = f"{dir}/stop_times.txt"
   print(f"Loading {filepath}")
   stop_times = load_dict_list(pd.read_csv(filepath), StopTime)
-  
+
   filepath = f"{dir}/calendar.txt"
   if os.path.exists(filepath):
     print(f"Loading {filepath}")
     calendars = load_dict_value(pd.read_csv(filepath), Calendar)
   else:
-    calendars = {}
+    calendars = None
   
   filepath = f"{dir}/calendar_dates.txt"
   if os.path.exists(filepath):
     print(f"Loading {filepath}")
     calendar_dates = load_dict_value(pd.read_csv(filepath), CalendarDate)
   else:
-    calendar_dates = {}
+    calendar_dates = None
   
   filepath = f"{dir}/shapes.txt"
-  print(f"Loading {filepath}")
-  shapes = load_dict_list(pd.read_csv(filepath), Shape)
+  if os.path.exists(filepath):
+    print(f"Loading {filepath}")
+    shapes = load_dict_list(pd.read_csv(filepath), Shape)
+  else:
+    shapes = None
   
   filepath = f"{dir}/feed_info.txt"
   print(f"Loading {filepath}")

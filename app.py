@@ -10,7 +10,7 @@ from datetime import datetime
 from gtfs import Gtfs, load
 from trip import Trip
 from enums import Emoji
-from utils import format_total_seconds, sort_days
+from utils import format_total_seconds, get_abbr_day, sort_days
 
 warnings.simplefilter('ignore', category=pd.errors.DtypeWarning) # Suppress DtypeWarnings from pandas
 
@@ -87,8 +87,7 @@ def info(gtfs: Gtfs, trips: list[Trip], file):
     departure_time = format_total_seconds(gtfs.get_trip_departure_time(trip_id))
     duration = format_total_seconds(gtfs.get_trip_duration(trip_id))
     days = gtfs.get_days(trip)
-    days_abbr = list(calendar.day_abbr)
-    days_str = ', '.join(days_abbr[days.index(day)] for day in days) if days else '—'
+    days_str = ', '.join(get_abbr_day(day) for day in days) if days else '—'
     print(f"|{count}|{trip_id}|{trip_headsign}|{departure_time}|{duration}|{days_str}|", file=file)
 
 def main():

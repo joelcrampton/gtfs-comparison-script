@@ -1,5 +1,13 @@
 # GTFS Comparison Script
-This is a Python script that compares two GTFS datasets and produces a report. The following GTFS files are required; `agency.txt`, `stops.txt`, `routes.txt`, `trips.txt`, `stop_times.txt`, `calendar.txt`, `calendar_dates.txt`, `shapes.txt` and `feed_info.txt`. Documentation can be found at https://gtfs.org/documentation/schedule/reference/. See `data/` for example data and `output/` for example reports
+This is a Python script that compares two GTFS datasets and produces a report. Data must follow the official GTFS specification https://gtfs.org/documentation/schedule/reference/. See `data/` for example data and `output/` for example reports. The following GTFS files are required:
+- `agency.txt`
+- `stops.txt`
+- `routes.txt`
+- `trips.txt`
+- `stop_times.txt`
+- `calendar.txt` or `calendar_dates.txt`
+- `shapes.txt`
+- `feed_info.txt`
 
 ## :desktop_computer: Requirements
 - Python 3.10.0 or later
@@ -15,4 +23,4 @@ This is a Python script that compares two GTFS datasets and produces a report. T
 5. The Python script will take approximately 5 minutes to complete depending on the size of the GTFS data
 6. A Markdown report will be created in `output/`. Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the outline to jump between sections quickly
     - For now, new/removed trips are determined by `trip_id`. If the `trip_id` is in the older GTFS data and not in the newer GTFS data then is it considered to be new. If the `trip_id` is in the newer GTFS data and not in the older GTFS data then is it considered to be removed
-    - There are better ways to determine new/removed trips e.g. `stop_id` sequence, trip duration or departure time. This will be investigated further...
+    - There are additional ways to determine new/removed trips e.g. `stop_id` sequence, trip duration or departure time. These will be investigated in the future...
