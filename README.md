@@ -15,23 +15,23 @@ Public transport data is large and complex. When it changes, it can be difficult
 ## ▶️ Run
 ### Manual
 1. Clone the repository `git clone https://github.com/joelcrampton/gtfs-comparison-script.git`
-2. Open a new terminal at [`code/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/code)
-3. Copy a directory containing two GTFS datasets into [`data/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/data). Datasets must be `.zip` files. The directory name must only include; alphanumeric characters, underscores and hyphens
+2. Open a new terminal at `code/`
+3. Copy a directory containing two GTFS datasets into `data/`. Datasets must be `.zip` files. The directory name must only include; alphanumeric characters, underscores and hyphens
 4. Run the Python script e.g. `python app.py data --info`
     - `data` = the name of the directory containing the two GTFS datasets e.g. `boston`
     - `--info` = flag to include tables of new/removed trips for each route in the report (optional)
 5. The Python script will take anywhere from a minute to 10+ minutes depending on the size of the GTFS data
-6. A Markdown report will be created in [`output/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/output). Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the outline to jump between sections quickly
+6. A Markdown report will be created in `output/`. Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the outline to jump between sections quickly
 ### GitHub actions
 _Must be a contributor of this repository_
-1. Create/select desired branch. `main` is not allowed
-2. Copy a directory containing two GTFS datasets into [`data/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/data). Datasets must be `.zip` files. The directory name must only include; alphanumeric characters, underscores and hyphens
+1. Create/select the desired branch. `main` is not allowed
+2. Copy a directory containing two GTFS datasets into `data/`. Datasets must be `.zip` files. The directory name must only include; alphanumeric characters, underscores and hyphens
 3. Run the [ci-manual-run-python-script](https://github.com/joelcrampton/gtfs-comparison-script/actions/workflows/ci-manual-run-python-script.yaml) workflow
     - Select the branch
     - Data = the name of the directory containing the two GTFS datasets e.g. `boston`
     - Check box to include tables of new/removed trips for each route in the report
 4. The Python script will take anywhere from a minute to 10+ minutes depending on the size of the GTFS data
-5. A Markdown report will be created in [`output/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/output). Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the outline to jump between sections quickly
+5. A Markdown report will be created in `output/`. Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the outline to jump between sections quickly
 
 ## 📌 Additional information
 - Currently, new/removed trips are determined by `trip_id`. If a `trip_id` is in the new GTFS data, but not in the old, then is it considered to be new. If a `trip_id` is in the old GTFS data, but not in the new, then is it considered to be removed
