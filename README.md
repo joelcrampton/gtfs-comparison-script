@@ -1,5 +1,5 @@
 # GTFS Comparison Script
-Public transport data is large and complex. When it changes, it is difficult to know how the network will be impacted. This is a Python script that compares two GTFS datasets and produces a report. Data must follow the official [GTFS specification](https://gtfs.org/documentation/schedule/reference/). See [`data/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/data) for example data and [`output/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/output) for example reports. The following GTFS files are required:
+Public transport data is large and complex. When it changes, it can be difficult to predict how the network will be impacted. This is a Python script that compares two GTFS datasets and produces a report. Data must follow the official [GTFS specification](https://gtfs.org/documentation/schedule/reference/). See [`data/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/data) for example data and [`output/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/output) for example reports. The following GTFS files are required:
 - [`agency.txt`](https://gtfs.org/documentation/schedule/reference/#agencytxt)
 - [`stops.txt`](https://gtfs.org/documentation/schedule/reference/#stopstxt)
 - [`routes.txt`](https://gtfs.org/documentation/schedule/reference/#routestxt)
