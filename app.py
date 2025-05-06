@@ -53,7 +53,14 @@ def join_days(days: list[str]) -> str:
     return days[0]
   return ', '.join(days[:-1]) + ' and ' + days[-1]
 
-def summarise_days_count(days_count: dict[str, int], file):
+def summarise_days_count(trips: list[Trip], days_count: dict[str, int], new: bool, file):
+  for day in sort_days(days_count.keys()):
+      count = days_count[day]
+      x = count if count < len(trips) else 'All'
+      y = 'ran' if not new else ('runs' if count == 1 else 'run')
+      print(f"\t- {x} {y} on {day}", file=file)
+
+def summarise_impacted_days(days_count: dict[str, int], file):
   if days_count:
     impacted_value = max(days_count.values())
     impacted_days = sort_days([k for k, v in days_count.items() if v == impacted_value])
@@ -63,18 +70,20 @@ def summarise_days_count(days_count: dict[str, int], file):
         days = 'Weekdays'
       if impacted_days == list(calendar.day_name)[5:]:
         days = 'Weekends'
-      print(f"- {Emoji.CALENDAR.value} {days} {'was' if len(impacted_days) == 1 else 'were'} impacted the most", file=file)
+      x = 'was' if len(impacted_days) == 1 else 'were'
+      print(f"- {Emoji.CALENDAR.value} {days} {x} impacted the most", file=file)
 
 def summarise_trips(gtfs: Gtfs, trips: list[Trip], new: bool, file):
   emoji = Emoji.WHITE_CHECK_MARK.value if new else Emoji.X.value
   if not trips:
     print(f"- {emoji} No {'new trips' if new else 'trips removed'}", file=file)
   else:
-    average_duration = gtfs.get_average_duration([trip.trip_id for trip in trips])
-    available_days_count = gtfs.get_days_count(trips)
-    print(f"- {emoji} {len(trips)} {'new trips' if new else 'trips removed'} with an average duration of {format_total_seconds(average_duration)}", file=file)
-    for day in sort_days(available_days_count.keys()):
-      print(f"\t- {available_days_count[day]} on {day}", file=file)
+    trip_ids = [trip.trip_id for trip in trips]
+    average_duration = format_total_seconds(gtfs.get_average_duration(trip_ids))
+    days_count = gtfs.get_days_count(trips)
+    x = 'new trips' if new else 'trips removed'
+    print(f"- {emoji} {len(trips)} {x} with an average duration of {average_duration}", file=file)
+    summarise_days_count(trips, days_count, new, file)
 
 def info(gtfs: Gtfs, trips: list[Trip], file):
   print('||Trip|Headsign|Departure time|Duration|Days|', file=file)
@@ -115,17 +124,17 @@ def main():
         print(f"Processing {route_id} {route_long_name}")
         print(f"## {route_type.get_emoji().value} {route_id} {route_long_name}", file=file)
         if not trips_before:
+          trip_ids = [trip.trip_id for trip in new_trips]
+          average_duration = format_total_seconds(after.get_average_duration(trip_ids))
           days_count = after.get_days_count(new_trips)
-          print(f"- {Emoji.WHITE_CHECK_MARK.value} All new trips", file=file)
-          summarise_days_count(days_count, file)
-          for day in sort_days(days_count.keys()):
-            print(f"\t- {days_count[day]} on {day}", file=file)
+          print(f"- {Emoji.WHITE_CHECK_MARK.value} All new trips with an average duration of {average_duration}", file=file)
+          summarise_impacted_days(days_count, file)
+          summarise_days_count(new_trips, days_count, True, file)
         elif not trips_after:
           days_count = before.get_days_count(removed_trips)
           print(f"- {Emoji.X.value} All trips removed", file=file)
-          summarise_days_count(days_count, file)
-          for day in sort_days(days_count.keys()):
-            print(f"\t- {days_count[day]} on {day}", file=file)
+          summarise_impacted_days(days_count, file)
+          summarise_days_count(removed_trips, days_count, False, file)
         else:
           trips_emoji = Emoji.ARROW_UP.value if len(trips_before) < len(trips_after) else Emoji.ARROW_DOWN.value
           trips_value = abs(len(trips_before) - len(trips_after))
@@ -134,6 +143,7 @@ def main():
           y = after.get_average_duration(trips_after.keys())
           average_duration_emoji = Emoji.ARROW_UP.value if x < y else Emoji.ARROW_DOWN.value
           average_duration_value = abs(x - y)
+          
           days_count = dict(Counter(after.get_days_count(new_trips)) + Counter(before.get_days_count(removed_trips)))
 
           if trips_value:
@@ -144,7 +154,7 @@ def main():
             print(f"- Average duration {average_duration_emoji} {format_total_seconds(average_duration_value)} overall from {format_total_seconds(x)} to {format_total_seconds(y)}", file=file)
           else:
             print('- Average duration did not change', file=file)
-          summarise_days_count(days_count, file)
+          summarise_impacted_days(days_count, file)
           summarise_trips(after, new_trips, True, file)
           summarise_trips(before, removed_trips, False, file)
         
