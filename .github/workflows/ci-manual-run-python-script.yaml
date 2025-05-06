@@ -63,8 +63,8 @@ jobs:
         git add output/${{ env.DATA }}.md
         # Check for staged changes
         if ! git diff --cached --quiet; then
-          # Check if report exists in the repository
-          if git ls-tree --name-only HEAD | grep -q "output/${{ env.DATA }}.md"; then
+          # Check if report already exists
+          if git cat-file -e HEAD:output/${{ env.DATA }}.md 2>/dev/null; then
             git commit -m "Updated ${{ env.DATA }}.md"
           else
             git commit -m "Created ${{ env.DATA }}.md"
