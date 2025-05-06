@@ -18,7 +18,7 @@ Public transport data is complex and when it changes it can be difficult to know
 3. Copy a directory containing two GTFS datasets into [`data/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/data). Datasets must be `.zip` files. Name this directory after the region it is for
 4. Run the Python script e.g. `python app.py data --info`
     - `data` = the name of the directory containing the two GTFS datasets e.g. `boston`
-    - `--info` = include a table of new/removed trips for each route in the report (optional)
+    - `--info` = flag to include a table of new/removed trips for each route in the report (optional)
 5. The Python script will take anywhere from a few seconds to 10+ minutes to complete depending on the size of the GTFS data
 6. A Markdown report will be created in [`output/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/output). Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the outline to jump between sections quickly
     - Currently, new/removed trips are determined by `trip_id`. If a `trip_id` is in the new GTFS data, but not in the old, then is it considered to be new. If a `trip_id` is in the old GTFS data, but not in the new, then is it considered to be removed
