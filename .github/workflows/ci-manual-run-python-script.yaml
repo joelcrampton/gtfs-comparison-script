@@ -50,6 +50,7 @@ jobs:
     - name: Run Python script
       run: |
         cd code
+        pwd
         if [ "${{ env.INFO }}" = "true" ]; then
           python app.py ${{ env.DATA }} --info
         else
@@ -58,6 +59,7 @@ jobs:
     
     - name: Commit report
       run: |
+        pwd
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
         git add output/${{ env.DATA }}.md
