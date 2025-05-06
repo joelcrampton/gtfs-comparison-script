@@ -4,15 +4,15 @@
 - Average duration ⬇️ 0:01:14 overall from 0:42:11 to 0:40:57
 - 📅 Saturday was impacted the most
 - ✅ 345 new trips with an average duration of 0:41:26
-	- 48 on Monday
-	- 71 on Friday
-	- 142 on Saturday
-	- 84 on Sunday
+	- 48 run on Monday
+	- 71 run on Friday
+	- 142 run on Saturday
+	- 84 run on Sunday
 - ❌ 365 trips removed with an average duration of 0:42:40
-	- 71 on Wednesday
-	- 71 on Friday
-	- 142 on Saturday
-	- 81 on Sunday
+	- 71 ran on Wednesday
+	- 71 ran on Friday
+	- 142 ran on Saturday
+	- 81 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -734,10 +734,10 @@
 - Average duration ⬆️ 0:01:00 overall from 0:25:00 to 0:26:00
 - 📅 Sunday was impacted the most
 - ✅ 24 new trips with an average duration of 0:26:20
-	- 12 on Monday
-	- 12 on Sunday
+	- 12 run on Monday
+	- 12 run on Sunday
 - ❌ 8 trips removed with an average duration of 0:25:00
-	- 8 on Sunday
+	- All ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -781,15 +781,15 @@
 - Average duration ⬆️ 0:01:09 overall from 0:54:37 to 0:55:46
 - 📅 Saturday was impacted the most
 - ✅ 337 new trips with an average duration of 0:57:10
-	- 66 on Monday
-	- 71 on Friday
-	- 134 on Saturday
-	- 66 on Sunday
+	- 66 run on Monday
+	- 71 run on Friday
+	- 134 run on Saturday
+	- 66 run on Sunday
 - ❌ 319 trips removed with an average duration of 0:55:56
-	- 66 on Wednesday
-	- 66 on Friday
-	- 130 on Saturday
-	- 57 on Sunday
+	- 66 ran on Wednesday
+	- 66 ran on Friday
+	- 130 ran on Saturday
+	- 57 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -1457,15 +1457,15 @@
 - Average duration ⬇️ 0:01:28 overall from 0:22:36 to 0:21:08
 - 📅 Saturday was impacted the most
 - ✅ 35 new trips with an average duration of 0:19:06
-	- 5 on Monday
-	- 8 on Friday
-	- 16 on Saturday
-	- 6 on Sunday
+	- 5 run on Monday
+	- 8 run on Friday
+	- 16 run on Saturday
+	- 6 run on Sunday
 - ❌ 79 trips removed with an average duration of 0:22:08
-	- 16 on Wednesday
-	- 16 on Friday
-	- 22 on Saturday
-	- 25 on Sunday
+	- 16 ran on Wednesday
+	- 16 ran on Friday
+	- 22 ran on Saturday
+	- 25 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -1591,15 +1591,15 @@
 - Average duration ⬇️ 0:00:14 overall from 0:29:18 to 0:29:04
 - 📅 Saturday was impacted the most
 - ✅ 357 new trips with an average duration of 0:29:04
-	- 53 on Monday
-	- 66 on Friday
-	- 132 on Saturday
-	- 106 on Sunday
+	- 53 run on Monday
+	- 66 run on Friday
+	- 132 run on Saturday
+	- 106 run on Sunday
 - ❌ 370 trips removed with an average duration of 0:29:18
-	- 66 on Wednesday
-	- 66 on Friday
-	- 132 on Saturday
-	- 106 on Sunday
+	- 66 ran on Wednesday
+	- 66 ran on Friday
+	- 132 ran on Saturday
+	- 106 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2338,15 +2338,15 @@
 - Average duration ⬇️ 0:03:33 overall from 0:28:01 to 0:24:28
 - 📅 Saturday was impacted the most
 - ✅ 198 new trips with an average duration of 0:25:10
-	- 13 on Monday
-	- 60 on Friday
-	- 112 on Saturday
-	- 13 on Sunday
+	- 13 run on Monday
+	- 60 run on Friday
+	- 112 run on Saturday
+	- 13 run on Sunday
 - ❌ 301 trips removed with an average duration of 0:28:38
-	- 60 on Wednesday
-	- 60 on Friday
-	- 168 on Saturday
-	- 13 on Sunday
+	- 60 ran on Wednesday
+	- 60 ran on Friday
+	- 168 ran on Saturday
+	- 13 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2857,12 +2857,12 @@
 - Average duration ⬇️ 0:00:43 overall from 0:15:00 to 0:14:17
 - 📅 Sunday was impacted the most
 - ✅ 34 new trips with an average duration of 0:14:01
-	- 13 on Monday
-	- 8 on Saturday
-	- 13 on Sunday
+	- 13 run on Monday
+	- 8 run on Saturday
+	- 13 run on Sunday
 - ❌ 25 trips removed with an average duration of 0:15:00
-	- 12 on Saturday
-	- 13 on Sunday
+	- 12 ran on Saturday
+	- 13 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2933,15 +2933,15 @@
 - Average duration ⬇️ 0:09:42 overall from 0:40:08 to 0:30:26
 - 📅 Saturday was impacted the most
 - ✅ 305 new trips with an average duration of 0:29:52
-	- 50 on Monday
-	- 76 on Friday
-	- 129 on Saturday
-	- 50 on Sunday
+	- 50 run on Monday
+	- 76 run on Friday
+	- 129 run on Saturday
+	- 50 run on Sunday
 - ❌ 341 trips removed with an average duration of 0:40:32
-	- 75 on Wednesday
-	- 75 on Friday
-	- 127 on Saturday
-	- 64 on Sunday
+	- 75 ran on Wednesday
+	- 75 ran on Friday
+	- 127 ran on Saturday
+	- 64 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3599,15 +3599,15 @@
 - Average duration ⬇️ 0:04:11 overall from 0:21:23 to 0:17:12
 - 📅 Sunday was impacted the most
 - ✅ 80 new trips with an average duration of 0:14:34
-	- 22 on Monday
-	- 8 on Friday
-	- 22 on Saturday
-	- 28 on Sunday
+	- 22 run on Monday
+	- 8 run on Friday
+	- 22 run on Saturday
+	- 28 run on Sunday
 - ❌ 139 trips removed with an average duration of 0:20:59
-	- 12 on Wednesday
-	- 12 on Friday
-	- 32 on Saturday
-	- 83 on Sunday
+	- 12 ran on Wednesday
+	- 12 ran on Friday
+	- 32 ran on Saturday
+	- 83 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3838,15 +3838,15 @@
 - Average duration ⬆️ 0:00:09 overall from 0:29:48 to 0:29:57
 - 📅 Saturday was impacted the most
 - ✅ 138 new trips with an average duration of 0:29:57
-	- 22 on Monday
-	- 34 on Friday
-	- 60 on Saturday
-	- 22 on Sunday
+	- 22 run on Monday
+	- 34 run on Friday
+	- 60 run on Saturday
+	- 22 run on Sunday
 - ❌ 152 trips removed with an average duration of 0:29:47
-	- 35 on Wednesday
-	- 35 on Friday
-	- 60 on Saturday
-	- 22 on Sunday
+	- 35 ran on Wednesday
+	- 35 ran on Friday
+	- 60 ran on Saturday
+	- 22 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -4148,15 +4148,15 @@
 - Average duration ⬆️ 0:07:08 overall from 0:25:02 to 0:32:10
 - 📅 Saturday was impacted the most
 - ✅ 216 new trips with an average duration of 0:33:06
-	- 29 on Monday
-	- 63 on Friday
-	- 95 on Saturday
-	- 29 on Sunday
+	- 29 run on Monday
+	- 63 run on Friday
+	- 95 run on Saturday
+	- 29 run on Sunday
 - ❌ 271 trips removed with an average duration of 0:25:02
-	- 60 on Wednesday
-	- 60 on Friday
-	- 95 on Saturday
-	- 56 on Sunday
+	- 60 ran on Wednesday
+	- 60 ran on Friday
+	- 95 ran on Saturday
+	- 56 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -4655,10 +4655,10 @@
 - Average duration ⬆️ 0:00:03 overall from 0:12:57 to 0:13:00
 - 📅 Friday was impacted the most
 - ✅ 28 new trips with an average duration of 0:13:00
-	- 28 on Friday
+	- All run on Friday
 - ❌ 56 trips removed with an average duration of 0:12:57
-	- 28 on Wednesday
-	- 28 on Friday
+	- 28 ran on Wednesday
+	- 28 ran on Friday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -4750,12 +4750,12 @@
 |55|2062306:484724:485003|Downtown|14:59:00|0:13:00|Fri|
 |56|2062307:484799:485003|Downtown|16:30:00|0:13:00|Fri|
 ## 🚌 13 | Cataraqui North - Waterloo
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:24:09
 - 📅 Friday was impacted the most
-	- 19 on Monday
-	- 37 on Friday
-	- 31 on Saturday
-	- 19 on Sunday
+	- 19 run on Monday
+	- 37 run on Friday
+	- 31 run on Saturday
+	- 19 run on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -4870,15 +4870,15 @@
 - Average duration ⬇️ 0:02:37 overall from 0:28:00 to 0:25:23
 - 📅 Saturday was impacted the most
 - ✅ 129 new trips with an average duration of 0:25:07
-	- 17 on Monday
-	- 36 on Friday
-	- 59 on Saturday
-	- 17 on Sunday
+	- 17 run on Monday
+	- 36 run on Friday
+	- 59 run on Saturday
+	- 17 run on Sunday
 - ❌ 158 trips removed with an average duration of 0:28:00
-	- 29 on Wednesday
-	- 29 on Friday
-	- 87 on Saturday
-	- 13 on Sunday
+	- 29 ran on Wednesday
+	- 29 ran on Friday
+	- 87 ran on Saturday
+	- 13 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -5177,15 +5177,15 @@
 - Average duration ⬇️ 0:02:17 overall from 0:55:33 to 0:53:16
 - 📅 Friday was impacted the most
 - ✅ 182 new trips with an average duration of 0:52:43
-	- 28 on Monday
-	- 65 on Friday
-	- 61 on Saturday
-	- 28 on Sunday
+	- 28 run on Monday
+	- 65 run on Friday
+	- 61 run on Saturday
+	- 28 run on Sunday
 - ❌ 216 trips removed with an average duration of 0:55:25
-	- 62 on Wednesday
-	- 62 on Friday
-	- 62 on Saturday
-	- 30 on Sunday
+	- 62 ran on Wednesday
+	- 62 ran on Friday
+	- 62 ran on Saturday
+	- 30 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -5595,15 +5595,15 @@
 - Average duration ⬇️ 0:03:02 overall from 0:28:56 to 0:25:54
 - 📅 Saturday was impacted the most
 - ✅ 245 new trips with an average duration of 0:25:34
-	- 28 on Monday
-	- 63 on Friday
-	- 125 on Saturday
-	- 29 on Sunday
+	- 28 run on Monday
+	- 63 run on Friday
+	- 125 run on Saturday
+	- 29 run on Sunday
 - ❌ 367 trips removed with an average duration of 0:28:56
-	- 63 on Wednesday
-	- 63 on Friday
-	- 187 on Saturday
-	- 54 on Sunday
+	- 63 ran on Wednesday
+	- 63 ran on Friday
+	- 187 ran on Saturday
+	- 54 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -6227,13 +6227,13 @@
 - Average duration did not change
 - 📅 Weekends were impacted the most
 - ✅ 2 new trips with an average duration of 0:13:00
-	- 1 on Saturday
-	- 1 on Sunday
+	- 1 runs on Saturday
+	- 1 runs on Sunday
 - ❌ 8 trips removed with an average duration of 0:13:00
-	- 2 on Wednesday
-	- 2 on Friday
-	- 2 on Saturday
-	- 2 on Sunday
+	- 2 ran on Wednesday
+	- 2 ran on Friday
+	- 2 ran on Saturday
+	- 2 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -6253,9 +6253,9 @@
 ## 🚌 17A 
 - ❌ All trips removed
 - 📅 Sunday was impacted the most
-	- 14 on Wednesday
-	- 14 on Saturday
-	- 24 on Sunday
+	- 14 ran on Wednesday
+	- 14 ran on Saturday
+	- 24 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -6314,9 +6314,9 @@
 ## 🚌 17D 
 - ❌ All trips removed
 - 📅 Sunday was impacted the most
-	- 14 on Wednesday
-	- 14 on Saturday
-	- 24 on Sunday
+	- 14 ran on Wednesday
+	- 14 ran on Saturday
+	- 24 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -6375,9 +6375,9 @@
 ## 🚌 17P 
 - ❌ All trips removed
 - 📅 Sunday was impacted the most
-	- 14 on Wednesday
-	- 14 on Saturday
-	- 24 on Sunday
+	- 14 ran on Wednesday
+	- 14 ran on Saturday
+	- 24 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -6436,9 +6436,9 @@
 ## 🚌 17W 
 - ❌ All trips removed
 - 📅 Sunday was impacted the most
-	- 29 on Wednesday
-	- 29 on Saturday
-	- 49 on Sunday
+	- 29 ran on Wednesday
+	- 29 ran on Saturday
+	- 49 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -6554,12 +6554,12 @@
 - Average duration ⬇️ 0:00:17 overall from 0:27:38 to 0:27:21
 - 📅 Saturday was impacted the most
 - ✅ 34 new trips with an average duration of 0:27:42
-	- 34 on Saturday
+	- All run on Saturday
 - ❌ 198 trips removed with an average duration of 0:27:44
-	- 49 on Wednesday
-	- 49 on Friday
-	- 68 on Saturday
-	- 32 on Sunday
+	- 49 ran on Wednesday
+	- 49 ran on Friday
+	- 68 ran on Saturday
+	- 32 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -6803,15 +6803,15 @@
 - Average duration ⬇️ 0:00:04 overall from 0:10:20 to 0:10:16
 - 📅 Saturday was impacted the most
 - ✅ 296 new trips with an average duration of 0:10:13
-	- 60 on Monday
-	- 44 on Friday
-	- 130 on Saturday
-	- 62 on Sunday
+	- 60 run on Monday
+	- 44 run on Friday
+	- 130 run on Saturday
+	- 62 run on Sunday
 - ❌ 290 trips removed with an average duration of 0:10:18
-	- 44 on Wednesday
-	- 44 on Friday
-	- 132 on Saturday
-	- 70 on Sunday
+	- 44 ran on Wednesday
+	- 44 ran on Friday
+	- 132 ran on Saturday
+	- 70 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -7409,10 +7409,10 @@
 - Average duration ⬆️ 0:00:06 overall from 0:16:43 to 0:16:49
 - 📅 Friday was impacted the most
 - ✅ 22 new trips with an average duration of 0:16:49
-	- 22 on Friday
+	- All run on Friday
 - ❌ 44 trips removed with an average duration of 0:16:43
-	- 22 on Wednesday
-	- 22 on Friday
+	- 22 ran on Wednesday
+	- 22 ran on Friday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -7488,7 +7488,7 @@
 ## 🚌 20 
 - ❌ All trips removed
 - 📅 Wednesday was impacted the most
-	- 75 on Wednesday
+	- All ran on Wednesday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -7572,15 +7572,15 @@
 - Average duration ⬆️ 0:00:38 overall from 0:17:40 to 0:18:18
 - 📅 Saturday was impacted the most
 - ✅ 240 new trips with an average duration of 0:18:24
-	- 30 on Monday
-	- 61 on Friday
-	- 119 on Saturday
-	- 30 on Sunday
+	- 30 run on Monday
+	- 61 run on Friday
+	- 119 run on Saturday
+	- 30 run on Sunday
 - ❌ 348 trips removed with an average duration of 0:17:41
-	- 61 on Wednesday
-	- 61 on Friday
-	- 174 on Saturday
-	- 52 on Sunday
+	- 61 ran on Wednesday
+	- 61 ran on Friday
+	- 174 ran on Saturday
+	- 52 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8180,15 +8180,15 @@
 - Average duration ⬇️ 0:01:35 overall from 0:39:03 to 0:37:28
 - 📅 Saturday was impacted the most
 - ✅ 169 new trips with an average duration of 0:37:28
-	- 19 on Monday
-	- 38 on Friday
-	- 74 on Saturday
-	- 38 on Sunday
+	- 19 run on Monday
+	- 38 run on Friday
+	- 74 run on Saturday
+	- 38 run on Sunday
 - ❌ 188 trips removed with an average duration of 0:39:03
-	- 38 on Wednesday
-	- 38 on Friday
-	- 74 on Saturday
-	- 38 on Sunday
+	- 38 ran on Wednesday
+	- 38 ran on Friday
+	- 74 ran on Saturday
+	- 38 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8557,15 +8557,15 @@
 - Average duration ⬇️ 0:00:57 overall from 0:38:30 to 0:37:33
 - 📅 Saturday was impacted the most
 - ✅ 166 new trips with an average duration of 0:37:33
-	- 19 on Monday
-	- 38 on Friday
-	- 72 on Saturday
-	- 37 on Sunday
+	- 19 run on Monday
+	- 38 run on Friday
+	- 72 run on Saturday
+	- 37 run on Sunday
 - ❌ 178 trips removed with an average duration of 0:38:30
-	- 36 on Wednesday
-	- 36 on Friday
-	- 70 on Saturday
-	- 36 on Sunday
+	- 36 ran on Wednesday
+	- 36 ran on Friday
+	- 70 ran on Saturday
+	- 36 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8917,11 +8917,11 @@
 |177|2061634:482047:482111|St. Lawrence College|4:29:00|0:11:00|Fri|
 |178|2061693:480822:484912|Kingston Centre|23:16:00|0:26:00|Fri|
 ## 🚌 60 | King's Crossing - Downtown
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:12:27
 - 📅 Saturday was impacted the most
-	- 142 on Monday
-	- 212 on Saturday
-	- 142 on Sunday
+	- 142 run on Monday
+	- 212 run on Saturday
+	- 142 run on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -9426,9 +9426,9 @@
 - Average duration did not change
 - 📅 Friday was impacted the most
 - ✅ 14 new trips with an average duration of 0:45:00
-	- 14 on Friday
+	- All run on Friday
 - ❌ 14 trips removed with an average duration of 0:45:00
-	- 14 on Friday
+	- All ran on Friday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -9468,9 +9468,9 @@
 - Average duration did not change
 - 📅 Friday was impacted the most
 - ✅ 12 new trips with an average duration of 0:30:00
-	- 12 on Friday
+	- All run on Friday
 - ❌ 12 trips removed with an average duration of 0:30:00
-	- 12 on Friday
+	- All ran on Friday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -9506,15 +9506,15 @@
 - Average duration ⬆️ 0:00:15 overall from 0:26:21 to 0:26:36
 - 📅 Weekends were impacted the most
 - ✅ 572 new trips with an average duration of 0:26:36
-	- 92 on Monday
-	- 112 on Friday
-	- 184 on Saturday
-	- 184 on Sunday
+	- 92 run on Monday
+	- 112 run on Friday
+	- 184 run on Saturday
+	- 184 run on Sunday
 - ❌ 622 trips removed with an average duration of 0:26:21
-	- 127 on Wednesday
-	- 127 on Friday
-	- 184 on Saturday
-	- 184 on Sunday
+	- 127 ran on Wednesday
+	- 127 ran on Friday
+	- 184 ran on Saturday
+	- 184 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -10720,15 +10720,15 @@
 - Average duration ⬇️ 0:00:11 overall from 0:26:33 to 0:26:22
 - 📅 Weekends were impacted the most
 - ✅ 548 new trips with an average duration of 0:26:22
-	- 88 on Monday
-	- 108 on Friday
-	- 176 on Saturday
-	- 176 on Sunday
+	- 88 run on Monday
+	- 108 run on Friday
+	- 176 run on Saturday
+	- 176 run on Sunday
 - ❌ 588 trips removed with an average duration of 0:26:33
-	- 118 on Wednesday
-	- 118 on Friday
-	- 176 on Saturday
-	- 176 on Sunday
+	- 118 ran on Wednesday
+	- 118 ran on Friday
+	- 176 ran on Saturday
+	- 176 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11876,13 +11876,13 @@
 - Average duration ⬇️ 0:01:06 overall from 0:26:03 to 0:24:57
 - 📅 Saturday was impacted the most
 - ✅ 27 new trips with an average duration of 0:22:35
-	- 26 on Friday
-	- 1 on Saturday
+	- 26 run on Friday
+	- 1 runs on Saturday
 - ❌ 232 trips removed with an average duration of 0:25:56
-	- 26 on Wednesday
-	- 26 on Friday
-	- 108 on Saturday
-	- 72 on Sunday
+	- 26 ran on Wednesday
+	- 26 ran on Friday
+	- 108 ran on Saturday
+	- 72 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12153,10 +12153,10 @@
 - Average duration ⬇️ 0:00:42 overall from 0:26:46 to 0:26:04
 - 📅 Friday was impacted the most
 - ✅ 26 new trips with an average duration of 0:26:04
-	- 26 on Friday
+	- All run on Friday
 - ❌ 52 trips removed with an average duration of 0:26:46
-	- 26 on Wednesday
-	- 26 on Friday
+	- 26 ran on Wednesday
+	- 26 ran on Friday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12246,13 +12246,13 @@
 - Average duration ⬇️ 0:00:12 overall from 0:24:22 to 0:24:10
 - 📅 Saturday was impacted the most
 - ✅ 26 new trips with an average duration of 0:24:36
-	- 25 on Friday
-	- 1 on Saturday
+	- 25 run on Friday
+	- 1 runs on Saturday
 - ❌ 225 trips removed with an average duration of 0:24:27
-	- 25 on Wednesday
-	- 25 on Friday
-	- 105 on Saturday
-	- 70 on Sunday
+	- 25 ran on Wednesday
+	- 25 ran on Friday
+	- 105 ran on Saturday
+	- 70 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12515,10 +12515,10 @@
 - Average duration did not change
 - 📅 Friday was impacted the most
 - ✅ 25 new trips with an average duration of 0:25:55
-	- 25 on Friday
+	- All run on Friday
 - ❌ 50 trips removed with an average duration of 0:25:55
-	- 25 on Wednesday
-	- 25 on Friday
+	- 25 ran on Wednesday
+	- 25 ran on Friday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12605,15 +12605,15 @@
 - Average duration ⬆️ 0:00:11 overall from 0:19:53 to 0:20:04
 - 📅 Saturday was impacted the most
 - ✅ 470 new trips with an average duration of 0:20:04
-	- 90 on Monday
-	- 113 on Friday
-	- 177 on Saturday
-	- 90 on Sunday
+	- 90 run on Monday
+	- 113 run on Friday
+	- 177 run on Saturday
+	- 90 run on Sunday
 - ❌ 487 trips removed with an average duration of 0:19:51
-	- 113 on Wednesday
-	- 113 on Friday
-	- 174 on Saturday
-	- 87 on Sunday
+	- 113 ran on Wednesday
+	- 113 ran on Friday
+	- 174 ran on Saturday
+	- 87 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -13582,15 +13582,15 @@
 - Average duration ⬇️ 0:00:15 overall from 0:19:03 to 0:18:48
 - 📅 Saturday was impacted the most
 - ✅ 372 new trips with an average duration of 0:18:51
-	- 70 on Monday
-	- 92 on Friday
-	- 140 on Saturday
-	- 70 on Sunday
+	- 70 run on Monday
+	- 92 run on Friday
+	- 140 run on Saturday
+	- 70 run on Sunday
 - ❌ 408 trips removed with an average duration of 0:19:08
-	- 98 on Wednesday
-	- 98 on Friday
-	- 142 on Saturday
-	- 70 on Sunday
+	- 98 ran on Wednesday
+	- 98 ran on Friday
+	- 142 ran on Saturday
+	- 70 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -14382,15 +14382,15 @@
 - Average duration did not change
 - 📅 Saturday was impacted the most
 - ✅ 96 new trips with an average duration of 0:26:28
-	- 20 on Monday
-	- 18 on Friday
-	- 38 on Saturday
-	- 20 on Sunday
+	- 20 run on Monday
+	- 18 run on Friday
+	- 38 run on Saturday
+	- 20 run on Sunday
 - ❌ 80 trips removed with an average duration of 0:26:28
-	- 13 on Wednesday
-	- 13 on Friday
-	- 36 on Saturday
-	- 18 on Sunday
+	- 13 ran on Wednesday
+	- 13 ran on Friday
+	- 36 ran on Saturday
+	- 18 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -14578,13 +14578,13 @@
 - Average duration ⬇️ 0:05:55 overall from 0:20:03 to 0:14:08
 - 📅 Friday was impacted the most
 - ✅ 75 new trips with an average duration of 0:14:08
-	- 20 on Monday
-	- 15 on Friday
-	- 20 on Saturday
-	- 20 on Sunday
+	- 20 run on Monday
+	- 15 run on Friday
+	- 20 run on Saturday
+	- 20 run on Sunday
 - ❌ 62 trips removed with an average duration of 0:20:03
-	- 31 on Wednesday
-	- 31 on Friday
+	- 31 ran on Wednesday
+	- 31 ran on Friday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -14733,10 +14733,10 @@
 - Average duration ⬆️ 0:00:02 overall from 0:14:22 to 0:14:24
 - 📅 Saturday was impacted the most
 - ✅ 29 new trips with an average duration of 0:14:24
-	- 29 on Saturday
+	- All run on Saturday
 - ❌ 89 trips removed with an average duration of 0:14:21
-	- 59 on Saturday
-	- 30 on Sunday
+	- 59 ran on Saturday
+	- 30 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -14862,9 +14862,9 @@
 |88|2055822:477593:479853|Express - Downtown via Montreal St|11:44:00|0:14:00|Sat|
 |89|2055824:476463:479853|Express - Downtown via Montreal St|10:14:00|0:14:00|Sat|
 ## 🚌 801A | Express - Montreal St Park & Ride - Queen's / KGH
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:20:09
 - 📅 Friday was impacted the most
-	- 20 on Friday
+	- All run on Friday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -14893,15 +14893,15 @@
 - Average duration ⬇️ 0:01:03 overall from 0:14:39 to 0:13:36
 - 📅 Saturday was impacted the most
 - ✅ 126 new trips with an average duration of 0:13:46
-	- 20 on Monday
-	- 38 on Friday
-	- 48 on Saturday
-	- 20 on Sunday
+	- 20 run on Monday
+	- 38 run on Friday
+	- 48 run on Saturday
+	- 20 run on Sunday
 - ❌ 144 trips removed with an average duration of 0:15:00
-	- 30 on Wednesday
-	- 30 on Friday
-	- 56 on Saturday
-	- 28 on Sunday
+	- 30 ran on Wednesday
+	- 30 ran on Friday
+	- 56 ran on Saturday
+	- 28 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -15181,8 +15181,8 @@
 ## 🚌 XTRA 
 - ❌ All trips removed
 - 📅 Wednesday and Friday were impacted the most
-	- 1 on Wednesday
-	- 1 on Friday
+	- 1 ran on Wednesday
+	- 1 ran on Friday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|

@@ -4,11 +4,11 @@
 - Average duration ⬆️ 0:18:42 overall from 0:38:49 to 0:57:31
 - 📅 Sunday was impacted the most
 - ✅ 372 new trips with an average duration of 0:58:37
-	- 130 on Saturday
-	- 242 on Sunday
+	- 130 run on Saturday
+	- 242 run on Sunday
 - ❌ 1952 trips removed with an average duration of 0:30:51
-	- 739 on Saturday
-	- 1213 on Sunday
+	- 739 ran on Saturday
+	- 1213 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2344,11 +2344,11 @@
 - Average duration ⬆️ 0:00:29 overall from 0:43:42 to 0:44:11
 - 📅 Sunday was impacted the most
 - ✅ 486 new trips with an average duration of 0:43:14
-	- 240 on Saturday
-	- 246 on Sunday
+	- 240 run on Saturday
+	- 246 run on Sunday
 - ❌ 1106 trips removed with an average duration of 0:42:55
-	- 455 on Saturday
-	- 651 on Sunday
+	- 455 ran on Saturday
+	- 651 ran on Sunday
 ### ✅ New trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|

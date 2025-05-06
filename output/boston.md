@@ -5,7 +5,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 353 trips removed with an average duration of 0:36:36
-	- 353 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -368,7 +368,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 85 trips removed with an average duration of 0:14:47
-	- 85 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -463,7 +463,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 58 trips removed with an average duration of 0:41:55
-	- 58 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -531,7 +531,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 102 trips removed with an average duration of 0:23:05
-	- 102 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -643,7 +643,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 63 trips removed with an average duration of 0:33:06
-	- 63 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -716,7 +716,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 66 trips removed with an average duration of 0:23:30
-	- 66 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -792,7 +792,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 26 trips removed with an average duration of 0:45:57
-	- 26 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -828,7 +828,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 164 trips removed with an average duration of 0:28:04
-	- 164 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -1002,7 +1002,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 102 trips removed with an average duration of 0:32:21
-	- 102 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -1114,7 +1114,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 77 trips removed with an average duration of 0:17:27
-	- 77 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -1201,7 +1201,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 16 trips removed with an average duration of 0:30:41
-	- 16 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -1227,7 +1227,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 67 trips removed with an average duration of 0:16:20
-	- 67 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -1304,7 +1304,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 155 trips removed with an average duration of 0:29:50
-	- 155 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -1469,7 +1469,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 186 trips removed with an average duration of 0:31:16
-	- 186 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -1665,7 +1665,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 54 trips removed with an average duration of 0:25:32
-	- 54 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -1729,7 +1729,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 76 trips removed with an average duration of 0:10:06
-	- 76 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -1815,7 +1815,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 189 trips removed with an average duration of 0:39:33
-	- 189 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2014,7 +2014,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 11 trips removed with an average duration of 0:21:05
-	- 11 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2035,7 +2035,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 47 trips removed with an average duration of 0:17:35
-	- 47 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2092,7 +2092,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 143 trips removed with an average duration of 0:15:01
-	- 143 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2245,7 +2245,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 203 trips removed with an average duration of 0:18:20
-	- 203 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2458,7 +2458,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 28 trips removed with an average duration of 0:23:00
-	- 28 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2496,7 +2496,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 78 trips removed with an average duration of 0:22:03
-	- 78 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2584,7 +2584,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 64 trips removed with an average duration of 0:47:05
-	- 64 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2658,7 +2658,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 52 trips removed with an average duration of 0:28:15
-	- 52 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2720,7 +2720,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 76 trips removed with an average duration of 0:22:48
-	- 76 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2806,7 +2806,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 46 trips removed with an average duration of 0:20:32
-	- 46 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2862,7 +2862,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 42 trips removed with an average duration of 0:14:47
-	- 42 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -2914,7 +2914,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 144 trips removed with an average duration of 0:32:32
-	- 144 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3068,7 +3068,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 24 trips removed with an average duration of 0:21:45
-	- 24 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3102,7 +3102,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 32 trips removed with an average duration of 0:34:05
-	- 32 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3144,7 +3144,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 80 trips removed with an average duration of 0:14:33
-	- 80 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3234,7 +3234,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 62 trips removed with an average duration of 0:14:23
-	- 62 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3306,7 +3306,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 74 trips removed with an average duration of 0:21:44
-	- 74 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3390,7 +3390,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 78 trips removed with an average duration of 0:20:36
-	- 78 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3478,7 +3478,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 180 trips removed with an average duration of 0:18:40
-	- 180 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3668,7 +3668,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 22 trips removed with an average duration of 0:16:00
-	- 22 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3700,7 +3700,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 30 trips removed with an average duration of 0:26:08
-	- 30 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3740,7 +3740,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 179 trips removed with an average duration of 0:25:40
-	- 179 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -3929,7 +3929,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 82 trips removed with an average duration of 0:13:30
-	- 82 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -4021,7 +4021,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 62 trips removed with an average duration of 0:22:23
-	- 62 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -4093,9 +4093,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 86 trips removed with an average duration of 0:19:49
-	- 30 on Monday
-	- 30 on Saturday
-	- 26 on Sunday
+	- 30 ran on Monday
+	- 30 ran on Saturday
+	- 26 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -4191,7 +4191,7 @@
 - 📅 Saturday was impacted the most
 - ✅ No new trips
 - ❌ 74 trips removed with an average duration of 0:24:19
-	- 74 on Saturday
+	- All ran on Saturday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -4275,9 +4275,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 94 trips removed with an average duration of 0:27:08
-	- 37 on Monday
-	- 37 on Saturday
-	- 20 on Sunday
+	- 37 ran on Monday
+	- 37 ran on Saturday
+	- 20 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -4381,7 +4381,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 454 trips removed with an average duration of 0:17:30
-	- 454 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -4845,9 +4845,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 205 trips removed with an average duration of 0:16:47
-	- 76 on Monday
-	- 76 on Saturday
-	- 53 on Sunday
+	- 76 ran on Monday
+	- 76 ran on Saturday
+	- 53 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -5062,9 +5062,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 339 trips removed with an average duration of 0:44:33
-	- 127 on Monday
-	- 127 on Saturday
-	- 85 on Sunday
+	- 127 ran on Monday
+	- 127 ran on Saturday
+	- 85 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -5413,9 +5413,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 358 trips removed with an average duration of 0:22:05
-	- 123 on Monday
-	- 123 on Saturday
-	- 112 on Sunday
+	- 123 ran on Monday
+	- 123 ran on Saturday
+	- 112 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -5783,9 +5783,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 362 trips removed with an average duration of 0:21:29
-	- 125 on Monday
-	- 125 on Saturday
-	- 112 on Sunday
+	- 125 ran on Monday
+	- 125 ran on Saturday
+	- 112 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -6157,8 +6157,8 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 104 trips removed with an average duration of 0:14:51
-	- 52 on Monday
-	- 52 on Saturday
+	- 52 ran on Monday
+	- 52 ran on Saturday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -6272,9 +6272,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 194 trips removed with an average duration of 0:15:25
-	- 74 on Monday
-	- 74 on Saturday
-	- 46 on Sunday
+	- 74 ran on Monday
+	- 74 ran on Saturday
+	- 46 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -6478,9 +6478,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 443 trips removed with an average duration of 0:30:04
-	- 150 on Monday
-	- 150 on Saturday
-	- 143 on Sunday
+	- 150 ran on Monday
+	- 150 ran on Saturday
+	- 143 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -6933,9 +6933,9 @@
 - 📅 Sunday was impacted the most
 - ✅ No new trips
 - ❌ 112 trips removed with an average duration of 0:25:01
-	- 37 on Monday
-	- 37 on Saturday
-	- 38 on Sunday
+	- 37 ran on Monday
+	- 37 ran on Saturday
+	- 38 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -7057,9 +7057,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 146 trips removed with an average duration of 0:28:14
-	- 57 on Monday
-	- 57 on Saturday
-	- 32 on Sunday
+	- 57 ran on Monday
+	- 57 ran on Saturday
+	- 32 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -7215,9 +7215,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 163 trips removed with an average duration of 0:23:18
-	- 62 on Monday
-	- 62 on Saturday
-	- 39 on Sunday
+	- 62 ran on Monday
+	- 62 ran on Saturday
+	- 39 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -7390,9 +7390,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 264 trips removed with an average duration of 0:23:10
-	- 90 on Monday
-	- 90 on Saturday
-	- 84 on Sunday
+	- 90 ran on Monday
+	- 90 ran on Saturday
+	- 84 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -7666,9 +7666,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 215 trips removed with an average duration of 0:27:16
-	- 82 on Monday
-	- 82 on Saturday
-	- 51 on Sunday
+	- 82 ran on Monday
+	- 82 ran on Saturday
+	- 51 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -7893,9 +7893,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 212 trips removed with an average duration of 0:21:14
-	- 80 on Monday
-	- 80 on Saturday
-	- 52 on Sunday
+	- 80 ran on Monday
+	- 80 ran on Saturday
+	- 52 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8117,8 +8117,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 106 trips removed with an average duration of 0:20:07
-	- 60 on Monday
-	- 46 on Sunday
+	- 60 ran on Monday
+	- 46 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8234,8 +8234,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 41 trips removed with an average duration of 0:28:51
-	- 26 on Monday
-	- 15 on Sunday
+	- 26 ran on Monday
+	- 15 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8286,8 +8286,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 104 trips removed with an average duration of 0:15:50
-	- 54 on Monday
-	- 50 on Sunday
+	- 54 ran on Monday
+	- 50 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8401,7 +8401,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 66 trips removed with an average duration of 0:18:20
-	- 66 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8477,8 +8477,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 126 trips removed with an average duration of 0:18:08
-	- 79 on Monday
-	- 47 on Sunday
+	- 79 ran on Monday
+	- 47 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8614,8 +8614,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 72 trips removed with an average duration of 0:18:58
-	- 38 on Monday
-	- 34 on Sunday
+	- 38 ran on Monday
+	- 34 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8697,8 +8697,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 74 trips removed with an average duration of 0:23:00
-	- 39 on Monday
-	- 35 on Sunday
+	- 39 ran on Monday
+	- 35 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8782,8 +8782,8 @@
 - 📅 Monday and Sunday were impacted the most
 - ✅ No new trips
 - ❌ 76 trips removed with an average duration of 0:24:35
-	- 38 on Monday
-	- 38 on Sunday
+	- 38 ran on Monday
+	- 38 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8869,8 +8869,8 @@
 - 📅 Sunday was impacted the most
 - ✅ No new trips
 - ❌ 35 trips removed with an average duration of 0:29:42
-	- 17 on Monday
-	- 18 on Sunday
+	- 17 ran on Monday
+	- 18 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8915,8 +8915,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 61 trips removed with an average duration of 0:29:14
-	- 32 on Monday
-	- 29 on Sunday
+	- 32 ran on Monday
+	- 29 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -8987,8 +8987,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 104 trips removed with an average duration of 0:10:45
-	- 69 on Monday
-	- 35 on Sunday
+	- 69 ran on Monday
+	- 35 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -9102,8 +9102,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 91 trips removed with an average duration of 0:28:52
-	- 49 on Monday
-	- 42 on Sunday
+	- 49 ran on Monday
+	- 42 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -9204,8 +9204,8 @@
 - 📅 Monday and Sunday were impacted the most
 - ✅ No new trips
 - ❌ 332 trips removed with an average duration of 0:42:42
-	- 166 on Monday
-	- 166 on Sunday
+	- 166 ran on Monday
+	- 166 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -9547,8 +9547,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 38 trips removed with an average duration of 0:32:52
-	- 20 on Monday
-	- 18 on Sunday
+	- 20 ran on Monday
+	- 18 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -9596,8 +9596,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 79 trips removed with an average duration of 0:25:43
-	- 46 on Monday
-	- 33 on Sunday
+	- 46 ran on Monday
+	- 33 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -9686,8 +9686,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 66 trips removed with an average duration of 0:30:00
-	- 44 on Monday
-	- 22 on Sunday
+	- 44 ran on Monday
+	- 22 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -9763,8 +9763,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 343 trips removed with an average duration of 0:44:27
-	- 176 on Monday
-	- 167 on Sunday
+	- 176 ran on Monday
+	- 167 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -10117,8 +10117,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 326 trips removed with an average duration of 0:28:40
-	- 164 on Monday
-	- 162 on Sunday
+	- 164 ran on Monday
+	- 162 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -10454,8 +10454,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 407 trips removed with an average duration of 0:25:52
-	- 220 on Monday
-	- 187 on Sunday
+	- 220 ran on Monday
+	- 187 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -10872,8 +10872,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 57 trips removed with an average duration of 0:49:58
-	- 35 on Monday
-	- 22 on Sunday
+	- 35 ran on Monday
+	- 22 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -10940,7 +10940,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 187 trips removed with an average duration of 0:35:43
-	- 187 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11137,7 +11137,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 20 trips removed with an average duration of 0:34:18
-	- 20 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11167,7 +11167,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 63 trips removed with an average duration of 0:25:42
-	- 63 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11240,7 +11240,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 23 trips removed with an average duration of 0:25:23
-	- 23 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11273,8 +11273,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 80 trips removed with an average duration of 0:30:13
-	- 43 on Monday
-	- 37 on Sunday
+	- 43 ran on Monday
+	- 37 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11364,8 +11364,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 49 trips removed with an average duration of 0:43:18
-	- 34 on Monday
-	- 15 on Sunday
+	- 34 ran on Monday
+	- 15 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11424,7 +11424,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 2 trips removed with an average duration of 0:28:00
-	- 2 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11436,7 +11436,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 57 trips removed with an average duration of 0:13:02
-	- 57 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11503,7 +11503,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 29 trips removed with an average duration of 0:12:18
-	- 29 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11542,7 +11542,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 25 trips removed with an average duration of 0:21:50
-	- 25 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11577,7 +11577,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 50 trips removed with an average duration of 0:28:49
-	- 50 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11637,7 +11637,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 60 trips removed with an average duration of 0:16:49
-	- 60 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11707,7 +11707,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 64 trips removed with an average duration of 0:24:44
-	- 64 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11781,7 +11781,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 52 trips removed with an average duration of 0:23:55
-	- 52 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11843,7 +11843,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 66 trips removed with an average duration of 0:19:54
-	- 66 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11919,7 +11919,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 28 trips removed with an average duration of 0:23:40
-	- 28 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -11957,7 +11957,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 36 trips removed with an average duration of 0:40:40
-	- 36 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12003,7 +12003,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 32 trips removed with an average duration of 0:28:28
-	- 32 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12045,7 +12045,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 40 trips removed with an average duration of 0:40:22
-	- 40 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12095,7 +12095,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 69 trips removed with an average duration of 0:33:49
-	- 69 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12174,9 +12174,9 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 109 trips removed with an average duration of 0:44:52
-	- 40 on Monday
-	- 40 on Saturday
-	- 29 on Sunday
+	- 40 ran on Monday
+	- 40 ran on Saturday
+	- 29 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12295,7 +12295,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 33 trips removed with an average duration of 0:58:52
-	- 33 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12338,7 +12338,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 17 trips removed with an average duration of 0:55:45
-	- 17 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12365,7 +12365,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 34 trips removed with an average duration of 0:38:01
-	- 34 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12409,7 +12409,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 28 trips removed with an average duration of 0:50:15
-	- 28 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12447,7 +12447,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 20 trips removed with an average duration of 0:35:45
-	- 20 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12477,7 +12477,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 34 trips removed with an average duration of 1:04:15
-	- 34 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12521,7 +12521,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 20 trips removed with an average duration of 0:40:18
-	- 20 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12551,7 +12551,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 28 trips removed with an average duration of 0:47:30
-	- 28 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12589,7 +12589,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 40 trips removed with an average duration of 0:44:12
-	- 40 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12639,7 +12639,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 40 trips removed with an average duration of 0:45:28
-	- 40 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12689,7 +12689,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 64 trips removed with an average duration of 0:50:29
-	- 64 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12763,7 +12763,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 31 trips removed with an average duration of 0:31:03
-	- 31 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12804,7 +12804,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 85 trips removed with an average duration of 0:26:17
-	- 85 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12899,7 +12899,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 20 trips removed with an average duration of 0:31:42
-	- 20 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12929,8 +12929,8 @@
 - 📅 Monday and Saturday were impacted the most
 - ✅ No new trips
 - ❌ 48 trips removed with an average duration of 0:55:22
-	- 24 on Monday
-	- 24 on Saturday
+	- 24 ran on Monday
+	- 24 ran on Saturday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -12988,7 +12988,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 52 trips removed with an average duration of 0:17:53
-	- 52 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -13050,7 +13050,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 51 trips removed with an average duration of 0:17:52
-	- 51 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -13111,7 +13111,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 233 trips removed with an average duration of 0:22:19
-	- 233 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -13354,7 +13354,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 186 trips removed with an average duration of 0:13:57
-	- 186 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -13550,7 +13550,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 229 trips removed with an average duration of 0:24:34
-	- 229 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -13789,7 +13789,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 99 trips removed with an average duration of 0:06:24
-	- 99 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -13898,7 +13898,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 242 trips removed with an average duration of 0:19:53
-	- 242 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -14150,7 +14150,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 172 trips removed with an average duration of 0:19:58
-	- 172 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -14332,7 +14332,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 8 trips removed with an average duration of 0:18:52
-	- 8 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -14350,8 +14350,8 @@
 - 📅 Monday and Sunday were impacted the most
 - ✅ No new trips
 - ❌ 2 trips removed with an average duration of 0:27:00
-	- 1 on Monday
-	- 1 on Sunday
+	- 1 ran on Monday
+	- 1 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -14363,10 +14363,10 @@
 - 📅 Monday and Friday were impacted the most
 - ✅ No new trips
 - ❌ 1410 trips removed with an average duration of 0:18:19
-	- 410 on Monday
-	- 410 on Friday
-	- 300 on Saturday
-	- 290 on Sunday
+	- 410 ran on Monday
+	- 410 ran on Friday
+	- 300 ran on Saturday
+	- 290 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -15786,7 +15786,7 @@
 - 📅 Saturday was impacted the most
 - ✅ No new trips
 - ❌ 32 trips removed with an average duration of 1:26:26
-	- 32 on Saturday
+	- All ran on Saturday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -15828,8 +15828,8 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 80 trips removed with an average duration of 1:30:38
-	- 60 on Monday
-	- 20 on Sunday
+	- 60 ran on Monday
+	- 20 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -15919,7 +15919,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 282 trips removed with an average duration of 0:45:44
-	- 282 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -16211,7 +16211,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 282 trips removed with an average duration of 0:34:16
-	- 282 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -16503,7 +16503,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 288 trips removed with an average duration of 1:02:40
-	- 288 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -16801,7 +16801,7 @@
 - 📅 Monday was impacted the most
 - ✅ No new trips
 - ❌ 329 trips removed with an average duration of 0:50:03
-	- 329 on Monday
+	- All ran on Monday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|
@@ -17572,8 +17572,8 @@
 ## 🚌 Shuttle-Medford/Tufts to Government Center | Government Center - Medford/Tufts
 - ❌ All trips removed
 - 📅 Sunday was impacted the most
-	- 394 on Saturday
-	- 405 on Sunday
+	- 394 ran on Saturday
+	- 405 ran on Sunday
 ### ❌ Removed trips
 ||Trip|Headsign|Departure time|Duration|Days|
 |--:|:--|:--|--:|--:|:--|

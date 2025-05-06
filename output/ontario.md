@@ -4,3385 +4,3385 @@
 - Average duration ⬆️ 0:00:02 overall from 0:27:36 to 0:27:38
 - 📅 Weekdays were impacted the most
 - ✅ 1146 new trips with an average duration of 0:27:38
-	- 683 on Monday
-	- 683 on Tuesday
-	- 683 on Wednesday
-	- 683 on Thursday
-	- 683 on Friday
-	- 264 on Saturday
-	- 199 on Sunday
+	- 683 run on Monday
+	- 683 run on Tuesday
+	- 683 run on Wednesday
+	- 683 run on Thursday
+	- 683 run on Friday
+	- 264 run on Saturday
+	- 199 run on Sunday
 - ❌ 1447 trips removed with an average duration of 0:27:36
-	- 984 on Monday
-	- 984 on Tuesday
-	- 984 on Wednesday
-	- 984 on Thursday
-	- 984 on Friday
-	- 264 on Saturday
-	- 199 on Sunday
+	- 984 ran on Monday
+	- 984 ran on Tuesday
+	- 984 ran on Wednesday
+	- 984 ran on Thursday
+	- 984 ran on Friday
+	- 264 ran on Saturday
+	- 199 ran on Sunday
 ## 🚋 2-354 | Bayview <> Limebank
 - Trip numbers did not change
 - Average duration did not change
 - 📅 Weekdays were impacted the most
 - ✅ 521 new trips with an average duration of 0:35:10
-	- 182 on Monday
-	- 182 on Tuesday
-	- 182 on Wednesday
-	- 182 on Thursday
-	- 182 on Friday
-	- 177 on Saturday
-	- 162 on Sunday
+	- 182 run on Monday
+	- 182 run on Tuesday
+	- 182 run on Wednesday
+	- 182 run on Thursday
+	- 182 run on Friday
+	- 177 run on Saturday
+	- 162 run on Sunday
 - ❌ 521 trips removed with an average duration of 0:35:10
-	- 182 on Monday
-	- 182 on Tuesday
-	- 182 on Wednesday
-	- 182 on Thursday
-	- 182 on Friday
-	- 177 on Saturday
-	- 162 on Sunday
+	- 182 ran on Monday
+	- 182 ran on Tuesday
+	- 182 ran on Wednesday
+	- 182 ran on Thursday
+	- 182 ran on Friday
+	- 177 ran on Saturday
+	- 162 ran on Sunday
 ## 🚋 4-354 | South Keys <> Airport ~ Aéroport
 - Trip numbers did not change
 - Average duration did not change
 - 📅 Weekdays were impacted the most
 - ✅ 522 new trips with an average duration of 0:07:37
-	- 184 on Monday
-	- 184 on Tuesday
-	- 184 on Wednesday
-	- 184 on Thursday
-	- 184 on Friday
-	- 177 on Saturday
-	- 161 on Sunday
+	- 184 run on Monday
+	- 184 run on Tuesday
+	- 184 run on Wednesday
+	- 184 run on Thursday
+	- 184 run on Friday
+	- 177 run on Saturday
+	- 161 run on Sunday
 - ❌ 522 trips removed with an average duration of 0:07:37
-	- 184 on Monday
-	- 184 on Tuesday
-	- 184 on Wednesday
-	- 184 on Thursday
-	- 184 on Friday
-	- 177 on Saturday
-	- 161 on Sunday
+	- 184 ran on Monday
+	- 184 ran on Tuesday
+	- 184 ran on Wednesday
+	- 184 ran on Thursday
+	- 184 ran on Friday
+	- 177 ran on Saturday
+	- 161 ran on Sunday
 ## 🚌 5 | Waller <> Elmvale
 - Trip numbers ⬆️ 466 from 1202 to 1668
 - Average duration ⬆️ 0:04:51 overall from 0:28:40 to 0:33:31
 - 📅 Tuesday was impacted the most
 - ✅ 1660 new trips with an average duration of 0:33:32
-	- 200 on Monday
-	- 395 on Tuesday
-	- 394 on Wednesday
-	- 263 on Thursday
-	- 131 on Friday
-	- 138 on Saturday
-	- 139 on Sunday
+	- 200 run on Monday
+	- 395 run on Tuesday
+	- 394 run on Wednesday
+	- 263 run on Thursday
+	- 131 run on Friday
+	- 138 run on Saturday
+	- 139 run on Sunday
 - ❌ 1194 trips removed with an average duration of 0:28:37
-	- 151 on Monday
-	- 154 on Tuesday
-	- 77 on Wednesday
-	- 220 on Thursday
-	- 286 on Friday
-	- 198 on Saturday
-	- 108 on Sunday
+	- 151 ran on Monday
+	- 154 ran on Tuesday
+	- 77 ran on Wednesday
+	- 220 ran on Thursday
+	- 286 ran on Friday
+	- 198 ran on Saturday
+	- 108 ran on Sunday
 ## 🚌 6 | Greenboro <> Rockcliffe
 - Trip numbers ⬇️ 258 from 2462 to 2204
 - Average duration ⬆️ 0:01:46 overall from 0:51:23 to 0:53:09
 - 📅 Tuesday was impacted the most
 - ✅ 2192 new trips with an average duration of 0:53:14
-	- 271 on Monday
-	- 461 on Tuesday
-	- 473 on Wednesday
-	- 304 on Thursday
-	- 153 on Friday
-	- 294 on Saturday
-	- 236 on Sunday
+	- 271 run on Monday
+	- 461 run on Tuesday
+	- 473 run on Wednesday
+	- 304 run on Thursday
+	- 153 run on Friday
+	- 294 run on Saturday
+	- 236 run on Sunday
 - ❌ 2450 trips removed with an average duration of 0:51:22
-	- 296 on Monday
-	- 317 on Tuesday
-	- 144 on Wednesday
-	- 452 on Thursday
-	- 555 on Friday
-	- 442 on Saturday
-	- 244 on Sunday
+	- 296 ran on Monday
+	- 317 ran on Tuesday
+	- 144 ran on Wednesday
+	- 452 ran on Thursday
+	- 555 ran on Friday
+	- 442 ran on Saturday
+	- 244 ran on Sunday
 ## 🚌 7 | Carleton <> St-Laurent
 - Trip numbers ⬇️ 504 from 2440 to 1936
 - Average duration ⬆️ 0:04:59 overall from 0:48:41 to 0:53:40
 - 📅 Thursday was impacted the most
 - ✅ 1933 new trips with an average duration of 0:53:40
-	- 252 on Monday
-	- 384 on Tuesday
-	- 384 on Wednesday
-	- 256 on Thursday
-	- 128 on Friday
-	- 282 on Saturday
-	- 247 on Sunday
+	- 252 run on Monday
+	- 384 run on Tuesday
+	- 384 run on Wednesday
+	- 256 run on Thursday
+	- 128 run on Friday
+	- 282 run on Saturday
+	- 247 run on Sunday
 - ❌ 2437 trips removed with an average duration of 0:48:41
-	- 309 on Monday
-	- 294 on Tuesday
-	- 147 on Wednesday
-	- 451 on Thursday
-	- 565 on Friday
-	- 424 on Saturday
-	- 247 on Sunday
+	- 309 ran on Monday
+	- 294 ran on Tuesday
+	- 147 ran on Wednesday
+	- 451 ran on Thursday
+	- 565 ran on Friday
+	- 424 ran on Saturday
+	- 247 ran on Sunday
 ## 🚌 8 | Gatineau <> Dow's Lake
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:15:41
 - 📅 Tuesday and Wednesday were impacted the most
-	- 137 on Monday
-	- 225 on Tuesday
-	- 225 on Wednesday
-	- 150 on Thursday
-	- 75 on Friday
-	- 140 on Saturday
-	- 124 on Sunday
+	- 137 run on Monday
+	- 225 run on Tuesday
+	- 225 run on Wednesday
+	- 150 run on Thursday
+	- 75 run on Friday
+	- 140 run on Saturday
+	- 124 run on Sunday
 ## 🚌 9 | Rideau <> Hurdman
 - Trip numbers ⬇️ 259 from 1258 to 999
 - Average duration ⬇️ 0:00:48 overall from 0:25:43 to 0:24:55
 - 📅 Tuesday was impacted the most
 - ✅ 989 new trips with an average duration of 0:24:54
-	- 125 on Monday
-	- 212 on Tuesday
-	- 211 on Wednesday
-	- 139 on Thursday
-	- 70 on Friday
-	- 122 on Saturday
-	- 110 on Sunday
+	- 125 run on Monday
+	- 212 run on Tuesday
+	- 211 run on Wednesday
+	- 139 run on Thursday
+	- 70 run on Friday
+	- 122 run on Saturday
+	- 110 run on Sunday
 - ❌ 1248 trips removed with an average duration of 0:25:42
-	- 162 on Monday
-	- 159 on Tuesday
-	- 79 on Wednesday
-	- 230 on Thursday
-	- 296 on Friday
-	- 206 on Saturday
-	- 116 on Sunday
+	- 162 ran on Monday
+	- 159 ran on Tuesday
+	- 79 ran on Wednesday
+	- 230 ran on Thursday
+	- 296 ran on Friday
+	- 206 ran on Saturday
+	- 116 ran on Sunday
 ## 🚌 10 | Hurdman <> Main
 - Trip numbers ⬇️ 282 from 1814 to 1532
 - Average duration ⬆️ 0:16:53 overall from 0:27:18 to 0:44:11
 - 📅 Tuesday was impacted the most
 - ✅ 1529 new trips with an average duration of 0:44:10
-	- 189 on Monday
-	- 345 on Tuesday
-	- 344 on Wednesday
-	- 230 on Thursday
-	- 115 on Friday
-	- 158 on Saturday
-	- 148 on Sunday
+	- 189 run on Monday
+	- 345 run on Tuesday
+	- 344 run on Wednesday
+	- 230 run on Thursday
+	- 115 run on Friday
+	- 158 run on Saturday
+	- 148 run on Sunday
 - ❌ 1811 trips removed with an average duration of 0:27:18
-	- 239 on Monday
-	- 240 on Tuesday
-	- 120 on Wednesday
-	- 338 on Thursday
-	- 434 on Friday
-	- 292 on Saturday
-	- 148 on Sunday
+	- 239 ran on Monday
+	- 240 ran on Tuesday
+	- 120 ran on Wednesday
+	- 338 ran on Thursday
+	- 434 ran on Friday
+	- 292 ran on Saturday
+	- 148 ran on Sunday
 ## 🚌 11 | Waller <> Bayshore
 - Trip numbers ⬇️ 558 from 2244 to 1686
 - Average duration ⬆️ 0:07:43 overall from 0:53:00 to 1:00:43
 - 📅 Thursday was impacted the most
 - ✅ 1674 new trips with an average duration of 1:00:33
-	- 201 on Monday
-	- 391 on Tuesday
-	- 389 on Wednesday
-	- 260 on Thursday
-	- 129 on Friday
-	- 160 on Saturday
-	- 144 on Sunday
+	- 201 run on Monday
+	- 391 run on Tuesday
+	- 389 run on Wednesday
+	- 260 run on Thursday
+	- 129 run on Friday
+	- 160 run on Saturday
+	- 144 run on Sunday
 - ❌ 2232 trips removed with an average duration of 0:53:02
-	- 280 on Monday
-	- 280 on Tuesday
-	- 139 on Wednesday
-	- 412 on Thursday
-	- 521 on Friday
-	- 396 on Saturday
-	- 204 on Sunday
+	- 280 ran on Monday
+	- 280 ran on Tuesday
+	- 139 ran on Wednesday
+	- 412 ran on Thursday
+	- 521 ran on Friday
+	- 396 ran on Saturday
+	- 204 ran on Sunday
 ## 🚌 12 | Blair <> Tunney's Pasture
 - Trip numbers ⬇️ 428 from 2548 to 2120
 - Average duration ⬆️ 0:05:51 overall from 0:41:53 to 0:47:44
 - 📅 Thursday was impacted the most
 - ✅ 2115 new trips with an average duration of 0:47:44
-	- 261 on Monday
-	- 456 on Tuesday
-	- 456 on Wednesday
-	- 301 on Thursday
-	- 152 on Friday
-	- 270 on Saturday
-	- 219 on Sunday
+	- 261 run on Monday
+	- 456 run on Tuesday
+	- 456 run on Wednesday
+	- 301 run on Thursday
+	- 152 run on Friday
+	- 270 run on Saturday
+	- 219 run on Sunday
 - ❌ 2543 trips removed with an average duration of 0:41:53
-	- 309 on Monday
-	- 307 on Tuesday
-	- 154 on Wednesday
-	- 471 on Thursday
-	- 579 on Friday
-	- 489 on Saturday
-	- 234 on Sunday
+	- 309 ran on Monday
+	- 307 ran on Tuesday
+	- 154 ran on Wednesday
+	- 471 ran on Thursday
+	- 579 ran on Friday
+	- 489 ran on Saturday
+	- 234 ran on Sunday
 ## 🚌 13 | Gatineau <> Tunney's Pasture
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:18:50
 - 📅 Tuesday and Wednesday were impacted the most
-	- 59 on Monday
-	- 177 on Tuesday
-	- 177 on Wednesday
-	- 118 on Thursday
-	- 59 on Friday
+	- 59 run on Monday
+	- 177 run on Tuesday
+	- 177 run on Wednesday
+	- 118 run on Thursday
+	- 59 run on Friday
 ## 🚌 14 | St-Laurent <> Tunney's Pasture
 - Trip numbers ⬇️ 159 from 1725 to 1566
 - Average duration ⬇️ 0:01:44 overall from 0:53:25 to 0:51:41
 - 📅 Tuesday was impacted the most
 - ✅ 1560 new trips with an average duration of 0:51:43
-	- 178 on Monday
-	- 356 on Tuesday
-	- 355 on Wednesday
-	- 237 on Thursday
-	- 118 on Friday
-	- 196 on Saturday
-	- 120 on Sunday
+	- 178 run on Monday
+	- 356 run on Tuesday
+	- 355 run on Wednesday
+	- 237 run on Thursday
+	- 118 run on Friday
+	- 196 run on Saturday
+	- 120 run on Sunday
 - ❌ 1719 trips removed with an average duration of 0:53:27
-	- 236 on Monday
-	- 223 on Tuesday
-	- 111 on Wednesday
-	- 326 on Thursday
-	- 394 on Friday
-	- 309 on Saturday
-	- 120 on Sunday
+	- 236 ran on Monday
+	- 223 ran on Tuesday
+	- 111 ran on Wednesday
+	- 326 ran on Thursday
+	- 394 ran on Friday
+	- 309 ran on Saturday
+	- 120 ran on Sunday
 ## 🚌 15 | Blair <> Parliament ~ Parlement
 - Trip numbers ⬇️ 32 from 542 to 510
 - Average duration ⬇️ 0:06:58 overall from 0:44:35 to 0:37:37
 - 📅 Tuesday was impacted the most
 - ✅ 504 new trips with an average duration of 0:37:38
-	- 50 on Monday
-	- 152 on Tuesday
-	- 151 on Wednesday
-	- 101 on Thursday
-	- 50 on Friday
+	- 50 run on Monday
+	- 152 run on Tuesday
+	- 151 run on Wednesday
+	- 101 run on Thursday
+	- 50 run on Friday
 - ❌ 536 trips removed with an average duration of 0:44:27
-	- 103 on Monday
-	- 101 on Tuesday
-	- 50 on Wednesday
-	- 131 on Thursday
-	- 151 on Friday
+	- 103 ran on Monday
+	- 101 ran on Tuesday
+	- 50 ran on Wednesday
+	- 131 ran on Thursday
+	- 151 ran on Friday
 ## 🚌 16 | Westboro - Main
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 189 on Monday
-	- 192 on Tuesday
-	- 96 on Wednesday
-	- 248 on Thursday
-	- 327 on Friday
-	- 168 on Saturday
-	- 78 on Sunday
+	- 189 ran on Monday
+	- 192 ran on Tuesday
+	- 96 ran on Wednesday
+	- 248 ran on Thursday
+	- 327 ran on Friday
+	- 168 ran on Saturday
+	- 78 ran on Sunday
 ## 🚌 17 | Wateridge <> Parliament ~ Parlement
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:30:32
 - 📅 Tuesday and Wednesday were impacted the most
-	- 13 on Monday
-	- 39 on Tuesday
-	- 39 on Wednesday
-	- 26 on Thursday
-	- 13 on Friday
+	- 13 run on Monday
+	- 39 run on Tuesday
+	- 39 run on Wednesday
+	- 26 run on Thursday
+	- 13 run on Friday
 ## 🚌 18 | St-Laurent <> Billings Bridge
 - Trip numbers ⬇️ 132 from 1186 to 1054
 - Average duration ⬆️ 0:12:21 overall from 0:31:41 to 0:44:02
 - 📅 Tuesday was impacted the most
 - ✅ 1048 new trips with an average duration of 0:44:02
-	- 132 on Monday
-	- 224 on Tuesday
-	- 223 on Wednesday
-	- 149 on Thursday
-	- 74 on Friday
-	- 130 on Saturday
-	- 116 on Sunday
+	- 132 run on Monday
+	- 224 run on Tuesday
+	- 223 run on Wednesday
+	- 149 run on Thursday
+	- 74 run on Friday
+	- 130 run on Saturday
+	- 116 run on Sunday
 - ❌ 1180 trips removed with an average duration of 0:31:41
-	- 147 on Monday
-	- 147 on Tuesday
-	- 73 on Wednesday
-	- 215 on Thursday
-	- 278 on Friday
-	- 204 on Saturday
-	- 116 on Sunday
+	- 147 ran on Monday
+	- 147 ran on Tuesday
+	- 73 ran on Wednesday
+	- 215 ran on Thursday
+	- 278 ran on Friday
+	- 204 ran on Saturday
+	- 116 ran on Sunday
 ## 🚌 19 | Parliament ~ Parlement <> Hurdman
 - Trip numbers ⬇️ 205 from 1206 to 1001
 - Average duration ⬆️ 0:02:06 overall from 0:42:55 to 0:45:01
 - 📅 Tuesday was impacted the most
 - ✅ 1000 new trips with an average duration of 0:45:01
-	- 126 on Monday
-	- 213 on Tuesday
-	- 212 on Wednesday
-	- 142 on Thursday
-	- 71 on Friday
-	- 126 on Saturday
-	- 110 on Sunday
+	- 126 run on Monday
+	- 213 run on Tuesday
+	- 212 run on Wednesday
+	- 142 run on Thursday
+	- 71 run on Friday
+	- 126 run on Saturday
+	- 110 run on Sunday
 - ❌ 1205 trips removed with an average duration of 0:42:57
-	- 151 on Monday
-	- 152 on Tuesday
-	- 76 on Wednesday
-	- 220 on Thursday
-	- 286 on Friday
-	- 204 on Saturday
-	- 116 on Sunday
+	- 151 ran on Monday
+	- 152 ran on Tuesday
+	- 76 ran on Wednesday
+	- 220 ran on Thursday
+	- 286 ran on Friday
+	- 204 ran on Saturday
+	- 116 ran on Sunday
 ## 🚌 20 | Rideau <> St-Laurent
 - Trip numbers ⬇️ 140 from 1109 to 969
 - Average duration ⬆️ 0:10:32 overall from 0:29:51 to 0:40:23
 - 📅 Tuesday was impacted the most
 - ✅ 968 new trips with an average duration of 0:40:23
-	- 122 on Monday
-	- 207 on Tuesday
-	- 207 on Wednesday
-	- 138 on Thursday
-	- 69 on Friday
-	- 120 on Saturday
-	- 105 on Sunday
+	- 122 run on Monday
+	- 207 run on Tuesday
+	- 207 run on Wednesday
+	- 138 run on Thursday
+	- 69 run on Friday
+	- 120 run on Saturday
+	- 105 run on Sunday
 - ❌ 1108 trips removed with an average duration of 0:29:51
-	- 142 on Monday
-	- 138 on Tuesday
-	- 69 on Wednesday
-	- 202 on Thursday
-	- 260 on Friday
-	- 192 on Saturday
-	- 105 on Sunday
+	- 142 ran on Monday
+	- 138 ran on Tuesday
+	- 69 ran on Wednesday
+	- 202 ran on Thursday
+	- 260 ran on Friday
+	- 192 ran on Saturday
+	- 105 ran on Sunday
 ## 🚌 21 | Canotek <> Blair
 - Trip numbers ⬇️ 5 from 55 to 50
 - Average duration ⬇️ 0:04:36 overall from 0:11:36 to 0:07:00
 - 📅 Tuesday and Thursday were impacted the most
 - ✅ 50 new trips with an average duration of 0:07:00
-	- 5 on Monday
-	- 15 on Tuesday
-	- 15 on Wednesday
-	- 10 on Thursday
-	- 5 on Friday
+	- 5 run on Monday
+	- 15 run on Tuesday
+	- 15 run on Wednesday
+	- 10 run on Thursday
+	- 5 run on Friday
 - ❌ 55 trips removed with an average duration of 0:11:36
-	- 10 on Monday
-	- 10 on Tuesday
-	- 5 on Wednesday
-	- 15 on Thursday
-	- 15 on Friday
+	- 10 ran on Monday
+	- 10 ran on Tuesday
+	- 5 ran on Wednesday
+	- 15 ran on Thursday
+	- 15 ran on Friday
 ## 🚌 23 | Rothwell Heights & Blair
 - Trip numbers ⬇️ 80 from 160 to 80
 - Average duration ⬆️ 0:00:51 overall from 0:24:31 to 0:25:22
 - 📅 Thursday was impacted the most
 - ✅ 80 new trips with an average duration of 0:25:22
-	- 8 on Monday
-	- 24 on Tuesday
-	- 24 on Wednesday
-	- 16 on Thursday
-	- 8 on Friday
+	- 8 run on Monday
+	- 24 run on Tuesday
+	- 24 run on Wednesday
+	- 16 run on Thursday
+	- 8 run on Friday
 - ❌ 160 trips removed with an average duration of 0:24:31
-	- 30 on Monday
-	- 30 on Tuesday
-	- 15 on Wednesday
-	- 40 on Thursday
-	- 45 on Friday
+	- 30 ran on Monday
+	- 30 ran on Tuesday
+	- 15 ran on Wednesday
+	- 40 ran on Thursday
+	- 45 ran on Friday
 ## 🚌 24 | Chapel Hill <> St-Laurent
 - Trip numbers ⬇️ 194 from 1480 to 1286
 - Average duration ⬆️ 0:20:28 overall from 0:23:33 to 0:44:01
 - 📅 Tuesday was impacted the most
 - ✅ 1280 new trips with an average duration of 0:44:07
-	- 150 on Monday
-	- 302 on Tuesday
-	- 301 on Wednesday
-	- 201 on Thursday
-	- 100 on Friday
-	- 126 on Saturday
-	- 100 on Sunday
+	- 150 run on Monday
+	- 302 run on Tuesday
+	- 301 run on Wednesday
+	- 201 run on Thursday
+	- 100 run on Friday
+	- 126 run on Saturday
+	- 100 run on Sunday
 - ❌ 1474 trips removed with an average duration of 0:23:34
-	- 205 on Monday
-	- 215 on Tuesday
-	- 107 on Wednesday
-	- 280 on Thursday
-	- 372 on Friday
-	- 195 on Saturday
-	- 100 on Sunday
+	- 205 ran on Monday
+	- 215 ran on Tuesday
+	- 107 ran on Wednesday
+	- 280 ran on Thursday
+	- 372 ran on Friday
+	- 195 ran on Saturday
+	- 100 ran on Sunday
 ## 🚌 25 | Blair / Wateridge <> Millennium
 - Trip numbers ⬇️ 744 from 2351 to 1607
 - Average duration ⬆️ 0:04:37 overall from 0:36:32 to 0:41:09
 - 📅 Friday was impacted the most
 - ✅ 1592 new trips with an average duration of 0:41:11
-	- 189 on Monday
-	- 373 on Tuesday
-	- 370 on Wednesday
-	- 248 on Thursday
-	- 123 on Friday
-	- 156 on Saturday
-	- 133 on Sunday
+	- 189 run on Monday
+	- 373 run on Tuesday
+	- 370 run on Wednesday
+	- 248 run on Thursday
+	- 123 run on Friday
+	- 156 run on Saturday
+	- 133 run on Sunday
 - ❌ 2336 trips removed with an average duration of 0:36:30
-	- 314 on Monday
-	- 309 on Tuesday
-	- 154 on Wednesday
-	- 429 on Thursday
-	- 567 on Friday
-	- 357 on Saturday
-	- 206 on Sunday
+	- 314 ran on Monday
+	- 309 ran on Tuesday
+	- 154 ran on Wednesday
+	- 429 ran on Thursday
+	- 567 ran on Friday
+	- 357 ran on Saturday
+	- 206 ran on Sunday
 ## 🚌 26 | Pineview <> Blair
 - Trip numbers ⬇️ 773 from 1063 to 290
 - Average duration ⬆️ 0:02:50 overall from 0:08:36 to 0:11:26
 - 📅 Friday was impacted the most
 - ✅ 290 new trips with an average duration of 0:11:26
-	- 29 on Monday
-	- 87 on Tuesday
-	- 87 on Wednesday
-	- 58 on Thursday
-	- 29 on Friday
+	- 29 run on Monday
+	- 87 run on Tuesday
+	- 87 run on Wednesday
+	- 58 run on Thursday
+	- 29 run on Friday
 - ❌ 1063 trips removed with an average duration of 0:08:36
-	- 147 on Monday
-	- 150 on Tuesday
-	- 75 on Wednesday
-	- 202 on Thursday
-	- 261 on Friday
-	- 156 on Saturday
-	- 72 on Sunday
+	- 147 ran on Monday
+	- 150 ran on Tuesday
+	- 75 ran on Wednesday
+	- 202 ran on Thursday
+	- 261 ran on Friday
+	- 156 ran on Saturday
+	- 72 ran on Sunday
 ## 🚌 27 | St-Laurent - Wateridge
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 36 on Monday
-	- 36 on Tuesday
-	- 18 on Wednesday
-	- 50 on Thursday
-	- 54 on Friday
+	- 36 ran on Monday
+	- 36 ran on Tuesday
+	- 18 ran on Wednesday
+	- 50 ran on Thursday
+	- 54 ran on Friday
 ## 🚌 28 | Blackburn Hamlet - Blair
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 141 on Monday
-	- 152 on Tuesday
-	- 76 on Wednesday
-	- 217 on Thursday
-	- 248 on Friday
-	- 180 on Saturday
-	- 40 on Sunday
+	- 141 ran on Monday
+	- 152 ran on Tuesday
+	- 76 ran on Wednesday
+	- 217 ran on Thursday
+	- 248 ran on Friday
+	- 180 ran on Saturday
+	- 40 ran on Sunday
 ## 🚌 30 | Blair <> Millennium
 - Trip numbers ⬇️ 215 from 1363 to 1148
 - Average duration ⬆️ 0:01:24 overall from 0:26:54 to 0:28:18
 - 📅 Tuesday was impacted the most
 - ✅ 1146 new trips with an average duration of 0:28:18
-	- 141 on Monday
-	- 259 on Tuesday
-	- 261 on Wednesday
-	- 174 on Thursday
-	- 87 on Friday
-	- 116 on Saturday
-	- 108 on Sunday
+	- 141 run on Monday
+	- 259 run on Tuesday
+	- 261 run on Wednesday
+	- 174 run on Thursday
+	- 87 run on Friday
+	- 116 run on Saturday
+	- 108 run on Sunday
 - ❌ 1361 trips removed with an average duration of 0:26:54
-	- 185 on Monday
-	- 192 on Tuesday
-	- 96 on Wednesday
-	- 254 on Thursday
-	- 342 on Friday
-	- 183 on Saturday
-	- 109 on Sunday
+	- 185 ran on Monday
+	- 192 ran on Tuesday
+	- 96 ran on Wednesday
+	- 254 ran on Thursday
+	- 342 ran on Friday
+	- 183 ran on Saturday
+	- 109 ran on Sunday
 ## 🚌 31 | Tenth Line <> Place d'Orléans
 - Trip numbers ⬆️ 861 from 110 to 971
 - Average duration ⬆️ 0:16:59 overall from 0:14:00 to 0:30:59
 - 📅 Tuesday was impacted the most
 - ✅ 971 new trips with an average duration of 0:30:59
-	- 118 on Monday
-	- 207 on Tuesday
-	- 207 on Wednesday
-	- 138 on Thursday
-	- 69 on Friday
-	- 134 on Saturday
-	- 98 on Sunday
+	- 118 run on Monday
+	- 207 run on Tuesday
+	- 207 run on Wednesday
+	- 138 run on Thursday
+	- 69 run on Friday
+	- 134 run on Saturday
+	- 98 run on Sunday
 - ❌ 110 trips removed with an average duration of 0:14:00
-	- 20 on Monday
-	- 20 on Tuesday
-	- 10 on Wednesday
-	- 30 on Thursday
-	- 30 on Friday
+	- 20 ran on Monday
+	- 20 ran on Tuesday
+	- 10 ran on Wednesday
+	- 30 ran on Thursday
+	- 30 ran on Friday
 ## 🚌 32 | Blair <> Chapel Hill
 - Trip numbers ⬇️ 104 from 264 to 160
 - Average duration ⬆️ 0:09:04 overall from 0:31:37 to 0:40:41
 - 📅 Tuesday was impacted the most
 - ✅ 160 new trips with an average duration of 0:40:41
-	- 16 on Monday
-	- 48 on Tuesday
-	- 48 on Wednesday
-	- 32 on Thursday
-	- 16 on Friday
+	- 16 run on Monday
+	- 48 run on Tuesday
+	- 48 run on Wednesday
+	- 32 run on Thursday
+	- 16 run on Friday
 - ❌ 264 trips removed with an average duration of 0:31:37
-	- 42 on Monday
-	- 44 on Tuesday
-	- 22 on Wednesday
-	- 51 on Thursday
-	- 72 on Friday
-	- 21 on Saturday
-	- 12 on Sunday
+	- 42 ran on Monday
+	- 44 ran on Tuesday
+	- 22 ran on Wednesday
+	- 51 ran on Thursday
+	- 72 ran on Friday
+	- 21 ran on Saturday
+	- 12 ran on Sunday
 ## 🚌 33 | Place d'Orléans / Blair <> Portobello
 - Trip numbers ⬆️ 335 from 670 to 1005
 - Average duration ⬇️ 0:00:37 overall from 0:29:54 to 0:29:17
 - 📅 Tuesday was impacted the most
 - ✅ 1005 new trips with an average duration of 0:29:17
-	- 121 on Monday
-	- 222 on Tuesday
-	- 222 on Wednesday
-	- 148 on Thursday
-	- 74 on Friday
-	- 124 on Saturday
-	- 94 on Sunday
+	- 121 run on Monday
+	- 222 run on Tuesday
+	- 222 run on Wednesday
+	- 148 run on Thursday
+	- 74 run on Friday
+	- 124 run on Saturday
+	- 94 run on Sunday
 - ❌ 670 trips removed with an average duration of 0:29:54
-	- 125 on Monday
-	- 128 on Tuesday
-	- 64 on Wednesday
-	- 161 on Thursday
-	- 192 on Friday
+	- 125 ran on Monday
+	- 128 ran on Tuesday
+	- 64 ran on Wednesday
+	- 161 ran on Thursday
+	- 192 ran on Friday
 ## 🚌 34 | Blair <> Chapel Hill
 - Trip numbers ⬇️ 119 from 1057 to 938
 - Average duration ⬆️ 0:00:18 overall from 0:33:13 to 0:33:31
 - 📅 Tuesday was impacted the most
 - ✅ 938 new trips with an average duration of 0:33:31
-	- 113 on Monday
-	- 213 on Tuesday
-	- 213 on Wednesday
-	- 142 on Thursday
-	- 71 on Friday
-	- 102 on Saturday
-	- 84 on Sunday
+	- 113 run on Monday
+	- 213 run on Tuesday
+	- 213 run on Wednesday
+	- 142 run on Thursday
+	- 71 run on Friday
+	- 102 run on Saturday
+	- 84 run on Sunday
 - ❌ 1057 trips removed with an average duration of 0:33:13
-	- 139 on Monday
-	- 144 on Tuesday
-	- 72 on Wednesday
-	- 198 on Thursday
-	- 258 on Friday
-	- 162 on Saturday
-	- 84 on Sunday
+	- 139 ran on Monday
+	- 144 ran on Tuesday
+	- 72 ran on Wednesday
+	- 198 ran on Thursday
+	- 258 ran on Friday
+	- 162 ran on Saturday
+	- 84 ran on Sunday
 ## 🚌 35 | Blair <> Avalon
 - Trip numbers ⬇️ 209 from 1227 to 1018
 - Average duration ⬇️ 0:00:28 overall from 0:35:57 to 0:35:29
 - 📅 Tuesday was impacted the most
 - ✅ 1015 new trips with an average duration of 0:35:29
-	- 122 on Monday
-	- 226 on Tuesday
-	- 227 on Wednesday
-	- 152 on Thursday
-	- 76 on Friday
-	- 120 on Saturday
-	- 92 on Sunday
+	- 122 run on Monday
+	- 226 run on Tuesday
+	- 227 run on Wednesday
+	- 152 run on Thursday
+	- 76 run on Friday
+	- 120 run on Saturday
+	- 92 run on Sunday
 - ❌ 1224 trips removed with an average duration of 0:35:57
-	- 154 on Monday
-	- 168 on Tuesday
-	- 84 on Wednesday
-	- 232 on Thursday
-	- 299 on Friday
-	- 192 on Saturday
-	- 95 on Sunday
+	- 154 ran on Monday
+	- 168 ran on Tuesday
+	- 84 ran on Wednesday
+	- 232 ran on Thursday
+	- 299 ran on Friday
+	- 192 ran on Saturday
+	- 95 ran on Sunday
 ## 🚌 36 | Place d'Orléans <> Innes
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:25:51
 - 📅 Tuesday and Wednesday were impacted the most
-	- 118 on Monday
-	- 207 on Tuesday
-	- 207 on Wednesday
-	- 138 on Thursday
-	- 69 on Friday
-	- 122 on Saturday
-	- 98 on Sunday
+	- 118 run on Monday
+	- 207 run on Tuesday
+	- 207 run on Wednesday
+	- 138 run on Thursday
+	- 69 run on Friday
+	- 122 run on Saturday
+	- 98 run on Sunday
 ## 🚌 37 | Queenswood Heights - Blair
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 80 on Monday
-	- 80 on Tuesday
-	- 40 on Wednesday
-	- 108 on Thursday
-	- 120 on Friday
+	- 80 ran on Monday
+	- 80 ran on Tuesday
+	- 40 ran on Wednesday
+	- 108 ran on Thursday
+	- 120 ran on Friday
 ## 🚌 38 | Blair <> Trim
 - Trip numbers ⬇️ 263 from 1252 to 989
 - Average duration ⬆️ 0:05:14 overall from 0:26:53 to 0:32:07
 - 📅 Thursday was impacted the most
 - ✅ 987 new trips with an average duration of 0:32:07
-	- 120 on Monday
-	- 211 on Tuesday
-	- 213 on Wednesday
-	- 142 on Thursday
-	- 71 on Friday
-	- 132 on Saturday
-	- 98 on Sunday
+	- 120 run on Monday
+	- 211 run on Tuesday
+	- 213 run on Wednesday
+	- 142 run on Thursday
+	- 71 run on Friday
+	- 132 run on Saturday
+	- 98 run on Sunday
 - ❌ 1250 trips removed with an average duration of 0:26:53
-	- 162 on Monday
-	- 164 on Tuesday
-	- 82 on Wednesday
-	- 235 on Thursday
-	- 295 on Friday
-	- 213 on Saturday
-	- 99 on Sunday
+	- 162 ran on Monday
+	- 164 ran on Tuesday
+	- 82 ran on Wednesday
+	- 235 ran on Thursday
+	- 295 ran on Friday
+	- 213 ran on Saturday
+	- 99 ran on Sunday
 ## 🚌 39 | Blair & N Rideau <> Millennium
 - Trip numbers ⬇️ 494 from 2893 to 2399
 - Average duration ⬆️ 0:03:08 overall from 0:26:52 to 0:30:00
 - 📅 Friday was impacted the most
 - ✅ 2394 new trips with an average duration of 0:29:59
-	- 314 on Monday
-	- 489 on Tuesday
-	- 489 on Wednesday
-	- 325 on Thursday
-	- 163 on Friday
-	- 314 on Saturday
-	- 300 on Sunday
+	- 314 run on Monday
+	- 489 run on Tuesday
+	- 489 run on Wednesday
+	- 325 run on Thursday
+	- 163 run on Friday
+	- 314 run on Saturday
+	- 300 run on Sunday
 - ❌ 2888 trips removed with an average duration of 0:26:53
-	- 367 on Monday
-	- 360 on Tuesday
-	- 180 on Wednesday
-	- 519 on Thursday
-	- 691 on Friday
-	- 471 on Saturday
-	- 300 on Sunday
+	- 367 ran on Monday
+	- 360 ran on Tuesday
+	- 180 ran on Wednesday
+	- 519 ran on Thursday
+	- 691 ran on Friday
+	- 471 ran on Saturday
+	- 300 ran on Sunday
 ## 🚌 40 | St-Laurent <> Greenboro
 - Trip numbers ⬇️ 472 from 2293 to 1821
 - Average duration ⬆️ 0:03:34 overall from 0:27:07 to 0:30:41
 - 📅 Thursday was impacted the most
 - ✅ 1806 new trips with an average duration of 0:30:45
-	- 215 on Monday
-	- 430 on Tuesday
-	- 428 on Wednesday
-	- 286 on Thursday
-	- 142 on Friday
-	- 160 on Saturday
-	- 145 on Sunday
+	- 215 run on Monday
+	- 430 run on Tuesday
+	- 428 run on Wednesday
+	- 286 run on Thursday
+	- 142 run on Friday
+	- 160 run on Saturday
+	- 145 run on Sunday
 - ❌ 2278 trips removed with an average duration of 0:27:09
-	- 262 on Monday
-	- 252 on Tuesday
-	- 125 on Wednesday
-	- 407 on Thursday
-	- 510 on Friday
-	- 457 on Saturday
-	- 265 on Sunday
+	- 262 ran on Monday
+	- 252 ran on Tuesday
+	- 125 ran on Wednesday
+	- 407 ran on Thursday
+	- 510 ran on Friday
+	- 457 ran on Saturday
+	- 265 ran on Sunday
 ## 🚌 41 | St-Laurent <> Billings Bridge
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:34:13
 - 📅 Tuesday and Wednesday were impacted the most
-	- 193 on Monday
-	- 396 on Tuesday
-	- 396 on Wednesday
-	- 264 on Thursday
-	- 132 on Friday
-	- 158 on Saturday
-	- 122 on Sunday
+	- 193 run on Monday
+	- 396 run on Tuesday
+	- 396 run on Wednesday
+	- 264 run on Thursday
+	- 132 run on Friday
+	- 158 run on Saturday
+	- 122 run on Sunday
 ## 🚌 42 | Blair <> Hurdman
 - Trip numbers ⬇️ 241 from 1091 to 850
 - Average duration ⬇️ 0:01:16 overall from 0:26:34 to 0:25:18
 - 📅 Tuesday was impacted the most
 - ✅ 847 new trips with an average duration of 0:25:19
-	- 102 on Monday
-	- 189 on Tuesday
-	- 188 on Wednesday
-	- 126 on Thursday
-	- 63 on Friday
-	- 100 on Saturday
-	- 79 on Sunday
+	- 102 run on Monday
+	- 189 run on Tuesday
+	- 188 run on Wednesday
+	- 126 run on Thursday
+	- 63 run on Friday
+	- 100 run on Saturday
+	- 79 run on Sunday
 - ❌ 1088 trips removed with an average duration of 0:26:34
-	- 147 on Monday
-	- 147 on Tuesday
-	- 74 on Wednesday
-	- 201 on Thursday
-	- 267 on Friday
-	- 162 on Saturday
-	- 90 on Sunday
+	- 147 ran on Monday
+	- 147 ran on Tuesday
+	- 74 ran on Wednesday
+	- 201 ran on Thursday
+	- 267 ran on Friday
+	- 162 ran on Saturday
+	- 90 ran on Sunday
 ## 🚌 43 | Karsh <> Greenboro
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:21:23
 - 📅 Tuesday and Wednesday were impacted the most
-	- 38 on Monday
-	- 114 on Tuesday
-	- 114 on Wednesday
-	- 76 on Thursday
-	- 38 on Friday
+	- 38 run on Monday
+	- 114 run on Tuesday
+	- 114 run on Wednesday
+	- 76 run on Thursday
+	- 38 run on Friday
 ## 🚌 44 | Billings Bridge <> Hurdman
 - Trip numbers ⬇️ 309 from 1969 to 1660
 - Average duration ⬆️ 0:01:00 overall from 0:29:45 to 0:30:45
 - 📅 Tuesday was impacted the most
 - ✅ 1645 new trips with an average duration of 0:30:47
-	- 195 on Monday
-	- 391 on Tuesday
-	- 389 on Wednesday
-	- 260 on Thursday
-	- 129 on Friday
-	- 150 on Saturday
-	- 131 on Sunday
+	- 195 run on Monday
+	- 391 run on Tuesday
+	- 389 run on Wednesday
+	- 260 run on Thursday
+	- 129 run on Friday
+	- 150 run on Saturday
+	- 131 run on Sunday
 - ❌ 1954 trips removed with an average duration of 0:29:45
-	- 261 on Monday
-	- 262 on Tuesday
-	- 130 on Wednesday
-	- 375 on Thursday
-	- 458 on Friday
-	- 337 on Saturday
-	- 131 on Sunday
+	- 261 ran on Monday
+	- 262 ran on Tuesday
+	- 130 ran on Wednesday
+	- 375 ran on Thursday
+	- 458 ran on Friday
+	- 337 ran on Saturday
+	- 131 ran on Sunday
 ## 🚌 45 | Hospital ~ Hôpital <> Hurdman & N Rideau
 - Trip numbers ⬇️ 206 from 2020 to 1814
 - Average duration ⬇️ 0:00:14 overall from 0:08:59 to 0:08:45
 - 📅 Tuesday and Thursday were impacted the most
 - ✅ 1812 new trips with an average duration of 0:08:45
-	- 224 on Monday
-	- 414 on Tuesday
-	- 414 on Wednesday
-	- 276 on Thursday
-	- 138 on Friday
-	- 174 on Saturday
-	- 172 on Sunday
+	- 224 run on Monday
+	- 414 run on Tuesday
+	- 414 run on Wednesday
+	- 276 run on Thursday
+	- 138 run on Friday
+	- 174 run on Saturday
+	- 172 run on Sunday
 - ❌ 2018 trips removed with an average duration of 0:08:59
-	- 272 on Monday
-	- 272 on Tuesday
-	- 136 on Wednesday
-	- 410 on Thursday
-	- 494 on Friday
-	- 262 on Saturday
-	- 172 on Sunday
+	- 272 ran on Monday
+	- 272 ran on Tuesday
+	- 136 ran on Wednesday
+	- 410 ran on Thursday
+	- 494 ran on Friday
+	- 262 ran on Saturday
+	- 172 ran on Sunday
 ## 🚌 46 | Billings Bridge - Hurdman
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 241 on Monday
-	- 240 on Tuesday
-	- 120 on Wednesday
-	- 319 on Thursday
-	- 421 on Friday
-	- 237 on Saturday
-	- 122 on Sunday
+	- 241 ran on Monday
+	- 240 ran on Tuesday
+	- 120 ran on Wednesday
+	- 319 ran on Thursday
+	- 421 ran on Friday
+	- 237 ran on Saturday
+	- 122 ran on Sunday
 ## 🚌 47 | Hawthorne <> St-Laurent
 - Trip numbers ⬇️ 34 from 174 to 140
 - Average duration ⬇️ 0:02:02 overall from 0:27:36 to 0:25:34
 - 📅 Tuesday and Thursday were impacted the most
 - ✅ 140 new trips with an average duration of 0:25:34
-	- 14 on Monday
-	- 42 on Tuesday
-	- 42 on Wednesday
-	- 28 on Thursday
-	- 14 on Friday
+	- 14 run on Monday
+	- 42 run on Tuesday
+	- 42 run on Wednesday
+	- 28 run on Thursday
+	- 14 run on Friday
 - ❌ 174 trips removed with an average duration of 0:27:36
-	- 32 on Monday
-	- 32 on Tuesday
-	- 16 on Wednesday
-	- 46 on Thursday
-	- 48 on Friday
+	- 32 ran on Monday
+	- 32 ran on Tuesday
+	- 16 ran on Wednesday
+	- 46 ran on Thursday
+	- 48 ran on Friday
 ## 🚌 48 | Hurdman <> Carleton
 - Trip numbers ⬆️ 280 from 1012 to 1292
 - Average duration ⬆️ 0:20:53 overall from 0:28:19 to 0:49:12
 - 📅 Tuesday was impacted the most
 - ✅ 1291 new trips with an average duration of 0:49:13
-	- 157 on Monday
-	- 291 on Tuesday
-	- 291 on Wednesday
-	- 193 on Thursday
-	- 97 on Friday
-	- 142 on Saturday
-	- 120 on Sunday
+	- 157 run on Monday
+	- 291 run on Tuesday
+	- 291 run on Wednesday
+	- 193 run on Thursday
+	- 97 run on Friday
+	- 142 run on Saturday
+	- 120 run on Sunday
 - ❌ 1011 trips removed with an average duration of 0:28:19
-	- 131 on Monday
-	- 138 on Tuesday
-	- 69 on Wednesday
-	- 197 on Thursday
-	- 238 on Friday
-	- 176 on Saturday
-	- 62 on Sunday
+	- 131 ran on Monday
+	- 138 ran on Tuesday
+	- 69 ran on Wednesday
+	- 197 ran on Thursday
+	- 238 ran on Friday
+	- 176 ran on Saturday
+	- 62 ran on Sunday
 ## 🚌 49 | Elmvale <> Hurdman
 - Trip numbers ⬇️ 50 from 497 to 447
 - Average duration ⬆️ 0:00:06 overall from 0:14:24 to 0:14:30
 - 📅 Tuesday was impacted the most
 - ✅ 447 new trips with an average duration of 0:14:30
-	- 54 on Monday
-	- 105 on Tuesday
-	- 105 on Wednesday
-	- 70 on Thursday
-	- 35 on Friday
-	- 40 on Saturday
-	- 38 on Sunday
+	- 54 run on Monday
+	- 105 run on Tuesday
+	- 105 run on Wednesday
+	- 70 run on Thursday
+	- 35 run on Friday
+	- 40 run on Saturday
+	- 38 run on Sunday
 - ❌ 497 trips removed with an average duration of 0:14:24
-	- 72 on Monday
-	- 72 on Tuesday
-	- 36 on Wednesday
-	- 92 on Thursday
-	- 127 on Friday
-	- 60 on Saturday
-	- 38 on Sunday
+	- 72 ran on Monday
+	- 72 ran on Tuesday
+	- 36 ran on Wednesday
+	- 92 ran on Thursday
+	- 127 ran on Friday
+	- 60 ran on Saturday
+	- 38 ran on Sunday
 ## 🚌 50 | Tunney's Pasture - Lincoln Fields
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 120 on Monday
-	- 120 on Tuesday
-	- 60 on Wednesday
-	- 162 on Thursday
-	- 180 on Friday
-	- 126 on Saturday
+	- 120 ran on Monday
+	- 120 ran on Tuesday
+	- 60 ran on Wednesday
+	- 162 ran on Thursday
+	- 180 ran on Friday
+	- 126 ran on Saturday
 ## 🚌 51 | Tunney's Pasture <> Britannia
 - Trip numbers ⬇️ 883 from 1865 to 982
 - Average duration ⬆️ 0:06:38 overall from 0:35:25 to 0:42:03
 - 📅 Friday was impacted the most
 - ✅ 972 new trips with an average duration of 0:42:00
-	- 122 on Monday
-	- 206 on Tuesday
-	- 205 on Wednesday
-	- 137 on Thursday
-	- 68 on Friday
-	- 124 on Saturday
-	- 110 on Sunday
+	- 122 run on Monday
+	- 206 run on Tuesday
+	- 205 run on Wednesday
+	- 137 run on Thursday
+	- 68 run on Friday
+	- 124 run on Saturday
+	- 110 run on Sunday
 - ❌ 1855 trips removed with an average duration of 0:35:25
-	- 237 on Monday
-	- 239 on Tuesday
-	- 120 on Wednesday
-	- 337 on Thursday
-	- 450 on Friday
-	- 294 on Saturday
-	- 178 on Sunday
+	- 237 ran on Monday
+	- 239 ran on Tuesday
+	- 120 ran on Wednesday
+	- 337 ran on Thursday
+	- 450 ran on Friday
+	- 294 ran on Saturday
+	- 178 ran on Sunday
 ## 🚌 53 | Tunney's Pasture <> Baseline
 - Trip numbers ⬇️ 569 from 1914 to 1345
 - Average duration ⬆️ 0:16:15 overall from 0:19:54 to 0:36:09
 - 📅 Thursday was impacted the most
 - ✅ 1344 new trips with an average duration of 0:36:09
-	- 166 on Monday
-	- 303 on Tuesday
-	- 303 on Wednesday
-	- 201 on Thursday
-	- 101 on Friday
-	- 140 on Saturday
-	- 130 on Sunday
+	- 166 run on Monday
+	- 303 run on Tuesday
+	- 303 run on Wednesday
+	- 201 run on Thursday
+	- 101 run on Friday
+	- 140 run on Saturday
+	- 130 run on Sunday
 - ❌ 1913 trips removed with an average duration of 0:19:54
-	- 260 on Monday
-	- 260 on Tuesday
-	- 130 on Wednesday
-	- 367 on Thursday
-	- 453 on Friday
-	- 317 on Saturday
-	- 126 on Sunday
+	- 260 ran on Monday
+	- 260 ran on Tuesday
+	- 130 ran on Wednesday
+	- 367 ran on Thursday
+	- 453 ran on Friday
+	- 317 ran on Saturday
+	- 126 ran on Sunday
 ## 🚌 54 | Tunneys Pasture
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 56 on Monday
-	- 56 on Tuesday
-	- 28 on Wednesday
-	- 60 on Thursday
-	- 88 on Friday
-	- 12 on Saturday
-	- 8 on Sunday
+	- 56 ran on Monday
+	- 56 ran on Tuesday
+	- 28 ran on Wednesday
+	- 60 ran on Thursday
+	- 88 ran on Friday
+	- 12 ran on Saturday
+	- 8 ran on Sunday
 ## 🚌 55 | Westgate - Elmvale
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 240 on Monday
-	- 226 on Tuesday
-	- 113 on Wednesday
-	- 358 on Thursday
-	- 415 on Friday
-	- 240 on Saturday
-	- 152 on Sunday
+	- 240 ran on Monday
+	- 226 ran on Tuesday
+	- 113 ran on Wednesday
+	- 358 ran on Thursday
+	- 415 ran on Friday
+	- 240 ran on Saturday
+	- 152 ran on Sunday
 ## 🚌 56 | King Edward & Civic <> Tunney's Pasture
 - Trip numbers ⬇️ 212 from 1550 to 1338
 - Average duration ⬆️ 0:03:53 overall from 0:19:25 to 0:23:18
 - 📅 Tuesday was impacted the most
 - ✅ 1336 new trips with an average duration of 0:23:18
-	- 165 on Monday
-	- 303 on Tuesday
-	- 303 on Wednesday
-	- 201 on Thursday
-	- 101 on Friday
-	- 136 on Saturday
-	- 127 on Sunday
+	- 165 run on Monday
+	- 303 run on Tuesday
+	- 303 run on Wednesday
+	- 201 run on Thursday
+	- 101 run on Friday
+	- 136 run on Saturday
+	- 127 run on Sunday
 - ❌ 1548 trips removed with an average duration of 0:19:26
-	- 208 on Monday
-	- 208 on Tuesday
-	- 104 on Wednesday
-	- 307 on Thursday
-	- 376 on Friday
-	- 218 on Saturday
-	- 127 on Sunday
+	- 208 ran on Monday
+	- 208 ran on Tuesday
+	- 104 ran on Wednesday
+	- 307 ran on Thursday
+	- 376 ran on Friday
+	- 218 ran on Saturday
+	- 127 ran on Sunday
 ## 🚌 57 | Tunney's Pasture & N Rideau <> Complexe Carling Campus
 - Trip numbers ⬇️ 837 from 2566 to 1729
 - Average duration ⬆️ 0:05:59 overall from 0:37:07 to 0:43:06
 - 📅 Thursday and Friday were impacted the most
 - ✅ 1722 new trips with an average duration of 0:43:08
-	- 209 on Monday
-	- 408 on Tuesday
-	- 406 on Wednesday
-	- 269 on Thursday
-	- 136 on Friday
-	- 148 on Saturday
-	- 146 on Sunday
+	- 209 run on Monday
+	- 408 run on Tuesday
+	- 406 run on Wednesday
+	- 269 run on Thursday
+	- 136 run on Friday
+	- 148 run on Saturday
+	- 146 run on Sunday
 - ❌ 2559 trips removed with an average duration of 0:37:07
-	- 318 on Monday
-	- 318 on Tuesday
-	- 159 on Wednesday
-	- 470 on Thursday
-	- 603 on Friday
-	- 439 on Saturday
-	- 252 on Sunday
+	- 318 ran on Monday
+	- 318 ran on Tuesday
+	- 159 ran on Wednesday
+	- 470 ran on Thursday
+	- 603 ran on Friday
+	- 439 ran on Saturday
+	- 252 ran on Sunday
 ## 🚌 58 | Complexe Carling Campus / Abbott POCC <> Bayshore
 - Trip numbers ⬇️ 186 from 1103 to 917
 - Average duration ⬇️ 0:17:11 overall from 0:32:58 to 0:15:47
 - 📅 Tuesday was impacted the most
 - ✅ 916 new trips with an average duration of 0:15:47
-	- 109 on Monday
-	- 204 on Tuesday
-	- 203 on Wednesday
-	- 136 on Thursday
-	- 68 on Friday
-	- 114 on Saturday
-	- 82 on Sunday
+	- 109 run on Monday
+	- 204 run on Tuesday
+	- 203 run on Wednesday
+	- 136 run on Thursday
+	- 68 run on Friday
+	- 114 run on Saturday
+	- 82 run on Sunday
 - ❌ 1102 trips removed with an average duration of 0:32:58
-	- 141 on Monday
-	- 144 on Tuesday
-	- 72 on Wednesday
-	- 208 on Thursday
-	- 263 on Friday
-	- 180 on Saturday
-	- 94 on Sunday
+	- 141 ran on Monday
+	- 144 ran on Tuesday
+	- 72 ran on Wednesday
+	- 208 ran on Thursday
+	- 263 ran on Friday
+	- 180 ran on Saturday
+	- 94 ran on Sunday
 ## 🚌 60 | Cope <> Terry Fox / Tunney's Pasture
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:24:49
 - 📅 Tuesday and Wednesday were impacted the most
-	- 70 on Monday
-	- 210 on Tuesday
-	- 210 on Wednesday
-	- 140 on Thursday
-	- 70 on Friday
+	- 70 run on Monday
+	- 210 run on Tuesday
+	- 210 run on Wednesday
+	- 140 run on Thursday
+	- 70 run on Friday
 ## 🚌 61 | Tunney's Pasture & N Rideau <> Stittsville
 - Trip numbers ⬇️ 382 from 1971 to 1589
 - Average duration ⬆️ 0:03:40 overall from 0:58:52 to 1:02:32
 - 📅 Tuesday was impacted the most
 - ✅ 1582 new trips with an average duration of 1:02:32
-	- 199 on Monday
-	- 346 on Tuesday
-	- 347 on Wednesday
-	- 232 on Thursday
-	- 116 on Friday
-	- 174 on Saturday
-	- 168 on Sunday
+	- 199 run on Monday
+	- 346 run on Tuesday
+	- 347 run on Wednesday
+	- 232 run on Thursday
+	- 116 run on Friday
+	- 174 run on Saturday
+	- 168 run on Sunday
 - ❌ 1964 trips removed with an average duration of 0:58:53
-	- 271 on Monday
-	- 270 on Tuesday
-	- 136 on Wednesday
-	- 362 on Thursday
-	- 491 on Friday
-	- 267 on Saturday
-	- 167 on Sunday
+	- 271 ran on Monday
+	- 270 ran on Tuesday
+	- 136 ran on Wednesday
+	- 362 ran on Thursday
+	- 491 ran on Friday
+	- 267 ran on Saturday
+	- 167 ran on Sunday
 ## 🚌 62 | Tunney's Pasture <> Stittsville
 - Trip numbers ⬇️ 125 from 1181 to 1056
 - Average duration ⬆️ 0:02:32 overall from 1:05:52 to 1:08:24
 - 📅 Tuesday was impacted the most
 - ✅ 1056 new trips with an average duration of 1:08:24
-	- 136 on Monday
-	- 222 on Tuesday
-	- 222 on Wednesday
-	- 148 on Thursday
-	- 74 on Friday
-	- 130 on Saturday
-	- 124 on Sunday
+	- 136 run on Monday
+	- 222 run on Tuesday
+	- 222 run on Wednesday
+	- 148 run on Thursday
+	- 74 run on Friday
+	- 130 run on Saturday
+	- 124 run on Sunday
 - ❌ 1181 trips removed with an average duration of 1:05:52
-	- 147 on Monday
-	- 148 on Tuesday
-	- 74 on Wednesday
-	- 212 on Thursday
-	- 284 on Friday
-	- 192 on Saturday
-	- 124 on Sunday
+	- 147 ran on Monday
+	- 148 ran on Tuesday
+	- 74 ran on Wednesday
+	- 212 ran on Thursday
+	- 284 ran on Friday
+	- 192 ran on Saturday
+	- 124 ran on Sunday
 ## 🚌 63 | Innovation / Briarbrook <> Tunney's Pasture & N Rideau
 - Trip numbers ⬇️ 167 from 1467 to 1300
 - Average duration ⬆️ 0:08:36 overall from 0:52:36 to 1:01:12
 - 📅 Tuesday was impacted the most
 - ✅ 1300 new trips with an average duration of 1:01:12
-	- 157 on Monday
-	- 297 on Tuesday
-	- 297 on Wednesday
-	- 198 on Thursday
-	- 99 on Friday
-	- 136 on Saturday
-	- 116 on Sunday
+	- 157 run on Monday
+	- 297 run on Tuesday
+	- 297 run on Wednesday
+	- 198 run on Thursday
+	- 99 run on Friday
+	- 136 run on Saturday
+	- 116 run on Sunday
 - ❌ 1467 trips removed with an average duration of 0:52:36
-	- 203 on Monday
-	- 202 on Tuesday
-	- 101 on Wednesday
-	- 274 on Thursday
-	- 359 on Friday
-	- 216 on Saturday
-	- 112 on Sunday
+	- 203 ran on Monday
+	- 202 ran on Tuesday
+	- 101 ran on Wednesday
+	- 274 ran on Thursday
+	- 359 ran on Friday
+	- 216 ran on Saturday
+	- 112 ran on Sunday
 ## 🚌 64 | Morgan's Grant/Innovation - Tunney's Pasture
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 182 on Monday
-	- 182 on Tuesday
-	- 91 on Wednesday
-	- 229 on Thursday
-	- 273 on Friday
+	- 182 ran on Monday
+	- 182 ran on Tuesday
+	- 91 ran on Wednesday
+	- 229 ran on Thursday
+	- 273 ran on Friday
 ## 🚌 66 | Tunneys Pasture <> Innovation
 - Trip numbers ⬇️ 23 from 213 to 190
 - Average duration ⬇️ 0:13:44 overall from 0:59:06 to 0:45:22
 - 📅 Tuesday was impacted the most
 - ✅ 190 new trips with an average duration of 0:45:22
-	- 19 on Monday
-	- 57 on Tuesday
-	- 57 on Wednesday
-	- 38 on Thursday
-	- 19 on Friday
+	- 19 run on Monday
+	- 57 run on Tuesday
+	- 57 run on Wednesday
+	- 38 run on Thursday
+	- 19 run on Friday
 - ❌ 213 trips removed with an average duration of 0:59:06
-	- 40 on Monday
-	- 40 on Tuesday
-	- 20 on Wednesday
-	- 53 on Thursday
-	- 60 on Friday
+	- 40 ran on Monday
+	- 40 ran on Tuesday
+	- 20 ran on Wednesday
+	- 53 ran on Thursday
+	- 60 ran on Friday
 ## 🚌 67 | Terry Fox / Tunney's Pasture <> Cope
 - Trip numbers ⬆️ 427 from 409 to 836
 - Average duration ⬇️ 0:00:34 overall from 0:25:46 to 0:25:12
 - 📅 Tuesday was impacted the most
 - ✅ 836 new trips with an average duration of 0:25:12
-	- 102 on Monday
-	- 186 on Tuesday
-	- 186 on Wednesday
-	- 124 on Thursday
-	- 62 on Friday
-	- 96 on Saturday
-	- 80 on Sunday
+	- 102 run on Monday
+	- 186 run on Tuesday
+	- 186 run on Wednesday
+	- 124 run on Thursday
+	- 62 run on Friday
+	- 96 run on Saturday
+	- 80 run on Sunday
 - ❌ 409 trips removed with an average duration of 0:25:46
-	- 74 on Monday
-	- 76 on Tuesday
-	- 38 on Wednesday
-	- 107 on Thursday
-	- 114 on Friday
+	- 74 ran on Monday
+	- 76 ran on Tuesday
+	- 38 ran on Wednesday
+	- 107 ran on Thursday
+	- 114 ran on Friday
 ## 🚌 68 | Baseline <> Terry Fox
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:38:33
 - 📅 Tuesday and Wednesday were impacted the most
-	- 230 on Monday
-	- 438 on Tuesday
-	- 438 on Wednesday
-	- 292 on Thursday
-	- 146 on Friday
-	- 214 on Saturday
-	- 168 on Sunday
+	- 230 run on Monday
+	- 438 run on Tuesday
+	- 438 run on Wednesday
+	- 292 run on Thursday
+	- 146 run on Friday
+	- 214 run on Saturday
+	- 168 run on Sunday
 ## 🚌 70 | Fallowfield <> Limebank & CFIA ~ ACIA
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:52:55
 - 📅 Tuesday and Wednesday were impacted the most
-	- 160 on Monday
-	- 291 on Tuesday
-	- 291 on Wednesday
-	- 194 on Thursday
-	- 97 on Friday
-	- 134 on Saturday
-	- 126 on Sunday
+	- 160 run on Monday
+	- 291 run on Tuesday
+	- 291 run on Wednesday
+	- 194 run on Thursday
+	- 97 run on Friday
+	- 134 run on Saturday
+	- 126 run on Sunday
 ## 🚌 73 | Limebank <> Fallowfield / Tunney's Pasture
 - Trip numbers ⬆️ 479 from 191 to 670
 - Average duration ⬇️ 0:04:59 overall from 0:33:12 to 0:28:13
 - 📅 Tuesday was impacted the most
 - ✅ 664 new trips with an average duration of 0:28:20
-	- 66 on Monday
-	- 200 on Tuesday
-	- 199 on Wednesday
-	- 133 on Thursday
-	- 66 on Friday
+	- 66 run on Monday
+	- 200 run on Tuesday
+	- 199 run on Wednesday
+	- 133 run on Thursday
+	- 66 run on Friday
 - ❌ 185 trips removed with an average duration of 0:33:07
-	- 35 on Monday
-	- 35 on Tuesday
-	- 17 on Wednesday
-	- 46 on Thursday
-	- 52 on Friday
+	- 35 ran on Monday
+	- 35 ran on Tuesday
+	- 17 ran on Wednesday
+	- 46 ran on Thursday
+	- 52 ran on Friday
 ## 🚌 74 | Limebank <> Tunney's Pasture
 - Trip numbers ⬇️ 212 from 1633 to 1421
 - Average duration ⬆️ 0:03:50 overall from 0:47:20 to 0:51:10
 - 📅 Tuesday was impacted the most
 - ✅ 1421 new trips with an average duration of 0:51:10
-	- 163 on Monday
-	- 342 on Tuesday
-	- 342 on Wednesday
-	- 228 on Thursday
-	- 114 on Friday
-	- 134 on Saturday
-	- 98 on Sunday
+	- 163 run on Monday
+	- 342 run on Tuesday
+	- 342 run on Wednesday
+	- 228 run on Thursday
+	- 114 run on Friday
+	- 134 run on Saturday
+	- 98 run on Sunday
 - ❌ 1633 trips removed with an average duration of 0:47:20
-	- 241 on Monday
-	- 240 on Tuesday
-	- 120 on Wednesday
-	- 312 on Thursday
-	- 409 on Friday
-	- 213 on Saturday
-	- 98 on Sunday
+	- 241 ran on Monday
+	- 240 ran on Tuesday
+	- 120 ran on Wednesday
+	- 312 ran on Thursday
+	- 409 ran on Friday
+	- 213 ran on Saturday
+	- 98 ran on Sunday
 ## 🚌 75 | Tunney's Pasture & N Rideau <> Barrhaven Centre / Cambrian
 - Trip numbers ⬇️ 405 from 2985 to 2580
 - Average duration ⬆️ 0:04:47 overall from 0:47:37 to 0:52:24
 - 📅 Tuesday was impacted the most
 - ✅ 2560 new trips with an average duration of 0:52:21
-	- 328 on Monday
-	- 532 on Tuesday
-	- 534 on Wednesday
-	- 356 on Thursday
-	- 178 on Friday
-	- 330 on Saturday
-	- 302 on Sunday
+	- 328 run on Monday
+	- 532 run on Tuesday
+	- 534 run on Wednesday
+	- 356 run on Thursday
+	- 178 run on Friday
+	- 330 run on Saturday
+	- 302 run on Sunday
 - ❌ 2965 trips removed with an average duration of 0:47:37
-	- 370 on Monday
-	- 369 on Tuesday
-	- 185 on Wednesday
-	- 537 on Thursday
-	- 706 on Friday
-	- 496 on Saturday
-	- 302 on Sunday
+	- 370 ran on Monday
+	- 369 ran on Tuesday
+	- 185 ran on Wednesday
+	- 537 ran on Thursday
+	- 706 ran on Friday
+	- 496 ran on Saturday
+	- 302 ran on Sunday
 ## 🚌 80 | Barrhaven Centre <> Tunney's Pasture
 - Trip numbers ⬇️ 191 from 1891 to 1700
 - Average duration ⬆️ 0:07:17 overall from 0:46:26 to 0:53:43
 - 📅 Tuesday was impacted the most
 - ✅ 1692 new trips with an average duration of 0:53:45
-	- 187 on Monday
-	- 425 on Tuesday
-	- 424 on Wednesday
-	- 283 on Thursday
-	- 141 on Friday
-	- 140 on Saturday
-	- 92 on Sunday
+	- 187 run on Monday
+	- 425 run on Tuesday
+	- 424 run on Wednesday
+	- 283 run on Thursday
+	- 141 run on Friday
+	- 140 run on Saturday
+	- 92 run on Sunday
 - ❌ 1883 trips removed with an average duration of 0:46:26
-	- 274 on Monday
-	- 285 on Tuesday
-	- 142 on Wednesday
-	- 406 on Thursday
-	- 473 on Friday
-	- 211 on Saturday
-	- 92 on Sunday
+	- 274 ran on Monday
+	- 285 ran on Tuesday
+	- 142 ran on Wednesday
+	- 406 ran on Thursday
+	- 473 ran on Friday
+	- 211 ran on Saturday
+	- 92 ran on Sunday
 ## 🚌 81 | Tunney's Pasture <> Bayshore
 - Trip numbers ⬆️ 100 from 889 to 989
 - Average duration ⬆️ 0:24:09 overall from 0:28:26 to 0:52:35
 - 📅 Tuesday was impacted the most
 - ✅ 989 new trips with an average duration of 0:52:35
-	- 124 on Monday
-	- 213 on Tuesday
-	- 213 on Wednesday
-	- 142 on Thursday
-	- 71 on Friday
-	- 120 on Saturday
-	- 106 on Sunday
+	- 124 run on Monday
+	- 213 run on Tuesday
+	- 213 run on Wednesday
+	- 142 run on Thursday
+	- 71 run on Friday
+	- 120 run on Saturday
+	- 106 run on Sunday
 - ❌ 889 trips removed with an average duration of 0:28:26
-	- 122 on Monday
-	- 122 on Tuesday
-	- 61 on Wednesday
-	- 167 on Thursday
-	- 219 on Friday
-	- 126 on Saturday
-	- 72 on Sunday
+	- 122 ran on Monday
+	- 122 ran on Tuesday
+	- 61 ran on Wednesday
+	- 167 ran on Thursday
+	- 219 ran on Friday
+	- 126 ran on Saturday
+	- 72 ran on Sunday
 ## 🚌 82 | Baseline <> Lincoln Fields & Tunney's Pasture
 - Trip numbers ⬇️ 169 from 1222 to 1053
 - Average duration ⬇️ 0:06:02 overall from 0:46:54 to 0:40:52
 - 📅 Tuesday was impacted the most
 - ✅ 1052 new trips with an average duration of 0:40:52
-	- 128 on Monday
-	- 231 on Tuesday
-	- 230 on Wednesday
-	- 154 on Thursday
-	- 77 on Friday
-	- 130 on Saturday
-	- 102 on Sunday
+	- 128 run on Monday
+	- 231 run on Tuesday
+	- 230 run on Wednesday
+	- 154 run on Thursday
+	- 77 run on Friday
+	- 130 run on Saturday
+	- 102 run on Sunday
 - ❌ 1221 trips removed with an average duration of 0:46:53
-	- 154 on Monday
-	- 160 on Tuesday
-	- 80 on Wednesday
-	- 230 on Thursday
-	- 289 on Friday
-	- 210 on Saturday
-	- 98 on Sunday
+	- 154 ran on Monday
+	- 160 ran on Tuesday
+	- 80 ran on Wednesday
+	- 230 ran on Thursday
+	- 289 ran on Friday
+	- 210 ran on Saturday
+	- 98 ran on Sunday
 ## 🚌 83 | Viewmount - Tunney's Pasture
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 138 on Monday
-	- 140 on Tuesday
-	- 70 on Wednesday
-	- 195 on Thursday
-	- 246 on Friday
-	- 162 on Saturday
-	- 72 on Sunday
+	- 138 ran on Monday
+	- 140 ran on Tuesday
+	- 70 ran on Wednesday
+	- 195 ran on Thursday
+	- 246 ran on Friday
+	- 162 ran on Saturday
+	- 72 ran on Sunday
 ## 🚌 84 | Centrepointe <> Baseline
 - Trip numbers ⬇️ 348 from 468 to 120
 - Average duration ⬆️ 0:01:48 overall from 0:06:07 to 0:07:55
 - 📅 Friday was impacted the most
 - ✅ 120 new trips with an average duration of 0:07:55
-	- 12 on Monday
-	- 36 on Tuesday
-	- 36 on Wednesday
-	- 24 on Thursday
-	- 12 on Friday
+	- 12 run on Monday
+	- 36 run on Tuesday
+	- 36 run on Wednesday
+	- 24 run on Thursday
+	- 12 run on Friday
 - ❌ 468 trips removed with an average duration of 0:06:07
-	- 88 on Monday
-	- 88 on Tuesday
-	- 44 on Wednesday
-	- 116 on Thursday
-	- 132 on Friday
+	- 88 ran on Monday
+	- 88 ran on Tuesday
+	- 44 ran on Wednesday
+	- 116 ran on Thursday
+	- 132 ran on Friday
 ## 🚌 85 | Lees <> Bayshore
 - Trip numbers ⬇️ 274 from 2127 to 1853
 - Average duration ⬆️ 0:06:44 overall from 0:50:25 to 0:57:09
 - 📅 Tuesday was impacted the most
 - ✅ 1849 new trips with an average duration of 0:57:09
-	- 229 on Monday
-	- 400 on Tuesday
-	- 402 on Wednesday
-	- 267 on Thursday
-	- 134 on Friday
-	- 228 on Saturday
-	- 189 on Sunday
+	- 229 run on Monday
+	- 400 run on Tuesday
+	- 402 run on Wednesday
+	- 267 run on Thursday
+	- 134 run on Friday
+	- 228 run on Saturday
+	- 189 run on Sunday
 - ❌ 2123 trips removed with an average duration of 0:50:25
-	- 276 on Monday
-	- 276 on Tuesday
-	- 138 on Wednesday
-	- 390 on Thursday
-	- 510 on Friday
-	- 341 on Saturday
-	- 192 on Sunday
+	- 276 ran on Monday
+	- 276 ran on Tuesday
+	- 138 ran on Wednesday
+	- 390 ran on Thursday
+	- 510 ran on Friday
+	- 341 ran on Saturday
+	- 192 ran on Sunday
 ## 🚌 86 | Tunney's Pasture <> Antares
 - Trip numbers ⬇️ 84 from 1373 to 1289
 - Average duration ⬆️ 0:03:22 overall from 0:27:41 to 0:31:03
 - 📅 Tuesday was impacted the most
 - ✅ 1288 new trips with an average duration of 0:31:03
-	- 159 on Monday
-	- 294 on Tuesday
-	- 294 on Wednesday
-	- 195 on Thursday
-	- 98 on Friday
-	- 126 on Saturday
-	- 122 on Sunday
+	- 159 run on Monday
+	- 294 run on Tuesday
+	- 294 run on Wednesday
+	- 195 run on Thursday
+	- 98 run on Friday
+	- 126 run on Saturday
+	- 122 run on Sunday
 - ❌ 1372 trips removed with an average duration of 0:27:41
-	- 178 on Monday
-	- 180 on Tuesday
-	- 90 on Wednesday
-	- 253 on Thursday
-	- 332 on Friday
-	- 215 on Saturday
-	- 124 on Sunday
+	- 178 ran on Monday
+	- 180 ran on Tuesday
+	- 90 ran on Wednesday
+	- 253 ran on Thursday
+	- 332 ran on Friday
+	- 215 ran on Saturday
+	- 124 ran on Sunday
 ## 🚌 87 | Tunney's Pasture <> Baseline
 - Trip numbers ⬇️ 88 from 1352 to 1264
 - Average duration ⬆️ 0:03:46 overall from 0:24:46 to 0:28:32
 - 📅 Tuesday was impacted the most
 - ✅ 1258 new trips with an average duration of 0:28:32
-	- 140 on Monday
-	- 320 on Tuesday
-	- 319 on Wednesday
-	- 213 on Thursday
-	- 106 on Friday
-	- 92 on Saturday
-	- 68 on Sunday
+	- 140 run on Monday
+	- 320 run on Tuesday
+	- 319 run on Wednesday
+	- 213 run on Thursday
+	- 106 run on Friday
+	- 92 run on Saturday
+	- 68 run on Sunday
 - ❌ 1346 trips removed with an average duration of 0:24:47
-	- 213 on Monday
-	- 213 on Tuesday
-	- 106 on Wednesday
-	- 258 on Thursday
-	- 353 on Friday
-	- 135 on Saturday
-	- 68 on Sunday
+	- 213 ran on Monday
+	- 213 ran on Tuesday
+	- 106 ran on Wednesday
+	- 258 ran on Thursday
+	- 353 ran on Friday
+	- 135 ran on Saturday
+	- 68 ran on Sunday
 ## 🚌 88 | Hurdman <> Bayshore
 - Trip numbers ⬇️ 242 from 2573 to 2331
 - Average duration ⬇️ 0:14:54 overall from 0:59:47 to 0:44:53
 - 📅 Tuesday was impacted the most
 - ✅ 2321 new trips with an average duration of 0:44:54
-	- 267 on Monday
-	- 548 on Tuesday
-	- 546 on Wednesday
-	- 364 on Thursday
-	- 182 on Friday
-	- 244 on Saturday
-	- 170 on Sunday
+	- 267 run on Monday
+	- 548 run on Tuesday
+	- 546 run on Wednesday
+	- 364 run on Thursday
+	- 182 run on Friday
+	- 244 run on Saturday
+	- 170 run on Sunday
 - ❌ 2563 trips removed with an average duration of 0:59:49
-	- 359 on Monday
-	- 363 on Tuesday
-	- 181 on Wednesday
-	- 489 on Thursday
-	- 630 on Friday
-	- 369 on Saturday
-	- 172 on Sunday
+	- 359 ran on Monday
+	- 363 ran on Tuesday
+	- 181 ran on Wednesday
+	- 489 ran on Thursday
+	- 630 ran on Friday
+	- 369 ran on Saturday
+	- 172 ran on Sunday
 ## 🚌 89 | Colonnade - Tunney's Pasture
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 174 on Monday
-	- 174 on Tuesday
-	- 87 on Wednesday
-	- 242 on Thursday
-	- 318 on Friday
-	- 204 on Saturday
-	- 114 on Sunday
+	- 174 ran on Monday
+	- 174 ran on Tuesday
+	- 87 ran on Wednesday
+	- 242 ran on Thursday
+	- 318 ran on Friday
+	- 204 ran on Saturday
+	- 114 ran on Sunday
 ## 🚌 90 | Greenboro <> Hurdman
 - Trip numbers ⬇️ 135 from 1735 to 1600
 - Average duration ⬆️ 0:06:29 overall from 0:32:20 to 0:38:49
 - 📅 Tuesday was impacted the most
 - ✅ 1593 new trips with an average duration of 0:38:50
-	- 191 on Monday
-	- 378 on Tuesday
-	- 375 on Wednesday
-	- 252 on Thursday
-	- 126 on Friday
-	- 140 on Saturday
-	- 131 on Sunday
+	- 191 run on Monday
+	- 378 run on Tuesday
+	- 375 run on Wednesday
+	- 252 run on Thursday
+	- 126 run on Friday
+	- 140 run on Saturday
+	- 131 run on Sunday
 - ❌ 1728 trips removed with an average duration of 0:32:21
-	- 246 on Monday
-	- 249 on Tuesday
-	- 125 on Wednesday
-	- 321 on Thursday
-	- 441 on Friday
-	- 214 on Saturday
-	- 132 on Sunday
+	- 246 ran on Monday
+	- 249 ran on Tuesday
+	- 125 ran on Wednesday
+	- 321 ran on Thursday
+	- 441 ran on Friday
+	- 214 ran on Saturday
+	- 132 ran on Sunday
 ## 🚌 92 | Greenboro <> Walkley / Hurdman
 - Trip numbers ⬇️ 778 from 1178 to 400
 - Average duration ⬆️ 0:03:54 overall from 0:26:21 to 0:30:15
 - 📅 Friday was impacted the most
 - ✅ 394 new trips with an average duration of 0:30:26
-	- 39 on Monday
-	- 119 on Tuesday
-	- 118 on Wednesday
-	- 79 on Thursday
-	- 39 on Friday
+	- 39 run on Monday
+	- 119 run on Tuesday
+	- 118 run on Wednesday
+	- 79 run on Thursday
+	- 39 run on Friday
 - ❌ 1172 trips removed with an average duration of 0:26:21
-	- 150 on Monday
-	- 153 on Tuesday
-	- 76 on Wednesday
-	- 222 on Thursday
-	- 274 on Friday
-	- 207 on Saturday
-	- 90 on Sunday
+	- 150 ran on Monday
+	- 153 ran on Tuesday
+	- 76 ran on Wednesday
+	- 222 ran on Thursday
+	- 274 ran on Friday
+	- 207 ran on Saturday
+	- 90 ran on Sunday
 ## 🚌 93 | Rotary <> Leitrim
 - Trip numbers ⬇️ 361 from 1405 to 1044
 - Average duration ⬇️ 0:17:20 overall from 0:32:04 to 0:14:44
 - 📅 Friday was impacted the most
 - ✅ 1044 new trips with an average duration of 0:14:44
-	- 136 on Monday
-	- 216 on Tuesday
-	- 216 on Wednesday
-	- 144 on Thursday
-	- 72 on Friday
-	- 132 on Saturday
-	- 128 on Sunday
+	- 136 run on Monday
+	- 216 run on Tuesday
+	- 216 run on Wednesday
+	- 144 run on Thursday
+	- 72 run on Friday
+	- 132 run on Saturday
+	- 128 run on Sunday
 - ❌ 1405 trips removed with an average duration of 0:32:04
-	- 182 on Monday
-	- 184 on Tuesday
-	- 92 on Wednesday
-	- 257 on Thursday
-	- 341 on Friday
-	- 219 on Saturday
-	- 130 on Sunday
+	- 182 ran on Monday
+	- 184 ran on Tuesday
+	- 92 ran on Wednesday
+	- 257 ran on Thursday
+	- 341 ran on Friday
+	- 219 ran on Saturday
+	- 130 ran on Sunday
 ## 🚌 94 | Leitrim <> Dun Skipper
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:14:00
 - 📅 Tuesday and Wednesday were impacted the most
-	- 12 on Monday
-	- 36 on Tuesday
-	- 36 on Wednesday
-	- 24 on Thursday
-	- 12 on Friday
+	- 12 run on Monday
+	- 36 run on Tuesday
+	- 36 run on Wednesday
+	- 24 run on Thursday
+	- 12 run on Friday
 ## 🚌 96 | Merivale/96b Hunt Club - Hurdman/Greenboro
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 89 on Monday
-	- 88 on Tuesday
-	- 44 on Wednesday
-	- 144 on Thursday
-	- 178 on Friday
-	- 168 on Saturday
-	- 92 on Sunday
+	- 89 ran on Monday
+	- 88 ran on Tuesday
+	- 44 ran on Wednesday
+	- 144 ran on Thursday
+	- 178 ran on Friday
+	- 168 ran on Saturday
+	- 92 ran on Sunday
 ## 🚌 97 | Airport - Hurdman/Parliament
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 336 on Monday
-	- 336 on Tuesday
-	- 168 on Wednesday
-	- 491 on Thursday
-	- 646 on Friday
-	- 465 on Saturday
-	- 284 on Sunday
+	- 336 ran on Monday
+	- 336 ran on Tuesday
+	- 168 ran on Wednesday
+	- 491 ran on Thursday
+	- 646 ran on Friday
+	- 465 ran on Saturday
+	- 284 ran on Sunday
 ## 🚌 98 | Hawthorne & N Rideau <> Hurdman
 - Trip numbers ⬆️ 1066 from 1823 to 2889
 - Average duration ⬇️ 0:05:46 overall from 0:30:06 to 0:24:20
 - 📅 Tuesday was impacted the most
 - ✅ 2885 new trips with an average duration of 0:24:19
-	- 362 on Monday
-	- 625 on Tuesday
-	- 626 on Wednesday
-	- 417 on Thursday
-	- 209 on Friday
-	- 340 on Saturday
-	- 306 on Sunday
+	- 362 run on Monday
+	- 625 run on Tuesday
+	- 626 run on Wednesday
+	- 417 run on Thursday
+	- 209 run on Friday
+	- 340 run on Saturday
+	- 306 run on Sunday
 - ❌ 1819 trips removed with an average duration of 0:30:06
-	- 224 on Monday
-	- 224 on Tuesday
-	- 112 on Wednesday
-	- 335 on Thursday
-	- 421 on Friday
-	- 332 on Saturday
-	- 171 on Sunday
+	- 224 ran on Monday
+	- 224 ran on Tuesday
+	- 112 ran on Wednesday
+	- 335 ran on Thursday
+	- 421 ran on Friday
+	- 332 ran on Saturday
+	- 171 ran on Sunday
 ## 🚌 99 | Barrhaven Centre via Weybridge <> Limebank
 - Trip numbers ⬇️ 318 from 1405 to 1087
 - Average duration ⬇️ 0:16:35 overall from 0:46:02 to 0:29:27
 - 📅 Tuesday was impacted the most
 - ✅ 1087 new trips with an average duration of 0:29:27
-	- 134 on Monday
-	- 237 on Tuesday
-	- 237 on Wednesday
-	- 158 on Thursday
-	- 79 on Friday
-	- 132 on Saturday
-	- 110 on Sunday
+	- 134 run on Monday
+	- 237 run on Tuesday
+	- 237 run on Wednesday
+	- 158 run on Thursday
+	- 79 run on Friday
+	- 132 run on Saturday
+	- 110 run on Sunday
 - ❌ 1405 trips removed with an average duration of 0:46:02
-	- 182 on Monday
-	- 188 on Tuesday
-	- 94 on Wednesday
-	- 257 on Thursday
-	- 343 on Friday
-	- 219 on Saturday
-	- 122 on Sunday
+	- 182 ran on Monday
+	- 188 ran on Tuesday
+	- 94 ran on Wednesday
+	- 257 ran on Thursday
+	- 343 ran on Friday
+	- 219 ran on Saturday
+	- 122 ran on Sunday
 ## 🚌 110 | Innovation / Briarbrook <> Limebank & Greenboro
 - Trip numbers ⬇️ 51 from 791 to 740
 - Average duration ⬆️ 0:38:26 overall from 0:48:58 to 1:27:24
 - 📅 Tuesday was impacted the most
 - ✅ 740 new trips with an average duration of 1:27:24
-	- 80 on Monday
-	- 204 on Tuesday
-	- 204 on Wednesday
-	- 136 on Thursday
-	- 68 on Friday
-	- 24 on Saturday
-	- 24 on Sunday
+	- 80 run on Monday
+	- 204 run on Tuesday
+	- 204 run on Wednesday
+	- 136 run on Thursday
+	- 68 run on Friday
+	- 24 run on Saturday
+	- 24 run on Sunday
 - ❌ 791 trips removed with an average duration of 0:48:58
-	- 133 on Monday
-	- 134 on Tuesday
-	- 67 on Wednesday
-	- 148 on Thursday
-	- 219 on Friday
-	- 54 on Saturday
-	- 36 on Sunday
+	- 133 ran on Monday
+	- 134 ran on Tuesday
+	- 67 ran on Wednesday
+	- 148 ran on Thursday
+	- 219 ran on Friday
+	- 54 ran on Saturday
+	- 36 ran on Sunday
 ## 🚌 111 | Billings Bridge / Carleton <> Baseline
 - Trip numbers ⬇️ 154 from 1973 to 1819
 - Average duration ⬇️ 0:06:08 overall from 0:35:21 to 0:29:13
 - 📅 Tuesday was impacted the most
 - ✅ 1814 new trips with an average duration of 0:29:14
-	- 210 on Monday
-	- 444 on Tuesday
-	- 444 on Wednesday
-	- 295 on Thursday
-	- 148 on Friday
-	- 148 on Saturday
-	- 125 on Sunday
+	- 210 run on Monday
+	- 444 run on Tuesday
+	- 444 run on Wednesday
+	- 295 run on Thursday
+	- 148 run on Friday
+	- 148 run on Saturday
+	- 125 run on Sunday
 - ❌ 1968 trips removed with an average duration of 0:35:21
-	- 287 on Monday
-	- 289 on Tuesday
-	- 145 on Wednesday
-	- 377 on Thursday
-	- 493 on Friday
-	- 261 on Saturday
-	- 116 on Sunday
+	- 287 ran on Monday
+	- 289 ran on Tuesday
+	- 145 ran on Wednesday
+	- 377 ran on Thursday
+	- 493 ran on Friday
+	- 261 ran on Saturday
+	- 116 ran on Sunday
 ## 🚌 112 | Billings Bridge <> Baseline
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:31:24
 - 📅 Tuesday and Wednesday were impacted the most
-	- 130 on Monday
-	- 213 on Tuesday
-	- 213 on Wednesday
-	- 142 on Thursday
-	- 71 on Friday
-	- 136 on Saturday
-	- 118 on Sunday
+	- 130 run on Monday
+	- 213 run on Tuesday
+	- 213 run on Wednesday
+	- 142 run on Thursday
+	- 71 run on Friday
+	- 136 run on Saturday
+	- 118 run on Sunday
 ## 🚌 114 | Carlington - Rideau
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 8 on Monday
-	- 8 on Tuesday
-	- 4 on Wednesday
-	- 8 on Thursday
-	- 12 on Friday
+	- 8 ran on Monday
+	- 8 ran on Tuesday
+	- 4 ran on Wednesday
+	- 8 ran on Thursday
+	- 12 ran on Friday
 ## 🚌 116 | Greenboro <> Baseline
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:27:58
 - 📅 Tuesday and Wednesday were impacted the most
-	- 81 on Monday
-	- 120 on Tuesday
-	- 120 on Wednesday
-	- 80 on Thursday
-	- 40 on Friday
-	- 90 on Saturday
-	- 82 on Sunday
+	- 81 run on Monday
+	- 120 run on Tuesday
+	- 120 run on Wednesday
+	- 80 run on Thursday
+	- 40 run on Friday
+	- 90 run on Saturday
+	- 82 run on Sunday
 ## 🚌 117 | Baseline <> Greenboro
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:34:06
 - 📅 Tuesday and Wednesday were impacted the most
-	- 9 on Monday
-	- 27 on Tuesday
-	- 27 on Wednesday
-	- 18 on Thursday
-	- 9 on Friday
+	- 9 run on Monday
+	- 27 run on Tuesday
+	- 27 run on Wednesday
+	- 18 run on Thursday
+	- 9 run on Friday
 ## 🚌 125 | Blair - Aviation
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 131 | Fallingbrook - Chapel Hill
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 160 on Monday
-	- 168 on Tuesday
-	- 84 on Wednesday
-	- 234 on Thursday
-	- 300 on Friday
-	- 198 on Saturday
-	- 96 on Sunday
+	- 160 ran on Monday
+	- 168 ran on Tuesday
+	- 84 ran on Wednesday
+	- 234 ran on Thursday
+	- 300 ran on Friday
+	- 198 ran on Saturday
+	- 96 ran on Sunday
 ## 🚌 138 | Place d'Orléans <> Hiawatha
 - Trip numbers ⬇️ 129 from 748 to 619
 - Average duration ⬇️ 0:15:07 overall from 0:34:34 to 0:19:27
 - 📅 Tuesday was impacted the most
 - ✅ 619 new trips with an average duration of 0:19:27
-	- 73 on Monday
-	- 144 on Tuesday
-	- 144 on Wednesday
-	- 96 on Thursday
-	- 48 on Friday
-	- 64 on Saturday
-	- 50 on Sunday
+	- 73 run on Monday
+	- 144 run on Tuesday
+	- 144 run on Wednesday
+	- 96 run on Thursday
+	- 48 run on Friday
+	- 64 run on Saturday
+	- 50 run on Sunday
 - ❌ 748 trips removed with an average duration of 0:34:34
-	- 104 on Monday
-	- 104 on Tuesday
-	- 52 on Wednesday
-	- 140 on Thursday
-	- 184 on Friday
-	- 108 on Saturday
-	- 56 on Sunday
+	- 104 ran on Monday
+	- 104 ran on Tuesday
+	- 52 ran on Wednesday
+	- 140 ran on Thursday
+	- 184 ran on Friday
+	- 108 ran on Saturday
+	- 56 ran on Sunday
 ## 🚌 140 | Heron Park - Billings Bridge
 - ❌ All trips removed
 - 📅 Saturday was impacted the most
-	- 48 on Monday
-	- 48 on Tuesday
-	- 24 on Wednesday
-	- 80 on Thursday
-	- 72 on Friday
-	- 96 on Saturday
+	- 48 ran on Monday
+	- 48 ran on Tuesday
+	- 24 ran on Wednesday
+	- 80 ran on Thursday
+	- 72 ran on Friday
+	- 96 ran on Saturday
 ## 🚌 141 | Billings Bridge - Kaladar
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 20 on Monday
-	- 20 on Tuesday
-	- 10 on Wednesday
-	- 20 on Thursday
-	- 30 on Friday
+	- 20 ran on Monday
+	- 20 ran on Tuesday
+	- 10 ran on Wednesday
+	- 20 ran on Thursday
+	- 30 ran on Friday
 ## 🚌 153 | Carlingwood <> Lincoln Fields
 - Trip numbers ⬇️ 44 from 254 to 210
 - Average duration ⬇️ 0:14:53 overall from 0:31:01 to 0:16:08
 - 📅 Tuesday was impacted the most
 - ✅ 210 new trips with an average duration of 0:16:08
-	- 25 on Monday
-	- 51 on Tuesday
-	- 51 on Wednesday
-	- 34 on Thursday
-	- 17 on Friday
-	- 16 on Saturday
-	- 16 on Sunday
+	- 25 run on Monday
+	- 51 run on Tuesday
+	- 51 run on Wednesday
+	- 34 run on Thursday
+	- 17 run on Friday
+	- 16 run on Saturday
+	- 16 run on Sunday
 - ❌ 254 trips removed with an average duration of 0:31:01
-	- 34 on Monday
-	- 34 on Tuesday
-	- 17 on Wednesday
-	- 46 on Thursday
-	- 63 on Friday
-	- 36 on Saturday
-	- 24 on Sunday
+	- 34 ran on Monday
+	- 34 ran on Tuesday
+	- 17 ran on Wednesday
+	- 46 ran on Thursday
+	- 63 ran on Friday
+	- 36 ran on Saturday
+	- 24 ran on Sunday
 ## 🚌 154 | Queensway Terrace - Lincoln Fields
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 10 on Monday
-	- 10 on Tuesday
-	- 5 on Wednesday
-	- 10 on Thursday
-	- 15 on Friday
+	- 10 ran on Monday
+	- 10 ran on Tuesday
+	- 5 ran on Wednesday
+	- 10 ran on Thursday
+	- 15 ran on Friday
 ## 🚌 155 | Queensway Terrace - Bayshore
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 10 on Monday
-	- 10 on Tuesday
-	- 5 on Wednesday
-	- 10 on Thursday
-	- 15 on Friday
+	- 10 ran on Monday
+	- 10 ran on Tuesday
+	- 5 ran on Wednesday
+	- 10 ran on Thursday
+	- 15 ran on Friday
 ## 🚌 158 | Bayshore <> Haanel
 - Trip numbers ⬇️ 4 from 44 to 40
 - Average duration did not change
 - 📅 Tuesday and Thursday were impacted the most
 - ✅ 40 new trips with an average duration of 0:09:00
-	- 4 on Monday
-	- 12 on Tuesday
-	- 12 on Wednesday
-	- 8 on Thursday
-	- 4 on Friday
+	- 4 run on Monday
+	- 12 run on Tuesday
+	- 12 run on Wednesday
+	- 8 run on Thursday
+	- 4 run on Friday
 - ❌ 44 trips removed with an average duration of 0:09:00
-	- 8 on Monday
-	- 8 on Tuesday
-	- 4 on Wednesday
-	- 12 on Thursday
-	- 12 on Friday
+	- 8 ran on Monday
+	- 8 ran on Tuesday
+	- 4 ran on Wednesday
+	- 12 ran on Thursday
+	- 12 ran on Friday
 ## 🚌 161 | Hazeldean <> Terry Fox
 - Trip numbers ⬆️ 303 from 598 to 901
 - Average duration ⬆️ 0:02:00 overall from 0:31:44 to 0:33:44
 - 📅 Tuesday was impacted the most
 - ✅ 901 new trips with an average duration of 0:33:44
-	- 108 on Monday
-	- 219 on Tuesday
-	- 219 on Wednesday
-	- 146 on Thursday
-	- 73 on Friday
-	- 66 on Saturday
-	- 70 on Sunday
+	- 108 run on Monday
+	- 219 run on Tuesday
+	- 219 run on Wednesday
+	- 146 run on Thursday
+	- 73 run on Friday
+	- 66 run on Saturday
+	- 70 run on Sunday
 - ❌ 598 trips removed with an average duration of 0:31:44
-	- 110 on Monday
-	- 122 on Tuesday
-	- 61 on Wednesday
-	- 122 on Thursday
-	- 183 on Friday
+	- 110 ran on Monday
+	- 122 ran on Tuesday
+	- 61 ran on Wednesday
+	- 122 ran on Thursday
+	- 183 ran on Friday
 ## 🚌 162 | Kanata West~Kanata ouest <> Terry Fox
 - Trip numbers ⬆️ 362 from 252 to 614
 - Average duration ⬇️ 0:15:29 overall from 0:31:20 to 0:15:51
 - 📅 Tuesday was impacted the most
 - ✅ 614 new trips with an average duration of 0:15:51
-	- 77 on Monday
-	- 135 on Tuesday
-	- 135 on Wednesday
-	- 90 on Thursday
-	- 45 on Friday
-	- 68 on Saturday
-	- 64 on Sunday
+	- 77 run on Monday
+	- 135 run on Tuesday
+	- 135 run on Wednesday
+	- 90 run on Thursday
+	- 45 run on Friday
+	- 68 run on Saturday
+	- 64 run on Sunday
 - ❌ 252 trips removed with an average duration of 0:31:20
-	- 28 on Monday
-	- 28 on Tuesday
-	- 14 on Wednesday
-	- 56 on Thursday
-	- 42 on Friday
-	- 84 on Saturday
+	- 28 ran on Monday
+	- 28 ran on Tuesday
+	- 14 ran on Wednesday
+	- 56 ran on Thursday
+	- 42 ran on Friday
+	- 84 ran on Saturday
 ## 🚌 163 | Terry Fox <> Kittiwake
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:28:11
 - 📅 Tuesday and Wednesday were impacted the most
-	- 106 on Monday
-	- 189 on Tuesday
-	- 189 on Wednesday
-	- 126 on Thursday
-	- 63 on Friday
-	- 102 on Saturday
-	- 86 on Sunday
+	- 106 run on Monday
+	- 189 run on Tuesday
+	- 189 run on Wednesday
+	- 126 run on Thursday
+	- 63 run on Friday
+	- 102 run on Saturday
+	- 86 run on Sunday
 ## 🚌 164 | Terry Fox - Hope Side
 - ❌ All trips removed
 - 📅 Thursday and Friday were impacted the most
-	- 26 on Monday
-	- 26 on Tuesday
-	- 13 on Wednesday
-	- 39 on Thursday
-	- 39 on Friday
+	- 26 ran on Monday
+	- 26 ran on Tuesday
+	- 13 ran on Wednesday
+	- 39 ran on Thursday
+	- 39 ran on Friday
 ## 🚌 165 | Innovation <> Terry Fox
 - Trip numbers ⬆️ 403 from 220 to 623
 - Average duration ⬇️ 0:03:50 overall from 0:20:30 to 0:16:40
 - 📅 Tuesday was impacted the most
 - ✅ 623 new trips with an average duration of 0:16:40
-	- 72 on Monday
-	- 147 on Tuesday
-	- 147 on Wednesday
-	- 98 on Thursday
-	- 49 on Friday
-	- 64 on Saturday
-	- 46 on Sunday
+	- 72 run on Monday
+	- 147 run on Tuesday
+	- 147 run on Wednesday
+	- 98 run on Thursday
+	- 49 run on Friday
+	- 64 run on Saturday
+	- 46 run on Sunday
 - ❌ 220 trips removed with an average duration of 0:20:30
-	- 40 on Monday
-	- 40 on Tuesday
-	- 20 on Wednesday
-	- 60 on Thursday
-	- 60 on Friday
+	- 40 ran on Monday
+	- 40 ran on Tuesday
+	- 20 ran on Wednesday
+	- 60 ran on Thursday
+	- 60 ran on Friday
 ## 🚌 166 | Eagleson -  Innovation
 - ❌ All trips removed
 - 📅 Thursday and Friday were impacted the most
-	- 4 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 6 on Thursday
-	- 6 on Friday
+	- 4 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 6 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 168 | Hope Side <> Terry Fox
 - Trip numbers ⬇️ 329 from 1348 to 1019
 - Average duration ⬇️ 0:03:55 overall from 0:42:42 to 0:38:47
 - 📅 Friday was impacted the most
 - ✅ 1010 new trips with an average duration of 0:38:47
-	- 127 on Monday
-	- 215 on Tuesday
-	- 214 on Wednesday
-	- 142 on Thursday
-	- 71 on Friday
-	- 128 on Saturday
-	- 113 on Sunday
+	- 127 run on Monday
+	- 215 run on Tuesday
+	- 214 run on Wednesday
+	- 142 run on Thursday
+	- 71 run on Friday
+	- 128 run on Saturday
+	- 113 run on Sunday
 - ❌ 1339 trips removed with an average duration of 0:42:43
-	- 161 on Monday
-	- 172 on Tuesday
-	- 86 on Wednesday
-	- 242 on Thursday
-	- 329 on Friday
-	- 209 on Saturday
-	- 140 on Sunday
+	- 161 ran on Monday
+	- 172 ran on Tuesday
+	- 86 ran on Wednesday
+	- 242 ran on Thursday
+	- 329 ran on Friday
+	- 209 ran on Saturday
+	- 140 ran on Sunday
 ## 🚌 170 | Fallowfield - Barrhaven Centre
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 150 on Monday
-	- 150 on Tuesday
-	- 75 on Wednesday
-	- 214 on Thursday
-	- 290 on Friday
-	- 198 on Saturday
-	- 130 on Sunday
+	- 150 ran on Monday
+	- 150 ran on Tuesday
+	- 75 ran on Wednesday
+	- 214 ran on Thursday
+	- 290 ran on Friday
+	- 198 ran on Saturday
+	- 130 ran on Sunday
 ## 🚌 171 | Fallowfield - Barrhaven Centre
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 129 on Monday
-	- 138 on Tuesday
-	- 69 on Wednesday
-	- 144 on Thursday
-	- 213 on Friday
-	- 18 on Saturday
-	- 12 on Sunday
+	- 129 ran on Monday
+	- 138 ran on Tuesday
+	- 69 ran on Wednesday
+	- 144 ran on Thursday
+	- 213 ran on Friday
+	- 18 ran on Saturday
+	- 12 ran on Sunday
 ## 🚌 173 | Citigate <> Barrhaven Centre
 - Trip numbers ⬆️ 460 from 548 to 1008
 - Average duration ⬇️ 0:06:29 overall from 0:32:10 to 0:25:41
 - 📅 Tuesday was impacted the most
 - ✅ 1008 new trips with an average duration of 0:25:41
-	- 127 on Monday
-	- 213 on Tuesday
-	- 213 on Wednesday
-	- 142 on Thursday
-	- 71 on Friday
-	- 130 on Saturday
-	- 112 on Sunday
+	- 127 run on Monday
+	- 213 run on Tuesday
+	- 213 run on Wednesday
+	- 142 run on Thursday
+	- 71 run on Friday
+	- 130 run on Saturday
+	- 112 run on Sunday
 - ❌ 548 trips removed with an average duration of 0:32:10
-	- 104 on Monday
-	- 104 on Tuesday
-	- 52 on Wednesday
-	- 132 on Thursday
-	- 156 on Friday
+	- 104 ran on Monday
+	- 104 ran on Tuesday
+	- 52 ran on Wednesday
+	- 132 ran on Thursday
+	- 156 ran on Friday
 ## 🚌 175 | Barrhaven Centre - Golflinks
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 50 on Monday
-	- 50 on Tuesday
-	- 25 on Wednesday
-	- 56 on Thursday
-	- 77 on Friday
-	- 18 on Saturday
-	- 4 on Sunday
+	- 50 ran on Monday
+	- 50 ran on Tuesday
+	- 25 ran on Wednesday
+	- 56 ran on Thursday
+	- 77 ran on Friday
+	- 18 ran on Saturday
+	- 4 ran on Sunday
 ## 🚌 176 | Manotick - Barrhaven Centre
 - ❌ All trips removed
 - 📅 Thursday and Friday were impacted the most
-	- 28 on Monday
-	- 28 on Tuesday
-	- 14 on Wednesday
-	- 42 on Thursday
-	- 42 on Friday
+	- 28 ran on Monday
+	- 28 ran on Tuesday
+	- 14 ran on Wednesday
+	- 42 ran on Thursday
+	- 42 ran on Friday
 ## 🚌 186 | Rideau - Nepean South / sud
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 10 on Monday
-	- 10 on Tuesday
-	- 5 on Wednesday
-	- 10 on Thursday
-	- 15 on Friday
+	- 10 ran on Monday
+	- 10 ran on Tuesday
+	- 5 ran on Wednesday
+	- 10 ran on Thursday
+	- 15 ran on Friday
 ## 🚌 187 | Baseline <> Amberwood
 - Trip numbers ⬇️ 25 from 125 to 100
 - Average duration ⬇️ 0:03:57 overall from 0:26:21 to 0:22:24
 - 📅 Tuesday was impacted the most
 - ✅ 100 new trips with an average duration of 0:22:24
-	- 10 on Monday
-	- 30 on Tuesday
-	- 30 on Wednesday
-	- 20 on Thursday
-	- 10 on Friday
+	- 10 run on Monday
+	- 30 run on Tuesday
+	- 30 run on Wednesday
+	- 20 run on Thursday
+	- 10 run on Friday
 - ❌ 125 trips removed with an average duration of 0:26:21
-	- 22 on Monday
-	- 24 on Tuesday
-	- 12 on Wednesday
-	- 31 on Thursday
-	- 36 on Friday
+	- 22 ran on Monday
+	- 24 ran on Tuesday
+	- 12 ran on Wednesday
+	- 31 ran on Thursday
+	- 36 ran on Friday
 ## 🚌 189 | Colonnade <> Baseline
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:25:13
 - 📅 Tuesday and Wednesday were impacted the most
-	- 76 on Monday
-	- 228 on Tuesday
-	- 228 on Wednesday
-	- 152 on Thursday
-	- 76 on Friday
+	- 76 run on Monday
+	- 228 run on Tuesday
+	- 228 run on Wednesday
+	- 152 run on Thursday
+	- 76 run on Friday
 ## 🚌 190 | Mooney's Bay - Hurdman
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 8 on Monday
-	- 8 on Tuesday
-	- 4 on Wednesday
-	- 12 on Thursday
-	- 16 on Friday
-	- 12 on Saturday
-	- 8 on Sunday
+	- 8 ran on Monday
+	- 8 ran on Tuesday
+	- 4 ran on Wednesday
+	- 12 ran on Thursday
+	- 16 ran on Friday
+	- 12 ran on Saturday
+	- 8 ran on Sunday
 ## 🚌 197 | Uplands / Greenboro
 - Trip numbers ⬇️ 22 from 307 to 285
 - Average duration ⬆️ 0:06:20 overall from 0:23:14 to 0:29:34
 - 📅 Tuesday was impacted the most
 - ✅ 285 new trips with an average duration of 0:29:34
-	- 34 on Monday
-	- 69 on Tuesday
-	- 69 on Wednesday
-	- 46 on Thursday
-	- 23 on Friday
-	- 22 on Saturday
-	- 22 on Sunday
+	- 34 run on Monday
+	- 69 run on Tuesday
+	- 69 run on Wednesday
+	- 46 run on Thursday
+	- 23 run on Friday
+	- 22 run on Saturday
+	- 22 run on Sunday
 - ❌ 307 trips removed with an average duration of 0:23:14
-	- 46 on Monday
-	- 46 on Tuesday
-	- 23 on Wednesday
-	- 57 on Thursday
-	- 80 on Friday
-	- 33 on Saturday
-	- 22 on Sunday
+	- 46 ran on Monday
+	- 46 ran on Tuesday
+	- 23 ran on Wednesday
+	- 57 ran on Thursday
+	- 80 ran on Friday
+	- 33 ran on Saturday
+	- 22 ran on Sunday
 ## 🚌 198 | Limebank <> Greenboro
 - Trip numbers ⬇️ 11 from 121 to 110
 - Average duration ⬆️ 0:05:00 overall from 0:25:27 to 0:30:27
 - 📅 Tuesday and Thursday were impacted the most
 - ✅ 110 new trips with an average duration of 0:30:27
-	- 11 on Monday
-	- 33 on Tuesday
-	- 33 on Wednesday
-	- 22 on Thursday
-	- 11 on Friday
+	- 11 run on Monday
+	- 33 run on Tuesday
+	- 33 run on Wednesday
+	- 22 run on Thursday
+	- 11 run on Friday
 - ❌ 121 trips removed with an average duration of 0:25:27
-	- 22 on Monday
-	- 22 on Tuesday
-	- 11 on Wednesday
-	- 33 on Thursday
-	- 33 on Friday
+	- 22 ran on Monday
+	- 22 ran on Tuesday
+	- 11 ran on Wednesday
+	- 33 ran on Thursday
+	- 33 ran on Friday
 ## 🚌 199 | Hurdman - Leikin
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 8 on Monday
-	- 8 on Tuesday
-	- 4 on Wednesday
-	- 8 on Thursday
-	- 12 on Friday
+	- 8 ran on Monday
+	- 8 ran on Tuesday
+	- 4 ran on Wednesday
+	- 8 ran on Thursday
+	- 12 ran on Friday
 ## 🚌 221 | Blair <> Cumberland
 - Trip numbers ⬇️ 6 from 86 to 80
 - Average duration ⬆️ 0:07:46 overall from 0:26:14 to 0:34:00
 - 📅 Tuesday was impacted the most
 - ✅ 80 new trips with an average duration of 0:34:00
-	- 8 on Monday
-	- 24 on Tuesday
-	- 24 on Wednesday
-	- 16 on Thursday
-	- 8 on Friday
+	- 8 run on Monday
+	- 24 run on Tuesday
+	- 24 run on Wednesday
+	- 16 run on Thursday
+	- 8 run on Friday
 - ❌ 86 trips removed with an average duration of 0:26:14
-	- 15 on Monday
-	- 16 on Tuesday
-	- 8 on Wednesday
-	- 23 on Thursday
-	- 24 on Friday
+	- 15 ran on Monday
+	- 16 ran on Tuesday
+	- 8 ran on Wednesday
+	- 23 ran on Thursday
+	- 24 ran on Friday
 ## 🚌 222 | Blair <> Vars
 - Trip numbers ⬇️ 5 from 65 to 60
 - Average duration ⬆️ 0:05:52 overall from 0:40:38 to 0:46:30
 - 📅 Tuesday was impacted the most
 - ✅ 60 new trips with an average duration of 0:46:30
-	- 6 on Monday
-	- 18 on Tuesday
-	- 18 on Wednesday
-	- 12 on Thursday
-	- 6 on Friday
+	- 6 run on Monday
+	- 18 run on Tuesday
+	- 18 run on Wednesday
+	- 12 run on Thursday
+	- 6 run on Friday
 - ❌ 65 trips removed with an average duration of 0:40:38
-	- 12 on Monday
-	- 12 on Tuesday
-	- 6 on Wednesday
-	- 17 on Thursday
-	- 18 on Friday
+	- 12 ran on Monday
+	- 12 ran on Tuesday
+	- 6 ran on Wednesday
+	- 17 ran on Thursday
+	- 18 ran on Friday
 ## 🚌 226 | Chapel Hill <> Blair
 - Trip numbers did not change
 - Average duration ⬆️ 0:14:30 overall from 0:19:00 to 0:33:30
 - 📅 Tuesday was impacted the most
 - ✅ 140 new trips with an average duration of 0:33:30
-	- 14 on Monday
-	- 42 on Tuesday
-	- 42 on Wednesday
-	- 28 on Thursday
-	- 14 on Friday
+	- 14 run on Monday
+	- 42 run on Tuesday
+	- 42 run on Wednesday
+	- 28 run on Thursday
+	- 14 run on Friday
 - ❌ 140 trips removed with an average duration of 0:19:00
-	- 28 on Monday
-	- 28 on Tuesday
-	- 14 on Wednesday
-	- 28 on Thursday
-	- 42 on Friday
+	- 28 ran on Monday
+	- 28 ran on Tuesday
+	- 14 ran on Wednesday
+	- 28 ran on Thursday
+	- 42 ran on Friday
 ## 🚌 228 | Blair <> Navan / Sarsfield
 - Trip numbers ⬇️ 5 from 65 to 60
 - Average duration ⬆️ 0:03:53 overall from 0:48:57 to 0:52:50
 - 📅 Tuesday was impacted the most
 - ✅ 60 new trips with an average duration of 0:52:50
-	- 6 on Monday
-	- 18 on Tuesday
-	- 18 on Wednesday
-	- 12 on Thursday
-	- 6 on Friday
+	- 6 run on Monday
+	- 18 run on Tuesday
+	- 18 run on Wednesday
+	- 12 run on Thursday
+	- 6 run on Friday
 - ❌ 65 trips removed with an average duration of 0:48:57
-	- 12 on Monday
-	- 12 on Tuesday
-	- 6 on Wednesday
-	- 17 on Thursday
-	- 18 on Friday
+	- 12 ran on Monday
+	- 12 ran on Tuesday
+	- 6 ran on Wednesday
+	- 17 ran on Thursday
+	- 18 ran on Friday
 ## 🚌 231 | Blair - Meadowglen
 - ❌ All trips removed
 - 📅 Thursday and Friday were impacted the most
-	- 16 on Monday
-	- 16 on Tuesday
-	- 8 on Wednesday
-	- 24 on Thursday
-	- 24 on Friday
+	- 16 ran on Monday
+	- 16 ran on Tuesday
+	- 8 ran on Wednesday
+	- 24 ran on Thursday
+	- 24 ran on Friday
 ## 🚌 232 | Blair - Queenswood Heights
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 26 on Monday
-	- 26 on Tuesday
-	- 13 on Wednesday
-	- 34 on Thursday
-	- 39 on Friday
+	- 26 ran on Monday
+	- 26 ran on Tuesday
+	- 13 ran on Wednesday
+	- 34 ran on Thursday
+	- 39 ran on Friday
 ## 🚌 234 | Blair <> Tenth line
 - Trip numbers ⬇️ 8 from 138 to 130
 - Average duration ⬆️ 0:05:57 overall from 0:33:03 to 0:39:00
 - 📅 Tuesday was impacted the most
 - ✅ 130 new trips with an average duration of 0:39:00
-	- 13 on Monday
-	- 39 on Tuesday
-	- 39 on Wednesday
-	- 26 on Thursday
-	- 13 on Friday
+	- 13 run on Monday
+	- 39 run on Tuesday
+	- 39 run on Wednesday
+	- 26 run on Thursday
+	- 13 run on Friday
 - ❌ 138 trips removed with an average duration of 0:33:03
-	- 26 on Monday
-	- 26 on Tuesday
-	- 13 on Wednesday
-	- 34 on Thursday
-	- 39 on Friday
+	- 26 ran on Monday
+	- 26 ran on Tuesday
+	- 13 ran on Wednesday
+	- 34 ran on Thursday
+	- 39 ran on Friday
 ## 🚌 236 | Blair - Esprit
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 28 on Monday
-	- 28 on Tuesday
-	- 14 on Wednesday
-	- 36 on Thursday
-	- 42 on Friday
+	- 28 ran on Monday
+	- 28 ran on Tuesday
+	- 14 ran on Wednesday
+	- 36 ran on Thursday
+	- 42 ran on Friday
 ## 🚌 237 | Blair <> Place d'Orléans
 - Trip numbers ⬇️ 8 from 88 to 80
 - Average duration ⬆️ 0:05:23 overall from 0:23:37 to 0:29:00
 - 📅 Tuesday and Thursday were impacted the most
 - ✅ 80 new trips with an average duration of 0:29:00
-	- 8 on Monday
-	- 24 on Tuesday
-	- 24 on Wednesday
-	- 16 on Thursday
-	- 8 on Friday
+	- 8 run on Monday
+	- 24 run on Tuesday
+	- 24 run on Wednesday
+	- 16 run on Thursday
+	- 8 run on Friday
 - ❌ 88 trips removed with an average duration of 0:23:37
-	- 16 on Monday
-	- 16 on Tuesday
-	- 8 on Wednesday
-	- 24 on Thursday
-	- 24 on Friday
+	- 16 ran on Monday
+	- 16 ran on Tuesday
+	- 8 ran on Wednesday
+	- 24 ran on Thursday
+	- 24 ran on Friday
 ## 🚌 252 | Tunney's Pasture - Fernbank
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 26 on Monday
-	- 26 on Tuesday
-	- 13 on Wednesday
-	- 34 on Thursday
-	- 39 on Friday
+	- 26 ran on Monday
+	- 26 ran on Tuesday
+	- 13 ran on Wednesday
+	- 34 ran on Thursday
+	- 39 ran on Friday
 ## 🚌 256 | Tunney's Pasture <> Bridlewood
 - Trip numbers ⬆️ 2 from 148 to 150
 - Average duration ⬆️ 0:07:22 overall from 0:50:38 to 0:58:00
 - 📅 Tuesday was impacted the most
 - ✅ 150 new trips with an average duration of 0:58:00
-	- 15 on Monday
-	- 45 on Tuesday
-	- 45 on Wednesday
-	- 30 on Thursday
-	- 15 on Friday
+	- 15 run on Monday
+	- 45 run on Tuesday
+	- 45 run on Wednesday
+	- 30 run on Thursday
+	- 15 run on Friday
 - ❌ 148 trips removed with an average duration of 0:50:38
-	- 28 on Monday
-	- 28 on Tuesday
-	- 14 on Wednesday
-	- 36 on Thursday
-	- 42 on Friday
+	- 28 ran on Monday
+	- 28 ran on Tuesday
+	- 14 ran on Wednesday
+	- 36 ran on Thursday
+	- 42 ran on Friday
 ## 🚌 257 | Tunney's Pasture - Bridlewood
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 38 on Monday
-	- 38 on Tuesday
-	- 19 on Wednesday
-	- 50 on Thursday
-	- 57 on Friday
+	- 38 ran on Monday
+	- 38 ran on Tuesday
+	- 19 ran on Wednesday
+	- 50 ran on Thursday
+	- 57 ran on Friday
 ## 🚌 258 | Tunney's Pasture - Grandview
 - ❌ All trips removed
 - 📅 Thursday and Friday were impacted the most
-	- 18 on Monday
-	- 18 on Tuesday
-	- 9 on Wednesday
-	- 27 on Thursday
-	- 27 on Friday
+	- 18 ran on Monday
+	- 18 ran on Tuesday
+	- 9 ran on Wednesday
+	- 27 ran on Thursday
+	- 27 ran on Friday
 ## 🚌 261 | Tunney's Pasture <> Kimpton
 - Trip numbers ⬇️ 8 from 88 to 80
 - Average duration ⬇️ 0:05:30 overall from 0:57:45 to 0:52:15
 - 📅 Tuesday and Thursday were impacted the most
 - ✅ 80 new trips with an average duration of 0:52:15
-	- 8 on Monday
-	- 24 on Tuesday
-	- 24 on Wednesday
-	- 16 on Thursday
-	- 8 on Friday
+	- 8 run on Monday
+	- 24 run on Tuesday
+	- 24 run on Wednesday
+	- 16 run on Thursday
+	- 8 run on Friday
 - ❌ 88 trips removed with an average duration of 0:57:45
-	- 16 on Monday
-	- 16 on Tuesday
-	- 8 on Wednesday
-	- 24 on Thursday
-	- 24 on Friday
+	- 16 ran on Monday
+	- 16 ran on Tuesday
+	- 8 ran on Wednesday
+	- 24 ran on Thursday
+	- 24 ran on Friday
 ## 🚌 262 | Tunney's Pasture <> Fernbank
 - Trip numbers ⬇️ 59 from 149 to 90
 - Average duration ⬆️ 0:09:52 overall from 0:46:41 to 0:56:33
 - 📅 Tuesday and Thursday were impacted the most
 - ✅ 90 new trips with an average duration of 0:56:33
-	- 9 on Monday
-	- 27 on Tuesday
-	- 27 on Wednesday
-	- 18 on Thursday
-	- 9 on Friday
+	- 9 run on Monday
+	- 27 run on Tuesday
+	- 27 run on Wednesday
+	- 18 run on Thursday
+	- 9 run on Friday
 - ❌ 149 trips removed with an average duration of 0:46:41
-	- 28 on Monday
-	- 28 on Tuesday
-	- 14 on Wednesday
-	- 37 on Thursday
-	- 42 on Friday
+	- 28 ran on Monday
+	- 28 ran on Tuesday
+	- 14 ran on Wednesday
+	- 37 ran on Thursday
+	- 42 ran on Friday
 ## 🚌 263 | Tunney's Pasture <> Richmond
 - Trip numbers ⬇️ 7 from 77 to 70
 - Average duration ⬆️ 0:13:08 overall from 0:56:17 to 1:09:25
 - 📅 Tuesday and Thursday were impacted the most
 - ✅ 70 new trips with an average duration of 1:09:25
-	- 7 on Monday
-	- 21 on Tuesday
-	- 21 on Wednesday
-	- 14 on Thursday
-	- 7 on Friday
+	- 7 run on Monday
+	- 21 run on Tuesday
+	- 21 run on Wednesday
+	- 14 run on Thursday
+	- 7 run on Friday
 - ❌ 77 trips removed with an average duration of 0:56:17
-	- 14 on Monday
-	- 14 on Tuesday
-	- 7 on Wednesday
-	- 21 on Thursday
-	- 21 on Friday
+	- 14 ran on Monday
+	- 14 ran on Tuesday
+	- 7 ran on Wednesday
+	- 21 ran on Thursday
+	- 21 ran on Friday
 ## 🚌 264 | Tunney's Pasture - Terry Fox
 - ❌ All trips removed
 - 📅 Thursday and Friday were impacted the most
-	- 16 on Monday
-	- 16 on Tuesday
-	- 8 on Wednesday
-	- 24 on Thursday
-	- 24 on Friday
+	- 16 ran on Monday
+	- 16 ran on Tuesday
+	- 8 ran on Wednesday
+	- 24 ran on Thursday
+	- 24 ran on Friday
 ## 🚌 265 | Tunney's Pasture <> Terry Fox
 - Trip numbers ⬆️ 74 from 66 to 140
 - Average duration ⬆️ 0:23:35 overall from 0:39:50 to 1:03:25
 - 📅 Tuesday was impacted the most
 - ✅ 140 new trips with an average duration of 1:03:25
-	- 14 on Monday
-	- 42 on Tuesday
-	- 42 on Wednesday
-	- 28 on Thursday
-	- 14 on Friday
+	- 14 run on Monday
+	- 42 run on Tuesday
+	- 42 run on Wednesday
+	- 28 run on Thursday
+	- 14 run on Friday
 - ❌ 66 trips removed with an average duration of 0:39:50
-	- 12 on Monday
-	- 12 on Tuesday
-	- 6 on Wednesday
-	- 18 on Thursday
-	- 18 on Friday
+	- 12 ran on Monday
+	- 12 ran on Tuesday
+	- 6 ran on Wednesday
+	- 18 ran on Thursday
+	- 18 ran on Friday
 ## 🚌 266 | Tunney's Pasture <> Springbrook
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:58:00
 - 📅 Tuesday and Wednesday were impacted the most
-	- 8 on Monday
-	- 24 on Tuesday
-	- 24 on Wednesday
-	- 16 on Thursday
-	- 8 on Friday
+	- 8 run on Monday
+	- 24 run on Tuesday
+	- 24 run on Wednesday
+	- 16 run on Thursday
+	- 8 run on Friday
 ## 🚌 267 | Tunney's Pasture - Glen Cairn
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 28 on Monday
-	- 28 on Tuesday
-	- 14 on Wednesday
-	- 36 on Thursday
-	- 42 on Friday
+	- 28 ran on Monday
+	- 28 ran on Tuesday
+	- 14 ran on Wednesday
+	- 36 ran on Thursday
+	- 42 ran on Friday
 ## 🚌 268 | Tunney's Pasture - Kanata Lakes
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 24 on Monday
-	- 24 on Tuesday
-	- 12 on Wednesday
-	- 32 on Thursday
-	- 36 on Friday
+	- 24 ran on Monday
+	- 24 ran on Tuesday
+	- 12 ran on Wednesday
+	- 32 ran on Thursday
+	- 36 ran on Friday
 ## 🚌 270 | Tunney's Pasture - Cedarview
 - ❌ All trips removed
 - 📅 Thursday and Friday were impacted the most
-	- 16 on Monday
-	- 16 on Tuesday
-	- 8 on Wednesday
-	- 24 on Thursday
-	- 24 on Friday
+	- 16 ran on Monday
+	- 16 ran on Tuesday
+	- 8 ran on Wednesday
+	- 24 ran on Thursday
+	- 24 ran on Friday
 ## 🚌 271 | Tunney's Pasture - Stoneway
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 26 on Monday
-	- 26 on Tuesday
-	- 13 on Wednesday
-	- 34 on Thursday
-	- 39 on Friday
+	- 26 ran on Monday
+	- 26 ran on Tuesday
+	- 13 ran on Wednesday
+	- 34 ran on Thursday
+	- 39 ran on Friday
 ## 🚌 272 | Tunney's Pasture - Cobble Hill
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 28 on Monday
-	- 28 on Tuesday
-	- 14 on Wednesday
-	- 37 on Thursday
-	- 42 on Friday
+	- 28 ran on Monday
+	- 28 ran on Tuesday
+	- 14 ran on Wednesday
+	- 37 ran on Thursday
+	- 42 ran on Friday
 ## 🚌 273 | Tunney's Pasture - Tartan
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 26 on Monday
-	- 26 on Tuesday
-	- 13 on Wednesday
-	- 34 on Thursday
-	- 39 on Friday
+	- 26 ran on Monday
+	- 26 ran on Tuesday
+	- 13 ran on Wednesday
+	- 34 ran on Thursday
+	- 39 ran on Friday
 ## 🚌 275 | Tunney's Pasture <> Half Moon Bay
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:59:32
 - 📅 Tuesday and Wednesday were impacted the most
-	- 13 on Monday
-	- 39 on Tuesday
-	- 39 on Wednesday
-	- 26 on Thursday
-	- 13 on Friday
+	- 13 run on Monday
+	- 39 run on Tuesday
+	- 39 run on Wednesday
+	- 26 run on Thursday
+	- 13 run on Friday
 ## 🚌 277 | Tunney's Pasture <> Nepean Woods
 - Trip numbers ⬇️ 30 from 150 to 120
 - Average duration ⬇️ 0:00:16 overall from 0:50:36 to 0:50:20
 - 📅 Tuesday was impacted the most
 - ✅ 120 new trips with an average duration of 0:50:20
-	- 12 on Monday
-	- 36 on Tuesday
-	- 36 on Wednesday
-	- 24 on Thursday
-	- 12 on Friday
+	- 12 run on Monday
+	- 36 run on Tuesday
+	- 36 run on Wednesday
+	- 24 run on Thursday
+	- 12 run on Friday
 - ❌ 150 trips removed with an average duration of 0:50:36
-	- 29 on Monday
-	- 28 on Tuesday
-	- 14 on Wednesday
-	- 37 on Thursday
-	- 42 on Friday
+	- 29 ran on Monday
+	- 28 ran on Tuesday
+	- 14 ran on Wednesday
+	- 37 ran on Thursday
+	- 42 ran on Friday
 ## 🚌 278 | Tunney's Pasture - Riverside South/Sud
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 32 on Monday
-	- 34 on Tuesday
-	- 17 on Wednesday
-	- 43 on Thursday
-	- 51 on Friday
+	- 32 ran on Monday
+	- 34 ran on Tuesday
+	- 17 ran on Wednesday
+	- 43 ran on Thursday
+	- 51 ran on Friday
 ## 🚌 279 | Tunney's Pasture <> Manotick
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:58:08
 - 📅 Tuesday and Wednesday were impacted the most
-	- 7 on Monday
-	- 21 on Tuesday
-	- 21 on Wednesday
-	- 14 on Thursday
-	- 7 on Friday
+	- 7 run on Monday
+	- 21 run on Tuesday
+	- 21 run on Wednesday
+	- 14 run on Thursday
+	- 7 run on Friday
 ## 🚌 282 | Tunney's Pasture - Trend-Arlington
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 26 on Monday
-	- 26 on Tuesday
-	- 13 on Wednesday
-	- 34 on Thursday
-	- 39 on Friday
+	- 26 ran on Monday
+	- 26 ran on Tuesday
+	- 13 ran on Wednesday
+	- 34 ran on Thursday
+	- 39 ran on Friday
 ## 🚌 283 | Limebank <> Richmond / Munster
 - Trip numbers ⬇️ 7 from 77 to 70
 - Average duration ⬇️ 0:14:51 overall from 1:02:42 to 0:47:51
 - 📅 Tuesday and Thursday were impacted the most
 - ✅ 70 new trips with an average duration of 0:47:51
-	- 7 on Monday
-	- 21 on Tuesday
-	- 21 on Wednesday
-	- 14 on Thursday
-	- 7 on Friday
+	- 7 run on Monday
+	- 21 run on Tuesday
+	- 21 run on Wednesday
+	- 14 run on Thursday
+	- 7 run on Friday
 - ❌ 77 trips removed with an average duration of 1:02:42
-	- 14 on Monday
-	- 14 on Tuesday
-	- 7 on Wednesday
-	- 21 on Thursday
-	- 21 on Friday
+	- 14 ran on Monday
+	- 14 ran on Tuesday
+	- 7 ran on Wednesday
+	- 21 ran on Thursday
+	- 21 ran on Friday
 ## 🚌 290 | Hurdman - McCarthy
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 26 on Monday
-	- 26 on Tuesday
-	- 13 on Wednesday
-	- 34 on Thursday
-	- 39 on Friday
+	- 26 ran on Monday
+	- 26 ran on Tuesday
+	- 13 ran on Wednesday
+	- 34 ran on Thursday
+	- 39 ran on Friday
 ## 🚌 291 | Hurdman - Herongate
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 24 on Monday
-	- 22 on Tuesday
-	- 11 on Wednesday
-	- 30 on Thursday
-	- 33 on Friday
+	- 24 ran on Monday
+	- 22 ran on Tuesday
+	- 11 ran on Wednesday
+	- 30 ran on Thursday
+	- 33 ran on Friday
 ## 🚌 294 | Greenboro <> Lester
 - Trip numbers ⬇️ 38 from 128 to 90
 - Average duration ⬇️ 0:18:58 overall from 0:34:58 to 0:16:00
 - 📅 Tuesday was impacted the most
 - ✅ 90 new trips with an average duration of 0:16:00
-	- 9 on Monday
-	- 27 on Tuesday
-	- 27 on Wednesday
-	- 18 on Thursday
-	- 9 on Friday
+	- 9 run on Monday
+	- 27 run on Tuesday
+	- 27 run on Wednesday
+	- 18 run on Thursday
+	- 9 run on Friday
 - ❌ 128 trips removed with an average duration of 0:34:58
-	- 24 on Monday
-	- 24 on Tuesday
-	- 12 on Wednesday
-	- 32 on Thursday
-	- 36 on Friday
+	- 24 ran on Monday
+	- 24 ran on Tuesday
+	- 12 ran on Wednesday
+	- 32 ran on Thursday
+	- 36 ran on Friday
 ## 🚌 299 | Limebank <> Manotick
 - Trip numbers ⬆️ 12 from 98 to 110
 - Average duration ⬇️ 0:15:33 overall from 0:29:22 to 0:13:49
 - 📅 Tuesday was impacted the most
 - ✅ 110 new trips with an average duration of 0:13:49
-	- 11 on Monday
-	- 33 on Tuesday
-	- 33 on Wednesday
-	- 22 on Thursday
-	- 11 on Friday
+	- 11 run on Monday
+	- 33 run on Tuesday
+	- 33 run on Wednesday
+	- 22 run on Thursday
+	- 11 run on Friday
 - ❌ 98 trips removed with an average duration of 0:29:22
-	- 14 on Monday
-	- 20 on Tuesday
-	- 10 on Wednesday
-	- 24 on Thursday
-	- 30 on Friday
+	- 14 ran on Monday
+	- 20 ran on Tuesday
+	- 10 ran on Wednesday
+	- 24 ran on Thursday
+	- 30 ran on Friday
 ## 🚌 301 | Bayshore / Carlingwood <> Richmond / Stittsville
 - Trip numbers did not change
 - Average duration did not change
 - 📅 Monday was impacted the most
 - ✅ 4 new trips with an average duration of 1:03:00
-	- 4 on Monday
+	- All run on Monday
 - ❌ 4 trips removed with an average duration of 1:03:00
-	- 4 on Monday
+	- All ran on Monday
 ## 🚌 302 | St Laurent / Place D'Orléans <> Cumberland
 - Trip numbers ⬆️ 2 from 4 to 6
 - Average duration did not change
 - 📅 Tuesday was impacted the most
 - ✅ 6 new trips with an average duration of 1:04:00
-	- 6 on Tuesday
+	- All run on Tuesday
 - ❌ 4 trips removed with an average duration of 1:04:00
-	- 4 on Tuesday
+	- All ran on Tuesday
 ## 🚌 303 | Bayshore / Carlingwood <> Dunrobin / Carp / Stittsville
 - Trip numbers ⬆️ 4 from 2 to 6
 - Average duration did not change
 - 📅 Wednesday was impacted the most
 - ✅ 6 new trips with an average duration of 1:14:00
-	- 6 on Wednesday
+	- All run on Wednesday
 - ❌ 2 trips removed with an average duration of 1:14:00
-	- 2 on Wednesday
+	- All ran on Wednesday
 ## 🚌 304 | Billings Bridge / South Keys <> Osgoode / Greely / Metcalfe
 - Trip numbers did not change
 - Average duration did not change
 - 📅 Thursday was impacted the most
 - ✅ 4 new trips with an average duration of 1:13:30
-	- 4 on Thursday
+	- All run on Thursday
 - ❌ 4 trips removed with an average duration of 1:13:30
-	- 4 on Thursday
+	- All ran on Thursday
 ## 🚌 305 | Carlingwood <> North Gower / Manotick
 - Trip numbers ⬇️ 4 from 6 to 2
 - Average duration did not change
 - 📅 Friday was impacted the most
 - ✅ 2 new trips with an average duration of 1:19:00
-	- 2 on Friday
+	- All run on Friday
 - ❌ 6 trips removed with an average duration of 1:19:00
-	- 6 on Friday
+	- All ran on Friday
 ## 🚌 404 | Centre Canadian Tire Centre <> Tunney's Pasture
 - Trip numbers ⬇️ 6 from 38 to 32
 - Average duration ⬆️ 0:02:42 overall from 0:31:25 to 0:34:07
 - 📅 Saturday was impacted the most
 - ✅ 32 new trips with an average duration of 0:34:07
-	- 3 on Monday
-	- 5 on Tuesday
-	- 2 on Wednesday
-	- 8 on Thursday
-	- 5 on Saturday
-	- 9 on Sunday
+	- 3 run on Monday
+	- 5 run on Tuesday
+	- 2 run on Wednesday
+	- 8 run on Thursday
+	- 5 run on Saturday
+	- 9 run on Sunday
 - ❌ 38 trips removed with an average duration of 0:31:25
-	- 8 on Monday
-	- 8 on Thursday
-	- 7 on Friday
-	- 12 on Saturday
-	- 3 on Sunday
+	- 8 ran on Monday
+	- 8 ran on Thursday
+	- 7 ran on Friday
+	- 12 ran on Saturday
+	- 3 ran on Sunday
 ## 🚌 405 
 - Trip numbers ⬇️ 9 from 13 to 4
 - Average duration did not change
 - 📅 Thursday was impacted the most
 - ✅ 4 new trips with an average duration of 0:53:00
-	- 3 on Thursday
-	- 1 on Saturday
+	- 3 run on Thursday
+	- 1 runs on Saturday
 - ❌ 13 trips removed with an average duration of 0:53:00
-	- 3 on Monday
-	- 3 on Thursday
-	- 3 on Friday
-	- 4 on Saturday
+	- 3 ran on Monday
+	- 3 ran on Thursday
+	- 3 ran on Friday
+	- 4 ran on Saturday
 ## 🚌 406 | Limebank
 - Trip numbers ⬇️ 3 from 5 to 2
 - Average duration did not change
 - 📅 Saturday was impacted the most
 - ✅ 2 new trips with an average duration of 0:56:00
-	- 1 on Thursday
-	- 1 on Saturday
+	- 1 runs on Thursday
+	- 1 runs on Saturday
 - ❌ 5 trips removed with an average duration of 0:56:00
-	- 1 on Monday
-	- 1 on Thursday
-	- 1 on Friday
-	- 2 on Saturday
+	- 1 ran on Monday
+	- 1 ran on Thursday
+	- 1 ran on Friday
+	- 2 ran on Saturday
 ## 🚌 602 | De La Salle <> Rideau
 - Trip numbers ⬇️ 2 from 72 to 70
 - Average duration ⬇️ 0:01:07 overall from 0:17:15 to 0:16:08
 - 📅 Tuesday was impacted the most
 - ✅ 70 new trips with an average duration of 0:16:08
-	- 7 on Monday
-	- 21 on Tuesday
-	- 21 on Wednesday
-	- 14 on Thursday
-	- 7 on Friday
+	- 7 run on Monday
+	- 21 run on Tuesday
+	- 21 run on Wednesday
+	- 14 run on Thursday
+	- 7 run on Friday
 - ❌ 72 trips removed with an average duration of 0:17:15
-	- 8 on Monday
-	- 16 on Tuesday
-	- 8 on Wednesday
-	- 16 on Thursday
-	- 24 on Friday
+	- 8 ran on Monday
+	- 16 ran on Tuesday
+	- 8 ran on Wednesday
+	- 16 ran on Thursday
+	- 24 ran on Friday
 ## 🚌 606 | Immaculata H.S
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:40:00
 - 📅 Tuesday and Wednesday were impacted the most
-	- 1 on Monday
-	- 3 on Tuesday
-	- 3 on Wednesday
-	- 2 on Thursday
-	- 1 on Friday
+	- 1 runs on Monday
+	- 3 run on Tuesday
+	- 3 run on Wednesday
+	- 2 run on Thursday
+	- 1 runs on Friday
 ## 🚌 609 | De La Salle <> Elmvale
 - Trip numbers ⬆️ 5 from 45 to 50
 - Average duration ⬆️ 0:07:24 overall from 0:27:36 to 0:35:00
 - 📅 Tuesday was impacted the most
 - ✅ 50 new trips with an average duration of 0:35:00
-	- 5 on Monday
-	- 15 on Tuesday
-	- 15 on Wednesday
-	- 10 on Thursday
-	- 5 on Friday
+	- 5 run on Monday
+	- 15 run on Tuesday
+	- 15 run on Wednesday
+	- 10 run on Thursday
+	- 5 run on Friday
 - ❌ 45 trips removed with an average duration of 0:27:36
-	- 5 on Monday
-	- 10 on Tuesday
-	- 5 on Wednesday
-	- 10 on Thursday
-	- 15 on Friday
+	- 5 ran on Monday
+	- 10 ran on Tuesday
+	- 5 ran on Wednesday
+	- 10 ran on Thursday
+	- 15 ran on Friday
 ## 🚌 610 | St. Pius <> Baseline
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:33:30
 - 📅 Tuesday and Wednesday were impacted the most
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 ## 🚌 611 | Gisele Lalonde <> Orléans
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration did not change
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:28:30
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:28:30
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 612 | Béatrice Desloges / Gisele Lalonde <> Renaud
 - Trip numbers ⬆️ 6 from 54 to 60
 - Average duration ⬆️ 0:04:50 overall from 0:27:00 to 0:31:50
 - 📅 Tuesday was impacted the most
 - ✅ 60 new trips with an average duration of 0:31:50
-	- 6 on Monday
-	- 18 on Tuesday
-	- 18 on Wednesday
-	- 12 on Thursday
-	- 6 on Friday
+	- 6 run on Monday
+	- 18 run on Tuesday
+	- 18 run on Wednesday
+	- 12 run on Thursday
+	- 6 run on Friday
 - ❌ 54 trips removed with an average duration of 0:27:00
-	- 6 on Monday
-	- 12 on Tuesday
-	- 6 on Wednesday
-	- 12 on Thursday
-	- 18 on Friday
+	- 6 ran on Monday
+	- 12 ran on Tuesday
+	- 6 ran on Wednesday
+	- 12 ran on Thursday
+	- 18 ran on Friday
 ## 🚌 613 | Hurdman
 - Trip numbers ⬆️ 1 from 9 to 10
 - Average duration ⬆️ 0:01:00 overall from 0:17:00 to 0:18:00
 - 📅 Tuesday was impacted the most
 - ✅ 10 new trips with an average duration of 0:18:00
-	- 1 on Monday
-	- 3 on Tuesday
-	- 3 on Wednesday
-	- 2 on Thursday
-	- 1 on Friday
+	- 1 runs on Monday
+	- 3 run on Tuesday
+	- 3 run on Wednesday
+	- 2 run on Thursday
+	- 1 runs on Friday
 - ❌ 9 trips removed with an average duration of 0:17:00
-	- 1 on Monday
-	- 2 on Tuesday
-	- 1 on Wednesday
-	- 2 on Thursday
-	- 3 on Friday
+	- 1 ran on Monday
+	- 2 ran on Tuesday
+	- 1 ran on Wednesday
+	- 2 ran on Thursday
+	- 3 ran on Friday
 ## 🚌 615 | Parliament ~ Parlement
 - Trip numbers ⬆️ 1 from 9 to 10
 - Average duration ⬆️ 0:03:00 overall from 0:45:00 to 0:48:00
 - 📅 Tuesday was impacted the most
 - ✅ 10 new trips with an average duration of 0:48:00
-	- 1 on Monday
-	- 3 on Tuesday
-	- 3 on Wednesday
-	- 2 on Thursday
-	- 1 on Friday
+	- 1 runs on Monday
+	- 3 run on Tuesday
+	- 3 run on Wednesday
+	- 2 run on Thursday
+	- 1 runs on Friday
 - ❌ 9 trips removed with an average duration of 0:45:00
-	- 1 on Monday
-	- 2 on Tuesday
-	- 1 on Wednesday
-	- 2 on Thursday
-	- 3 on Friday
+	- 1 ran on Monday
+	- 2 ran on Tuesday
+	- 1 ran on Wednesday
+	- 2 ran on Thursday
+	- 3 ran on Friday
 ## 🚌 616 | Gloucester H.S <> Parliament ~ Parlement
 - Trip numbers ⬆️ 3 from 27 to 30
 - Average duration ⬆️ 0:02:20 overall from 0:41:00 to 0:43:20
 - 📅 Tuesday was impacted the most
 - ✅ 30 new trips with an average duration of 0:43:20
-	- 3 on Monday
-	- 9 on Tuesday
-	- 9 on Wednesday
-	- 6 on Thursday
-	- 3 on Friday
+	- 3 run on Monday
+	- 9 run on Tuesday
+	- 9 run on Wednesday
+	- 6 run on Thursday
+	- 3 run on Friday
 - ❌ 27 trips removed with an average duration of 0:41:00
-	- 3 on Monday
-	- 6 on Tuesday
-	- 3 on Wednesday
-	- 6 on Thursday
-	- 9 on Friday
+	- 3 ran on Monday
+	- 6 ran on Tuesday
+	- 3 ran on Wednesday
+	- 6 ran on Thursday
+	- 9 ran on Friday
 ## 🚌 617 | Omer-Deslauriers <> Hurdman
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:49:30
 - 📅 Tuesday and Wednesday were impacted the most
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 ## 🚌 618 | Louis Riel <> Millennium
 - Trip numbers ⬆️ 4 from 36 to 40
 - Average duration ⬆️ 0:07:30 overall from 0:31:30 to 0:39:00
 - 📅 Tuesday was impacted the most
 - ✅ 40 new trips with an average duration of 0:39:00
-	- 4 on Monday
-	- 12 on Tuesday
-	- 12 on Wednesday
-	- 8 on Thursday
-	- 4 on Friday
+	- 4 run on Monday
+	- 12 run on Tuesday
+	- 12 run on Wednesday
+	- 8 run on Thursday
+	- 4 run on Friday
 - ❌ 36 trips removed with an average duration of 0:31:30
-	- 4 on Monday
-	- 8 on Tuesday
-	- 4 on Wednesday
-	- 8 on Thursday
-	- 12 on Friday
+	- 4 ran on Monday
+	- 8 ran on Tuesday
+	- 4 ran on Wednesday
+	- 8 ran on Thursday
+	- 12 ran on Friday
 ## 🚌 619 | Louis Riel <> Blair
 - Trip numbers ⬆️ 3 from 27 to 30
 - Average duration ⬆️ 0:07:40 overall from 0:15:20 to 0:23:00
 - 📅 Tuesday was impacted the most
 - ✅ 30 new trips with an average duration of 0:23:00
-	- 3 on Monday
-	- 9 on Tuesday
-	- 9 on Wednesday
-	- 6 on Thursday
-	- 3 on Friday
+	- 3 run on Monday
+	- 9 run on Tuesday
+	- 9 run on Wednesday
+	- 6 run on Thursday
+	- 3 run on Friday
 - ❌ 27 trips removed with an average duration of 0:15:20
-	- 3 on Monday
-	- 6 on Tuesday
-	- 3 on Wednesday
-	- 6 on Thursday
-	- 9 on Friday
+	- 3 ran on Monday
+	- 6 ran on Tuesday
+	- 3 ran on Wednesday
+	- 6 ran on Thursday
+	- 9 ran on Friday
 ## 🚌 620 | St-Laurent
 - Trip numbers ⬆️ 1 from 9 to 10
 - Average duration ⬆️ 0:02:00 overall from 0:16:00 to 0:18:00
 - 📅 Tuesday was impacted the most
 - ✅ 10 new trips with an average duration of 0:18:00
-	- 1 on Monday
-	- 3 on Tuesday
-	- 3 on Wednesday
-	- 2 on Thursday
-	- 1 on Friday
+	- 1 runs on Monday
+	- 3 run on Tuesday
+	- 3 run on Wednesday
+	- 2 run on Thursday
+	- 1 runs on Friday
 - ❌ 9 trips removed with an average duration of 0:16:00
-	- 1 on Monday
-	- 2 on Tuesday
-	- 1 on Wednesday
-	- 2 on Thursday
-	- 3 on Friday
+	- 1 ran on Monday
+	- 2 ran on Tuesday
+	- 1 ran on Wednesday
+	- 2 ran on Thursday
+	- 3 ran on Friday
 ## 🚌 621 | Colonel By H.S <> Bearbrook
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:40:50
 - 📅 Tuesday and Wednesday were impacted the most
-	- 6 on Monday
-	- 18 on Tuesday
-	- 18 on Wednesday
-	- 12 on Thursday
-	- 6 on Friday
+	- 6 run on Monday
+	- 18 run on Tuesday
+	- 18 run on Wednesday
+	- 12 run on Thursday
+	- 6 run on Friday
 ## 🚌 622 | Colonel By / Gloucester H.S / Lester B. Pearson <> Renaud
 - Trip numbers ⬆️ 4 from 36 to 40
 - Average duration ⬆️ 0:08:00 overall from 0:36:00 to 0:44:00
 - 📅 Tuesday was impacted the most
 - ✅ 40 new trips with an average duration of 0:44:00
-	- 4 on Monday
-	- 12 on Tuesday
-	- 12 on Wednesday
-	- 8 on Thursday
-	- 4 on Friday
+	- 4 run on Monday
+	- 12 run on Tuesday
+	- 12 run on Wednesday
+	- 8 run on Thursday
+	- 4 run on Friday
 - ❌ 36 trips removed with an average duration of 0:36:00
-	- 4 on Monday
-	- 8 on Tuesday
-	- 4 on Wednesday
-	- 8 on Thursday
-	- 12 on Friday
+	- 4 ran on Monday
+	- 8 ran on Tuesday
+	- 4 ran on Wednesday
+	- 8 ran on Thursday
+	- 12 ran on Friday
 ## 🚌 624 | Gloucester H.S <> Rideau
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration did not change
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:45:30
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:45:30
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 628 | Louis-Riel <> Blair
 - Trip numbers ⬆️ 64 from 36 to 100
 - Average duration ⬆️ 0:00:12 overall from 0:21:00 to 0:21:12
 - 📅 Tuesday was impacted the most
 - ✅ 100 new trips with an average duration of 0:21:12
-	- 10 on Monday
-	- 30 on Tuesday
-	- 30 on Wednesday
-	- 20 on Thursday
-	- 10 on Friday
+	- 10 run on Monday
+	- 30 run on Tuesday
+	- 30 run on Wednesday
+	- 20 run on Thursday
+	- 10 run on Friday
 - ❌ 36 trips removed with an average duration of 0:21:00
-	- 4 on Monday
-	- 8 on Tuesday
-	- 4 on Wednesday
-	- 8 on Thursday
-	- 12 on Friday
+	- 4 ran on Monday
+	- 8 ran on Tuesday
+	- 4 ran on Wednesday
+	- 8 ran on Thursday
+	- 12 ran on Friday
 ## 🚌 630 | Blair / Colonel By / Gloucester H.S <> Millennium
 - Trip numbers ⬆️ 3 from 27 to 30
 - Average duration ⬆️ 0:06:20 overall from 0:41:40 to 0:48:00
 - 📅 Tuesday was impacted the most
 - ✅ 30 new trips with an average duration of 0:48:00
-	- 3 on Monday
-	- 9 on Tuesday
-	- 9 on Wednesday
-	- 6 on Thursday
-	- 3 on Friday
+	- 3 run on Monday
+	- 9 run on Tuesday
+	- 9 run on Wednesday
+	- 6 run on Thursday
+	- 3 run on Friday
 - ❌ 27 trips removed with an average duration of 0:41:40
-	- 3 on Monday
-	- 6 on Tuesday
-	- 3 on Wednesday
-	- 6 on Thursday
-	- 9 on Friday
+	- 3 ran on Monday
+	- 6 ran on Tuesday
+	- 3 ran on Wednesday
+	- 6 ran on Thursday
+	- 9 ran on Friday
 ## 🚌 631 | Colonel By / Gloucester H.S <> Chapel Hill
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:06:00 overall from 0:38:00 to 0:44:00
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:44:00
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:38:00
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 632 | Gisèle Lalonde <> Orléans
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:02:00 overall from 0:28:00 to 0:30:00
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:30:00
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:28:00
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 633 | Lester B. Pearson <> St-Laurent
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:06:00 overall from 0:23:30 to 0:29:30
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:29:30
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:23:30
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 634 | Mer bleue <> Place d'Orléans
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:06:00 overall from 0:26:30 to 0:32:30
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:32:30
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:26:30
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 635 | Cairine Wilson
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 636 | Tenth Line <> Place d'Orléans
 - Trip numbers ⬆️ 1 from 9 to 10
 - Average duration ⬆️ 0:03:00 overall from 0:06:00 to 0:09:00
 - 📅 Tuesday was impacted the most
 - ✅ 10 new trips with an average duration of 0:09:00
-	- 1 on Monday
-	- 3 on Tuesday
-	- 3 on Wednesday
-	- 2 on Thursday
-	- 1 on Friday
+	- 1 runs on Monday
+	- 3 run on Tuesday
+	- 3 run on Wednesday
+	- 2 run on Thursday
+	- 1 runs on Friday
 - ❌ 9 trips removed with an average duration of 0:06:00
-	- 1 on Monday
-	- 2 on Tuesday
-	- 1 on Wednesday
-	- 2 on Thursday
-	- 3 on Friday
+	- 1 ran on Monday
+	- 2 ran on Tuesday
+	- 1 ran on Wednesday
+	- 2 ran on Thursday
+	- 3 ran on Friday
 ## 🚌 637 | St. Matthew H.S <> Chapel Hill
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:40:30
 - 📅 Tuesday and Wednesday were impacted the most
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 ## 🚌 638 | Cairine Wilson H.S <> Place d'Orléans
 - Trip numbers ⬆️ 21 from 9 to 30
 - Average duration ⬇️ 0:03:00 overall from 0:17:00 to 0:14:00
 - 📅 Tuesday was impacted the most
 - ✅ 30 new trips with an average duration of 0:14:00
-	- 3 on Monday
-	- 9 on Tuesday
-	- 9 on Wednesday
-	- 6 on Thursday
-	- 3 on Friday
+	- 3 run on Monday
+	- 9 run on Tuesday
+	- 9 run on Wednesday
+	- 6 run on Thursday
+	- 3 run on Friday
 - ❌ 9 trips removed with an average duration of 0:17:00
-	- 1 on Monday
-	- 2 on Tuesday
-	- 1 on Wednesday
-	- 2 on Thursday
-	- 3 on Friday
+	- 1 ran on Monday
+	- 2 ran on Tuesday
+	- 1 ran on Wednesday
+	- 2 ran on Thursday
+	- 3 ran on Friday
 ## 🚌 639 | Gisèle Lalonde <> Place d'Orléans
 - Trip numbers ⬆️ 3 from 27 to 30
 - Average duration ⬆️ 0:02:40 overall from 0:44:20 to 0:47:00
 - 📅 Tuesday was impacted the most
 - ✅ 30 new trips with an average duration of 0:47:00
-	- 3 on Monday
-	- 9 on Tuesday
-	- 9 on Wednesday
-	- 6 on Thursday
-	- 3 on Friday
+	- 3 run on Monday
+	- 9 run on Tuesday
+	- 9 run on Wednesday
+	- 6 run on Thursday
+	- 3 run on Friday
 - ❌ 27 trips removed with an average duration of 0:44:20
-	- 3 on Monday
-	- 6 on Tuesday
-	- 3 on Wednesday
-	- 6 on Thursday
-	- 9 on Friday
+	- 3 ran on Monday
+	- 6 ran on Tuesday
+	- 3 ran on Wednesday
+	- 6 ran on Thursday
+	- 9 ran on Friday
 ## 🚌 640 | Brookfield <> Greenboro
 - Trip numbers ⬆️ 3 from 27 to 30
 - Average duration ⬆️ 0:03:00 overall from 0:29:00 to 0:32:00
 - 📅 Tuesday was impacted the most
 - ✅ 30 new trips with an average duration of 0:32:00
-	- 3 on Monday
-	- 9 on Tuesday
-	- 9 on Wednesday
-	- 6 on Thursday
-	- 3 on Friday
+	- 3 run on Monday
+	- 9 run on Tuesday
+	- 9 run on Wednesday
+	- 6 run on Thursday
+	- 3 run on Friday
 - ❌ 27 trips removed with an average duration of 0:29:00
-	- 3 on Monday
-	- 6 on Tuesday
-	- 3 on Wednesday
-	- 6 on Thursday
-	- 9 on Friday
+	- 3 ran on Monday
+	- 6 ran on Tuesday
+	- 3 ran on Wednesday
+	- 6 ran on Thursday
+	- 9 ran on Friday
 ## 🚌 641 | Louis Riel <> Orléans
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:08:30 overall from 0:23:00 to 0:31:30
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:31:30
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:23:00
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 644 | Canterbury H.S <> Greenboro
 - Trip numbers ⬆️ 5 from 45 to 50
 - Average duration ⬆️ 0:08:48 overall from 0:24:48 to 0:33:36
 - 📅 Tuesday was impacted the most
 - ✅ 50 new trips with an average duration of 0:33:36
-	- 5 on Monday
-	- 15 on Tuesday
-	- 15 on Wednesday
-	- 10 on Thursday
-	- 5 on Friday
+	- 5 run on Monday
+	- 15 run on Tuesday
+	- 15 run on Wednesday
+	- 10 run on Thursday
+	- 5 run on Friday
 - ❌ 45 trips removed with an average duration of 0:24:48
-	- 5 on Monday
-	- 10 on Tuesday
-	- 5 on Wednesday
-	- 10 on Thursday
-	- 15 on Friday
+	- 5 ran on Monday
+	- 10 ran on Tuesday
+	- 5 ran on Wednesday
+	- 10 ran on Thursday
+	- 15 ran on Friday
 ## 🚌 645 | Hurdman
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬇️ 0:04:00 overall from 0:21:00 to 0:17:00
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:17:00
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:21:00
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 646 | Canterbury H.S <> Terry Fox
 - Trip numbers ⬆️ 4 from 36 to 40
 - Average duration ⬇️ 0:03:00 overall from 1:23:30 to 1:20:30
 - 📅 Tuesday was impacted the most
 - ✅ 40 new trips with an average duration of 1:20:30
-	- 4 on Monday
-	- 12 on Tuesday
-	- 12 on Wednesday
-	- 8 on Thursday
-	- 4 on Friday
+	- 4 run on Monday
+	- 12 run on Tuesday
+	- 12 run on Wednesday
+	- 8 run on Thursday
+	- 4 run on Friday
 - ❌ 36 trips removed with an average duration of 1:23:30
-	- 4 on Monday
-	- 8 on Tuesday
-	- 4 on Wednesday
-	- 8 on Thursday
-	- 12 on Friday
+	- 4 ran on Monday
+	- 8 ran on Tuesday
+	- 4 ran on Wednesday
+	- 8 ran on Thursday
+	- 12 ran on Friday
 ## 🚌 647 | Canterbury H.S. <> Hurdman
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:20:08
 - 📅 Tuesday and Wednesday were impacted the most
-	- 7 on Monday
-	- 21 on Tuesday
-	- 21 on Wednesday
-	- 14 on Thursday
-	- 7 on Friday
+	- 7 run on Monday
+	- 21 run on Tuesday
+	- 21 run on Wednesday
+	- 14 run on Thursday
+	- 7 run on Friday
 ## 🚌 648 | Louis Riel <> Orléans
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:05:00 overall from 0:25:30 to 0:30:30
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:30:30
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:25:30
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 649 | Hillcrest <> Greenboro
 - Trip numbers ⬆️ 3 from 27 to 30
 - Average duration ⬆️ 0:09:40 overall from 0:32:40 to 0:42:20
 - 📅 Tuesday was impacted the most
 - ✅ 30 new trips with an average duration of 0:42:20
-	- 3 on Monday
-	- 9 on Tuesday
-	- 9 on Wednesday
-	- 6 on Thursday
-	- 3 on Friday
+	- 3 run on Monday
+	- 9 run on Tuesday
+	- 9 run on Wednesday
+	- 6 run on Thursday
+	- 3 run on Friday
 - ❌ 27 trips removed with an average duration of 0:32:40
-	- 3 on Monday
-	- 6 on Tuesday
-	- 3 on Wednesday
-	- 6 on Thursday
-	- 9 on Friday
+	- 3 ran on Monday
+	- 6 ran on Tuesday
+	- 3 ran on Wednesday
+	- 6 ran on Thursday
+	- 9 ran on Friday
 ## 🚌 656 | A.Y Jackson <> Hope Side
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:32:30
 - 📅 Tuesday and Wednesday were impacted the most
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 ## 🚌 657 | A.Y Jackson <> Hope Side
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:29:30
 - 📅 Tuesday and Wednesday were impacted the most
-	- 4 on Monday
-	- 12 on Tuesday
-	- 12 on Wednesday
-	- 8 on Thursday
-	- 4 on Friday
+	- 4 run on Monday
+	- 12 run on Tuesday
+	- 12 run on Wednesday
+	- 8 run on Thursday
+	- 4 run on Friday
 ## 🚌 658 | Grandview / Borden <> Bell H.S
 - Trip numbers ⬆️ 5 from 45 to 50
 - Average duration ⬆️ 0:08:24 overall from 0:28:48 to 0:37:12
 - 📅 Tuesday was impacted the most
 - ✅ 50 new trips with an average duration of 0:37:12
-	- 5 on Monday
-	- 15 on Tuesday
-	- 15 on Wednesday
-	- 10 on Thursday
-	- 5 on Friday
+	- 5 run on Monday
+	- 15 run on Tuesday
+	- 15 run on Wednesday
+	- 10 run on Thursday
+	- 5 run on Friday
 - ❌ 45 trips removed with an average duration of 0:28:48
-	- 5 on Monday
-	- 10 on Tuesday
-	- 5 on Wednesday
-	- 10 on Thursday
-	- 15 on Friday
+	- 5 ran on Monday
+	- 10 ran on Tuesday
+	- 5 ran on Wednesday
+	- 10 ran on Thursday
+	- 15 ran on Friday
 ## 🚌 660 | Bell H.S <> Innovation
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:15:00 overall from 0:40:00 to 0:55:00
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:55:00
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:40:00
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 661 | Bell H.S <> Terry Fox
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:11:30 overall from 0:33:30 to 0:45:00
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:45:00
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:33:30
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 662 | Holy Trinity <> Bridlewood
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:19:00
 - 📅 Tuesday and Wednesday were impacted the most
-	- 1 on Monday
-	- 3 on Tuesday
-	- 3 on Wednesday
-	- 2 on Thursday
-	- 1 on Friday
+	- 1 runs on Monday
+	- 3 run on Tuesday
+	- 3 run on Wednesday
+	- 2 run on Thursday
+	- 1 runs on Friday
 ## 🚌 663 | Earl of March H.S <> Terry Fox
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:26:43
 - 📅 Tuesday and Wednesday were impacted the most
-	- 11 on Monday
-	- 33 on Tuesday
-	- 33 on Wednesday
-	- 22 on Thursday
-	- 11 on Friday
+	- 11 run on Monday
+	- 33 run on Tuesday
+	- 33 run on Wednesday
+	- 22 run on Thursday
+	- 11 run on Friday
 ## 🚌 664 | Earl of March <> Terry Fox
 - Trip numbers ⬆️ 6 from 54 to 60
 - Average duration did not change
 - 📅 Tuesday was impacted the most
 - ✅ 60 new trips with an average duration of 0:19:30
-	- 6 on Monday
-	- 18 on Tuesday
-	- 18 on Wednesday
-	- 12 on Thursday
-	- 6 on Friday
+	- 6 run on Monday
+	- 18 run on Tuesday
+	- 18 run on Wednesday
+	- 12 run on Thursday
+	- 6 run on Friday
 - ❌ 54 trips removed with an average duration of 0:19:30
-	- 6 on Monday
-	- 12 on Tuesday
-	- 6 on Wednesday
-	- 12 on Thursday
-	- 18 on Friday
+	- 6 ran on Monday
+	- 12 ran on Tuesday
+	- 6 ran on Wednesday
+	- 12 ran on Thursday
+	- 18 ran on Friday
 ## 🚌 665 | Bell H.S <> Bridlewood
 - Trip numbers ⬆️ 5 from 45 to 50
 - Average duration ⬆️ 0:04:24 overall from 0:38:36 to 0:43:00
 - 📅 Tuesday was impacted the most
 - ✅ 50 new trips with an average duration of 0:43:00
-	- 5 on Monday
-	- 15 on Tuesday
-	- 15 on Wednesday
-	- 10 on Thursday
-	- 5 on Friday
+	- 5 run on Monday
+	- 15 run on Tuesday
+	- 15 run on Wednesday
+	- 10 run on Thursday
+	- 5 run on Friday
 - ❌ 45 trips removed with an average duration of 0:38:36
-	- 5 on Monday
-	- 10 on Tuesday
-	- 5 on Wednesday
-	- 10 on Thursday
-	- 15 on Friday
+	- 5 ran on Monday
+	- 10 ran on Tuesday
+	- 5 ran on Wednesday
+	- 10 ran on Thursday
+	- 15 ran on Friday
 ## 🚌 667 | Holy Trinity H.S <> Hope Side
 - Trip numbers ⬆️ 11 from 99 to 110
 - Average duration ⬆️ 0:06:11 overall from 0:27:05 to 0:33:16
 - 📅 Tuesday was impacted the most
 - ✅ 110 new trips with an average duration of 0:33:16
-	- 11 on Monday
-	- 33 on Tuesday
-	- 33 on Wednesday
-	- 22 on Thursday
-	- 11 on Friday
+	- 11 run on Monday
+	- 33 run on Tuesday
+	- 33 run on Wednesday
+	- 22 run on Thursday
+	- 11 run on Friday
 - ❌ 99 trips removed with an average duration of 0:27:05
-	- 11 on Monday
-	- 22 on Tuesday
-	- 11 on Wednesday
-	- 22 on Thursday
-	- 33 on Friday
+	- 11 ran on Monday
+	- 22 ran on Tuesday
+	- 11 ran on Wednesday
+	- 22 ran on Thursday
+	- 33 ran on Friday
 ## 🚌 668 | Holy Trinity H.S <> Bridlewood
 - Trip numbers ⬆️ 10 from 90 to 100
 - Average duration ⬆️ 0:07:18 overall from 0:31:06 to 0:38:24
 - 📅 Tuesday was impacted the most
 - ✅ 100 new trips with an average duration of 0:38:24
-	- 10 on Monday
-	- 30 on Tuesday
-	- 30 on Wednesday
-	- 20 on Thursday
-	- 10 on Friday
+	- 10 run on Monday
+	- 30 run on Tuesday
+	- 30 run on Wednesday
+	- 20 run on Thursday
+	- 10 run on Friday
 - ❌ 90 trips removed with an average duration of 0:31:06
-	- 10 on Monday
-	- 20 on Tuesday
-	- 10 on Wednesday
-	- 20 on Thursday
-	- 30 on Friday
+	- 10 ran on Monday
+	- 20 ran on Tuesday
+	- 10 ran on Wednesday
+	- 20 ran on Thursday
+	- 30 ran on Friday
 ## 🚌 669 | Bell <> Bayshore
 - Trip numbers ⬆️ 7 from 63 to 70
 - Average duration ⬇️ 0:02:26 overall from 0:20:51 to 0:18:25
 - 📅 Tuesday was impacted the most
 - ✅ 70 new trips with an average duration of 0:18:25
-	- 7 on Monday
-	- 21 on Tuesday
-	- 21 on Wednesday
-	- 14 on Thursday
-	- 7 on Friday
+	- 7 run on Monday
+	- 21 run on Tuesday
+	- 21 run on Wednesday
+	- 14 run on Thursday
+	- 7 run on Friday
 - ❌ 63 trips removed with an average duration of 0:20:51
-	- 7 on Monday
-	- 14 on Tuesday
-	- 7 on Wednesday
-	- 14 on Thursday
-	- 21 on Friday
+	- 7 ran on Monday
+	- 14 ran on Tuesday
+	- 7 ran on Wednesday
+	- 14 ran on Thursday
+	- 21 ran on Friday
 ## 🚌 670 | St. Pius <> Nepean S.
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:01:30 overall from 0:36:07 to 0:37:37
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:37:37
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:36:07
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 671 | John McCrae H.S <> Half Moon Bay
 - Trip numbers ⬆️ 10 from 90 to 100
 - Average duration ⬆️ 0:08:12 overall from 0:30:42 to 0:38:54
 - 📅 Tuesday was impacted the most
 - ✅ 100 new trips with an average duration of 0:38:54
-	- 10 on Monday
-	- 30 on Tuesday
-	- 30 on Wednesday
-	- 20 on Thursday
-	- 10 on Friday
+	- 10 run on Monday
+	- 30 run on Tuesday
+	- 30 run on Wednesday
+	- 20 run on Thursday
+	- 10 run on Friday
 - ❌ 90 trips removed with an average duration of 0:30:42
-	- 10 on Monday
-	- 20 on Tuesday
-	- 10 on Wednesday
-	- 20 on Thursday
-	- 30 on Friday
+	- 10 ran on Monday
+	- 20 ran on Tuesday
+	- 10 ran on Wednesday
+	- 20 ran on Thursday
+	- 30 ran on Friday
 ## 🚌 672 | John McCrae H.S <> Golflinks
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:03:30 overall from 0:20:00 to 0:23:30
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:23:30
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:20:00
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 673 | Fallowfield <> Longfields Davidson Height & Pierre-de-blois
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:40:17
 - 📅 Tuesday and Wednesday were impacted the most
-	- 7 on Monday
-	- 21 on Tuesday
-	- 21 on Wednesday
-	- 14 on Thursday
-	- 7 on Friday
+	- 7 run on Monday
+	- 21 run on Tuesday
+	- 21 run on Wednesday
+	- 14 run on Thursday
+	- 7 run on Friday
 ## 🚌 674 | All Saints <> Innovation
 - Trip numbers ⬆️ 23 from 117 to 140
 - Average duration ⬇️ 0:00:28 overall from 0:30:32 to 0:30:04
 - 📅 Tuesday was impacted the most
 - ✅ 134 new trips with an average duration of 0:30:01
-	- 13 on Monday
-	- 41 on Tuesday
-	- 40 on Wednesday
-	- 27 on Thursday
-	- 13 on Friday
+	- 13 run on Monday
+	- 41 run on Tuesday
+	- 40 run on Wednesday
+	- 27 run on Thursday
+	- 13 run on Friday
 - ❌ 111 trips removed with an average duration of 0:30:21
-	- 12 on Monday
-	- 25 on Tuesday
-	- 12 on Wednesday
-	- 25 on Thursday
-	- 37 on Friday
+	- 12 ran on Monday
+	- 25 ran on Tuesday
+	- 12 ran on Wednesday
+	- 25 ran on Thursday
+	- 37 ran on Friday
 ## 🚌 675 | Bell H.S / Franco-Ouest <> Cambrian
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration did not change
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 1:02:30
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 1:02:30
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 676 | St. Mother Teresa H.S <> Riverview
 - Trip numbers ⬆️ 4 from 36 to 40
 - Average duration ⬆️ 0:07:30 overall from 0:14:00 to 0:21:30
 - 📅 Tuesday was impacted the most
 - ✅ 40 new trips with an average duration of 0:21:30
-	- 4 on Monday
-	- 12 on Tuesday
-	- 12 on Wednesday
-	- 8 on Thursday
-	- 4 on Friday
+	- 4 run on Monday
+	- 12 run on Tuesday
+	- 12 run on Wednesday
+	- 8 run on Thursday
+	- 4 run on Friday
 - ❌ 36 trips removed with an average duration of 0:14:00
-	- 4 on Monday
-	- 8 on Tuesday
-	- 4 on Wednesday
-	- 8 on Thursday
-	- 12 on Friday
+	- 4 ran on Monday
+	- 8 ran on Tuesday
+	- 4 ran on Wednesday
+	- 8 ran on Thursday
+	- 12 ran on Friday
 ## 🚌 677 | Larkin <> St. Joseph H.S
 - Trip numbers ⬇️ 14 from 54 to 40
 - Average duration ⬆️ 0:06:00 overall from 0:23:00 to 0:29:00
 - 📅 Tuesday was impacted the most
 - ✅ 40 new trips with an average duration of 0:29:00
-	- 4 on Monday
-	- 12 on Tuesday
-	- 12 on Wednesday
-	- 8 on Thursday
-	- 4 on Friday
+	- 4 run on Monday
+	- 12 run on Tuesday
+	- 12 run on Wednesday
+	- 8 run on Thursday
+	- 4 run on Friday
 - ❌ 54 trips removed with an average duration of 0:23:00
-	- 6 on Monday
-	- 12 on Tuesday
-	- 6 on Wednesday
-	- 12 on Thursday
-	- 18 on Friday
+	- 6 ran on Monday
+	- 12 ran on Tuesday
+	- 6 ran on Wednesday
+	- 12 ran on Thursday
+	- 18 ran on Friday
 ## 🚌 678 | Louis Riel <> Orléans
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:07:30 overall from 0:25:00 to 0:32:30
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:32:30
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:25:00
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 679 | St Joseph H.S <> Cobble Hill
 - Trip numbers ⬇️ 12 from 72 to 60
 - Average duration ⬆️ 0:02:45 overall from 0:23:15 to 0:26:00
 - 📅 Tuesday was impacted the most
 - ✅ 60 new trips with an average duration of 0:26:00
-	- 6 on Monday
-	- 18 on Tuesday
-	- 18 on Wednesday
-	- 12 on Thursday
-	- 6 on Friday
+	- 6 run on Monday
+	- 18 run on Tuesday
+	- 18 run on Wednesday
+	- 12 run on Thursday
+	- 6 run on Friday
 - ❌ 72 trips removed with an average duration of 0:23:15
-	- 8 on Monday
-	- 16 on Tuesday
-	- 8 on Wednesday
-	- 16 on Thursday
-	- 24 on Friday
+	- 8 ran on Monday
+	- 16 ran on Tuesday
+	- 8 ran on Wednesday
+	- 16 ran on Thursday
+	- 24 ran on Friday
 ## 🚌 680 | Merivale H.S <> Riverside South ~ Riverside Sud
 - Trip numbers ⬆️ 8 from 72 to 80
 - Average duration ⬇️ 0:00:38 overall from 0:30:30 to 0:29:52
 - 📅 Tuesday was impacted the most
 - ✅ 80 new trips with an average duration of 0:29:52
-	- 8 on Monday
-	- 24 on Tuesday
-	- 24 on Wednesday
-	- 16 on Thursday
-	- 8 on Friday
+	- 8 run on Monday
+	- 24 run on Tuesday
+	- 24 run on Wednesday
+	- 16 run on Thursday
+	- 8 run on Friday
 - ❌ 72 trips removed with an average duration of 0:30:30
-	- 8 on Monday
-	- 16 on Tuesday
-	- 8 on Wednesday
-	- 16 on Thursday
-	- 24 on Friday
+	- 8 ran on Monday
+	- 16 ran on Tuesday
+	- 8 ran on Wednesday
+	- 16 ran on Thursday
+	- 24 ran on Friday
 ## 🚌 681 | Bell H.S <> Kanata
 - Trip numbers ⬆️ 2 from 18 to 20
 - Average duration ⬆️ 0:08:30 overall from 0:44:00 to 0:52:30
 - 📅 Tuesday was impacted the most
 - ✅ 20 new trips with an average duration of 0:52:30
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 - ❌ 18 trips removed with an average duration of 0:44:00
-	- 2 on Monday
-	- 4 on Tuesday
-	- 2 on Wednesday
-	- 4 on Thursday
-	- 6 on Friday
+	- 2 ran on Monday
+	- 4 ran on Tuesday
+	- 2 ran on Wednesday
+	- 4 ran on Thursday
+	- 6 ran on Friday
 ## 🚌 682 | Cedarview M.S <> Fallowfield
 - Trip numbers ⬆️ 6 from 54 to 60
 - Average duration ⬆️ 0:06:00 overall from 0:16:40 to 0:22:40
 - 📅 Tuesday was impacted the most
 - ✅ 60 new trips with an average duration of 0:22:40
-	- 6 on Monday
-	- 18 on Tuesday
-	- 18 on Wednesday
-	- 12 on Thursday
-	- 6 on Friday
+	- 6 run on Monday
+	- 18 run on Tuesday
+	- 18 run on Wednesday
+	- 12 run on Thursday
+	- 6 run on Friday
 - ❌ 54 trips removed with an average duration of 0:16:40
-	- 6 on Monday
-	- 12 on Tuesday
-	- 6 on Wednesday
-	- 12 on Thursday
-	- 18 on Friday
+	- 6 ran on Monday
+	- 12 ran on Tuesday
+	- 6 ran on Wednesday
+	- 12 ran on Thursday
+	- 18 ran on Friday
 ## 🚌 683 | Cedarview M.S <> Half Moon Bay
 - Trip numbers ⬆️ 16 from 144 to 160
 - Average duration ⬆️ 0:04:30 overall from 0:40:48 to 0:45:18
 - 📅 Tuesday was impacted the most
 - ✅ 160 new trips with an average duration of 0:45:18
-	- 16 on Monday
-	- 48 on Tuesday
-	- 48 on Wednesday
-	- 32 on Thursday
-	- 16 on Friday
+	- 16 run on Monday
+	- 48 run on Tuesday
+	- 48 run on Wednesday
+	- 32 run on Thursday
+	- 16 run on Friday
 - ❌ 144 trips removed with an average duration of 0:40:48
-	- 16 on Monday
-	- 32 on Tuesday
-	- 16 on Wednesday
-	- 32 on Thursday
-	- 48 on Friday
+	- 16 ran on Monday
+	- 32 ran on Tuesday
+	- 16 ran on Wednesday
+	- 32 ran on Thursday
+	- 48 ran on Friday
 ## 🚌 684 | Golflinks <> Longfields-Davidson Heights
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:21:00
 - 📅 Tuesday and Wednesday were impacted the most
-	- 3 on Monday
-	- 9 on Tuesday
-	- 9 on Wednesday
-	- 6 on Thursday
-	- 3 on Friday
+	- 3 run on Monday
+	- 9 run on Tuesday
+	- 9 run on Wednesday
+	- 6 run on Thursday
+	- 3 run on Friday
 ## 🚌 685 | Pierre-de-Blois <> Fallowfield
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:17:00
 - 📅 Tuesday and Wednesday were impacted the most
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 ## 🚌 686 | Omer-Deslauriers <> Baseline
 - Trip numbers ⬆️ 1 from 9 to 10
 - Average duration ⬆️ 0:08:00 overall from 0:28:00 to 0:36:00
 - 📅 Tuesday was impacted the most
 - ✅ 10 new trips with an average duration of 0:36:00
-	- 1 on Monday
-	- 3 on Tuesday
-	- 3 on Wednesday
-	- 2 on Thursday
-	- 1 on Friday
+	- 1 runs on Monday
+	- 3 run on Tuesday
+	- 3 run on Wednesday
+	- 2 run on Thursday
+	- 1 runs on Friday
 - ❌ 9 trips removed with an average duration of 0:28:00
-	- 1 on Monday
-	- 2 on Tuesday
-	- 1 on Wednesday
-	- 2 on Thursday
-	- 3 on Friday
+	- 1 ran on Monday
+	- 2 ran on Tuesday
+	- 1 ran on Wednesday
+	- 2 ran on Thursday
+	- 3 ran on Friday
 ## 🚌 687 | Merivale H.S <> Merivale Gardens
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:31:30
 - 📅 Tuesday and Wednesday were impacted the most
-	- 2 on Monday
-	- 6 on Tuesday
-	- 6 on Wednesday
-	- 4 on Thursday
-	- 2 on Friday
+	- 2 run on Monday
+	- 6 run on Tuesday
+	- 6 run on Wednesday
+	- 4 run on Thursday
+	- 2 run on Friday
 ## 🚌 688 | Merivale H.S <> Terry Fox
 - Trip numbers ⬆️ 5 from 45 to 50
 - Average duration did not change
 - 📅 Tuesday was impacted the most
 - ✅ 50 new trips with an average duration of 0:51:12
-	- 5 on Monday
-	- 15 on Tuesday
-	- 15 on Wednesday
-	- 10 on Thursday
-	- 5 on Friday
+	- 5 run on Monday
+	- 15 run on Tuesday
+	- 15 run on Wednesday
+	- 10 run on Thursday
+	- 5 run on Friday
 - ❌ 45 trips removed with an average duration of 0:51:12
-	- 5 on Monday
-	- 10 on Tuesday
-	- 5 on Wednesday
-	- 10 on Thursday
-	- 15 on Friday
+	- 5 ran on Monday
+	- 10 ran on Tuesday
+	- 5 ran on Wednesday
+	- 10 ran on Thursday
+	- 15 ran on Friday
 ## 🚌 689 | Billings Bridge <> Omer-Deslauriers
 - Trip numbers ⬆️ 4 from 36 to 40
 - Average duration ⬇️ 0:00:30 overall from 0:40:15 to 0:39:45
 - 📅 Tuesday was impacted the most
 - ✅ 40 new trips with an average duration of 0:39:45
-	- 4 on Monday
-	- 12 on Tuesday
-	- 12 on Wednesday
-	- 8 on Thursday
-	- 4 on Friday
+	- 4 run on Monday
+	- 12 run on Tuesday
+	- 12 run on Wednesday
+	- 8 run on Thursday
+	- 4 run on Friday
 - ❌ 36 trips removed with an average duration of 0:40:15
-	- 4 on Monday
-	- 8 on Tuesday
-	- 4 on Wednesday
-	- 8 on Thursday
-	- 12 on Friday
+	- 4 ran on Monday
+	- 8 ran on Tuesday
+	- 4 ran on Wednesday
+	- 8 ran on Thursday
+	- 12 ran on Friday
 ## 🚌 690 | St. Mother Teresa H.S <> Barrhaven Centre
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:29:30
 - 📅 Tuesday and Wednesday were impacted the most
-	- 4 on Monday
-	- 12 on Tuesday
-	- 12 on Wednesday
-	- 8 on Thursday
-	- 4 on Friday
+	- 4 run on Monday
+	- 12 run on Tuesday
+	- 12 run on Wednesday
+	- 8 run on Thursday
+	- 4 run on Friday
 ## 🚌 691 | Omer-Deslauriers <> Bayshore
 - Trip numbers ⬆️ 3 from 27 to 30
 - Average duration ⬆️ 0:08:00 overall from 0:35:20 to 0:43:20
 - 📅 Tuesday was impacted the most
 - ✅ 30 new trips with an average duration of 0:43:20
-	- 3 on Monday
-	- 9 on Tuesday
-	- 9 on Wednesday
-	- 6 on Thursday
-	- 3 on Friday
+	- 3 run on Monday
+	- 9 run on Tuesday
+	- 9 run on Wednesday
+	- 6 run on Thursday
+	- 3 run on Friday
 - ❌ 27 trips removed with an average duration of 0:35:20
-	- 3 on Monday
-	- 6 on Tuesday
-	- 3 on Wednesday
-	- 6 on Thursday
-	- 9 on Friday
+	- 3 ran on Monday
+	- 6 ran on Tuesday
+	- 3 ran on Wednesday
+	- 6 ran on Thursday
+	- 9 ran on Friday
 ## 🚌 693 | Limebank <> St. Francis Xavier H.S
 - Trip numbers ⬆️ 34 from 126 to 160
 - Average duration ⬇️ 0:08:45 overall from 0:27:30 to 0:18:45
 - 📅 Tuesday was impacted the most
 - ✅ 160 new trips with an average duration of 0:18:45
-	- 16 on Monday
-	- 48 on Tuesday
-	- 48 on Wednesday
-	- 32 on Thursday
-	- 16 on Friday
+	- 16 run on Monday
+	- 48 run on Tuesday
+	- 48 run on Wednesday
+	- 32 run on Thursday
+	- 16 run on Friday
 - ❌ 126 trips removed with an average duration of 0:27:30
-	- 14 on Monday
-	- 28 on Tuesday
-	- 14 on Wednesday
-	- 28 on Thursday
-	- 42 on Friday
+	- 14 ran on Monday
+	- 28 ran on Tuesday
+	- 14 ran on Wednesday
+	- 28 ran on Thursday
+	- 42 ran on Friday
 ## 🚌 694 | Marketplace --Chapman mills
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 1 on Monday
-	- 2 on Tuesday
-	- 1 on Wednesday
-	- 2 on Thursday
-	- 3 on Friday
+	- 1 ran on Monday
+	- 2 ran on Tuesday
+	- 1 ran on Wednesday
+	- 2 ran on Thursday
+	- 3 ran on Friday
 ## 🚌 696 | Mother Theresa H.S <> Larkin
 - Trip numbers ⬇️ 12 from 72 to 60
 - Average duration ⬇️ 0:03:36 overall from 0:26:36 to 0:23:00
 - 📅 Tuesday was impacted the most
 - ✅ 60 new trips with an average duration of 0:23:00
-	- 6 on Monday
-	- 18 on Tuesday
-	- 18 on Wednesday
-	- 12 on Thursday
-	- 6 on Friday
+	- 6 run on Monday
+	- 18 run on Tuesday
+	- 18 run on Wednesday
+	- 12 run on Thursday
+	- 6 run on Friday
 - ❌ 72 trips removed with an average duration of 0:26:36
-	- 8 on Monday
-	- 16 on Tuesday
-	- 8 on Wednesday
-	- 16 on Thursday
-	- 24 on Friday
+	- 8 ran on Monday
+	- 16 ran on Tuesday
+	- 8 ran on Wednesday
+	- 16 ran on Thursday
+	- 24 ran on Friday
 ## 🚌 697 | Leitrim <> Ridgemont H.S
-- ✅ All new trips
+- ✅ All new trips with an average duration of 0:38:12
 - 📅 Tuesday and Wednesday were impacted the most
-	- 5 on Monday
-	- 15 on Tuesday
-	- 15 on Wednesday
-	- 10 on Thursday
-	- 5 on Friday
+	- 5 run on Monday
+	- 15 run on Tuesday
+	- 15 run on Wednesday
+	- 10 run on Thursday
+	- 5 run on Friday
 ## 🚌 698 | St Patrick H.S <> Blohm
 - Trip numbers ⬆️ 12 from 108 to 120
 - Average duration ⬇️ 0:01:30 overall from 0:40:00 to 0:38:30
 - 📅 Tuesday was impacted the most
 - ✅ 120 new trips with an average duration of 0:38:30
-	- 12 on Monday
-	- 36 on Tuesday
-	- 36 on Wednesday
-	- 24 on Thursday
-	- 12 on Friday
+	- 12 run on Monday
+	- 36 run on Tuesday
+	- 36 run on Wednesday
+	- 24 run on Thursday
+	- 12 run on Friday
 - ❌ 108 trips removed with an average duration of 0:40:00
-	- 12 on Monday
-	- 24 on Tuesday
-	- 12 on Wednesday
-	- 24 on Thursday
-	- 36 on Friday
+	- 12 ran on Monday
+	- 24 ran on Tuesday
+	- 12 ran on Wednesday
+	- 24 ran on Thursday
+	- 36 ran on Friday
 ## 🚌 699 | Pierre-Des-Blois <> Findlay Creek
 - Trip numbers ⬆️ 4 from 36 to 40
 - Average duration did not change
 - 📅 Tuesday was impacted the most
 - ✅ 40 new trips with an average duration of 0:55:00
-	- 4 on Monday
-	- 12 on Tuesday
-	- 12 on Wednesday
-	- 8 on Thursday
-	- 4 on Friday
+	- 4 run on Monday
+	- 12 run on Tuesday
+	- 12 run on Wednesday
+	- 8 run on Thursday
+	- 4 run on Friday
 - ❌ 36 trips removed with an average duration of 0:55:00
-	- 4 on Monday
-	- 8 on Tuesday
-	- 4 on Wednesday
-	- 8 on Thursday
-	- 12 on Friday
+	- 4 ran on Monday
+	- 8 ran on Tuesday
+	- 4 ran on Wednesday
+	- 8 ran on Thursday
+	- 12 ran on Friday
 ## 🚌 B2 | Bayview - Greenboro
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 251 on Monday
-	- 182 on Tuesday
-	- 91 on Wednesday
-	- 327 on Thursday
-	- 402 on Friday
-	- 192 on Saturday
-	- 258 on Sunday
+	- 251 ran on Monday
+	- 182 ran on Tuesday
+	- 91 ran on Wednesday
+	- 327 ran on Thursday
+	- 402 ran on Friday
+	- 192 ran on Saturday
+	- 258 ran on Sunday
 ## 🚌 E1 | Shuttle/Navette-Express Downtown/Centre-Ville <> Shuttle/Navette-Express Blair
 - Trip numbers ⬇️ 65 from 385 to 320
 - Average duration ⬇️ 0:00:12 overall from 0:22:42 to 0:22:30
 - 📅 Thursday was impacted the most
 - ✅ 320 new trips with an average duration of 0:22:30
-	- 32 on Monday
-	- 96 on Tuesday
-	- 96 on Wednesday
-	- 64 on Thursday
-	- 32 on Friday
+	- 32 run on Monday
+	- 96 run on Tuesday
+	- 96 run on Wednesday
+	- 64 run on Thursday
+	- 32 run on Friday
 - ❌ 385 trips removed with an average duration of 0:22:42
-	- 70 on Monday
-	- 70 on Tuesday
-	- 35 on Wednesday
-	- 105 on Thursday
-	- 105 on Friday
+	- 70 ran on Monday
+	- 70 ran on Tuesday
+	- 35 ran on Wednesday
+	- 105 ran on Thursday
+	- 105 ran on Friday
 ## 🚌 R1 
 - ❌ All trips removed
 - 📅 Friday was impacted the most
-	- 537 on Thursday
-	- 558 on Friday
+	- 537 ran on Thursday
+	- 558 ran on Friday
