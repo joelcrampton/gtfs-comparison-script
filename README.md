@@ -25,7 +25,7 @@ Public transport data is large and complex. When it changes, it can be difficult
 ### GitHub actions
 _Must be a contributor of this repository_
 1. Copy a directory containing two GTFS datasets into [`data/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/data). Datasets must be `.zip` files. The directory name must only include; alphanumeric characters, underscores and hyphens
-2. Run the [ci-manual-run-python-script](https://github.com/joelcrampton/gtfs-comparison-script/actions/workflows/ci-manual-run-python-script.yaml) GitHub action
+2. Run the [ci-manual-run-python-script](https://github.com/joelcrampton/gtfs-comparison-script/actions/workflows/ci-manual-run-python-script.yaml) workflow
     - Select the desired branch
     - Data = the name of the directory containing the two GTFS datasets e.g. `boston`
     - Check box to include tables of new/removed trips for each route in the report
