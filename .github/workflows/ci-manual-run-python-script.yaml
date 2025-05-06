@@ -9,7 +9,7 @@ on:
         required: true
       info:
         type: boolean
-        description: Include a table of new/removed trips
+        description: Include tables of new/removed trips
 
 permissions:
   contents: write
@@ -26,7 +26,7 @@ jobs:
     - name: Check data input
       run: |
         # Regex to check if the data input is valid. Only allowed:
-        # - Alphanumeric
+        # - Alphanumeric characters
         # - Underscores
         # - Hyphens
         if [[ ! "${{ env.DATA }}" =~ ^[a-zA-Z0-9_-]+$ ]]; then
