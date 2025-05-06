@@ -25,9 +25,8 @@ jobs:
     steps:
     - name: Check data input
       run: |
-        # Regex to check if the data input is valid
-        # It is only allowed:
-        # - Only alphanumeric characters
+        # Regex to check if the data input is valid. Only allowed:
+        # - Alphanumeric
         # - Underscores
         # - Hyphens
         if [[ ! "${{ env.DATA }}" =~ ^[a-zA-Z0-9_-]+$ ]]; then
@@ -59,7 +58,6 @@ jobs:
     
     - name: Commit report
       run: |
-        pwd
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
         git add output/${{ env.DATA }}.md
