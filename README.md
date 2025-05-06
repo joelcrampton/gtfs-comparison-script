@@ -14,11 +14,8 @@ Public transport data is large and complex. When it changes, it can be difficult
 
 ## ▶️ Run
 ### GitHub actions
-_Only works for data in this repository_
-### Manual
-_Works for any data_
 1. Clone the repository `git clone https://github.com/joelcrampton/gtfs-comparison-script.git`
-2. Open a new terminal at `gtfs-comparison-script/`
+2. Open a new terminal at [`code/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/code)
 3. Copy a directory containing two GTFS datasets into [`data/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/data). Datasets must be `.zip` files. Name this directory after the region it is for
 4. Run the Python script e.g. `python app.py data --info`
     - `data` = the name of the directory containing the two GTFS datasets e.g. `boston`

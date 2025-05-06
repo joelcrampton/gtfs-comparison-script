@@ -21,7 +21,7 @@ args = parser.parse_args()
 
 def load_data() -> tuple[Gtfs, Gtfs]:
   datasets = []
-  dir = os.path.join('data', args.data)
+  dir = os.path.join('..', 'data', args.data)
   for filename in os.listdir(dir):
     filepath = os.path.join(dir, filename)
     if filename.endswith('.zip'):
@@ -101,7 +101,7 @@ def info(gtfs: Gtfs, trips: list[Trip], file):
 
 def main():
   start = datetime.now()
-  filepath = os.path.join('output', f"{args.data}.md")
+  filepath = os.path.join('..', 'output', f"{args.data}.md")
   with open(filepath, 'w', encoding='utf-8') as file:
     before, after = load_data()
     print(f"# {before.get_name()} {before.feed_info.feed_start_date} vs. {after.get_name()} {after.feed_info.feed_start_date}", file=file)
@@ -124,8 +124,8 @@ def main():
         print(f"Processing {route_id} {route_long_name}")
         print(f"## {route_type.get_emoji().value} {route_id} {route_long_name}", file=file)
         if not trips_before:
-          trip_ids = [trip.trip_id for trip in new_trips]
-          average_duration = format_total_seconds(after.get_average_duration(trip_ids))
+          new_trip_ids = [trip.trip_id for trip in new_trips]
+          average_duration = format_total_seconds(after.get_average_duration(new_trip_ids))
           days_count = after.get_days_count(new_trips)
           print(f"- {Emoji.WHITE_CHECK_MARK.value} All new trips with an average duration of {average_duration}", file=file)
           summarise_impacted_days(days_count, file)
