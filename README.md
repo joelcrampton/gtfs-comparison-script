@@ -25,7 +25,7 @@ Public transport data is large and complex. When it changes, it can be difficult
 ### GitHub actions
 _Must be a contributor of this repository_
 1. Create/select the desired branch. `main` is not allowed
-2. Copy a directory containing two GTFS datasets into data/. Datasets must be `.zip` files. The directory name must only include; alphanumeric characters, underscores and hyphens
+2. Copy a directory containing two GTFS datasets into `data/`. Datasets must be `.zip` files. The directory name must only include; alphanumeric characters, underscores and hyphens
 3. Run the [ci-manual-run-python-script](https://github.com/joelcrampton/gtfs-comparison-script/actions/workflows/ci-manual-run-python-script.yaml) workflow
     - Select the branch
     - Data = the name of the directory containing the two GTFS datasets e.g. `boston`
