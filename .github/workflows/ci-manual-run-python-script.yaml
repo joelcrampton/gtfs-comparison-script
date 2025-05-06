@@ -20,7 +20,8 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - run: |
+      - name: Prevent main
+        run: |
           echo "This workflow is not allowed to run on the main branch."
           exit 1
           
