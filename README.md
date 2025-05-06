@@ -1,5 +1,5 @@
 # GTFS Comparison Script
-This is a Python script that compares two GTFS datasets and produces a report. Data must follow the official GTFS specification https://gtfs.org/documentation/schedule/reference/. See [`data/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/data) for example data and [`output/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/output) for example reports. The following GTFS files are required:
+Public transport data is complex and it can be difficult to notice the impact a network will might have. This is a Python script that compares two GTFS datasets and produces a report. Data must follow the official GTFS specification https://gtfs.org/documentation/schedule/reference/. See [`data/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/data) for example data and [`output/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/output) for example reports. The following GTFS files are required:
 - `agency.txt`
 - `stops.txt`
 - `routes.txt`
@@ -8,7 +8,7 @@ This is a Python script that compares two GTFS datasets and produces a report. D
 - `calendar.txt` or `calendar_dates.txt`
 - `feed_info.txt`
 
-## 🖥️ Requirements
+## 🖥 Requirements
 - [Python](https://www.python.org/downloads/) 3.10.0 or later
 - Install Python libraries `pip install email_validator pandas`
 
