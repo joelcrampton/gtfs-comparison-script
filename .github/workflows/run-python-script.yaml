@@ -1,5 +1,5 @@
-name: Run Python script
-run-name: ci-manual-run-python-script
+name: ci-manual-run-python-script
+run-name: ci-manual-run-python-script for ${{ github.event.inputs.data }}
 
 on:
   workflow_dispatch:
