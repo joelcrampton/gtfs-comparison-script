@@ -21,7 +21,7 @@ Public transport data is large and complex. When it changes, it can be difficult
     - `data` = the name of the directory containing the two GTFS datasets e.g. `boston`
     - `--info` = flag to include tables of new/removed trips for each route in the report (optional)
 5. The Python script will take anywhere from a minute to 10+ minutes depending on the size of the GTFS data
-6. A Markdown report will be created in output/. Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the outline to jump between sections quickly
+6. A Markdown report will be created in `output/`. Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the outline to jump between sections quickly
 ### GitHub actions
 _Must be a contributor of this repository_
 1. Create/select the desired branch. `main` is not allowed
