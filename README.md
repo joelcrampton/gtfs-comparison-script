@@ -10,9 +10,13 @@ Public transport data is large and complex. When it changes, it can be difficult
 
 ## 🖥 Requirements
 - [Python](https://www.python.org/downloads/) 3.10.0 or later
-- Install Python libraries `pip install email_validator pandas`
+- Install dependencies `pip install requirements.txt`
 
 ## ▶️ Run
+### GitHub actions
+_Only works for data in this repository_
+### Manual
+_Works for any data_
 1. Clone the repository `git clone https://github.com/joelcrampton/gtfs-comparison-script.git`
 2. Open a new terminal at `gtfs-comparison-script/`
 3. Copy a directory containing two GTFS datasets into [`data/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/data). Datasets must be `.zip` files. Name this directory after the region it is for
