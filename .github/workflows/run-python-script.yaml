@@ -9,7 +9,7 @@ on:
         required: true
       info:
         type: boolean
-        description: Include table of new/removed trips
+        description: Include a table of new/removed trips
 
 jobs:
   run-script:
