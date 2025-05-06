@@ -11,15 +11,30 @@ on:
         type: boolean
         description: Include a table of new/removed trips
 
+permissions:
+  contents: write
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
 
     env:
-      DATA: ${{ github.event.inputs.data }}
-      INFO_FLAG: ${{ github.event.inputs.info && '--info' || '' }}
+      DATA: "${{ github.event.inputs.data }}"
+      INFO: ${{ github.event.inputs.info }}
 
     steps:
+    - name: Check data input
+      run: |
+        # Regex to check if the data input is valid
+        # It is only allowed:
+        # - Only alphanumeric characters
+        # - Underscores
+        # - Hyphens
+        if [[ ! "${{ env.DATA }}" =~ ^[a-zA-Z0-9_-]+$ ]]; then
+          echo "Error: Invalid data input: '${{ env.DATA }}'. Only alphanumeric characters, underscores and hyphens are allowed."
+          exit 1
+        fi
+
     - name: Checkout repository
       uses: actions/checkout@v3
 
@@ -36,4 +51,22 @@ jobs:
     - name: Run Python script
       run: |
         cd code
-        python app.py $DATA $INFO_FLAG
+        if [ "${{ env.INFO }}" = "true" ]; then
+          python app.py ${{ env.DATA }} --info
+        else
+          python app.py ${{ env.DATA }}
+        fi
+    
+    - name: Commit report
+      run: |
+        cd ..
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add output/${{ env.DATA }}.md
+        # Check if report exists in the repository
+        if git ls-tree --name-only HEAD | grep -q "output/${{ env.DATA }}.md"; then
+          git commit -m "Updated ${{ env.DATA }}.md" || echo "No changes to commit"
+        else
+          git commit -m "Created ${{ env.DATA }}.md" || echo "No changes to commit"
+        fi
+        git push
