@@ -25,10 +25,8 @@ jobs:
     steps:
     - name: Check data input
       run: |
-        # Regex to check if the data input is valid. Only allowed:
-        # - Alphanumeric characters
-        # - Underscores
-        # - Hyphens
+        # Regex to check if the data input is valid
+        # Only allowed; alphanumeric characters, underscores and hyphens
         if [[ ! "${{ env.DATA }}" =~ ^[a-zA-Z0-9_-]+$ ]]; then
           echo "Error: Invalid data input: '${{ env.DATA }}'. Only alphanumeric characters, underscores and hyphens are allowed."
           exit 1
