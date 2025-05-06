@@ -18,12 +18,14 @@ jobs:
   prevent-main:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    
     steps:
       - run: |
           echo "This workflow is not allowed to run on the main branch."
           exit 1
           
   run-python-script:
+    needs: prevent-main
     runs-on: ubuntu-latest
 
     env:
