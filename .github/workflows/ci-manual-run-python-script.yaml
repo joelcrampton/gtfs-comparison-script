@@ -85,7 +85,7 @@ jobs:
           else
             git commit -m "Created $FILENAME"
           fi
-          git push
+          git push --set-upstream origin "$(git rev-parse --abbrev-ref HEAD)"
         fi
         
     - name: Create pull request
