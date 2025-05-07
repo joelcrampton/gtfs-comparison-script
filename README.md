@@ -1,12 +1,12 @@
 # GTFS Comparison Script
 Public transport data is large and complex. When it changes, it can be difficult to predict how the network will be impacted. This is a Python script that compares two GTFS datasets and produces a report. Data must follow the official [GTFS specification](https://gtfs.org/documentation/schedule/reference/). See [`data/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/data) for example data and [`output/`](https://github.com/joelcrampton/gtfs-comparison-script/tree/main/output) for example reports. The following GTFS files are required:
-- [`agency.txt`](https://gtfs.org/documentation/schedule/reference/#agencytxt)
-- [`stops.txt`](https://gtfs.org/documentation/schedule/reference/#stopstxt)
-- [`routes.txt`](https://gtfs.org/documentation/schedule/reference/#routestxt)
-- [`trips.txt`](https://gtfs.org/documentation/schedule/reference/#tripstxt)
-- [`stop_times.txt`](https://gtfs.org/documentation/schedule/reference/#stop_timestxt)
-- [`calendar.txt`](https://gtfs.org/documentation/schedule/reference/#calendartxt) or [`calendar_dates.txt`](https://gtfs.org/documentation/schedule/reference/#calendar_datestxt)
-- [`feed_info.txt`](https://gtfs.org/documentation/schedule/reference/#feed_infotxt)
+- [agency.txt](https://gtfs.org/documentation/schedule/reference/#agencytxt)
+- [stops.txt](https://gtfs.org/documentation/schedule/reference/#stopstxt)
+- [routes.txt](https://gtfs.org/documentation/schedule/reference/#routestxt)
+- [trips.txt](https://gtfs.org/documentation/schedule/reference/#tripstxt)
+- [stop_times.txt](https://gtfs.org/documentation/schedule/reference/#stop_timestxt)
+- [calendar.txt](https://gtfs.org/documentation/schedule/reference/#calendartxt) or [calendar_dates.txt](https://gtfs.org/documentation/schedule/reference/#calendar_datestxt)
+- [feed_info.txt](https://gtfs.org/documentation/schedule/reference/#feed_infotxt)
 
 ## 🖥 Requirements
 - [Python](https://www.python.org/downloads/) 3.10.0 or later
