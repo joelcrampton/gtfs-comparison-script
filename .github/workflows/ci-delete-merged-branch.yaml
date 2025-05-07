@@ -1,0 +1,25 @@
+name: ci-delete-merged-branch
+run-name: ci-delete-merged-branch for ${{ github.event.pull_request.head.ref }}
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  delete-merged-branch:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Delete branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          BRANCH="${{ github.event.pull_request.head.ref }}"
+          REPO="${{ github.repository }}"
+          echo "Deleting the $BRANCH branch from $REPO"
+          
+          curl -X DELETE \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$REPO/git/refs/heads/$BRANCH"

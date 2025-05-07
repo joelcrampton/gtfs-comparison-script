@@ -35,9 +35,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Switch to feature branch
+    - name: Checkout to feature branch
       if: github.ref_name == 'main'
       env:
+        # format() required for concatenating str to env
         BRANCH: ${{ format('feature/{0}', env.DATA) }}
       run: |
         echo "BRANCH=$BRANCH" >> $GITHUB_ENV
