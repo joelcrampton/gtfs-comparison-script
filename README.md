@@ -31,7 +31,7 @@ _Must be a contributor of this repository_
     - Select the branch
         - If `main` is selected, the workflow will:
             - Checkout to a feature branch e.g. `feature/boston`
-            - Push the report there
+            - Push changes there
             - Create a pull request from the feature branch to `main`
         - This is to avoid pushing directly to `main`
     - Data = the name of the directory containing the two GTFS datasets e.g. `boston`
