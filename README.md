@@ -38,7 +38,6 @@ _Must be a contributor of this repository_
     - Check box to include tables of new/removed trips for each route in the report
 4. The workflow will take anywhere from a minute to 10+ minutes depending on the size of the GTFS data
 5. A Markdown report will be created in `output/`. Only routes with new/removed trips will be included. Open in any Markdown compatible editor for best results e.g. Google Docs. Use the outline to jump between sections quickly
-6. Merge the pull request from the feature branch to `main`
 
 ## 📌 Additional information
 - Currently, new/removed trips are determined by `trip_id`. If a `trip_id` is in the new GTFS data, but not in the old, then is it considered to be new. If a `trip_id` is in the old GTFS data, but not in the new, then is it considered to be removed
