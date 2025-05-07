@@ -38,9 +38,9 @@ jobs:
     - name: Switch to feature branch
       if: github.ref_name == 'main'
       env:
-        BRANCH: feature/${{ env.DATA }}
+        BRANCH: ${{ format('feature/{0}', env.DATA) }}
       run: |
-        echo "BRANCH=value" >> $GITHUB_ENV
+        echo "BRANCH=$BRANCH" >> $GITHUB_ENV
         git fetch origin
         if git ls-remote --exit-code --heads origin "$BRANCH"; then
           git checkout "$BRANCH"
