@@ -93,6 +93,7 @@ jobs:
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
+        # Check for commits
         if git diff --quiet origin/main...HEAD; then
           echo "No commits on $BRANCH, skipping pull request"
         else
