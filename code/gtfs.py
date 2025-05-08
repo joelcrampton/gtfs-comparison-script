@@ -10,7 +10,7 @@ from calendr import Calendar
 from calendar_date import CalendarDate
 from shape import Shape
 from feed_info import FeedInfo
-from enums import RouteType
+from enums import RouteType, TripDifference
 
 @dataclass(frozen=True)
 class Gtfs:
@@ -38,7 +38,7 @@ class Gtfs:
     if self.shapes:
       summary += f"\n\t{sum(len(v) for v in self.shapes.values())} shapes"
     return summary
-  
+
   def get_route_types(self) -> set[RouteType]:
     return sorted({route.route_type for route in self.routes})
 
@@ -65,6 +65,22 @@ class Gtfs:
     for trip_id in trip_ids:
       total_seconds += self.get_trip_duration(trip_id)
     return total_seconds // len(trip_ids)
+  
+  def get_trip_difference(self, trip_id_1: str, trip_id_2: str) -> TripDifference:
+    # Sort by stop_sequence_sequence
+    stop_times_1 = sorted(self.stop_times[trip_id_1], key=lambda stop_time: stop_time.stop_sequence)
+    stop_times_2 = sorted(self.stop_times[trip_id_2], key=lambda stop_time: stop_time.stop_sequence)
+    if len(stop_times_1) != len(stop_times_2):
+      return TripDifference.SEQUENCE
+    for stop_time_1, stop_time_2 in zip(stop_times_1, stop_times_2):
+      # If stop_id does not match, the sequence is different
+      if stop_time_1.stop_id != stop_time_2.stop_id:
+        return TripDifference.SEQUENCE
+    if self.get_trip_duration(trip_id_1) != self.get_trip_duration(trip_id_2):
+      return TripDifference.DURATION
+    if self.get_trip_departure_time(trip_id_1) != self.get_trip_departure_time(trip_id_2):
+      return TripDifference.DEPARTURE_TIME
+    return TripDifference.NO_DIFFERENCE
 
   def get_days(self, trip: Trip) -> list[str]:
     days = []

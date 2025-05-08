@@ -98,6 +98,12 @@ class Timepoint(IntEnum):
     APPROXIMATE = 0
     EXACT = 1
 
+class TripDifference(IntEnum):
+    SEQUENCE = 0
+    NO_DIFFERENCE = 1
+    DURATION = 2
+    DEPARTURE_TIME = 3
+
 # stops.txt, trips.txt
 class WheelchairAccess(IntEnum):
     NO_INFORMATION = 0
